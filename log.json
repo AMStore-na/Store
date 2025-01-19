@@ -5458,5 +5458,15 @@
     "MessaggioAPP": "Errore: ",
     "Timestamp": "19/01/2025 13:37:46",
     "Username": "UTENTE"
+  },
+  {
+    "LogRegisterAccount": "",
+    "MessaggioRegisterAccount": "",
+    "LogLogInAccount": "",
+    "MessaggioLogInAccount": "",
+    "LogAPP": "TRUE",
+    "MessaggioAPP": "Errore: ",
+    "Timestamp": "19/01/2025 13:40:14",
+    "Username": "UTENTE"
   }
 ]
