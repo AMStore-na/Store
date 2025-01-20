@@ -5738,5 +5738,15 @@
     "MessaggioAPP": "Errore: Response status code does not indicate success: 404 (Not Found).",
     "Timestamp": "20/01/2025 09:00:18",
     "Username": "UTENTE"
+  },
+  {
+    "LogRegisterAccount": "",
+    "MessaggioRegisterAccount": "",
+    "LogLogInAccount": "",
+    "MessaggioLogInAccount": "",
+    "LogAPP": "TRUE",
+    "MessaggioAPP": "Errore: Response status code does not indicate success: 404 (Not Found).",
+    "Timestamp": "20/01/2025 09:00:32",
+    "Username": "UTENTE"
   }
 ]
