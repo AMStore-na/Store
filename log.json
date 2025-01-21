@@ -5838,5 +5838,15 @@
     "MessaggioAPP": "Errore: Impossibile chiamare Invoke o BeginInvoke su un controllo finché non viene creato un handle di finestra.",
     "Timestamp": "20/01/2025 18:02:08",
     "Username": "UTENTE"
+  },
+  {
+    "LogRegisterAccount": "",
+    "MessaggioRegisterAccount": "",
+    "LogLogInAccount": "",
+    "MessaggioLogInAccount": "",
+    "LogAPP": "TRUE",
+    "MessaggioAPP": "Errore: Impossibile stabilire la connessione. Risposta non corretta della parte connessa dopo l'intervallo di tempo oppure mancata risposta dall'host collegato. (github.com:443)",
+    "Timestamp": "21/01/2025 11:20:07",
+    "Username": "UTENTE"
   }
 ]
