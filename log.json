@@ -5848,5 +5848,15 @@
     "MessaggioAPP": "Errore: Impossibile stabilire la connessione. Risposta non corretta della parte connessa dopo l'intervallo di tempo oppure mancata risposta dall'host collegato. (github.com:443)",
     "Timestamp": "21/01/2025 11:20:07",
     "Username": "UTENTE"
+  },
+  {
+    "LogRegisterAccount": "",
+    "MessaggioRegisterAccount": "",
+    "LogLogInAccount": "",
+    "MessaggioLogInAccount": "",
+    "LogAPP": "TRUE",
+    "MessaggioAPP": "Errore: Impossibile ottenere l'URL del catalogo: The SSL connection could not be established, see inner exception.",
+    "Timestamp": "18/01/2025 01:38:44",
+    "Username": "UTENTE"
   }
 ]
