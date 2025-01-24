@@ -5878,5 +5878,15 @@
     "MessaggioAPP": "Errore: Errore durante la creazione dell'handle della finestra.",
     "Timestamp": "24/01/2025 13:47:35",
     "Username": "UTENTE"
+  },
+  {
+    "LogRegisterAccount": "TRUE",
+    "MessaggioRegisterAccount": "Registrazione fallita, database in uso",
+    "LogLogInAccount": "",
+    "MessaggioLogInAccount": "",
+    "LogAPP": "",
+    "MessaggioAPP": "",
+    "Timestamp": "24/01/2025 20:33:03",
+    "Username": "vittoriague01"
   }
 ]
