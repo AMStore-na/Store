@@ -5888,5 +5888,15 @@
     "MessaggioAPP": "",
     "Timestamp": "24/01/2025 20:33:03",
     "Username": "vittoriague01"
+  },
+  {
+    "LogRegisterAccount": "TRUE",
+    "MessaggioRegisterAccount": "Registrazione avvenuta con successo",
+    "LogLogInAccount": "",
+    "MessaggioLogInAccount": "",
+    "LogAPP": "",
+    "MessaggioAPP": "",
+    "Timestamp": "24/01/2025 20:33:26",
+    "Username": "vittoriague01"
   }
 ]
