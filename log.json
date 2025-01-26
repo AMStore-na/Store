@@ -5918,5 +5918,15 @@
     "MessaggioAPP": "",
     "Timestamp": "25/01/2025 15:24:47",
     "Username": "dario19"
+  },
+  {
+    "LogRegisterAccount": "",
+    "MessaggioRegisterAccount": "",
+    "LogLogInAccount": "",
+    "MessaggioLogInAccount": "",
+    "LogAPP": "TRUE",
+    "MessaggioAPP": "Errore: The process cannot access the file 'C:\\Users\\giuse\\AppData\\Local\\Temp\\AIMODS-Store1.0.0.6.exe' because it is being used by another process.",
+    "Timestamp": "26/01/2025 19:28:34",
+    "Username": "UTENTE"
   }
 ]
