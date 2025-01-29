@@ -5948,5 +5948,15 @@
     "MessaggioAPP": "Errore: The process cannot access the file 'C:\\Users\\ati\\AppData\\Local\\Temp\\AIMODS-Store1.0.0.6.exe' because it is being used by another process.",
     "Timestamp": "28/01/2025 15:04:08",
     "Username": "UTENTE"
+  },
+  {
+    "LogRegisterAccount": "TRUE",
+    "MessaggioRegisterAccount": "Registrazione avvenuta con successo",
+    "LogLogInAccount": "",
+    "MessaggioLogInAccount": "",
+    "LogAPP": "",
+    "MessaggioAPP": "",
+    "Timestamp": "29/01/2025 11:07:51",
+    "Username": "riccardo"
   }
 ]
