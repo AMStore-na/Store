@@ -5968,5 +5968,15 @@
     "MessaggioAPP": "",
     "Timestamp": "29/01/2025 11:10:39",
     "Username": "Riccardo"
+  },
+  {
+    "LogRegisterAccount": "TRUE",
+    "MessaggioRegisterAccount": "Registrazione fallita, database in uso",
+    "LogLogInAccount": "",
+    "MessaggioLogInAccount": "",
+    "LogAPP": "",
+    "MessaggioAPP": "",
+    "Timestamp": "31/01/2025 10:13:34",
+    "Username": "recchiadigomma"
   }
 ]
