@@ -5978,5 +5978,15 @@
     "MessaggioAPP": "",
     "Timestamp": "31/01/2025 10:13:34",
     "Username": "recchiadigomma"
+  },
+  {
+    "LogRegisterAccount": "TRUE",
+    "MessaggioRegisterAccount": "Registrazione avvenuta con successo",
+    "LogLogInAccount": "",
+    "MessaggioLogInAccount": "",
+    "LogAPP": "",
+    "MessaggioAPP": "",
+    "Timestamp": "31/01/2025 10:13:35",
+    "Username": "recchiadigomma"
   }
 ]
