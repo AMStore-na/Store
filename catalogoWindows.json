@@ -1341,5 +1341,15 @@
     "Descrizione": "Vivi realistici combattimenti sullo sfondo della guerra fredda e prendi parte alla lotta per la vasta isola atlantica di Everon e il suo territorio offshore più circoscritto, Arland. Oppure, vesti i panni del game master e plasma esclusivi scenari per gli altri giocatori.",
     "Tooltip": "Arma Reforger (v1.0.0.47 – Final Release + Bonus Content",
     "MRicerca": "Giochi"
+  },
+  {
+    "Nome": "Lumion",
+    "Link": "https://devuploads.com/byr7v3lji8fu",
+    "LinkR": null,
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Building%20Information%20Modeling/photo_2025-02-03_20-08-08.png",
+    "Sezione": "Building Information Modeling",
+    "Descrizione": "Lumion Pro",
+    "Tooltip": "Lumion Pro (https://lumion.com/) v2024.4.2.0",
+    "MRicerca": "Lumion"
   }
 ]
