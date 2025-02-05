@@ -6098,5 +6098,15 @@
     "MessaggioAPP": "Errore: The SSL connection could not be established, see inner exception.",
     "Timestamp": "05/02/2025 12.13.56",
     "Username": "casetta"
+  },
+  {
+    "LogRegisterAccount": "",
+    "MessaggioRegisterAccount": "",
+    "LogLogInAccount": "",
+    "MessaggioLogInAccount": "",
+    "LogAPP": "TRUE",
+    "MessaggioAPP": "Errore: The SSL connection could not be established, see inner exception.",
+    "Timestamp": "05/02/2025 12.13.59",
+    "Username": "UTENTE"
   }
 ]
