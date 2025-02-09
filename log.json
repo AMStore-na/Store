@@ -6258,5 +6258,15 @@
     "MessaggioAPP": "Errore: An error occurred trying to start process 'https://devuploads.com/6bgcon2wya1b' with working directory 'C:\\Users\\Vanni\\Downloads'. Impossibile trovare il file specificato.",
     "Timestamp": "09/02/2025 17:30:50",
     "Username": "UTENTE"
+  },
+  {
+    "LogRegisterAccount": "TRUE",
+    "MessaggioRegisterAccount": "Registrazione avvenuta con successo",
+    "LogLogInAccount": "",
+    "MessaggioLogInAccount": "",
+    "LogAPP": "",
+    "MessaggioAPP": "",
+    "Timestamp": "09/02/2025 19:17:44",
+    "Username": "trapasonic"
   }
 ]
