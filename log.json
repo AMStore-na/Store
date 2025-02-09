@@ -6228,5 +6228,15 @@
     "MessaggioAPP": "Errore: An error occurred trying to start process 'https://devuploads.com/nzrhgxyu1b63' with working directory 'C:\\Users\\Vanni\\Downloads'. Impossibile trovare il file specificato.",
     "Timestamp": "09/02/2025 17:29:57",
     "Username": "UTENTE"
+  },
+  {
+    "LogRegisterAccount": "",
+    "MessaggioRegisterAccount": "",
+    "LogLogInAccount": "",
+    "MessaggioLogInAccount": "",
+    "LogAPP": "TRUE",
+    "MessaggioAPP": "Errore: An error occurred trying to start process 'https://devuploads.com/61h4xhgo06nv' with working directory 'C:\\Users\\Vanni\\Downloads'. Impossibile trovare il file specificato.",
+    "Timestamp": "09/02/2025 17:30:16",
+    "Username": "UTENTE"
   }
 ]
