@@ -6268,5 +6268,15 @@
     "MessaggioAPP": "",
     "Timestamp": "09/02/2025 19:17:44",
     "Username": "trapasonic"
+  },
+  {
+    "LogRegisterAccount": "",
+    "MessaggioRegisterAccount": "",
+    "LogLogInAccount": "",
+    "MessaggioLogInAccount": "",
+    "LogAPP": "TRUE",
+    "MessaggioAPP": "Errore: Errore durante la creazione dell'handle della finestra.",
+    "Timestamp": "10/02/2025 18:17:52",
+    "Username": "UTENTE"
   }
 ]
