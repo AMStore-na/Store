@@ -1391,5 +1391,15 @@
     "Descrizione": "Pinball FX3 è un videogioco di flipper sviluppato da Zen Studios, ed è la terza versione della serie di giochi di flipper digitali Pinball FX. È un gioco che simula l'esperienza del flipper tradizionale, ma con una serie di elementi aggiuntivi che lo rendono unico, come ambientazioni originali, modalità di gioco innovative e una vasta gamma di tavoli tematici.",
     "Tooltip": "Pinball FX3",
     "MRicerca": "Pinball"
+  },
+  {
+    "Nome": "Dredge: Complete Editon",
+    "Link": "https://devuploads.com/clfv303pv4bo",
+    "LinkR": null,
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Games/dredge.png",
+    "Sezione": "Giochi",
+    "Descrizione": "DREDGE è un'avventura di pesca per giocatore singolo con una corrente sinistra. Vendi i pesci, migliora la tua barca e draga le profondità alla ricerca di segreti sepolti da tempo. Esplora un arcipelago misterioso e scopri perché è meglio che certe cose restino dimenticate per sempre.",
+    "Tooltip": "DREDGE: Complete Edition – v1.5.3 Build 2879 + 9 ",
+    "MRicerca": "Giochi"
   }
 ]
