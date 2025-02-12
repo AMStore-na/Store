@@ -1401,5 +1401,25 @@
     "Descrizione": "DREDGE è un'avventura di pesca per giocatore singolo con una corrente sinistra. Vendi i pesci, migliora la tua barca e draga le profondità alla ricerca di segreti sepolti da tempo. Esplora un arcipelago misterioso e scopri perché è meglio che certe cose restino dimenticate per sempre.",
     "Tooltip": "DREDGE: Complete Edition – v1.5.3 Build 2879 + 9 ",
     "MRicerca": "Giochi"
+  },
+  {
+    "Nome": "Farming Simulator 25",
+    "Link": "https://devuploads.com/kcou0ggquo9e",
+    "LinkR": null,
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Games/farmingsimulator25.png",
+    "Sezione": "Giochi",
+    "Descrizione": "Farming Simulator 25 vi invita a tuffarvi nella gratificante vita agricola. Costruite la fattoria tra i fiumi sinuosi e gli storici montacarichi da cereali del Nord America, tra gli specchi d'acqua dell'Europa centrale o in un rigoglioso panorama dell'Asia orientale ricco di risaie accanto a una città portuale dalle mille luci. Coltivate i campi, allevate gli animali, datevi alla silvicoltura e gestite un vero e proprio impero con negozi, produzioni e costruzioni!",
+    "Tooltip": "Farming Simulator 25 v1.2.1.0",
+    "MRicerca": "Giochi"
+  },
+  {
+    "Nome": "Forza Horizon 5",
+    "Link": "https://devuploads.com/4jwzg7x6mlqp",
+    "LinkR": null,
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Games/forzahorizon5.png",
+    "Sezione": "Giochi",
+    "Descrizione": "La tua avventura Horizon definitiva ti aspetta! Esplora vivaci paesaggi open world del Messico in continua evoluzione. Divertimento al volante illimitato con centinaia tra le migliori auto al mondo.",
+    "Tooltip": "Forza Horizon 5: Premium Edition  v1.656.386.0",
+    "MRicerca": "Giochi"
   }
 ]
