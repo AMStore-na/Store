@@ -6318,5 +6318,15 @@
     "MessaggioAPP": "Errore: Value cannot be null. (Parameter 'key')",
     "Timestamp": "13/02/2025 11:33:21",
     "Username": "UTENTE"
+  },
+  {
+    "LogRegisterAccount": "",
+    "MessaggioRegisterAccount": "",
+    "LogLogInAccount": "",
+    "MessaggioLogInAccount": "",
+    "LogAPP": "TRUE",
+    "MessaggioAPP": "Errore: Value cannot be null. (Parameter 'key')",
+    "Timestamp": "13/02/2025 11:51:23",
+    "Username": "UTENTE"
   }
 ]
