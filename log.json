@@ -6298,5 +6298,15 @@
     "MessaggioAPP": "Errore: Errore durante la creazione dell'handle della finestra.",
     "Timestamp": "13/02/2025 06:13:14",
     "Username": "UTENTE"
+  },
+  {
+    "LogRegisterAccount": "",
+    "MessaggioRegisterAccount": "",
+    "LogLogInAccount": "",
+    "MessaggioLogInAccount": "",
+    "LogAPP": "TRUE",
+    "MessaggioAPP": "Errore: Value cannot be null. (Parameter 'key')",
+    "Timestamp": "13/02/2025 11:33:12",
+    "Username": "UTENTE"
   }
 ]
