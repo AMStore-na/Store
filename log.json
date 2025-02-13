@@ -6348,5 +6348,15 @@
     "MessaggioAPP": "Errore: Value cannot be null. (Parameter 'key')",
     "Timestamp": "13/02/2025 11:51:52",
     "Username": "UTENTE"
+  },
+  {
+    "LogRegisterAccount": "",
+    "MessaggioRegisterAccount": "",
+    "LogLogInAccount": "",
+    "MessaggioLogInAccount": "",
+    "LogAPP": "TRUE",
+    "MessaggioAPP": "Errore: The process cannot access the file 'C:\\Users\\PC\\AppData\\Local\\Temp\\AIMODS-Store1.0.0.6.exe' because it is being used by another process.",
+    "Timestamp": "13/02/2025 17:36:28",
+    "Username": "UTENTE"
   }
 ]
