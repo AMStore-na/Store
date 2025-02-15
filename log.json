@@ -6378,5 +6378,15 @@
     "MessaggioAPP": "",
     "Timestamp": "15/02/2025 10:48:43",
     "Username": "cesco"
+  },
+  {
+    "LogRegisterAccount": "",
+    "MessaggioRegisterAccount": "",
+    "LogLogInAccount": "",
+    "MessaggioLogInAccount": "",
+    "LogAPP": "TRUE",
+    "MessaggioAPP": "Errore: Impossibile ottenere l'URL del catalogo: The SSL connection could not be established, see inner exception.",
+    "Timestamp": "15/02/2025 14:28:50",
+    "Username": "UTENTE"
   }
 ]
