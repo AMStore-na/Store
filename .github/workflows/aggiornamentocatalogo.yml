@@ -1,4 +1,4 @@
-name: aggiornamentocatalogo
+name: AggiornamentoCatalogo
 
 on:
   schedule:
@@ -33,10 +33,10 @@ jobs:
             echo "Files are different, updating old_catalogoWindows.json";
             cp catalogoWindows.json old_catalogoWindows.json;
             
-            # Configurazione git con il token
+            # Configurazione git con il token predefinito
             git config --global user.name "github-actions"
             git config --global user.email "github-actions@github.com"
-            git remote set-url origin https://x-access-token:${{ secrets.TOKEN }}@github.com/AMStore-na/Store.git
+            git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/AMStore-na/Store.git
 
             # Aggiungere e fare commit dei cambiamenti
             git add old_catalogoWindows.json
