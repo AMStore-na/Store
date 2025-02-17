@@ -1,17 +1,14 @@
-name: CI
+name: aggiornamentocatalogo
 
 on:
-  # Trigger per l'esecuzione automatica ogni giorno alle 23:58
   schedule:
     - cron: "58 23 * * *"  # Esecuzione alle 23:58 ogni giorno
-  
-  # Trigger su push o pull request sulla branch main
+
   push:
     branches: [ "main" ]
   pull_request:
     branches: [ "main" ]
 
-  # Trigger manuale
   workflow_dispatch:
 
 jobs:
@@ -23,7 +20,7 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      # Aggiungere lo step per verificare i file JSON
+      # Aggiungere lo step per ottenere i file catalogo
       - name: Get catalogo files
         run: |
           curl -o catalogoWindows.json https://raw.githubusercontent.com/AMStore-na/Store/refs/heads/main/catalogoWindows.json
@@ -32,13 +29,16 @@ jobs:
       # Aggiungere lo step per confrontare e aggiornare il file
       - name: Compare and update JSON
         run: |
-          # Controllo se i file sono uguali
           diff catalogoWindows.json old_catalogoWindows.json || {
             echo "Files are different, updating old_catalogoWindows.json";
             cp catalogoWindows.json old_catalogoWindows.json;
-            # Pushare la modifica
+            
+            # Configurazione git con il token
             git config --global user.name "github-actions"
             git config --global user.email "github-actions@github.com"
+            git remote set-url origin https://x-access-token:${{ secrets.TOKEN }}@github.com/AMStore-na/Store.git
+
+            # Aggiungere e fare commit dei cambiamenti
             git add old_catalogoWindows.json
             git commit -m "Aggiornamento old_catalogoWindows.json"
             git push
