@@ -5,6 +5,8 @@ on:
     paths:
       - 'ScriptPython/AggiornamentoCatalogo.py' # Avvia il workflow solo se viene modificato Json/mods.json
   workflow_dispatch: # Permette di avviare manualmente il workflow
+  schedule:
+    - cron: '55 23 * * *' # Esegui il workflow ogni giorno alle 23:55
 
 jobs:
   monitor:
@@ -27,4 +29,5 @@ jobs:
             python ScriptPython/AggiornamentoCatalogo.py
 env:
   GITHUB_TOKEN: ${{ secrets.AGGIORNAMENTO }}
+
 
