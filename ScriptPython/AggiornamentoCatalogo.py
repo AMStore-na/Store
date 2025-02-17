@@ -1,43 +1,43 @@
+import requests
 import json
-import shutil
 import os
+from github import Github
 
-# Carica i file JSON
-def load_json(filename):
-    with open(filename, 'r', encoding='utf-8') as f:
-        return json.load(f)
+# Recupera i valori dai segreti
+github_token = os.getenv('GITHUB_TOKEN')
 
-# Salva i dati nel file JSON
-def save_json(data, filename):
-    with open(filename, 'w', encoding='utf-8') as f:
-        json.dump(data, f, indent=4, ensure_ascii=False)
+# URL dei file su GitHub
+mods_url = 'https://raw.githubusercontent.com/AMStore-na/Store/refs/heads/main/catalogoWindows.json'
+state_url = 'https://raw.githubusercontent.com/AMStore-na/Store/refs/heads/main/OldState/old_catalogoWindows.json'
+repo_api_url = 'https://api.github.com/repos/AMStore-na/Store/contents/OldState/old_catalogoWindows.json'
 
-# Funzione principale per aggiornare i file
-def update_catalogo():
-    try:
-        # Carica i due file JSON
-        catalogo_file = 'catalogoWindows.json'
-        old_catalogo_file = 'old_catalogoWindows.json'
+# Recupera il file JSON catalogoWindows.json
+catalogo_response = requests.get(mods_url)
+catalogo_data = catalogo_response.json()
 
-        # Verifica se entrambi i file esistono
-        if not os.path.exists(catalogo_file) or not os.path.exists(old_catalogo_file):
-            print(f"Errore: Uno o entrambi i file {catalogo_file} o {old_catalogo_file} non esistono.")
-            return
+# Recupera il file JSON old_catalogoWindows.json
+state_response = requests.get(state_url)
+state_data = state_response.json()
 
-        catalogo_data = load_json(catalogo_file)
-        old_catalogo_data = load_json(old_catalogo_file)
+# Confronta i dati
+if catalogo_data != state_data:
+    print("I dati sono cambiati, aggiornamento in corso...")
 
-        # Confronta i due file (se i dati sono diversi)
-        if catalogo_data != old_catalogo_data:
-            print("I file sono diversi. Aggiornamento di old_catalogoWindows.json...")
+    # Usa PyGithub per autenticarsi e ottenere il repo
+    g = Github(github_token)
+    repo = g.get_repo("AMStore-na/Store")
+    
+    # Ottieni il contenuto del file old_catalogoWindows.json
+    file_content = repo.get_contents("OldState/old_catalogoWindows.json")
+    
+    # Aggiorna il contenuto del file old_catalogoWindows.json
+    update_response = repo.update_file(
+        file_content.path,
+        "Aggiornamento catalogo",
+        json.dumps(catalogo_data, indent=4),  # Aggiungi una formattazione ordinata
+        file_content.sha
+    )
+    print(f"File aggiornato con successo: {update_response}")
+else:
+    print("Nessuna modifica rilevata.")
 
-            # Aggiorna old_catalogoWindows.json con i nuovi dati
-            save_json(catalogo_data, old_catalogo_file)
-            print(f"{old_catalogo_file} è stato aggiornato con successo.")
-        else:
-            print("I file sono identici. Nessun aggiornamento necessario.")
-    except Exception as e:
-        print(f"Errore durante l'aggiornamento: {e}")
-
-if __name__ == "__main__":
-    update_catalogo()
