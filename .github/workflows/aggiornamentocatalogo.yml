@@ -1,63 +1,30 @@
-name: CI
+name: Aggiornamento Catalogo
 
 on:
-  schedule:
-    - cron: "58 23 * * *"  # Esecuzione alle 23:58 ogni giorno
   push:
-    branches: [ "main" ]
-  pull_request:
-    branches: [ "main" ]
-  workflow_dispatch:
+    paths:
+      - 'ScriptPython/AggiornamentoCatalogo.py' # Avvia il workflow solo se viene modificato Json/mods.json
+  workflow_dispatch: # Permette di avviare manualmente il workflow
 
 jobs:
-  build:
+  monitor:
     runs-on: ubuntu-latest
 
     steps:
-      # Checkout del repository
-      - name: Checkout repository
-        uses: actions/checkout@v4
+    - name: Checkout repository
+      uses: actions/checkout@v3
 
-      # Installa Python
-      - name: Set up Python
-        uses: actions/setup-python@v4
-        with:
-          python-version: '3.x'
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.x' # Specifica la versione di Python
 
-      # Installa le dipendenze (se presenti)
-      - name: Install dependencies
-        run: |
-          if [ -f requirements.txt ]; then
-            pip install -r requirements.txt
-          fi
+    - name: Install dependencies
+      run: pip install requests python-telegram-bot==20.0
 
-      # Aggiungere lo step per ottenere i file catalogo
-      - name: Get catalogo files
-        run: |
-          curl -o catalogoWindows.json https://raw.githubusercontent.com/AMStore-na/Store/refs/heads/main/catalogoWindows.json
-          curl -o old_catalogoWindows.json https://raw.githubusercontent.com/AMStore-na/Store/refs/heads/main/old_catalogoWindows.json
-
-      # Esegui lo script Python AggiornamentoCatalogo.py
-      - name: Run AggiornamentoCatalogo.py
-        run: |
-          python3 AggiornamentoCatalogo.py
-
-      # Aggiungere lo step per confrontare e aggiornare il file (se necessario)
-      - name: Compare and update JSON
-        run: |
-          diff catalogoWindows.json old_catalogoWindows.json || {
-            echo "Files are different, updating old_catalogoWindows.json";
-            cp catalogoWindows.json old_catalogoWindows.json;
-            
-            # Configurazione git con il token predefinito
-            git config --global user.name "github-actions"
-            git config --global user.email "github-actions@github.com"
-            git remote set-url origin https://x-access-token:${{ secrets.AGGIORNAMENTO }}@github.com/AMStore-na/Store.git
-
-            # Aggiungere e fare commit dei cambiamenti
-            git add old_catalogoWindows.json
-            git commit -m "Aggiornamento old_catalogoWindows.json"
-            git push
-          }
-
+    - name: Esegui lo script monitor
+      run: |
+            python ScriptPython/AggiornamentoCatalogo.py
+env:
+  GITHUB_TOKEN: ${{ secrets.AGGIORNAMENTO }}
 
