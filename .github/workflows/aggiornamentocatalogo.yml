@@ -20,7 +20,7 @@ jobs:
         python-version: '3.x' # Specifica la versione di Python
 
     - name: Install dependencies
-      run: pip install requests python-telegram-bot==20.0
+      run: pip install requests python-telegram-bot==20.0 PyGithub # Aggiungi PyGithub qui
 
     - name: Esegui lo script monitor
       run: |
