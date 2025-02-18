@@ -174,12 +174,12 @@
   },
   {
     "Nome": "Mountain Duck",
-    "Link": "https://devuploads.com/h79niks3kv8z",
+    "Link": "https://devuploads.com/7kc6v59qm1zh",
     "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Altro/mountainduck.jpg",
     "Sezione": "Altro",
-    "Tooltip": "Mountain Duck v4.16.0.22153",
+    "Tooltip": "Mountain Duck v4.17.2.22563",
     "MRicerca": "Altro",
-    "LinkR": null,
+    "LinkR": "",
     "Descrizione": "Mountain Duck è un software sviluppato dagli stessi creatori di Cyberduck. Questo strumento permette di montare server e storage cloud come unità locali nel Finder su macOS e nel File Explorer su Windows."
   },
   {
@@ -1435,7 +1435,7 @@
   {
     "Nome": "Atomix VirtualDJ",
     "Link": "https://devuploads.com/2neswhyyw5ub",
-    "LinkR": null,
+    "LinkR": "https://devuploads.com/ckol7gf6vjyj",
     "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Editing/Atomix%20VirtualDJ.png",
     "Sezione": "Musica",
     "Descrizione": "Atomix VirtualDJ è un software per DJ sviluppato da Atomix Productions, noto per le sue funzionalità avanzate di mixaggio audio e video. È ampiamente utilizzato sia da DJ professionisti che da principianti grazie alla sua interfaccia intuitiva e alle potenti capacità di automazione.",
