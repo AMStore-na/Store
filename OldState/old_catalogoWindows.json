@@ -17,7 +17,7 @@
         "Link": "https://devuploads.com/u6f1klo6a5wr",
         "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Adobe/Photoshop.jpg",
         "Sezione": "Adobe",
-        "Tooltip": "Adobe Photoshop 2025 v.26",
+        "Tooltip": "Adobe Photoshop 2025 v.26.1",
         "MRicerca": "photoshop",
         "LinkR": "",
         "Descrizione": "Adobe Photoshop \u00e8 un software potente e versatile per l\u2019editing digitale delle immagini e la progettazione grafica."
@@ -174,12 +174,12 @@
     },
     {
         "Nome": "Mountain Duck",
-        "Link": "https://devuploads.com/h79niks3kv8z",
+        "Link": "https://devuploads.com/7kc6v59qm1zh",
         "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Altro/mountainduck.jpg",
         "Sezione": "Altro",
-        "Tooltip": "Mountain Duck v4.16.0.22153",
+        "Tooltip": "Mountain Duck v4.17.2.22563",
         "MRicerca": "Altro",
-        "LinkR": null,
+        "LinkR": "",
         "Descrizione": "Mountain Duck \u00e8 un software sviluppato dagli stessi creatori di Cyberduck. Questo strumento permette di montare server e storage cloud come unit\u00e0 locali nel Finder su macOS e nel File Explorer su Windows."
     },
     {
@@ -464,10 +464,10 @@
     },
     {
         "Nome": "YT Saver",
-        "Link": "https://devuploads.com/n8m6bcu19xua",
+        "Link": "https://devuploads.com/xyan9x0kf9gv",
         "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Downloader/YTsaver.png",
         "Sezione": "Downloader",
-        "Tooltip": "YT Saver v9.3.2",
+        "Tooltip": "YT Saver v10.0.0",
         "MRicerca": "Downloader",
         "LinkR": "",
         "Descrizione": "YT Saver \u00e8 un'applicazione per il download e la conversione di video da oltre 10.000 piattaforme, inclusi YouTube, Instagram e TikTok. Permette di scaricare video fino a risoluzioni 8K e convertirli in oltre 20 formati diversi, come MP4 e MP3. Offre anche funzionalit\u00e0 avanzate come il download di playlist da servizi come Spotify, Tidal, etc e la modalit\u00e0 privata."
@@ -1386,7 +1386,7 @@
         "Nome": "Pinball FX3",
         "Link": "https://devuploads.com/rhtd777yaxiu",
         "LinkR": "https://devuploads.com/azdiyy2tupnc",
-        "ImmagineUrl": "Pinball FX3.exe",
+        "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Games/Pinball.png",
         "Sezione": "Giochi",
         "Descrizione": "Pinball FX3 \u00e8 un videogioco di flipper sviluppato da Zen Studios, ed \u00e8 la terza versione della serie di giochi di flipper digitali Pinball FX. \u00c8 un gioco che simula l'esperienza del flipper tradizionale, ma con una serie di elementi aggiuntivi che lo rendono unico, come ambientazioni originali, modalit\u00e0 di gioco innovative e una vasta gamma di tavoli tematici.",
         "Tooltip": "Pinball FX3",
@@ -1431,5 +1431,15 @@
         "Descrizione": "Tenorshare 4DDiG Duplicate File Deleter \u00e8 uno strumento progettato per aiutare gli utenti a gestire e rimuovere i file duplicati presenti sui propri dispositivi. Il programma esegue la scansione del sistema alla ricerca di file duplicati, permettendo di risparmiare spazio di archiviazione e migliorare l'efficienza del dispositivo.",
         "Tooltip": "Tenorshare 4DDiG Duplicate File Deleter",
         "MRicerca": "4DDiG"
+    },
+    {
+        "Nome": "Atomix VirtualDJ",
+        "Link": "https://devuploads.com/2neswhyyw5ub",
+        "LinkR": "https://devuploads.com/ckol7gf6vjyj",
+        "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Editing/Atomix%20VirtualDJ.png",
+        "Sezione": "Musica",
+        "Descrizione": "Atomix VirtualDJ \u00e8 un software per DJ sviluppato da Atomix Productions, noto per le sue funzionalit\u00e0 avanzate di mixaggio audio e video. \u00c8 ampiamente utilizzato sia da DJ professionisti che da principianti grazie alla sua interfaccia intuitiva e alle potenti capacit\u00e0 di automazione.",
+        "Tooltip": "Atomix VirtualDJ",
+        "MRicerca": "Atomix VirtualDJ"
     }
 ]
