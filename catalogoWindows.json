@@ -1223,23 +1223,13 @@
     "Descrizione": "Addio Backup PC , benvenuta DataLock!"
   },
   {
-    "Nome": "AIMODS-Bypass",
-    "Link": "https://devuploads.com/p9tr1uiazm2u",
-    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Tool-AIMODS/aimodsbypass.jpg",
-    "Sezione": "Tools AIMODS",
-    "Tooltip": "AIMODS-Bypass v.0.0.0.0",
-    "MRicerca": "Tools AIMODS",
-    "LinkR": "",
-    "Descrizione": "Con questa nuova app, potete passare alla versione IoT ENT LTSC mantenendo le vostre applicazioni."
-  },
-  {
     "Nome": "Assistente-Aggiornamento-Win11",
-    "Link": "https://devuploads.com/la82qikyl2bh",
+    "Link": "https://devuploads.com/dilzl5glhtr3",
     "LinkR": "",
     "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/refs/heads/main/Immagini/Tool-AIMODS/5de66eb3-586e-4a61-ae97-a5cdb9b58470.png",
     "Sezione": "Tools AIMODS",
     "Descrizione": " Lo strumento facilita l'aggiornamento rendendolo automatico e, quindi, semplice da effettuare anche per i meno esperti, mantenendo tutti i file personali.",
-    "Tooltip": "Assistente Aggiornamento v.0.0.0.0",
+    "Tooltip": "Assistente Aggiornamento v.0.0.0.2",
     "MRicerca": "Tools AIMODS"
   },
   {
