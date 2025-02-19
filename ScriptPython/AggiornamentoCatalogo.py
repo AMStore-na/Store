@@ -31,13 +31,12 @@ if catalogo_data != state_data:
     file_content = repo.get_contents("OldState/old_catalogoWindows.json")
     
     # Aggiorna il contenuto del file old_catalogoWindows.json
-    update_response = repo.update_file(
-        file_content.path,
-        "Aggiornamento catalogo",
-        json.dumps(catalogo_data, indent=4),  # Aggiungi una formattazione ordinata
-        file_content.sha
-    )
+update_response = repo.update_file(
+    file_content.path,
+    "Aggiornamento catalogo",
+    json.dumps(catalogo_data, indent=4, ensure_ascii=False),  # Mantiene i caratteri speciali correttamente
+    file_content.sha
+)
     print(f"File aggiornato con successo: {update_response}")
 else:
     print("Nessuna modifica rilevata.")
-
