@@ -1,5 +1,5 @@
 { 
-    "version": "1.0.0.6", 
-    "releaseNotes": "Riduzione peso, eliminazione log e aggiunta scroll per le sezioni con più di due righe", 
+    "version": "1.0.0.7", 
+    "releaseNotes": "Aggiunto Changelog app", 
     "updateUrl": "https://github.com/AMStore-na/Store/releases/download/Store/AIMODS-Store.exe" 
 }
