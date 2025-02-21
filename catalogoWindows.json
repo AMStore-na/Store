@@ -603,6 +603,26 @@
     "MRicerca": "recordfab"
   },
   {
+    "Nome": "FL Studio",
+    "Link": "https://devuploads.com/1yxh6pdyy5ti",
+    "LinkR": null,
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/FL%20Studio/Fl%20Studio.png",
+    "Sezione": "Gestione Foto/Video e Editing",
+    "Descrizione": "FL Studio è una delle stazioni di lavoro audio digitali (DAW) più popolari, usata per la produzione musicale, la composizione, l'arrangiamento e il mixaggio. È conosciuta per la sua interfaccia intuitiva, che offre una vasta gamma di strumenti per musicisti, produttori e ingegneri del suono.",
+    "Tooltip": "FL Studio",
+    "MRicerca": "FL"
+  },
+  {
+    "Nome": "EZDrummer",
+    "Link": "https://devuploads.com/k744n4zwk784",
+    "LinkR": "",
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/FL%20Studio/EZ%20Drummer.png",
+    "Sezione": "Gestione Foto/Video e Editing",
+    "Descrizione": "EZdrummer è un software di batteria virtuale sviluppato da Toontrack, noto per la sua capacità di offrire suoni di batteria realistici e di alta qualità, senza la necessità di un batterista dal vivo. È molto apprezzato sia dai produttori musicali che dai musicisti, in particolare per chi cerca un modo facile e veloce per aggiungere batterie alle proprie composizioni.",
+    "Tooltip": "EZDrummer",
+    "MRicerca": "EZ Drummer"
+  },
+  {
     "Nome": "EaseUS Partition Master",
     "Link": "https://devuploads.com/e1x7gkigjdka",
     "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/GestioneHDD-SSD/easeus.jpg",
@@ -721,6 +741,16 @@
     "Descrizione": "Tenorshare 4DDiG è un software di recupero dati avanzato progettato per recuperare file eliminati, formattati o persi da vari dispositivi e scenari",
     "Tooltip": "Tenorshare 4DDiG v10.2.7.11",
     "MRicerca": "4ddig"
+  },
+  {
+    "Nome": "Tenorshare 4DDiG Duplicate File Deleter",
+    "Link": "https://devuploads.com/n073gasue5x2",
+    "LinkR": null,
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/GestioneHDD-SSD/4DDiG%20DFD.png",
+    "Sezione": "Gestione/Pulizia/Personalizzazione PC",
+    "Descrizione": "Tenorshare 4DDiG Duplicate File Deleter è uno strumento progettato per aiutare gli utenti a gestire e rimuovere i file duplicati presenti sui propri dispositivi. Il programma esegue la scansione del sistema alla ricerca di file duplicati, permettendo di risparmiare spazio di archiviazione e migliorare l'efficienza del dispositivo.",
+    "Tooltip": "Tenorshare 4DDiG Duplicate File Deleter",
+    "MRicerca": "4DDiG"
   },
   {
     "Nome": "Kingdom Hearts HD",
@@ -993,6 +1023,46 @@
     "MRicerca": "Giochi"
   },
   {
+    "Nome": "Pinball FX3",
+    "Link": "https://devuploads.com/rhtd777yaxiu",
+    "LinkR": "https://devuploads.com/azdiyy2tupnc",
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Games/Pinball.png",
+    "Sezione": "Giochi",
+    "Descrizione": "Pinball FX3 è un videogioco di flipper sviluppato da Zen Studios, ed è la terza versione della serie di giochi di flipper digitali Pinball FX. È un gioco che simula l'esperienza del flipper tradizionale, ma con una serie di elementi aggiuntivi che lo rendono unico, come ambientazioni originali, modalità di gioco innovative e una vasta gamma di tavoli tematici.",
+    "Tooltip": "Pinball FX3",
+    "MRicerca": "Pinball"
+  },
+  {
+    "Nome": "Dredge: Complete Editon",
+    "Link": "https://devuploads.com/clfv303pv4bo",
+    "LinkR": null,
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Games/dredge.png",
+    "Sezione": "Giochi",
+    "Descrizione": "DREDGE è un'avventura di pesca per giocatore singolo con una corrente sinistra. Vendi i pesci, migliora la tua barca e draga le profondità alla ricerca di segreti sepolti da tempo. Esplora un arcipelago misterioso e scopri perché è meglio che certe cose restino dimenticate per sempre.",
+    "Tooltip": "DREDGE: Complete Edition – v1.5.3 Build 2879 + 9 ",
+    "MRicerca": "Giochi"
+  },
+  {
+    "Nome": "Farming Simulator 25",
+    "Link": "https://devuploads.com/kcou0ggquo9e",
+    "LinkR": null,
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Games/farmingsimulator25.png",
+    "Sezione": "Giochi",
+    "Descrizione": "Farming Simulator 25 vi invita a tuffarvi nella gratificante vita agricola. Costruite la fattoria tra i fiumi sinuosi e gli storici montacarichi da cereali del Nord America, tra gli specchi d'acqua dell'Europa centrale o in un rigoglioso panorama dell'Asia orientale ricco di risaie accanto a una città portuale dalle mille luci. Coltivate i campi, allevate gli animali, datevi alla silvicoltura e gestite un vero e proprio impero con negozi, produzioni e costruzioni!",
+    "Tooltip": "Farming Simulator 25 v1.2.1.0",
+    "MRicerca": "Giochi"
+  },
+  {
+    "Nome": "Forza Horizon 5",
+    "Link": "https://devuploads.com/4jwzg7x6mlqp",
+    "LinkR": null,
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Games/forzahorizon5.png",
+    "Sezione": "Giochi",
+    "Descrizione": "La tua avventura Horizon definitiva ti aspetta! Esplora vivaci paesaggi open world del Messico in continua evoluzione. Divertimento al volante illimitato con centinaia tra le migliori auto al mondo.",
+    "Tooltip": "Forza Horizon 5: Premium Edition  v1.656.386.0",
+    "MRicerca": "Giochi"
+  },
+  {
     "Nome": "Topaz Photo AI",
     "Link": "https://devuploads.com/xdn21zmskux7",
     "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Altro/topaz.jpg",
@@ -1021,6 +1091,16 @@
     "MRicerca": "IA",
     "LinkR": null,
     "Descrizione": null
+  },
+  {
+    "Nome": "Topaz Video AI",
+    "Link": "https://devuploads.com/xdn21zmskux7",
+    "LinkR": null,
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/AI/Topaz%20Video%20AI.png",
+    "Sezione": "IA",
+    "Descrizione": "Topaz Video AI è un software avanzato per il miglioramento e la riparazione di video, utilizzando l'intelligenza artificiale (AI) per eseguire diverse operazioni come l'upscaling, il miglioramento della qualità video e la riduzione del rumore. È molto apprezzato da professionisti del video editing, videomaker e creatori di contenuti che desiderano migliorare la qualità visiva dei loro filmati senza ricorrere a metodi complessi o costosi.",
+    "Tooltip": "Topaz Video Ai",
+    "MRicerca": "Topaz Video AI"
   },
   {
     "Nome": "IObit SystemCare",
@@ -1101,6 +1181,16 @@
     "MRicerca": "Musica, Spotify",
     "LinkR": null,
     "Descrizione": "Spotube è un'app open source che combina Spotify e YouTube Music per offrire un'esperienza musicale gratuita, senza pubblicità"
+  },
+  {
+    "Nome": "Atomix VirtualDJ",
+    "Link": "https://devuploads.com/2neswhyyw5ub",
+    "LinkR": "https://devuploads.com/ckol7gf6vjyj",
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Editing/Atomix%20VirtualDJ.png",
+    "Sezione": "Musica",
+    "Descrizione": "Atomix VirtualDJ è un software per DJ sviluppato da Atomix Productions, noto per le sue funzionalità avanzate di mixaggio audio e video. È ampiamente utilizzato sia da DJ professionisti che da principianti grazie alla sua interfaccia intuitiva e alle potenti capacità di automazione.",
+    "Tooltip": "Atomix VirtualDJ",
+    "MRicerca": "Atomix VirtualDJ"
   },
   {
     "Nome": "OfficeSuite",
@@ -1341,95 +1431,5 @@
     "MRicerca": "Xara",
     "LinkR": null,
     "Descrizione": "Xara Designer Pro+ è un software di progettazione versatile sviluppato da Xara, che combina desktop publishing, web design, editing foto e grafica in un'unica piattaforma"
-  },
-  {
-    "Nome": "FL Studio",
-    "Link": "https://devuploads.com/1yxh6pdyy5ti",
-    "LinkR": null,
-    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/FL%20Studio/Fl%20Studio.png",
-    "Sezione": "Gestione Foto/Video e Editing",
-    "Descrizione": "FL Studio è una delle stazioni di lavoro audio digitali (DAW) più popolari, usata per la produzione musicale, la composizione, l'arrangiamento e il mixaggio. È conosciuta per la sua interfaccia intuitiva, che offre una vasta gamma di strumenti per musicisti, produttori e ingegneri del suono.",
-    "Tooltip": "FL Studio",
-    "MRicerca": "FL"
-  },
-  {
-    "Nome": "EZDrummer",
-    "Link": "https://devuploads.com/k744n4zwk784",
-    "LinkR": "",
-    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/FL%20Studio/EZ%20Drummer.png",
-    "Sezione": "Gestione Foto/Video e Editing",
-    "Descrizione": "EZdrummer è un software di batteria virtuale sviluppato da Toontrack, noto per la sua capacità di offrire suoni di batteria realistici e di alta qualità, senza la necessità di un batterista dal vivo. È molto apprezzato sia dai produttori musicali che dai musicisti, in particolare per chi cerca un modo facile e veloce per aggiungere batterie alle proprie composizioni.",
-    "Tooltip": "EZDrummer",
-    "MRicerca": "EZ Drummer"
-  },
-  {
-    "Nome": "Topaz Video AI",
-    "Link": "https://devuploads.com/xdn21zmskux7",
-    "LinkR": null,
-    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/AI/Topaz%20Video%20AI.png",
-    "Sezione": "IA",
-    "Descrizione": "Topaz Video AI è un software avanzato per il miglioramento e la riparazione di video, utilizzando l'intelligenza artificiale (AI) per eseguire diverse operazioni come l'upscaling, il miglioramento della qualità video e la riduzione del rumore. È molto apprezzato da professionisti del video editing, videomaker e creatori di contenuti che desiderano migliorare la qualità visiva dei loro filmati senza ricorrere a metodi complessi o costosi.",
-    "Tooltip": "Topaz Video Ai",
-    "MRicerca": "Topaz Video AI"
-  },
-  {
-    "Nome": "Pinball FX3",
-    "Link": "https://devuploads.com/rhtd777yaxiu",
-    "LinkR": "https://devuploads.com/azdiyy2tupnc",
-    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Games/Pinball.png",
-    "Sezione": "Giochi",
-    "Descrizione": "Pinball FX3 è un videogioco di flipper sviluppato da Zen Studios, ed è la terza versione della serie di giochi di flipper digitali Pinball FX. È un gioco che simula l'esperienza del flipper tradizionale, ma con una serie di elementi aggiuntivi che lo rendono unico, come ambientazioni originali, modalità di gioco innovative e una vasta gamma di tavoli tematici.",
-    "Tooltip": "Pinball FX3",
-    "MRicerca": "Pinball"
-  },
-  {
-    "Nome": "Dredge: Complete Editon",
-    "Link": "https://devuploads.com/clfv303pv4bo",
-    "LinkR": null,
-    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Games/dredge.png",
-    "Sezione": "Giochi",
-    "Descrizione": "DREDGE è un'avventura di pesca per giocatore singolo con una corrente sinistra. Vendi i pesci, migliora la tua barca e draga le profondità alla ricerca di segreti sepolti da tempo. Esplora un arcipelago misterioso e scopri perché è meglio che certe cose restino dimenticate per sempre.",
-    "Tooltip": "DREDGE: Complete Edition – v1.5.3 Build 2879 + 9 ",
-    "MRicerca": "Giochi"
-  },
-  {
-    "Nome": "Farming Simulator 25",
-    "Link": "https://devuploads.com/kcou0ggquo9e",
-    "LinkR": null,
-    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Games/farmingsimulator25.png",
-    "Sezione": "Giochi",
-    "Descrizione": "Farming Simulator 25 vi invita a tuffarvi nella gratificante vita agricola. Costruite la fattoria tra i fiumi sinuosi e gli storici montacarichi da cereali del Nord America, tra gli specchi d'acqua dell'Europa centrale o in un rigoglioso panorama dell'Asia orientale ricco di risaie accanto a una città portuale dalle mille luci. Coltivate i campi, allevate gli animali, datevi alla silvicoltura e gestite un vero e proprio impero con negozi, produzioni e costruzioni!",
-    "Tooltip": "Farming Simulator 25 v1.2.1.0",
-    "MRicerca": "Giochi"
-  },
-  {
-    "Nome": "Forza Horizon 5",
-    "Link": "https://devuploads.com/4jwzg7x6mlqp",
-    "LinkR": null,
-    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Games/forzahorizon5.png",
-    "Sezione": "Giochi",
-    "Descrizione": "La tua avventura Horizon definitiva ti aspetta! Esplora vivaci paesaggi open world del Messico in continua evoluzione. Divertimento al volante illimitato con centinaia tra le migliori auto al mondo.",
-    "Tooltip": "Forza Horizon 5: Premium Edition  v1.656.386.0",
-    "MRicerca": "Giochi"
-  },
-  {
-    "Nome": "Tenorshare 4DDiG Duplicate File Deleter",
-    "Link": "https://devuploads.com/n073gasue5x2",
-    "LinkR": null,
-    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/GestioneHDD-SSD/4DDiG%20DFD.png",
-    "Sezione": "Gestione/Pulizia/Personalizzazione PC",
-    "Descrizione": "Tenorshare 4DDiG Duplicate File Deleter è uno strumento progettato per aiutare gli utenti a gestire e rimuovere i file duplicati presenti sui propri dispositivi. Il programma esegue la scansione del sistema alla ricerca di file duplicati, permettendo di risparmiare spazio di archiviazione e migliorare l'efficienza del dispositivo.",
-    "Tooltip": "Tenorshare 4DDiG Duplicate File Deleter",
-    "MRicerca": "4DDiG"
-  },
-  {
-    "Nome": "Atomix VirtualDJ",
-    "Link": "https://devuploads.com/2neswhyyw5ub",
-    "LinkR": "https://devuploads.com/ckol7gf6vjyj",
-    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Editing/Atomix%20VirtualDJ.png",
-    "Sezione": "Musica",
-    "Descrizione": "Atomix VirtualDJ è un software per DJ sviluppato da Atomix Productions, noto per le sue funzionalità avanzate di mixaggio audio e video. È ampiamente utilizzato sia da DJ professionisti che da principianti grazie alla sua interfaccia intuitiva e alle potenti capacità di automazione.",
-    "Tooltip": "Atomix VirtualDJ",
-    "MRicerca": "Atomix VirtualDJ"
   }
 ]
