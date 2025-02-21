@@ -394,13 +394,13 @@
   },
   {
     "Nome": "IDM Portable",
-    "Link": "https://devuploads.com/prhag6vpiuqj",
+    "Link": "https://devuploads.com/hw09x86wbw87",
     "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Downloader/IDM.jpg",
     "Sezione": "Downloader",
     "Tooltip": "IDM v6.42 Portable",
-    "LinkR": null,
+    "LinkR": "",
     "Descrizione": "IDM Portable è una versione portatile di Internet Download Manager (IDM), un acceleratore di download progettato per aumentare la velocità di download fino a otto volte, riprendere i download interrotti e pianificare i download. La versione portatile consente di utilizzare IDM su diversi dispositivi senza necessità di installazione permanente.",
-    "MRicerca": null
+    "MRicerca": "idm"
   },
   {
     "Nome": "iTubeGo Musify",
