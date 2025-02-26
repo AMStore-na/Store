@@ -1431,5 +1431,15 @@
     "MRicerca": "Xara",
     "LinkR": null,
     "Descrizione": "Xara Designer Pro+ è un software di progettazione versatile sviluppato da Xara, che combina desktop publishing, web design, editing foto e grafica in un'unica piattaforma"
+  },
+  {
+    "Nome": "Spotify Downloader",
+    "Link": "https://devuploads.com/vtj4u0r105e1",
+    "LinkR": "",
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Downloader/spotifydownloader.jpg",
+    "Sezione": "Downloader",
+    "Descrizione": "",
+    "Tooltip": "SpotifyDownloader",
+    "MRicerca": "Downloader"
   }
 ]
