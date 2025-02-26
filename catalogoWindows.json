@@ -493,6 +493,16 @@
     "MRicerca": "spotify"
   },
   {
+    "Nome": "Araxis Merge",
+    "Link": "https://devuploads.com/zxxzgdrgd0bo",
+    "LinkR": null,
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Gestione%20file/Araxis%20Merge.png",
+    "Sezione": "Gestione file",
+    "Descrizione": "Araxis Merge è un'applicazione avanzata per il confronto di file (diff), l'unione (merge) e la sincronizzazione di cartelle.",
+    "Tooltip": "Araxis Merge Professional v2024.6002",
+    "MRicerca": "araxis"
+  },
+  {
     "Nome": "UniFab",
     "Link": "https://devuploads.com/bzeyzplxcm2g",
     "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Editing/unifab.jpg",
@@ -1431,15 +1441,5 @@
     "MRicerca": "Xara",
     "LinkR": null,
     "Descrizione": "Xara Designer Pro+ è un software di progettazione versatile sviluppato da Xara, che combina desktop publishing, web design, editing foto e grafica in un'unica piattaforma"
-  },
-  {
-    "Nome": "Araxis Merge",
-    "Link": "https://devuploads.com/zxxzgdrgd0bo",
-    "LinkR": null,
-    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Gestione%20file/Araxis%20Merge.png",
-    "Sezione": "Gestione file",
-    "Descrizione": "Araxis Merge è un'applicazione avanzata per il confronto di file (diff), l'unione (merge) e la sincronizzazione di cartelle.",
-    "Tooltip": "Araxis Merge Professional v2024.6002",
-    "MRicerca": "araxis"
   }
 ]
