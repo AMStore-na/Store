@@ -6568,5 +6568,15 @@
     "MessaggioAPP": "Errore: An error occurred trying to start process 'https://devuploads.com/n4w7rl20522s' with working directory 'C:\\Users\\luca\\Downloads'. Nessuna applicazione associata al file specificato per questa operazione.",
     "Timestamp": "26/02/2025 18:29:05",
     "Username": "UTENTE"
+  },
+  {
+    "LogRegisterAccount": "",
+    "MessaggioRegisterAccount": "",
+    "LogLogInAccount": "",
+    "MessaggioLogInAccount": "",
+    "LogAPP": "TRUE",
+    "MessaggioAPP": "Errore: The process cannot access the file 'C:\\Users\\furio\\AppData\\Local\\Temp\\AIMODS-Store1.0.0.8.exe' because it is being used by another process.",
+    "Timestamp": "27/02/2025 14:22:15",
+    "Username": "UTENTE"
   }
 ]
