@@ -6658,5 +6658,15 @@
     "MessaggioAPP": "Errore: An error occurred trying to start process 'https://devuploads.com/nzrhgxyu1b63' with working directory 'C:\\Users\\luca\\Downloads'. Nessuna applicazione associata al file specificato per questa operazione.",
     "Timestamp": "28/02/2025 14:12:46",
     "Username": "UTENTE"
+  },
+  {
+    "LogRegisterAccount": "",
+    "MessaggioRegisterAccount": "",
+    "LogLogInAccount": "",
+    "MessaggioLogInAccount": "",
+    "LogAPP": "TRUE",
+    "MessaggioAPP": "Errore: Tentativo di accesso al socket con modalità non consentite dalle rispettive autorizzazioni di accesso. (objects.githubusercontent.com:443)",
+    "Timestamp": "28/02/2025 14:12:52",
+    "Username": "UTENTE"
   }
 ]
