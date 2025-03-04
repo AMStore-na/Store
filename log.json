@@ -6708,5 +6708,15 @@
     "MessaggioAPP": "Errore: Impossibile chiamare Invoke o BeginInvoke su un controllo finché non viene creato un handle di finestra.",
     "Timestamp": "01/03/2025 14:44:36",
     "Username": "UTENTE"
+  },
+  {
+    "LogRegisterAccount": "TRUE",
+    "MessaggioRegisterAccount": "Registrazione avvenuta con successo",
+    "LogLogInAccount": "",
+    "MessaggioLogInAccount": "",
+    "LogAPP": "",
+    "MessaggioAPP": "",
+    "Timestamp": "04/03/2025 14:51:37",
+    "Username": "S1M0"
   }
 ]
