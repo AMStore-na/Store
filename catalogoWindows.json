@@ -204,11 +204,11 @@
   },
   {
     "Nome": "VMWare",
-    "Link": "https://devuploads.com/tsbxwlm6gn3t",
+    "Link": "https://devuploads.com/wu2lujy0o76m",
     "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/GestioneHDD-SSD/vmware.jpg",
     "Sezione": "Altro",
-    "Tooltip": "VMWare Workstation Pro 17.6.0.24238078",
-    "MRicerca": "Altro",
+    "Tooltip": "VMware Workstation Pro v17.6.2.24409262",
+    "MRicerca": "vmware",
     "LinkR": "",
     "Descrizione": "VMware Workstation Pro è un potente strumento di virtualizzazione che permette agli utenti di eseguire più sistemi operativi su un singolo PC."
   },
