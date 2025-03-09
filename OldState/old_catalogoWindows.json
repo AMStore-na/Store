@@ -2,12 +2,12 @@
     {
         "Nome": "Adobe Acrobat Pro",
         "Link": {
-            "x64": "https://devuploads.com/6sen4hqel5nv",
-            "x32": "https://devuploads.com/fwy9ig3ltqk7"
+            "x64": "https://devuploads.com/3jxh3h0bnkhb",
+            "x32": "https://devuploads.com/c2gs8lp9s8xe"
         },
         "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Adobe/acrobatpro.jpg",
         "Sezione": "Adobe",
-        "Tooltip": "Adobe Acrobat Pro",
+        "Tooltip": "Adobe Acrobat Pro 2025 v25.1.20428",
         "MRicerca": "acrobat",
         "LinkR": "",
         "Descrizione": "Adobe Acrobat Pro è un software potente e versatile sviluppato da Adobe Systems per la creazione, modifica e gestione di file PDF (Portable Document Format). È ampiamente utilizzato in ambito professionale per la sua capacità di manipolare documenti in modo efficiente."
@@ -204,11 +204,11 @@
     },
     {
         "Nome": "VMWare",
-        "Link": "https://devuploads.com/tsbxwlm6gn3t",
+        "Link": "https://devuploads.com/wu2lujy0o76m",
         "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/GestioneHDD-SSD/vmware.jpg",
         "Sezione": "Altro",
-        "Tooltip": "VMWare Workstation Pro 17.6.0.24238078",
-        "MRicerca": "Altro",
+        "Tooltip": "VMware Workstation Pro v17.6.2.24409262",
+        "MRicerca": "vmware",
         "LinkR": "",
         "Descrizione": "VMware Workstation Pro è un potente strumento di virtualizzazione che permette agli utenti di eseguire più sistemi operativi su un singolo PC."
     },
@@ -366,11 +366,11 @@
         "Nome": "Freemake Video Converter",
         "Link": "https://devuploads.com/2wf3pjhnng0u",
         "LinkR": "",
-        "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/default/Freemake.png",
+        "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Convertitore/Freemake%20Video%20Converter.png",
         "Sezione": "Convertitore",
         "Descrizione": "Freemake Video Converter è un software freemium sviluppato da Ellora Assets Corporation. È progettato per convertire i file video in vari formati, masterizzare video su DVD e creare presentazioni fotografiche.",
-        "Tooltip": "",
-        "MRicerca": "Frremake"
+        "Tooltip": "Freemake Video Converter v4.1.13.187",
+        "MRicerca": "freemake"
     },
     {
         "Nome": "Wondershare UniConverter",
@@ -1071,6 +1071,26 @@
         "Descrizione": "La tua avventura Horizon definitiva ti aspetta! Esplora vivaci paesaggi open world del Messico in continua evoluzione. Divertimento al volante illimitato con centinaia tra le migliori auto al mondo.",
         "Tooltip": "Forza Horizon 5: Premium Edition  v1.656.386.0",
         "MRicerca": "Giochi"
+    },
+    {
+        "Nome": "Elden Ring Shadow Of The Erdtree – Deluxe Edition",
+        "Link": "https://devuploads.com/cd0fm61ga7zb",
+        "LinkR": "",
+        "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Games/Elden%20Ring.png",
+        "Sezione": "Giochi",
+        "Descrizione": "Elden Ring è un action RPG sviluppato da FromSoftware, diretto da Hidetaka Miyazaki con la collaborazione di George R.R. Martin per la costruzione del mondo. Ambientato nell'Interregno, i giocatori esplorano un vasto open world, affrontando nemici e boss impegnativi, con l'obiettivo di ricostruire l'Elden Ring e diventare il nuovo Lord ancestrale.",
+        "Tooltip": "Elden Ring Shadow Of The Erdtree (Deluxe Edition) v1.12.1",
+        "MRicerca": "elden"
+    },
+    {
+        "Nome": "Tavern Master",
+        "Link": "https://devuploads.com/yvh90b77friw",
+        "LinkR": null,
+        "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Games/Tavern%20Master.png",
+        "Sezione": "Giochi",
+        "Descrizione": null,
+        "Tooltip": "Tavern Master build 16501626",
+        "MRicerca": "tavern"
     },
     {
         "Nome": "Topaz Photo AI",
