@@ -1471,5 +1471,15 @@
     "MRicerca": "Xara",
     "LinkR": null,
     "Descrizione": "Xara Designer Pro+ è un software di progettazione versatile sviluppato da Xara, che combina desktop publishing, web design, editing foto e grafica in un'unica piattaforma"
+  },
+  {
+    "Nome": "Capture One Enterprise",
+    "Link": "https://devuploads.com/4jztfltryye4",
+    "LinkR": null,
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Editing/Capture%20One.png",
+    "Sezione": "Gestione Foto/Video e Editing",
+    "Descrizione": null,
+    "Tooltip": "Capture One Enterprise v16.5.8.2763",
+    "MRicerca": "capture"
   }
 ]
