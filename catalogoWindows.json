@@ -1224,12 +1224,12 @@
   },
   {
     "Nome": "Spotube",
-    "Link": "https://devuploads.com/rdgptz26r2zx",
+    "Link": "https://devuploads.com/q8gr57ynlox2",
     "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Musica/Spottube.jpg",
     "Sezione": "Musica",
-    "Tooltip": "Spotube v3.8.1",
-    "MRicerca": "Musica, Spotify",
-    "LinkR": null,
+    "Tooltip": "Spotube v4.0.1",
+    "MRicerca": "spotube",
+    "LinkR": "",
     "Descrizione": "Spotube è un'app open source che combina Spotify e YouTube Music per offrire un'esperienza musicale gratuita, senza pubblicità"
   },
   {
