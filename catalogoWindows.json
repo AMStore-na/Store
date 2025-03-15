@@ -383,6 +383,16 @@
     "MRicerca": "UniConverter"
   },
   {
+    "Nome": "Adobe Acrobat Pro DAVIDE",
+    "Link": "{\r\n  \"x64\": \"https://devuploads.com/3jxh3h0bnkhb\",\r\n  \"x32\": \"https://devuploads.com/c2gs8lp9s8xe\"\r\n}",
+    "LinkR": "",
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Davidones/Acr_Prova.png",
+    "Sezione": "Davidones",
+    "Descrizione": "Adobe Acrobat Pro è un software potente e versatile sviluppato da Adobe Systems per la creazione, modifica e gestione di file PDF (Portable Document Format). È ampiamente utilizzato in ambito professionale per la sua capacità di manipolare documenti in modo efficiente.",
+    "Tooltip": "Adobe Acrobat Pro 2025 v25.1.20428",
+    "MRicerca": "acrobat"
+  },
+  {
     "Nome": "IDM",
     "Link": "https://devuploads.com/sf9j8ohsw07s",
     "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Downloader/IDM.jpg",
@@ -1481,15 +1491,5 @@
     "MRicerca": "Xara",
     "LinkR": null,
     "Descrizione": "Xara Designer Pro+ è un software di progettazione versatile sviluppato da Xara, che combina desktop publishing, web design, editing foto e grafica in un'unica piattaforma"
-  },
-  {
-    "Nome": "Adobe Acrobat Pro DAVIDE",
-    "Link": "{\r\n  \"x64\": \"https://devuploads.com/3jxh3h0bnkhb\",\r\n  \"x32\": \"https://devuploads.com/c2gs8lp9s8xe\"\r\n}",
-    "LinkR": "",
-    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Davidones/Acr_Prova.png",
-    "Sezione": "Davidones",
-    "Descrizione": "Adobe Acrobat Pro è un software potente e versatile sviluppato da Adobe Systems per la creazione, modifica e gestione di file PDF (Portable Document Format). È ampiamente utilizzato in ambito professionale per la sua capacità di manipolare documenti in modo efficiente.",
-    "Tooltip": "Adobe Acrobat Pro 2025 v25.1.20428",
-    "MRicerca": "acrobat"
   }
 ]
