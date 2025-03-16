@@ -1504,12 +1504,12 @@
   },
   {
     "Nome": "ind",
-    "Link": null,
-    "LinkR": null,
-    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Convertitore/logoAdobe_InDesign_Windows.png",
+    "Link": "",
+    "LinkR": "",
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Davidones/logoAdobe_InDesign_Windows.png",
     "Sezione": "Davidones",
-    "Descrizione": null,
-    "Tooltip": null,
+    "Descrizione": "",
+    "Tooltip": "",
     "MRicerca": "ind"
   }
 ]
