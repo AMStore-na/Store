@@ -1501,15 +1501,5 @@
     "Descrizione": null,
     "Tooltip": null,
     "MRicerca": "PS"
-  },
-  {
-    "Nome": "ind",
-    "Link": "",
-    "LinkR": "",
-    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Davidones/logoAdobe_InDesign_Windows.png",
-    "Sezione": "Davidones",
-    "Descrizione": "",
-    "Tooltip": "",
-    "MRicerca": "ind"
   }
 ]
