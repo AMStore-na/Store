@@ -1491,5 +1491,15 @@
     "Descrizione": "Adobe Acrobat Pro è un software potente e versatile sviluppato da Adobe Systems per la creazione, modifica e gestione di file PDF (Portable Document Format). È ampiamente utilizzato in ambito professionale per la sua capacità di manipolare documenti in modo efficiente.",
     "Tooltip": "Adobe Acrobat Pro 2025 v25.1.20428",
     "MRicerca": "acrobat"
+  },
+  {
+    "Nome": "PS DAVIDE",
+    "Link": null,
+    "LinkR": null,
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Davidones/Progetto%20senza%20titolo%20-%202025-03-16T181705.647.png",
+    "Sezione": "Davidones",
+    "Descrizione": null,
+    "Tooltip": null,
+    "MRicerca": "PS"
   }
 ]
