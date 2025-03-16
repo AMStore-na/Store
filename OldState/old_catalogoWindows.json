@@ -524,11 +524,11 @@
     },
     {
         "Nome": "Wondershare Filmora",
-        "Link": "https://devuploads.com/2rwj4uyhquw7",
+        "Link": "https://devuploads.com/74538nrm9rf0",
         "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Editing/wondershare.jpg",
         "Sezione": "Gestione Foto/Video e Editing",
-        "Tooltip": "Wondershare Filmora v13.6.6.8453",
-        "MRicerca": "Gestione Foto/Video e Editing",
+        "Tooltip": "Wondershare Filmora 14.3.2.11147",
+        "MRicerca": "filmora",
         "LinkR": "https://devuploads.com/7gzl1i5hh21q",
         "Descrizione": "Wondershare Filmora è un software di editing video facile da usare, sviluppato da Wondershare. È progettato per utenti di tutti i livelli, dai principianti agli esperti, e offre una vasta gamma di funzionalità per creare video di alta qualità."
     },
@@ -633,6 +633,16 @@
         "MRicerca": "EZ Drummer"
     },
     {
+        "Nome": "Capture One Enterprise",
+        "Link": "https://devuploads.com/4jztfltryye4",
+        "LinkR": null,
+        "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Editing/Capture%20One.png",
+        "Sezione": "Gestione Foto/Video e Editing",
+        "Descrizione": null,
+        "Tooltip": "Capture One Enterprise v16.5.8.2763",
+        "MRicerca": "capture"
+    },
+    {
         "Nome": "EaseUS Partition Master",
         "Link": "https://devuploads.com/e1x7gkigjdka",
         "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/GestioneHDD-SSD/easeus.jpg",
@@ -704,10 +714,10 @@
     },
     {
         "Nome": "CCleaner",
-        "Link": "https://devuploads.com/nznmopydblmp",
+        "Link": "https://devuploads.com/hmh2213q633w",
         "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/GestioneHDD-SSD/ccleaner.jpg",
         "Sezione": "Gestione/Pulizia/Personalizzazione PC",
-        "Tooltip": "CCleaner Professional v6.31",
+        "Tooltip": "CCleaner Professional v6.33",
         "MRicerca": "ccleaner",
         "LinkR": "",
         "Descrizione": "CCleaner è un popolare software di ottimizzazione e pulizia del sistema sviluppato da Piriform (ora parte di Avast). È progettato per migliorare le prestazioni del tuo computer rimuovendo file temporanei, cookie, file di registro inutili, e altri dati che possono accumularsi nel tempo e rallentare il sistema."
@@ -788,8 +798,8 @@
         "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Games/spiderman.jpg",
         "Sezione": "Giochi",
         "Tooltip": "Marvels Spider-Man Remastered V1.812.1.0 + DLC + Correzione SSE",
-        "MRicerca": "Giochi",
-        "LinkR": null,
+        "MRicerca": "marvels",
+        "LinkR": "",
         "Descrizione": "Marvel's Spider-Man Remastered è una versione migliorata del gioco originale sviluppato da Insomniac Games e pubblicato da Sony Interactive Entertainment. Questa versione è stata ottimizzata per le console PS5 e PC, offrendo grafica migliorata, nuove funzionalità immersive e un'esperienza di gioco più fluida."
     },
     {
@@ -1093,8 +1103,18 @@
         "MRicerca": "tavern"
     },
     {
+        "Nome": "Marvels Spider-Man 2 Digital Deluxe Edition",
+        "Link": "https://devuploads.com/0678slx2q7ro",
+        "LinkR": "",
+        "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Games/Spider-Man%202.png",
+        "Sezione": "Giochi",
+        "Descrizione": "Marvel's Spider-Man Remastered è una versione migliorata del gioco originale sviluppato da Insomniac Games e pubblicato da Sony Interactive Entertainment. Questa versione è stata ottimizzata per le console PS5 e PC, offrendo grafica migliorata, nuove funzionalità immersive e un'esperienza di gioco più fluida.",
+        "Tooltip": "Marvels Spider-Man 2 Digital Deluxe Edition v1.130",
+        "MRicerca": "marvels"
+    },
+    {
         "Nome": "Topaz Photo AI",
-        "Link": "https://devuploads.com/xdn21zmskux7",
+        "Link": "https://devuploads.com/ejdrv7cqsqyx",
         "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Altro/topaz.jpg",
         "Sezione": "IA",
         "Tooltip": "Topaz Photo AI",
@@ -1204,12 +1224,12 @@
     },
     {
         "Nome": "Spotube",
-        "Link": "https://devuploads.com/rdgptz26r2zx",
+        "Link": "https://devuploads.com/q8gr57ynlox2",
         "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Musica/Spottube.jpg",
         "Sezione": "Musica",
-        "Tooltip": "Spotube v3.8.1",
-        "MRicerca": "Musica, Spotify",
-        "LinkR": null,
+        "Tooltip": "Spotube v4.0.1",
+        "MRicerca": "spotube",
+        "LinkR": "",
         "Descrizione": "Spotube è un'app open source che combina Spotify e YouTube Music per offrire un'esperienza musicale gratuita, senza pubblicità"
     },
     {
@@ -1461,5 +1481,15 @@
         "MRicerca": "Xara",
         "LinkR": null,
         "Descrizione": "Xara Designer Pro+ è un software di progettazione versatile sviluppato da Xara, che combina desktop publishing, web design, editing foto e grafica in un'unica piattaforma"
+    },
+    {
+        "Nome": "ACR",
+        "Link": null,
+        "LinkR": null,
+        "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Davidones/Adobe_Acrobat_Pro.png",
+        "Sezione": "Davidones",
+        "Descrizione": null,
+        "Tooltip": null,
+        "MRicerca": null
     }
 ]
