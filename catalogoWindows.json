@@ -1501,5 +1501,15 @@
     "Descrizione": null,
     "Tooltip": null,
     "MRicerca": "PS"
+  },
+  {
+    "Nome": "ind",
+    "Link": null,
+    "LinkR": null,
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Convertitore/logoAdobe_InDesign_Windows.png",
+    "Sezione": "Davidones",
+    "Descrizione": null,
+    "Tooltip": null,
+    "MRicerca": "ind"
   }
 ]
