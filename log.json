@@ -6808,5 +6808,15 @@
     "MessaggioAPP": "",
     "Timestamp": "12/03/2025 17:49:58",
     "Username": "NonnoStanco"
+  },
+  {
+    "LogRegisterAccount": "",
+    "MessaggioRegisterAccount": "",
+    "LogLogInAccount": "",
+    "MessaggioLogInAccount": "",
+    "LogAPP": "TRUE",
+    "MessaggioAPP": "Errore: Impossibile ottenere l'URL del catalogo: Object reference not set to an instance of an object.",
+    "Timestamp": "17/03/2025 16:25:35",
+    "Username": "UTENTE"
   }
 ]
