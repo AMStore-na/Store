@@ -1481,25 +1481,5 @@
     "MRicerca": "Xara",
     "LinkR": null,
     "Descrizione": "Xara Designer Pro+ è un software di progettazione versatile sviluppato da Xara, che combina desktop publishing, web design, editing foto e grafica in un'unica piattaforma"
-  },
-  {
-    "Nome": "ACR",
-    "Link": null,
-    "LinkR": null,
-    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Davidones/Adobe_Acrobat_Pro.png",
-    "Sezione": "Davidones",
-    "Descrizione": null,
-    "Tooltip": null,
-    "MRicerca": null
-  },
-  {
-    "Nome": "test1",
-    "Link": "test",
-    "LinkR": "test",
-    "ImmagineUrl": "test",
-    "Sezione": "test",
-    "Descrizione": "test",
-    "Tooltip": "test",
-    "MRicerca": "test"
   }
 ]
