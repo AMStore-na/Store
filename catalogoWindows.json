@@ -703,16 +703,6 @@
     "Descrizione": "Ashampoo Driver Updater è un software utile per la gestione dei driver del computer, progettato per semplificare il processo di aggiornamento e ottimizzazione dei driver."
   },
   {
-    "Nome": "Revo Unistaller",
-    "Link": "https://devuploads.com/05mv5di42wk1",
-    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/GestioneHDD-SSD/revounistaller.jpg",
-    "Sezione": "Gestione/Pulizia/Personalizzazione PC",
-    "Tooltip": "Revo Uninstaller Pro v5.3.5",
-    "MRicerca": "revo",
-    "LinkR": "",
-    "Descrizione": "Revo Uninstaller Pro è uno strumento potente per disinstallare programmi e rimuovere completamente i residui lasciati sul sistema"
-  },
-  {
     "Nome": "CCleaner",
     "Link": "https://devuploads.com/hmh2213q633w",
     "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/GestioneHDD-SSD/ccleaner.jpg",
