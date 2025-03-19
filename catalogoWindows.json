@@ -1481,5 +1481,25 @@
     "MRicerca": "Xara",
     "LinkR": null,
     "Descrizione": "Xara Designer Pro+ è un software di progettazione versatile sviluppato da Xara, che combina desktop publishing, web design, editing foto e grafica in un'unica piattaforma"
+  },
+  {
+    "Nome": "YT Saver",
+    "Link": "https://devuploads.com/4r1hjmjps3w4",
+    "LinkR": "",
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Downloader/YTsaver.png",
+    "Sezione": "Downloader",
+    "Descrizione": "YT Saver è un'applicazione per il download e la conversione di video da oltre 10.000 piattaforme, inclusi YouTube, Instagram e TikTok. Permette di scaricare video fino a risoluzioni 8K e convertirli in oltre 20 formati diversi, come MP4 e MP3. Offre anche funzionalità avanzate come il download di playlist da servizi come Spotify, Tidal, etc e la modalità privata.",
+    "Tooltip": "YT Saver v10.2.1",
+    "MRicerca": "Downloader"
+  },
+  {
+    "Nome": "Aiseesoft Screen Recorder",
+    "Link": "https://devuploads.com/s35hwlbye3v9",
+    "LinkR": "",
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Registratore%20Audio-Video/Aiseesoft%20Screen%20Recorder.png",
+    "Sezione": "Registratore Audio-Video",
+    "Descrizione": "Aiseesoft Screen Recorder è un software di registrazione dello schermo progettato per catturare video e audio dal computer. È particolarmente utile per diverse applicazioni, come la creazione di tutorial video, la registrazione di giochi, o la cattura di videoconferenze.",
+    "Tooltip": "Aiseesoft Screen Recorder v3.1.16",
+    "MRicerca": "Aiseesoft Screen Recorder"
   }
 ]
