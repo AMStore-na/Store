@@ -71,12 +71,13 @@
   {
     "Nome": "Adobe Lightroom Classic",
     "Link": "https://devuploads.com/64dmlwznnqdr",
-    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/refs/heads/main/Immagini/Adobe/lightroom.jpg",
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Adobe/Adobe_Lightroom_Classic.png",
     "Sezione": "Adobe",
     "Tooltip": "Adobe Lightroom Classic v13.4.0.202406181129",
     "MRicerca": "Adobe",
-    "LinkR": null,
-    "Descrizione": "Adobe Lightroom Classic è un software di editing e gestione fotografica sviluppato da Adobe Systems, particolarmente apprezzato dai fotografi professionisti e dagli appassionati."
+    "LinkR": "",
+    "Descrizione": "Adobe Lightroom Classic è un software di editing e gestione fotografica sviluppato da Adobe Systems, particolarmente apprezzato dai fotografi professionisti e dagli appassionati.",
+    "Hash": null
   },
   {
     "Nome": "Adobe Master Collection",
