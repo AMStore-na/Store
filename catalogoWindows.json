@@ -83,11 +83,12 @@
     "Nome": "Adobe Master Collection",
     "Link": "https://telegra.ph/AIMODS-Adobe-Master-Collection-2024-v8-10-02",
     "LinkR": "",
-    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Adobe/adobemastercollection.png",
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Adobe/Adobe_Master_Collection.png",
     "Sezione": "Adobe",
     "Tooltip": "Adobe Master Collection 2024 v8",
     "MRicerca": "Adobe",
-    "Descrizione": "Adobe Master Collection è un pacchetto software completo di Adobe Systems che comprende una serie di applicazioni professionali per la creazione, l'editing e la gestione di contenuti multimediali. È particolarmente apprezzato da professionisti del design, della fotografia, del video e del web."
+    "Descrizione": "Adobe Master Collection è un pacchetto software completo di Adobe Systems che comprende una serie di applicazioni professionali per la creazione, l'editing e la gestione di contenuti multimediali. È particolarmente apprezzato da professionisti del design, della fotografia, del video e del web.",
+    "Hash": null
   },
   {
     "Nome": "Adobe Dimension",
