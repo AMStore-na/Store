@@ -38,12 +38,13 @@
   {
     "Nome": "Adobe Illustrator",
     "Link": "https://devuploads.com/6bgcon2wya1b",
-    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Adobe/illustrator.jpg",
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Adobe/Adobe_Illustrator.png",
     "Sezione": "Adobe",
     "Tooltip": "Adobe Illustrator 2024 v29.1",
     "MRicerca": "Adobe",
     "LinkR": "",
-    "Descrizione": "Adobe Illustrator è un software di grafica vettoriale sviluppato da Adobe Inc. È uno strumento molto popolare tra designer, illustratori e artisti per creare e modificare immagini e design."
+    "Descrizione": "Adobe Illustrator è un software di grafica vettoriale sviluppato da Adobe Inc. È uno strumento molto popolare tra designer, illustratori e artisti per creare e modificare immagini e design.",
+    "Hash": null
   },
   {
     "Nome": "Adobe Premiere Pro",
