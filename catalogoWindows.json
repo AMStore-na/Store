@@ -105,12 +105,12 @@
     "Nome": "Adobe After Effects",
     "Link": "https://devuploads.com/mima169p81wm",
     "LinkR": "",
-    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/refs/heads/main/Immagini/Adobe/aftereffects.jpg",
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Adobe/Adobe_After_Effects.png",
     "Sezione": "Adobe",
     "Descrizione": "Adobe After Effects è un software di compositing e animazione grafica sviluppato da Adobe Inc. È ampiamente utilizzato nel campo della produzione video e della post-produzione per creare effetti visivi dinamici e animazioni di alta qualità.",
     "Tooltip": "Adobe After Effects 2024_v.24.6.2.002",
     "MRicerca": "Adobe",
-    "Hash": null
+    "Hash": ""
   },
   {
     "Nome": "WinToUsb",
