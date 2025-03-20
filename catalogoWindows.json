@@ -126,12 +126,13 @@
   {
     "Nome": "Rhinoceros",
     "Link": "https://devuploads.com/9xdolsczvkw4",
-    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Altro/Rhinoceros.jpg",
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Altro/Rhinoceros.png",
     "Sezione": "Altro",
     "Tooltip": "Rhinoceros v8.6.24101.5001",
-    "MRicerca": "Altro",
-    "LinkR": null,
-    "Descrizione": "Rhino, noto anche come Rhinoceros 3D, è un potente software di modellazione 3D utilizzato in vari settori come l'architettura, l'ingegneria, il design navale, la gioielleria e altro ancora"
+    "MRicerca": "rhinoceros",
+    "LinkR": "",
+    "Descrizione": "Rhino, noto anche come Rhinoceros 3D, è un potente software di modellazione 3D utilizzato in vari settori come l'architettura, l'ingegneria, il design navale, la gioielleria e altro ancora",
+    "Hash": null
   },
   {
     "Nome": "Intellij",
@@ -191,32 +192,35 @@
   {
     "Nome": "NetSpot",
     "Link": "https://devuploads.com/vhk49q5bfmb2",
-    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Altro/netspot.jpg",
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Altro/NetSpot.png",
     "Sezione": "Altro",
     "Tooltip": "NetSpot Multilingual v3.1.0.478",
-    "MRicerca": "Altro",
-    "LinkR": null,
-    "Descrizione": "NetSpot è un'applicazione professionale multipiattaforma progettata per la pianificazione delle reti WiFi, le site survey wireless, l'analisi del WiFi e la risoluzione dei problemi di rete."
+    "MRicerca": "netspot",
+    "LinkR": "",
+    "Descrizione": "NetSpot è un'applicazione professionale multipiattaforma progettata per la pianificazione delle reti WiFi, le site survey wireless, l'analisi del WiFi e la risoluzione dei problemi di rete.",
+    "Hash": null
   },
   {
     "Nome": "Ekahau",
     "Link": "https://devuploads.com/5s0xeca5gmeu",
-    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Altro/ekahau.jpg",
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Altro/Ekahau.png",
     "Sezione": "Altro",
     "Tooltip": "Ekahau Ai Pro 11.6.0",
-    "MRicerca": "Altro",
-    "LinkR": null,
-    "Descrizione": "Ekahau è una piattaforma completa per la progettazione, ottimizzazione e gestione delle reti Wi-Fi, particolarmente utilizzata in ambienti aziendali. Offre una serie di strumenti avanzati per garantire prestazioni ottimali e affidabili delle reti wireless."
+    "MRicerca": "ekahau",
+    "LinkR": "",
+    "Descrizione": "Ekahau è una piattaforma completa per la progettazione, ottimizzazione e gestione delle reti Wi-Fi, particolarmente utilizzata in ambienti aziendali. Offre una serie di strumenti avanzati per garantire prestazioni ottimali e affidabili delle reti wireless.",
+    "Hash": null
   },
   {
-    "Nome": "VMWare",
+    "Nome": "VMware",
     "Link": "https://devuploads.com/wu2lujy0o76m",
-    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/GestioneHDD-SSD/vmware.jpg",
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Altro/VMware.png",
     "Sezione": "Altro",
     "Tooltip": "VMware Workstation Pro v17.6.2.24409262",
     "MRicerca": "vmware",
     "LinkR": "",
-    "Descrizione": "VMware Workstation Pro è un potente strumento di virtualizzazione che permette agli utenti di eseguire più sistemi operativi su un singolo PC."
+    "Descrizione": "VMware Workstation Pro è un potente strumento di virtualizzazione che permette agli utenti di eseguire più sistemi operativi su un singolo PC.",
+    "Hash": null
   },
   {
     "Nome": "Lightburn",
