@@ -30,7 +30,7 @@
     "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Adobe/Adobe_Reader_DC.png",
     "Sezione": "Adobe",
     "Tooltip": "Adobe Reader DC",
-    "MRicerca": "Adobe",
+    "MRicerca": "reader",
     "LinkR": "",
     "Descrizione": "Adobe Reader DC (Document Cloud) è un software sviluppato da Adobe Systems, progettato per visualizzare, stampare e annotare documenti in formato PDF (Portable Document Format). È uno degli strumenti più popolari e ampiamente utilizzati per gestire file PDF.",
     "Hash": ""
@@ -41,10 +41,10 @@
     "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Adobe/Adobe_Illustrator.png",
     "Sezione": "Adobe",
     "Tooltip": "Adobe Illustrator 2024 v29.1",
-    "MRicerca": "Adobe",
+    "MRicerca": "illustrator",
     "LinkR": "",
     "Descrizione": "Adobe Illustrator è un software di grafica vettoriale sviluppato da Adobe Inc. È uno strumento molto popolare tra designer, illustratori e artisti per creare e modificare immagini e design.",
-    "Hash": null
+    "Hash": ""
   },
   {
     "Nome": "Adobe Premiere Pro",
@@ -52,10 +52,10 @@
     "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Adobe/Adobe_Premiere_Pro.png",
     "Sezione": "Adobe",
     "Tooltip": "Adobe Premiere Pro 2024 v25.1",
-    "MRicerca": "Adobe",
+    "MRicerca": "premiere",
     "LinkR": "",
     "Descrizione": "Adobe Premiere Pro è un software di montaggio video professionale sviluppato da Adobe Systems. È ampiamente utilizzato nell'industria cinematografica e televisiva per la sua potenza e versatilità.",
-    "Hash": null
+    "Hash": ""
   },
   {
     "Nome": "Adobe InDesign",
@@ -63,10 +63,10 @@
     "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Adobe/Adobe_InDesign.png",
     "Sezione": "Adobe",
     "Tooltip": "Adobe InDesign 2024 v19.5.0.084",
-    "MRicerca": "Adobe",
+    "MRicerca": "indesign",
     "LinkR": "",
     "Descrizione": "Adobe InDesign è un software di desktop publishing (DTP) sviluppato da Adobe Systems, ampiamente utilizzato per la creazione di layout e design grafici per una varietà di pubblicazioni.",
-    "Hash": null
+    "Hash": ""
   },
   {
     "Nome": "Adobe Lightroom Classic",
@@ -74,10 +74,10 @@
     "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Adobe/Adobe_Lightroom_Classic.png",
     "Sezione": "Adobe",
     "Tooltip": "Adobe Lightroom Classic v13.4.0.202406181129",
-    "MRicerca": "Adobe",
+    "MRicerca": "lightroom",
     "LinkR": "",
     "Descrizione": "Adobe Lightroom Classic è un software di editing e gestione fotografica sviluppato da Adobe Systems, particolarmente apprezzato dai fotografi professionisti e dagli appassionati.",
-    "Hash": null
+    "Hash": ""
   },
   {
     "Nome": "Adobe Master Collection",
@@ -86,9 +86,9 @@
     "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Adobe/Adobe_Master_Collection.png",
     "Sezione": "Adobe",
     "Tooltip": "Adobe Master Collection 2024 v8",
-    "MRicerca": "Adobe",
+    "MRicerca": "adm",
     "Descrizione": "Adobe Master Collection è un pacchetto software completo di Adobe Systems che comprende una serie di applicazioni professionali per la creazione, l'editing e la gestione di contenuti multimediali. È particolarmente apprezzato da professionisti del design, della fotografia, del video e del web.",
-    "Hash": null
+    "Hash": ""
   },
   {
     "Nome": "Adobe Dimension",
@@ -98,8 +98,8 @@
     "Sezione": "Adobe",
     "Descrizione": "Adobe Dimension è un software di grafica 3D sviluppato da Adobe Systems, progettato per facilitare la creazione di immagini e composizioni 3D in modo semplice e intuitivo.",
     "Tooltip": "Adobe Dimension v4.0.4",
-    "MRicerca": "Adobe",
-    "Hash": null
+    "MRicerca": "dimension",
+    "Hash": ""
   },
   {
     "Nome": "Adobe After Effects",
@@ -109,7 +109,7 @@
     "Sezione": "Adobe",
     "Descrizione": "Adobe After Effects è un software di compositing e animazione grafica sviluppato da Adobe Inc. È ampiamente utilizzato nel campo della produzione video e della post-produzione per creare effetti visivi dinamici e animazioni di alta qualità.",
     "Tooltip": "Adobe After Effects 2024_v.24.6.2.002",
-    "MRicerca": "Adobe",
+    "MRicerca": "effects",
     "Hash": ""
   },
   {
