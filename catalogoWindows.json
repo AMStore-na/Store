@@ -113,9 +113,9 @@
     "Hash": ""
   },
   {
-    "Nome": "WinToUsb",
+    "Nome": "WinToUSB",
     "Link": "https://devuploads.com/k9uy80fy2mjh",
-    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Altro/Win_ToUsb.png",
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Altro/WinToUSB.png",
     "Sezione": "Altro",
     "Tooltip": "WinToUsb v8.8",
     "MRicerca": "wintousb",
@@ -538,12 +538,13 @@
   {
     "Nome": "CorelDraw Technical Suite",
     "Link": "https://devuploads.com/jc60551uvyff",
-    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Altro/coreldraw.jpg",
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Editing/CorelDraw_Technical_Suite.png",
     "Sezione": "Gestione Foto/Video e Editing",
     "Tooltip": "CorelDraw Technical Suite 2024 v25.0.0.230",
     "MRicerca": "Gestione Foto/Video e Editing",
-    "LinkR": null,
-    "Descrizione": "La CorelDRAW Technical Suite è una collezione completa di applicazioni professionali per la progettazione tecnica e la documentazione di alto impatto. È progettata per soddisfare le esigenze di vari settori, come la manifattura, l'ingegneria, l'architettura e l'alta tecnologia."
+    "LinkR": "",
+    "Descrizione": "La CorelDRAW Technical Suite è una collezione completa di applicazioni professionali per la progettazione tecnica e la documentazione di alto impatto. È progettata per soddisfare le esigenze di vari settori, come la manifattura, l'ingegneria, l'architettura e l'alta tecnologia.",
+    "Hash": null
   },
   {
     "Nome": "Wondershare Filmora",
