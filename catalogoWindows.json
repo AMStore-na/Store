@@ -94,11 +94,12 @@
     "Nome": "Adobe Dimension",
     "Link": "https://devuploads.com/xzbexla17pr6",
     "LinkR": "",
-    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Adobe/adobedimension.png",
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Adobe/Adobe_Dimension.png",
     "Sezione": "Adobe",
     "Descrizione": "Adobe Dimension è un software di grafica 3D sviluppato da Adobe Systems, progettato per facilitare la creazione di immagini e composizioni 3D in modo semplice e intuitivo.",
     "Tooltip": "Adobe Dimension v4.0.4",
-    "MRicerca": "Adobe"
+    "MRicerca": "Adobe",
+    "Hash": null
   },
   {
     "Nome": "Adobe After Effects",
