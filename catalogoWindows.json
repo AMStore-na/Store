@@ -1,17 +1,14 @@
 [
   {
     "Nome": "Adobe Acrobat Pro",
-    "Link": {
-      "x64": "https://devuploads.com/3jxh3h0bnkhb",
-      "x32": "https://devuploads.com/c2gs8lp9s8xe"
-    },
+    "Link": "{\r\n  \"x64\": \"https://devuploads.com/3jxh3h0bnkhb\",\r\n  \"x32\": \"https://devuploads.com/c2gs8lp9s8xe\"\r\n}",
     "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Adobe/acrobatpro.jpg",
     "Sezione": "Adobe",
     "Tooltip": "Adobe Acrobat Pro 2025 v25.1.20428",
     "MRicerca": "acrobat",
     "LinkR": "",
     "Descrizione": "Adobe Acrobat Pro è un software potente e versatile sviluppato da Adobe Systems per la creazione, modifica e gestione di file PDF (Portable Document Format). È ampiamente utilizzato in ambito professionale per la sua capacità di manipolare documenti in modo efficiente.",
-    "Hash": ""
+    "Hash": "585466258555551"
   },
   {
     "Nome": "Adobe Photoshop",
