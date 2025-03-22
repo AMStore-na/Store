@@ -803,16 +803,6 @@
     "MRicerca": "revo"
   },
   {
-    "Nome": "Kingdom Hearts HD",
-    "Link": "https://devuploads.com/ehgdpbt3bjzc",
-    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Games/KingdomHeartsHD.jpg",
-    "Sezione": "Giochi",
-    "Tooltip": "Kingdom Hearts HD 2.8 Final Chapter Prologue",
-    "MRicerca": "Giochi",
-    "LinkR": null,
-    "Descrizione": "Kingdom Hearts HD 2.8 Final Chapter Prologue è una raccolta di giochi della serie Kingdom Hearts, sviluppata da Square Enix."
-  },
-  {
     "Nome": "Grand Theft Auto V",
     "Link": "https://devuploads.com/7jsijapl15cu",
     "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/refs/heads/main/Immagini/Games/gtaV.jpg",
