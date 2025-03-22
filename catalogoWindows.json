@@ -324,72 +324,79 @@
   {
     "Nome": "Autodesk Revit",
     "Link": "https://devuploads.com/1sukco621r70",
-    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Building%20Information%20Modeling/Revit.png",
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Building%20Information%20Modeling/Autodesk_Revit.png",
     "Sezione": "Building Information Modeling",
     "Tooltip": "Autodesk Revit 2025",
-    "MRicerca": "Revit",
+    "MRicerca": "revit",
     "LinkR": "",
-    "Descrizione": "Autodesk Revit è un software di progettazione e modellazione per l'architettura, l'ingegneria e le costruzioni, sviluppato da Autodesk. È ampiamente utilizzato nel settore delle costruzioni per il Building Information Modeling (BIM)."
+    "Descrizione": "Autodesk Revit è un software di progettazione e modellazione per l'architettura, l'ingegneria e le costruzioni, sviluppato da Autodesk. È ampiamente utilizzato nel settore delle costruzioni per il Building Information Modeling (BIM).",
+    "Hash": null
   },
   {
     "Nome": "Autodesk AutoCAD",
     "Link": "https://devuploads.com/n2zng89rr6hw",
-    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Building%20Information%20Modeling/AutoCAD.png",
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Building%20Information%20Modeling/Autodesk_AutoCAD.png",
     "Sezione": "Building Information Modeling",
     "Tooltip": "Autodesk AutoCAD 2025.0.1 Build v72.0.0",
-    "MRicerca": "Autocad",
+    "MRicerca": "autocad",
     "LinkR": "",
-    "Descrizione": "Autodesk AutoCAD è un software di progettazione assistita da computer (CAD) molto utilizzato nel settore dell'architettura, dell'ingegneria e della progettazione industriale."
+    "Descrizione": "Autodesk AutoCAD è un software di progettazione assistita da computer (CAD) molto utilizzato nel settore dell'architettura, dell'ingegneria e della progettazione industriale.",
+    "Hash": null
   },
   {
     "Nome": "Autodesk Maya",
     "Link": "https://devuploads.com/w5cug44ntqx5",
-    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Building%20Information%20Modeling/Maya.png",
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Building%20Information%20Modeling/Autodesk_Maya.png",
     "Sezione": "Building Information Modeling",
     "Tooltip": "Autodesk Maya 2025",
-    "MRicerca": "Maya",
+    "MRicerca": "maya",
     "LinkR": "",
-    "Descrizione": "Autodesk Maya è un software di animazione e modellazione 3D ampiamente utilizzato nell'industria dell'animazione, dei videogiochi, della visualizzazione architettonica e degli effetti visivi."
+    "Descrizione": "Autodesk Maya è un software di animazione e modellazione 3D ampiamente utilizzato nell'industria dell'animazione, dei videogiochi, della visualizzazione architettonica e degli effetti visivi.",
+    "Hash": null
   },
   {
     "Nome": "Enscape 3D",
     "Link": "https://devuploads.com/8sbvdqj9r1bc",
-    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Building%20Information%20Modeling/Enscape.png",
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Building%20Information%20Modeling/Enscape_3D.png",
     "Sezione": "Building Information Modeling",
     "Tooltip": "Enscape 3D v4.0.1.48 for Revit",
-    "MRicerca": "Enscape",
+    "MRicerca": "enscape",
     "LinkR": "",
-    "Descrizione": "Enscape 3D è un plugin di rendering in tempo reale e realtà virtuale progettato per integrarsi perfettamente con strumenti di progettazione come Revit, SketchUp, Rhino, ArchiCAD e Vectorworks. È utilizzato principalmente da architetti, progettisti e paesaggisti per visualizzare e presentare i loro progetti in modo più interattivo e realistico."
+    "Descrizione": "Enscape 3D è un plugin di rendering in tempo reale e realtà virtuale progettato per integrarsi perfettamente con strumenti di progettazione come Revit, SketchUp, Rhino, ArchiCAD e Vectorworks. È utilizzato principalmente da architetti, progettisti e paesaggisti per visualizzare e presentare i loro progetti in modo più interattivo e realistico.",
+    "Hash": null
   },
   {
     "Nome": "Autodesk Inventor",
     "Link": "https://devuploads.com/x1on33ux4w3g",
     "LinkR": "",
-    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Building%20Information%20Modeling/Inventor.png",
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Building%20Information%20Modeling/Autodesk_Inventor.png",
     "Sezione": "Building Information Modeling",
     "Descrizione": "Autodesk Inventor è un software di progettazione assistita da computer (CAD) 3D, sviluppato da Autodesk, utilizzato principalmente per la progettazione meccanica e l'ingegneria.",
     "Tooltip": "Autodesk Inventor",
-    "MRicerca": "Inventor"
+    "MRicerca": "inventor",
+    "Hash": null
   },
   {
     "Nome": "ACCA Edificius",
     "Link": "https://devuploads.com/kib434lk6v8t",
     "LinkR": "",
-    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Building%20Information%20Modeling/Edificius.png",
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Building%20Information%20Modeling/ACCA_Edificius.png",
     "Sezione": "Building Information Modeling",
     "Descrizione": "ACCA Edificius è un software di progettazione architettonica e di gestione della costruzione, sviluppato da ACCA Software, un'azienda italiana specializzata in soluzioni informatiche per il settore delle costruzioni. Ecco alcune delle sue caratteristiche principali",
     "Tooltip": "ACCA Edificius",
-    "MRicerca": "Edificius"
+    "MRicerca": "edificius",
+    "Hash": null
   },
   {
     "Nome": "Lumion",
     "Link": "https://devuploads.com/byr7v3lji8fu",
-    "LinkR": null,
-    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Building%20Information%20Modeling/photo_2025-02-03_20-08-08.png",
+    "LinkR": "",
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Building%20Information%20Modeling/Lumion.png",
     "Sezione": "Building Information Modeling",
     "Descrizione": "Lumion Pro",
     "Tooltip": "Lumion Pro (https://lumion.com/) v2024.4.2.0",
-    "MRicerca": "Lumion"
+    "MRicerca": "lumion",
+    "Hash": null
   },
   {
     "Nome": "Freemake Video Converter",
