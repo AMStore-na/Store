@@ -1147,12 +1147,12 @@
     "Nome": "Kingdom Hearts HD",
     "Link": "https://devuploads.com/ehgdpbt3bjzc",
     "LinkR": "",
-    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Games/KingdomHeartsHD.jpg",
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Games/Kingdom_Hearts_HD.png",
     "Sezione": "Giochi",
     "Descrizione": "Kingdom Hearts HD 2.8 Final Chapter Prologue è una raccolta di giochi della serie Kingdom Hearts, sviluppata da Square Enix.",
     "Tooltip": "Kingdom Hearts HD 2.8 Final Chapter Prologue",
-    "MRicerca": "Giochi",
-    "Hash": null
+    "MRicerca": "kingdom",
+    "Hash": ""
   },
   {
     "Nome": "Topaz Photo AI",
