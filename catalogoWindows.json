@@ -900,12 +900,13 @@
   {
     "Nome": "Far Cry 5",
     "Link": "https://devuploads.com/pjz1k3kpgsjv",
-    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Games/farcry5.png",
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Games/Far_Cry_5.png",
     "Sezione": "Giochi",
     "Tooltip": "Far Cry 5 v1.011 + 5 DLCs",
-    "MRicerca": "Giochi",
-    "LinkR": null,
-    "Descrizione": "Far Cry 5 è un videogioco d'azione-avventura sviluppato da Ubisoft Montreal e pubblicato da Ubisoft. È il quinto capitolo principale della serie Far Cry e è ambientato nella fittizia contea di Hope County, Montana1. Il gioco ruota attorno alla lotta contro una setta religiosa estremista chiamata Eden's Gate, guidata da Joseph Seed, che si è insediata abusivamente nella regione."
+    "MRicerca": "far",
+    "LinkR": "",
+    "Descrizione": "Far Cry 5 è un videogioco d'azione-avventura sviluppato da Ubisoft Montreal e pubblicato da Ubisoft. È il quinto capitolo principale della serie Far Cry e è ambientato nella fittizia contea di Hope County, Montana1. Il gioco ruota attorno alla lotta contro una setta religiosa estremista chiamata Eden's Gate, guidata da Joseph Seed, che si è insediata abusivamente nella regione.",
+    "Hash": null
   },
   {
     "Nome": "DIRT 5 Year One Edition",
@@ -920,22 +921,24 @@
   {
     "Nome": "The Casting of Frank Stone",
     "Link": "https://devuploads.com/yya3r4q3jjtw",
-    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Games/the%20casting%20of%20frank%20stone.jpg",
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/AI/The_Casting_Of_Frank_Stone.png",
     "Sezione": "Giochi",
     "Tooltip": "The Casting of Frank Stone Deluxe Edition + 2 DLCs",
-    "MRicerca": "Giochi",
-    "LinkR": null,
-    "Descrizione": "The Casting of Frank Stone è un gioco horror interattivo sviluppato da Supermassive Games e pubblicato da Behaviour Interactive. È ambientato nell'universo di Dead by Daylight e offre una narrazione ramificata, enigmi ambientali e eventi in tempo reale (QTE)."
+    "MRicerca": "casting",
+    "LinkR": "",
+    "Descrizione": "The Casting of Frank Stone è un gioco horror interattivo sviluppato da Supermassive Games e pubblicato da Behaviour Interactive. È ambientato nell'universo di Dead by Daylight e offre una narrazione ramificata, enigmi ambientali e eventi in tempo reale (QTE).",
+    "Hash": null
   },
   {
     "Nome": "Life Is Strange 2",
     "Link": "https://devuploads.com/e7hmldkob48m",
-    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/refs/heads/main/Immagini/Games/lifeisstrange2.jpg",
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Games/Life_Is_Strange_2.png",
     "Sezione": "Giochi",
     "Tooltip": "Life Is Strange 2",
-    "MRicerca": "Giochi",
-    "LinkR": null,
-    "Descrizione": "Life Is Strange 2 è un'avventura grafica episodica sviluppata da Dontnod Entertainment e pubblicata da Square Enix. È il quarto titolo della serie Life Is Strange. La storia segue le vicende di due fratelli, Sean e Daniel Diaz, che fuggono a casa dopo un tragico incidente. Durante la loro fuga, Daniel sviluppa poteri telecinetici, e i due fratelli devono affrontare nuove sfide e incontrare nuovi amici mentre viaggiano verso il Messico."
+    "MRicerca": "life",
+    "LinkR": "",
+    "Descrizione": "Life Is Strange 2 è un'avventura grafica episodica sviluppata da Dontnod Entertainment e pubblicata da Square Enix. È il quarto titolo della serie Life Is Strange. La storia segue le vicende di due fratelli, Sean e Daniel Diaz, che fuggono a casa dopo un tragico incidente. Durante la loro fuga, Daniel sviluppa poteri telecinetici, e i due fratelli devono affrontare nuove sfide e incontrare nuovi amici mentre viaggiano verso il Messico.",
+    "Hash": null
   },
   {
     "Nome": "Palworld",
@@ -943,19 +946,21 @@
     "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Games/Palworld.png",
     "Sezione": "Giochi",
     "Tooltip": "Palworld v0.3.6.57672",
-    "MRicerca": "Giochi",
-    "LinkR": null,
-    "Descrizione": "Palworld è un gioco di sopravvivenza e crafting sviluppato da Pocketpair. In questo gioco, i giocatori possono esplorare un mondo aperto, combattere, catturare creature chiamate Pals, costruire basi e svolgere varie attività."
+    "MRicerca": "palworld",
+    "LinkR": "",
+    "Descrizione": "Palworld è un gioco di sopravvivenza e crafting sviluppato da Pocketpair. In questo gioco, i giocatori possono esplorare un mondo aperto, combattere, catturare creature chiamate Pals, costruire basi e svolgere varie attività.",
+    "Hash": null
   },
   {
     "Nome": "Enotria",
     "Link": "https://devuploads.com/7sgzren8qaju",
-    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Games/enotria.png",
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Games/Enotria.png",
     "Sezione": "Giochi",
     "Tooltip": "Enotria",
-    "MRicerca": "Giochi",
-    "LinkR": null,
-    "Descrizione": "Enotria: The Last Song è un videogioco action RPG in stile Souls sviluppato da Jyamma Games. È ambientato in un mondo ispirato dal folklore italiano, dove il sole più luminoso proietta l'ombra più oscura. Il giocatore assume il ruolo di un personaggio senza maschera, libero dal destino predeterminato, e deve liberare il mondo dalla stagnazione usando il potere dell'Ardore."
+    "MRicerca": "enotria",
+    "LinkR": "",
+    "Descrizione": "Enotria: The Last Song è un videogioco action RPG in stile Souls sviluppato da Jyamma Games. È ambientato in un mondo ispirato dal folklore italiano, dove il sole più luminoso proietta l'ombra più oscura. Il giocatore assume il ruolo di un personaggio senza maschera, libero dal destino predeterminato, e deve liberare il mondo dalla stagnazione usando il potere dell'Ardore.",
+    "Hash": null
   },
   {
     "Nome": "Silent Hill 2",
