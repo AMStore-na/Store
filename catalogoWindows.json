@@ -1003,27 +1003,30 @@
     "Sezione": "Giochi",
     "Descrizione": "Teardown è un gioco sandbox, puzzle e azione sviluppato e pubblicato da Tuxedo Labs. Il gioco si svolge in un ambiente completamente distruttibile e interattivo, dove i giocatori devono pianificare e eseguire colpi perfetti utilizzando la risoluzione creativa dei problemi o la forza bruta.",
     "Tooltip": "Teardown",
-    "MRicerca": "Teardown"
+    "MRicerca": "teardown",
+    "Hash": null
   },
   {
     "Nome": "Assassin's Creed Syndacate",
     "Link": "https://devuploads.com/he7ub8115o7i",
     "LinkR": "",
-    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Games/Assassins%20Creed%20Syndacate.png",
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Games/Assassins_Creed_Syndacate.png",
     "Sezione": "Giochi",
     "Descrizione": "Assassin's Creed Syndicate è un videogioco d'azione-avventura sviluppato da Ubisoft e pubblicato nel 2015. Fa parte della famosa serie Assassin's Creed e si distingue per le sue ambientazioni storiche, la narrativa avvincente e il gameplay dinamico.",
-    "Tooltip": "",
-    "MRicerca": "Assassin's Creed Syndacate"
+    "Tooltip": "Assassin's Creed Syndacate",
+    "MRicerca": "assassins",
+    "Hash": null
   },
   {
     "Nome": "Assassin's Creed Mirage",
     "Link": "https://devuploads.com/t65fjutj6aer",
     "LinkR": "",
-    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Games/Assassins%20Creed%20Mirage.png",
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Games/Assassins_Creed_Mirage.png",
     "Sezione": "Giochi",
     "Descrizione": "Assassin's Creed Mirage è un gioco d'azione e avventura sviluppato da Ubisoft Bordeaux e pubblicato da Ubisoft. Rappresenta il tredicesimo capitolo principale della serie Assassin's Creed ed è stato pubblicato nel 2023.",
-    "Tooltip": "",
-    "MRicerca": "Assassin's Creed Mirage"
+    "Tooltip": "Assassin's Creed Mirage",
+    "MRicerca": "assassins",
+    "Hash": null
   },
   {
     "Nome": "Fernbus Simulator",
