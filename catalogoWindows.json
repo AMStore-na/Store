@@ -1032,51 +1032,56 @@
     "Nome": "Fernbus Simulator",
     "Link": "https://devuploads.com/lfjecc8xrabh",
     "LinkR": "",
-    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Games/fernbus.png",
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Games/Fernbus_Simulator.png",
     "Sezione": "Giochi",
     "Descrizione": "Fernbus Coach Simulator è il primo simulatore dei popolari autobus interurbani. Grazie alla cooperazione con FlixBus, Fernbus Coach Simulator fa immedesimare il giocatore nella vita quotidiana di un autista di autobus sulle Autobahn tedesche, autostrade e più di 40 città estremamente dettagliate.",
     "Tooltip": "Fernbus Simulator",
-    "MRicerca": "Giochi"
+    "MRicerca": "fernbus",
+    "Hash": null
   },
   {
     "Nome": "Train Sim World",
     "Link": "https://devuploads.com/bibcnnmx6i71",
     "LinkR": "",
-    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Games/Train%20Sim%20World.png",
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Games/Train_Sim_World.png",
     "Sezione": "Giochi",
     "Descrizione": "Train Sim World",
     "Tooltip": "Train Sim World v5",
-    "MRicerca": "train"
+    "MRicerca": "train",
+    "Hash": null
   },
   {
-    "Nome": "Arcade Paradise: Digital Deluxe Edition",
+    "Nome": "Arcade Paradise Digital Deluxe Edition",
     "Link": "https://devuploads.com/pf7mkynncj29",
     "LinkR": "",
-    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Games/ArcadeParadise.png",
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Games/Arcade_Paradise_Digital_Deluxe_Edition.png",
     "Sezione": "Giochi",
     "Descrizione": "Arcade Paradise: Digital Deluxe Edition è un'entusiasmante miscela di gioco arcade retrò e simulazione di gestione della luce, ambientata nel vivace mondo degli anni '90.",
     "Tooltip": "Arcade Paradise: Digital Deluxe Edition, v1.3.20230515.143309 + 8 DLCs + Bonus OST",
-    "MRicerca": "Giochi"
+    "MRicerca": "arcade",
+    "Hash": null
   },
   {
     "Nome": "Need For Speed Most Wanted Black Edition",
     "Link": "https://devuploads.com/nq8mzryy2dwx",
     "LinkR": "",
-    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Games/NeedForSpeedMostWanted.png",
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Games/Need_For_Speed_Most_Wanted_Black_Edition.png",
     "Sezione": "Giochi",
     "Descrizione": "Need for Speed: Most Wanted (2005) è a videogioco di corse sviluppato da EA Canada e pubblicato da Electronic Arts. È la nona puntata della serie Need for Speed ed è stata rilasciata nel novembre 2005 per piattaforme tra cui PC, PlayStation 2, Nintendo GameCube, Xbox e telefoni cellulari. Il gioco reintroduce le attività di polizia e combina il gameplay open world con le opzioni di personalizzazione dei veicoli dei precedenti titoli Underground. La storia coinvolge un corridore di strada solitario in competizione con 15 piloti d'élite nella città immaginaria di Rockport per diventare il pilota “più ricercato ”. Il gioco è stato ben accolto, con un recensore che gli ha dato un punteggio di 9,0 su 10, elogiando il suo gameplay e il design open world.",
     "Tooltip": "Need For Speed Most Wanted Black Edition",
-    "MRicerca": "Giochi"
+    "MRicerca": "need",
+    "Hash": null
   },
   {
     "Nome": "Thief Simulator",
     "Link": "https://devuploads.com/gjdbihzs4ubq",
-    "LinkR": null,
-    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Games/Thief%20Simulator.png",
+    "LinkR": "",
+    "ImmagineUrl": "vhttps://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Games/Thief_Simulator.png",
     "Sezione": "Giochi",
     "Descrizione": "Diventa il migliore dei ladri. Raccogli informazioni, ruba oggetti e vendili per comprare attrezzature hi-tech. Fai tutto ciò che fa un vero ladro.",
     "Tooltip": "Thief Simulator – v1.8 + 2 DLCs",
-    "MRicerca": "Giochi"
+    "MRicerca": "thief",
+    "Hash": null
   },
   {
     "Nome": "Arma Reforger",
