@@ -965,32 +965,35 @@
   {
     "Nome": "Silent Hill 2",
     "Link": "https://devuploads.com/ask4manf1zqq",
-    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Games/silenthill2.png",
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Games/Silent_Hill_2.png",
     "Sezione": "Giochi",
     "Tooltip": "Silent Hill 2: Digital Deluxe Edition – v1.1.236.114 + 4 DLCs/Bonuses",
-    "MRicerca": "Giochi",
-    "LinkR": null,
-    "Descrizione": "Silent Hill 2 è un classico videogioco survival horror psicologico, pubblicato originariamente nel 2001 da Konami per PlayStation 2. La trama segue James Sunderland, un uomo che riceve una misteriosa lettera dalla moglie defunta, Mary, e decide di recarsi nella nebbiosa città di Silent Hill per ritrovarla1. Lungo il suo cammino, incontra Maria, una donna che somiglia a Mary, e deve affrontare creature inquietanti e risolvere enigmi per scoprire la verità"
+    "MRicerca": "silent",
+    "LinkR": "",
+    "Descrizione": "Silent Hill 2 è un classico videogioco survival horror psicologico, pubblicato originariamente nel 2001 da Konami per PlayStation 2. La trama segue James Sunderland, un uomo che riceve una misteriosa lettera dalla moglie defunta, Mary, e decide di recarsi nella nebbiosa città di Silent Hill per ritrovarla1. Lungo il suo cammino, incontra Maria, una donna che somiglia a Mary, e deve affrontare creature inquietanti e risolvere enigmi per scoprire la verità",
+    "Hash": null
   },
   {
     "Nome": "DRAGON BALL Sparking ZERO",
     "Link": "https://devuploads.com/scm25orkavdf",
-    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Games/dragonballsparkingzero.png",
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Games/DRAGON_BALL_Sparking_ZERO.png",
     "Sezione": "Giochi",
     "Tooltip": "DRAGON BALL: Sparking! ZERO, v1003.003.003.003.002 + 5 DLCs + Windows 7 Fix",
-    "MRicerca": "Giochi",
-    "LinkR": null,
-    "Descrizione": "Dragon Ball Sparking! Zero è un videogioco di combattimento 3D sviluppato da Spike Chunsoft e pubblicato da Bandai Namco Entertainment. È il sequel di Dragon Ball Z: Budokai Tenkaichi 3 e fa parte della serie Budokai Tenkaichi."
+    "MRicerca": "dragon",
+    "LinkR": "",
+    "Descrizione": "Dragon Ball Sparking! Zero è un videogioco di combattimento 3D sviluppato da Spike Chunsoft e pubblicato da Bandai Namco Entertainment. È il sequel di Dragon Ball Z: Budokai Tenkaichi 3 e fa parte della serie Budokai Tenkaichi.",
+    "Hash": null
   },
   {
-    "Nome": "TG Card Shop Simulator",
+    "Nome": "TCG Card Shop Simulator",
     "Link": "https://devuploads.com/ro1m6pgrk8wr",
     "LinkR": "",
-    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Games/tgcardshopsimulator.png",
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Games/TCG_Card_Shop_Simulator.png",
     "Sezione": "Giochi",
     "Descrizione": "TCG Card Shop Simulator è una simulazione di negozio di carte collezionabili in cui si vendono i booster pack di carte per guadagnare denaro e costruire il proprio negozio di carte.",
     "Tooltip": "TCG Card Shop Simulator v0.47.3",
-    "MRicerca": "Giochi"
+    "MRicerca": "tcg",
+    "Hash": null
   },
   {
     "Nome": "Teardown",
