@@ -812,82 +812,90 @@
   {
     "Nome": "Grand Theft Auto V",
     "Link": "https://devuploads.com/7jsijapl15cu",
-    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/refs/heads/main/Immagini/Games/gtaV.jpg",
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Games/Grand_Theft_Auto_V.png",
     "Sezione": "Giochi",
     "Tooltip": "Grand Theft Auto V",
-    "MRicerca": "Giochi",
-    "LinkR": null,
-    "Descrizione": "Grand Theft Auto V (GTA V) è un videogioco d'azione-avventura sviluppato da Rockstar North e pubblicato da Rockstar Games. È il quinto capitolo principale della serie Grand Theft Auto ed è ambientato nello stato immaginario di San Andreas, che include la città di Los Santos, ispirata a Los Angeles."
+    "MRicerca": "auto",
+    "LinkR": "",
+    "Descrizione": "Grand Theft Auto V (GTA V) è un videogioco d'azione-avventura sviluppato da Rockstar North e pubblicato da Rockstar Games. È il quinto capitolo principale della serie Grand Theft Auto ed è ambientato nello stato immaginario di San Andreas, che include la città di Los Santos, ispirata a Los Angeles.",
+    "Hash": null
   },
   {
     "Nome": "Marvels Spider-Man Remastered",
     "Link": "https://telegra.ph/Marvels-Spider-Man-Remastered-V181210--DLC--Correzione-SSE-06-11",
-    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Games/spiderman.jpg",
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Games/Marvels_Spider-Man_Remastered.png",
     "Sezione": "Giochi",
     "Tooltip": "Marvels Spider-Man Remastered V1.812.1.0 + DLC + Correzione SSE",
-    "MRicerca": "marvels",
+    "MRicerca": "spider",
     "LinkR": "",
-    "Descrizione": "Marvel's Spider-Man Remastered è una versione migliorata del gioco originale sviluppato da Insomniac Games e pubblicato da Sony Interactive Entertainment. Questa versione è stata ottimizzata per le console PS5 e PC, offrendo grafica migliorata, nuove funzionalità immersive e un'esperienza di gioco più fluida."
+    "Descrizione": "Marvel's Spider-Man Remastered è una versione migliorata del gioco originale sviluppato da Insomniac Games e pubblicato da Sony Interactive Entertainment. Questa versione è stata ottimizzata per le console PS5 e PC, offrendo grafica migliorata, nuove funzionalità immersive e un'esperienza di gioco più fluida.",
+    "Hash": null
   },
   {
     "Nome": "Life is Strange Before The Storm",
     "Link": "https://telegra.ph/Life-Is-Strange-Before-The-Storm-06-14",
-    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Games/lifeisstrange.jpg",
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Games/Life_is_Strange_Before_The_Storm.png",
     "Sezione": "Giochi",
     "Tooltip": "LIS: Before The Storm",
-    "MRicerca": "Giochi",
-    "LinkR": null,
-    "Descrizione": "Life Is Strange: Before the Storm è un'avventura grafica episodica sviluppata da Deck Nine Games e pubblicata da Square Enix. È un prequel della serie Life Is Strange e si svolge tre anni prima degli eventi del primo gioco. La storia si concentra su Chloe Price, una ribelle di sedici anni, e sulla sua relazione con Rachel Amber, una compagna di classe destinata al successo."
+    "MRicerca": "life",
+    "LinkR": "",
+    "Descrizione": "Life Is Strange: Before the Storm è un'avventura grafica episodica sviluppata da Deck Nine Games e pubblicata da Square Enix. È un prequel della serie Life Is Strange e si svolge tre anni prima degli eventi del primo gioco. La storia si concentra su Chloe Price, una ribelle di sedici anni, e sulla sua relazione con Rachel Amber, una compagna di classe destinata al successo.",
+    "Hash": null
   },
   {
     "Nome": "Horizon Forbidden West",
     "Link": "https://devuploads.com/7l7zir8jloun",
-    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Games/horizonforbiddenwest.jpg",
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Games/Horizon_Forbidden_West.png",
     "Sezione": "Giochi",
     "Tooltip": "Horizon Forbidden West",
-    "MRicerca": "Giochi",
-    "LinkR": null,
-    "Descrizione": "Horizon Forbidden West è un videogioco action RPG sviluppato da Guerrilla Games e pubblicato da Sony Interactive Entertainment. È il sequel di Horizon Zero Dawn e è ambientato in un mondo post-apocalittico. Il gioco segue le avventure di Aloy, una cercatrice che cerca di scoprire i segreti che minacciano la Terra e di riportare equilibrio e ordine nel mondo."
+    "MRicerca": "horizon",
+    "LinkR": "",
+    "Descrizione": "Horizon Forbidden West è un videogioco action RPG sviluppato da Guerrilla Games e pubblicato da Sony Interactive Entertainment. È il sequel di Horizon Zero Dawn e è ambientato in un mondo post-apocalittico. Il gioco segue le avventure di Aloy, una cercatrice che cerca di scoprire i segreti che minacciano la Terra e di riportare equilibrio e ordine nel mondo.",
+    "Hash": null
   },
   {
     "Nome": "Football Manager 2023",
     "Link": "https://devuploads.com/q046k792f9vl",
-    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Games/footballmanager2023.jpg",
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Games/Football_Manager_2023.png",
     "Sezione": "Giochi",
     "Tooltip": "Football Manager 2023",
-    "MRicerca": "Giochi",
-    "LinkR": null,
-    "Descrizione": "Football Manager 2023 è il più recente titolo della serie di simulazione calcistica sviluppata da Sports Interactive e pubblicato da SEGA. Questo gioco permette agli utenti di assumere il ruolo di un allenatore di calcio, gestendo squadre, tattiche, trasferimenti di giocatori e molto altro."
+    "MRicerca": "football",
+    "LinkR": "",
+    "Descrizione": "Football Manager 2023 è il più recente titolo della serie di simulazione calcistica sviluppata da Sports Interactive e pubblicato da SEGA. Questo gioco permette agli utenti di assumere il ruolo di un allenatore di calcio, gestendo squadre, tattiche, trasferimenti di giocatori e molto altro.",
+    "Hash": null
   },
   {
     "Nome": "Hearts Of Iron IV",
     "Link": "https://telegra.ph/Hearts-Of-Iron-IV-v1146--all-DLC-06-18",
-    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Games/heartsofiron.jpg",
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Games/Hearts_Of_Iron_IV.png",
     "Sezione": "Giochi",
     "Tooltip": "Hearts Of Iron IV v1.14.6 + all DLC",
-    "MRicerca": "Giochi",
-    "LinkR": null,
-    "Descrizione": "Hearts of Iron IV è un videogioco di strategia in tempo reale ambientato durante la Seconda Guerra Mondiale, sviluppato da Paradox Interactive. Il gioco permette ai giocatori di assumere il controllo di qualsiasi nazione indipendente del mondo negli anni 1936 o 1939 e guidarla attraverso la guerra."
+    "MRicerca": "hearts",
+    "LinkR": "",
+    "Descrizione": "Hearts of Iron IV è un videogioco di strategia in tempo reale ambientato durante la Seconda Guerra Mondiale, sviluppato da Paradox Interactive. Il gioco permette ai giocatori di assumere il controllo di qualsiasi nazione indipendente del mondo negli anni 1936 o 1939 e guidarla attraverso la guerra.",
+    "Hash": null
   },
   {
     "Nome": "Supermarket Simulator",
     "Link": "https://devuploads.com/qoq7y7i2zjeu",
-    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Games/supermarketsimulator.jpg",
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Games/Supermarket_Simulator.png",
     "Sezione": "Giochi",
     "Tooltip": "Supermarket Simulator v0.5",
-    "MRicerca": "Giochi",
+    "MRicerca": "supermarket",
     "LinkR": "",
-    "Descrizione": "Supermarket Simulator è un gioco di simulazione in cui puoi gestire il tuo supermercato, dall'inventario alla gestione del personale"
+    "Descrizione": "Supermarket Simulator è un gioco di simulazione in cui puoi gestire il tuo supermercato, dall'inventario alla gestione del personale",
+    "Hash": null
   },
   {
     "Nome": "Euro Truck Simulator 2",
     "Link": "https://devuploads.com/1b1km9u0r76g",
-    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Games/eurotrucksimulator.jpg",
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Games/Euro_Truck_Simulator_2.png",
     "Sezione": "Giochi",
     "Tooltip": "Euro Truck Simulator 2 v1.50.1.0s + 87 DLCs",
-    "MRicerca": "Giochi",
-    "LinkR": null,
-    "Descrizione": "Euro Truck Simulator 2 è un videogioco di simulazione di camion sviluppato da SCS Software e pubblicato da Euro Truck Simulator 2. Il gioco ti permette di viaggiare attraverso l'Europa come re della strada, consegnando merci su lunghe distanze e esplorando numerose città e paesi."
+    "MRicerca": "euro",
+    "LinkR": "",
+    "Descrizione": "Euro Truck Simulator 2 è un videogioco di simulazione di camion sviluppato da SCS Software e pubblicato da Euro Truck Simulator 2. Il gioco ti permette di viaggiare attraverso l'Europa come re della strada, consegnando merci su lunghe distanze e esplorando numerose città e paesi.",
+    "Hash": null
   },
   {
     "Nome": "Far Cry 5",
