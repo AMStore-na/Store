@@ -665,32 +665,35 @@
   {
     "Nome": "FL Studio",
     "Link": "https://devuploads.com/1yxh6pdyy5ti",
-    "LinkR": null,
-    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/FL%20Studio/Fl%20Studio.png",
-    "Sezione": "Gestione Foto/Video e Editing",
+    "LinkR": "",
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Musica/FL_Studio.png",
+    "Sezione": "Musica",
     "Descrizione": "FL Studio è una delle stazioni di lavoro audio digitali (DAW) più popolari, usata per la produzione musicale, la composizione, l'arrangiamento e il mixaggio. È conosciuta per la sua interfaccia intuitiva, che offre una vasta gamma di strumenti per musicisti, produttori e ingegneri del suono.",
     "Tooltip": "FL Studio",
-    "MRicerca": "FL"
+    "MRicerca": "fl",
+    "Hash": null
   },
   {
     "Nome": "EZDrummer",
     "Link": "https://devuploads.com/k744n4zwk784",
     "LinkR": "",
-    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/FL%20Studio/EZ%20Drummer.png",
-    "Sezione": "Gestione Foto/Video e Editing",
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Musica/EZDrummer.png",
+    "Sezione": "Musica",
     "Descrizione": "EZdrummer è un software di batteria virtuale sviluppato da Toontrack, noto per la sua capacità di offrire suoni di batteria realistici e di alta qualità, senza la necessità di un batterista dal vivo. È molto apprezzato sia dai produttori musicali che dai musicisti, in particolare per chi cerca un modo facile e veloce per aggiungere batterie alle proprie composizioni.",
     "Tooltip": "EZDrummer",
-    "MRicerca": "EZ Drummer"
+    "MRicerca": "ez",
+    "Hash": null
   },
   {
     "Nome": "Capture One Enterprise",
     "Link": "https://devuploads.com/4jztfltryye4",
-    "LinkR": null,
-    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Editing/Capture%20One.png",
+    "LinkR": "",
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Editing/Capture_One_Enterprise.png",
     "Sezione": "Gestione Foto/Video e Editing",
-    "Descrizione": null,
+    "Descrizione": "",
     "Tooltip": "Capture One Enterprise v16.5.8.2763",
-    "MRicerca": "capture"
+    "MRicerca": "capture",
+    "Hash": null
   },
   {
     "Nome": "EaseUS Partition Master",
