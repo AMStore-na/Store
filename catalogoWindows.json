@@ -1087,11 +1087,12 @@
     "Nome": "Pinball FX3",
     "Link": "https://devuploads.com/rhtd777yaxiu",
     "LinkR": "https://devuploads.com/azdiyy2tupnc",
-    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Games/Pinball.png",
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Games/Pinball_FX3.png",
     "Sezione": "Giochi",
     "Descrizione": "Pinball FX3 è un videogioco di flipper sviluppato da Zen Studios, ed è la terza versione della serie di giochi di flipper digitali Pinball FX. È un gioco che simula l'esperienza del flipper tradizionale, ma con una serie di elementi aggiuntivi che lo rendono unico, come ambientazioni originali, modalità di gioco innovative e una vasta gamma di tavoli tematici.",
     "Tooltip": "Pinball FX3",
-    "MRicerca": "Pinball"
+    "MRicerca": "pinball",
+    "Hash": null
   },
   {
     "Nome": "Dredge: Complete Editon",
