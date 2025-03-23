@@ -663,17 +663,6 @@
     "Hash": ""
   },
   {
-    "Nome": "RecordFab",
-    "Link": "https://devuploads.com/97pd17oj648a",
-    "LinkR": "",
-    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Registratore%20Audio-Video/RecordFab.png",
-    "Sezione": "Registratore Audio-Video",
-    "Descrizione": "RecordFab è uno strumento potente per registrare video da vari servizi di streaming, social media e piattaforme educative.",
-    "Tooltip": "RecordFab v1.0.0.7",
-    "MRicerca": "recordfab",
-    "Hash": null
-  },
-  {
     "Nome": "FL Studio",
     "Link": "https://devuploads.com/1yxh6pdyy5ti",
     "LinkR": null,
@@ -1376,6 +1365,17 @@
     "Descrizione": null,
     "Tooltip": "Nitro PDF Pro Enterprise v14.34.2.0",
     "MRicerca": "nitro"
+  },
+  {
+    "Nome": "RecordFab",
+    "Link": "https://devuploads.com/97pd17oj648a",
+    "LinkR": "",
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Registratore%20Audio-Video/RecordFab.png",
+    "Sezione": "Registratore Audio-Video",
+    "Descrizione": "RecordFab è uno strumento potente per registrare video da vari servizi di streaming, social media e piattaforme educative.",
+    "Tooltip": "RecordFab v1.0.0.7",
+    "MRicerca": "recordfab",
+    "Hash": null
   },
   {
     "Nome": "Movavi Screen Recorder",
