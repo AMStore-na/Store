@@ -663,28 +663,6 @@
     "Hash": ""
   },
   {
-    "Nome": "FL Studio",
-    "Link": "https://devuploads.com/1yxh6pdyy5ti",
-    "LinkR": "",
-    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Musica/FL_Studio.png",
-    "Sezione": "Musica",
-    "Descrizione": "FL Studio è una delle stazioni di lavoro audio digitali (DAW) più popolari, usata per la produzione musicale, la composizione, l'arrangiamento e il mixaggio. È conosciuta per la sua interfaccia intuitiva, che offre una vasta gamma di strumenti per musicisti, produttori e ingegneri del suono.",
-    "Tooltip": "FL Studio",
-    "MRicerca": "fl",
-    "Hash": null
-  },
-  {
-    "Nome": "EZDrummer",
-    "Link": "https://devuploads.com/k744n4zwk784",
-    "LinkR": "",
-    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Musica/EZDrummer.png",
-    "Sezione": "Musica",
-    "Descrizione": "EZdrummer è un software di batteria virtuale sviluppato da Toontrack, noto per la sua capacità di offrire suoni di batteria realistici e di alta qualità, senza la necessità di un batterista dal vivo. È molto apprezzato sia dai produttori musicali che dai musicisti, in particolare per chi cerca un modo facile e veloce per aggiungere batterie alle proprie composizioni.",
-    "Tooltip": "EZDrummer",
-    "MRicerca": "ez",
-    "Hash": null
-  },
-  {
     "Nome": "Capture One Enterprise",
     "Link": "https://devuploads.com/4jztfltryye4",
     "LinkR": "",
@@ -1298,6 +1276,28 @@
     "MRicerca": "IObit",
     "LinkR": null,
     "Descrizione": "IObit Malware Fighter è un software di sicurezza progettato per proteggere il tuo PC da vari tipi di malware, tra cui virus, ransomware, spyware, trojan, adware e worm."
+  },
+  {
+    "Nome": "FL Studio",
+    "Link": "https://devuploads.com/1yxh6pdyy5ti",
+    "LinkR": "",
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Musica/FL_Studio.png",
+    "Sezione": "Musica",
+    "Descrizione": "FL Studio è una delle stazioni di lavoro audio digitali (DAW) più popolari, usata per la produzione musicale, la composizione, l'arrangiamento e il mixaggio. È conosciuta per la sua interfaccia intuitiva, che offre una vasta gamma di strumenti per musicisti, produttori e ingegneri del suono.",
+    "Tooltip": "FL Studio",
+    "MRicerca": "fl",
+    "Hash": null
+  },
+  {
+    "Nome": "EZDrummer",
+    "Link": "https://devuploads.com/k744n4zwk784",
+    "LinkR": "",
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Musica/EZDrummer.png",
+    "Sezione": "Musica",
+    "Descrizione": "EZdrummer è un software di batteria virtuale sviluppato da Toontrack, noto per la sua capacità di offrire suoni di batteria realistici e di alta qualità, senza la necessità di un batterista dal vivo. È molto apprezzato sia dai produttori musicali che dai musicisti, in particolare per chi cerca un modo facile e veloce per aggiungere batterie alle proprie composizioni.",
+    "Tooltip": "EZDrummer",
+    "MRicerca": "ez",
+    "Hash": null
   },
   {
     "Nome": "Spotify",
