@@ -676,132 +676,145 @@
   {
     "Nome": "EaseUS Partition Master",
     "Link": "https://devuploads.com/e1x7gkigjdka",
-    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/GestioneHDD-SSD/easeus.jpg",
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/GestioneHDD-SSD/EaseUS_Partition_Master.png",
     "Sezione": "Gestione/Pulizia/Personalizzazione PC",
     "Tooltip": "EaseUS Partition Master v19.5.0 ",
     "MRicerca": "partition",
     "LinkR": "",
-    "Descrizione": "EaseUS Partition Master è un software di gestione delle partizioni per Windows. È progettato per aiutare gli utenti a creare, ridimensionare, eliminare e combinare partizioni in modo semplice e sicuro."
+    "Descrizione": "EaseUS Partition Master è un software di gestione delle partizioni per Windows. È progettato per aiutare gli utenti a creare, ridimensionare, eliminare e combinare partizioni in modo semplice e sicuro.",
+    "Hash": null
   },
   {
     "Nome": "Recuva Business Edition",
     "Link": "https://devuploads.com/79qqfzhga9xy",
-    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/GestioneHDD-SSD/Recuva.jpg",
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/GestioneHDD-SSD/Recuva_Business_Edition.png",
     "Sezione": "Gestione/Pulizia/Personalizzazione PC",
     "Tooltip": "Recuva Business Edition v1.53.2095",
     "MRicerca": "recuva",
     "LinkR": "",
-    "Descrizione": "Recuva Business Edition è una versione avanzata del popolare strumento di recupero file Recuva, sviluppato da Piriform. Questa versione è progettata per le esigenze aziendali e offre funzionalità aggiuntive rispetto alla versione gratuita."
+    "Descrizione": "Recuva Business Edition è una versione avanzata del popolare strumento di recupero file Recuva, sviluppato da Piriform. Questa versione è progettata per le esigenze aziendali e offre funzionalità aggiuntive rispetto alla versione gratuita.",
+    "Hash": null
   },
   {
     "Nome": "Glary Utilities Pro",
     "Link": "https://devuploads.com/5gji1bkdbuju",
-    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Altro/glaryutilites.jpg",
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/GestioneHDD-SSD/Glary_Utilities_Pro.png",
     "Sezione": "Gestione/Pulizia/Personalizzazione PC",
     "Tooltip": "Glary Utilities Pro v6.21.0.25",
     "MRicerca": "glary",
     "LinkR": "",
-    "Descrizione": "Glary Utilities Pro è un software di utilità completo progettato per ottimizzare, pulire e proteggere il tuo PC. Offre oltre 20 strumenti per migliorare le prestazioni del sistema, mantenere la privacy e risolvere problemi comuni."
+    "Descrizione": "Glary Utilities Pro è un software di utilità completo progettato per ottimizzare, pulire e proteggere il tuo PC. Offre oltre 20 strumenti per migliorare le prestazioni del sistema, mantenere la privacy e risolvere problemi comuni.",
+    "Hash": null
   },
   {
     "Nome": "Driver Easy",
     "Link": "https://devuploads.com/pvfnpvt7zfnk",
-    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Altro/DriverEasy.jpg",
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/GestioneHDD-SSD/Driver_Easy.png",
     "Sezione": "Gestione/Pulizia/Personalizzazione PC",
     "Tooltip": "Driver Easy Professional v6.1.2.29728",
     "MRicerca": "easy",
     "LinkR": "",
-    "Descrizione": "Driver Easy è un software di aggiornamento driver per Windows. È progettato per aiutarti a mantenere i driver del tuo sistema operativo aggiornati, il che può risolvere molti problemi di compatibilità e prestazioni del computer."
+    "Descrizione": "Driver Easy è un software di aggiornamento driver per Windows. È progettato per aiutarti a mantenere i driver del tuo sistema operativo aggiornati, il che può risolvere molti problemi di compatibilità e prestazioni del computer.",
+    "Hash": null
   },
   {
-    "Nome": "WallpaperEngine",
+    "Nome": "Wallpaper Engine",
     "Link": "https://devuploads.com/kex8xbqbfeyv",
-    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/GestioneHDD-SSD/wallpaperengine.jpg",
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/GestioneHDD-SSD/Wallpaper_Engine.png",
     "Sezione": "Gestione/Pulizia/Personalizzazione PC",
     "Tooltip": "Wallpaper Engine",
-    "MRicerca": "Gestione/Pulizia/Personalizzazione PC",
-    "LinkR": null,
-    "Descrizione": "Wallpaper Engine è un software che permette di utilizzare sfondi animati sul desktop Windows"
+    "MRicerca": "wallpaper",
+    "LinkR": "",
+    "Descrizione": "Wallpaper Engine è un software che permette di utilizzare sfondi animati sul desktop Windows",
+    "Hash": null
   },
   {
     "Nome": "Ashampoo Driver Updater",
     "Link": "https://devuploads.com/wjfvhnx0l06l",
-    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/GestioneHDD-SSD/ashampoo.jpg",
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/GestioneHDD-SSD/Ashampoo_Driver_Updater.png",
     "Sezione": "Gestione/Pulizia/Personalizzazione PC",
     "Tooltip": "Ashampoo Driver Updater 1.6.2",
-    "MRicerca": "Gestione/Pulizia/Personalizzazione PC",
+    "MRicerca": "ashampoo",
     "LinkR": "",
-    "Descrizione": "Ashampoo Driver Updater è un software utile per la gestione dei driver del computer, progettato per semplificare il processo di aggiornamento e ottimizzazione dei driver."
+    "Descrizione": "Ashampoo Driver Updater è un software utile per la gestione dei driver del computer, progettato per semplificare il processo di aggiornamento e ottimizzazione dei driver.",
+    "Hash": null
   },
   {
     "Nome": "CCleaner",
     "Link": "https://devuploads.com/hmh2213q633w",
-    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/GestioneHDD-SSD/ccleaner.jpg",
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/GestioneHDD-SSD/CCleaner.png",
     "Sezione": "Gestione/Pulizia/Personalizzazione PC",
     "Tooltip": "CCleaner Professional v6.33",
     "MRicerca": "ccleaner",
     "LinkR": "",
-    "Descrizione": "CCleaner è un popolare software di ottimizzazione e pulizia del sistema sviluppato da Piriform (ora parte di Avast). È progettato per migliorare le prestazioni del tuo computer rimuovendo file temporanei, cookie, file di registro inutili, e altri dati che possono accumularsi nel tempo e rallentare il sistema."
+    "Descrizione": "CCleaner è un popolare software di ottimizzazione e pulizia del sistema sviluppato da Piriform (ora parte di Avast). È progettato per migliorare le prestazioni del tuo computer rimuovendo file temporanei, cookie, file di registro inutili, e altri dati che possono accumularsi nel tempo e rallentare il sistema.",
+    "Hash": null
   },
   {
     "Nome": "StartAllBack",
     "Link": "https://devuploads.com/c3si7eikgqo0",
-    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/GestioneHDD-SSD/startallback.jpg",
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/GestioneHDD-SSD/StartAllBack.png",
     "Sezione": "Gestione/Pulizia/Personalizzazione PC",
     "Tooltip": "StartAllBack v3.9.4",
     "MRicerca": "start",
     "LinkR": "",
-    "Descrizione": "StartAllBack è un'applicazione progettata per migliorare e personalizzare l'interfaccia utente di Windows 11, permettendo agli utenti di ripristinare elementi familiari delle versioni precedenti di Windows, come Windows 10 e Windows 7"
+    "Descrizione": "StartAllBack è un'applicazione progettata per migliorare e personalizzare l'interfaccia utente di Windows 11, permettendo agli utenti di ripristinare elementi familiari delle versioni precedenti di Windows, come Windows 10 e Windows 7",
+    "Hash": null
   },
   {
     "Nome": "EaseUS PCTrans",
     "Link": "https://devuploads.com/gdwqc6sgq3u5",
-    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/refs/heads/main/Immagini/GestioneHDD-SSD/easeustodoptrans.png",
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/GestioneHDD-SSD/EaseUS_PC_Trans.png",
     "Sezione": "Gestione/Pulizia/Personalizzazione PC",
     "Tooltip": "EaseUS Todo PCTrans v13.17",
-    "MRicerca": "Gestione/Pulizia/Personalizzazione PC",
-    "LinkR": null,
-    "Descrizione": "EaseUS PCTrans è un software di trasferimento dati progettato per aiutarti a spostare facilmente file, programmi, impostazioni e profili utente da un vecchio PC a uno nuovo senza dover reinstallare nulla. È particolarmente utile quando stai passando a un nuovo computer o aggiornando il tuo sistema operativo."
+    "MRicerca": "pc trans",
+    "LinkR": "",
+    "Descrizione": "EaseUS PCTrans è un software di trasferimento dati progettato per aiutarti a spostare facilmente file, programmi, impostazioni e profili utente da un vecchio PC a uno nuovo senza dover reinstallare nulla. È particolarmente utile quando stai passando a un nuovo computer o aggiornando il tuo sistema operativo.",
+    "Hash": null
   },
   {
     "Nome": "Macrium Reflect X",
     "Link": "https://devuploads.com/kmk5jsx8v7tu",
     "LinkR": "",
-    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/GestioneHDD-SSD/Macrium%20Reflect.png",
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/GestioneHDD-SSD/Macrium_Reflect_X.png",
     "Sezione": "Gestione/Pulizia/Personalizzazione PC",
     "Descrizione": "Macrium Reflect X è un software di backup e ripristino avanzato sviluppato da Macrium Software. È progettato per proteggere i dati e facilitare il ripristino dei sistemi in modo rapido ed efficiente.",
     "Tooltip": "Macrium Reflect X Workstation v10.0.8406",
-    "MRicerca": "macrium"
+    "MRicerca": "macrium",
+    "Hash": null
   },
   {
     "Nome": "Tenorshare 4DDiG",
     "Link": "https://devuploads.com/x125ppc6rxzf",
     "LinkR": "",
-    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/GestioneHDD-SSD/Tenorshare%204DDIG.png",
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/GestioneHDD-SSD/Tenorshare_4DDiG.png",
     "Sezione": "Gestione/Pulizia/Personalizzazione PC",
     "Descrizione": "Tenorshare 4DDiG è un software di recupero dati avanzato progettato per recuperare file eliminati, formattati o persi da vari dispositivi e scenari",
     "Tooltip": "Tenorshare 4DDiG v10.2.7.11",
-    "MRicerca": "4ddig"
+    "MRicerca": "4ddig",
+    "Hash": null
   },
   {
     "Nome": "Tenorshare 4DDiG Duplicate File Deleter",
     "Link": "https://devuploads.com/n073gasue5x2",
-    "LinkR": null,
-    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/GestioneHDD-SSD/4DDiG%20DFD.png",
+    "LinkR": "",
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/GestioneHDD-SSD/Tenorshare_4DDiG_Duplicate_File_Deleter.png",
     "Sezione": "Gestione/Pulizia/Personalizzazione PC",
     "Descrizione": "Tenorshare 4DDiG Duplicate File Deleter è uno strumento progettato per aiutare gli utenti a gestire e rimuovere i file duplicati presenti sui propri dispositivi. Il programma esegue la scansione del sistema alla ricerca di file duplicati, permettendo di risparmiare spazio di archiviazione e migliorare l'efficienza del dispositivo.",
     "Tooltip": "Tenorshare 4DDiG Duplicate File Deleter",
-    "MRicerca": "4DDiG"
+    "MRicerca": "4ddig",
+    "Hash": null
   },
   {
     "Nome": "Revo Unistaller Pro",
     "Link": "https://devuploads.com/ylq1p4ddukr5",
     "LinkR": "",
-    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/GestioneHDD-SSD/revounistaller.jpg",
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/GestioneHDD-SSD/Revo_Uninstaller_Pro.png",
     "Sezione": "Gestione/Pulizia/Personalizzazione PC",
     "Descrizione": "Revo Uninstaller Pro è uno strumento potente per disinstallare programmi e rimuovere completamente i residui lasciati sul sistema",
     "Tooltip": "Revo Uninstaller Pro v5.3.7",
-    "MRicerca": "revo"
+    "MRicerca": "revo",
+    "Hash": null
   },
   {
     "Nome": "Grand Theft Auto V",
