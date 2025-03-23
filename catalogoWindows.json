@@ -544,12 +544,13 @@
   {
     "Nome": "Araxis Merge",
     "Link": "https://devuploads.com/zxxzgdrgd0bo",
-    "LinkR": null,
-    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Gestione%20file/Araxis%20Merge.png",
+    "LinkR": "",
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Gestione%20file/Araxis_Merge.png",
     "Sezione": "Gestione file",
     "Descrizione": "Araxis Merge è un'applicazione avanzata per il confronto di file (diff), l'unione (merge) e la sincronizzazione di cartelle.",
     "Tooltip": "Araxis Merge Professional v2024.6002",
-    "MRicerca": "araxis"
+    "MRicerca": "araxis",
+    "Hash": null
   },
   {
     "Nome": "UniFab",
