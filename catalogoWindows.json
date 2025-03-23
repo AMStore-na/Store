@@ -555,12 +555,13 @@
   {
     "Nome": "UniFab",
     "Link": "https://devuploads.com/bzeyzplxcm2g",
-    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Editing/unifab.jpg",
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Editing/UniFab.png",
     "Sezione": "Gestione Foto/Video e Editing",
     "Tooltip": "UniFab v2.0.2.1",
     "MRicerca": "unifab",
     "LinkR": "",
-    "Descrizione": "UniFab è un software di miglioramento delle immagini e dei video sviluppato da Topaz Labs, progettato per migliorare la qualità delle foto e dei video utilizzando l'intelligenza artificiale."
+    "Descrizione": "UniFab è un software di miglioramento delle immagini e dei video sviluppato da Topaz Labs, progettato per migliorare la qualità delle foto e dei video utilizzando l'intelligenza artificiale.",
+    "Hash": null
   },
   {
     "Nome": "CorelDraw Technical Suite",
@@ -1567,5 +1568,16 @@
     "MRicerca": "Xara",
     "LinkR": null,
     "Descrizione": "Xara Designer Pro+ è un software di progettazione versatile sviluppato da Xara, che combina desktop publishing, web design, editing foto e grafica in un'unica piattaforma"
+  },
+  {
+    "Nome": "Aiseesoft Screen Recorder",
+    "Link": "https://devuploads.com/pz5up0c442p1",
+    "LinkR": "",
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Registratore%20Audio-Video/Aiseesoft_Screen_Recorder.png",
+    "Sezione": "Registratore Audio-Video",
+    "Descrizione": "Aiseesoft Screen Recorder è un software di registrazione dello schermo progettato per catturare video e audio dal computer. È particolarmente utile per diverse applicazioni, come la creazione di tutorial video, la registrazione di giochi, o la cattura di videoconferenze.",
+    "Tooltip": "Aiseesoft Screen Recorder v3.1.16",
+    "MRicerca": "recorder",
+    "Hash": "902fb24083673301"
   }
 ]
