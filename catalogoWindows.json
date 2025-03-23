@@ -1400,6 +1400,17 @@
     "MRicerca": "Aiseesoft Screen Recorder"
   },
   {
+    "Nome": "Aiseesoft Screen Recorder",
+    "Link": "https://devuploads.com/pz5up0c442p1",
+    "LinkR": "",
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Registratore%20Audio-Video/Aiseesoft_Screen_Recorder.png",
+    "Sezione": "Registratore Audio-Video",
+    "Descrizione": "Aiseesoft Screen Recorder è un software di registrazione dello schermo progettato per catturare video e audio dal computer. È particolarmente utile per diverse applicazioni, come la creazione di tutorial video, la registrazione di giochi, o la cattura di videoconferenze.",
+    "Tooltip": "Aiseesoft Screen Recorder v3.1.16",
+    "MRicerca": "recorder",
+    "Hash": "902fb24083673301"
+  },
+  {
     "Nome": "Aiseesoft iPhone Unlocker",
     "Link": "https://devuploads.com/vav7fw3xkzpd",
     "LinkR": "",
@@ -1568,16 +1579,5 @@
     "MRicerca": "Xara",
     "LinkR": null,
     "Descrizione": "Xara Designer Pro+ è un software di progettazione versatile sviluppato da Xara, che combina desktop publishing, web design, editing foto e grafica in un'unica piattaforma"
-  },
-  {
-    "Nome": "Aiseesoft Screen Recorder",
-    "Link": "https://devuploads.com/pz5up0c442p1",
-    "LinkR": "",
-    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Registratore%20Audio-Video/Aiseesoft_Screen_Recorder.png",
-    "Sezione": "Registratore Audio-Video",
-    "Descrizione": "Aiseesoft Screen Recorder è un software di registrazione dello schermo progettato per catturare video e audio dal computer. È particolarmente utile per diverse applicazioni, come la creazione di tutorial video, la registrazione di giochi, o la cattura di videoconferenze.",
-    "Tooltip": "Aiseesoft Screen Recorder v3.1.16",
-    "MRicerca": "recorder",
-    "Hash": "902fb24083673301"
   }
 ]
