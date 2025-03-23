@@ -402,21 +402,23 @@
     "Nome": "Freemake Video Converter",
     "Link": "https://devuploads.com/2wf3pjhnng0u",
     "LinkR": "",
-    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Convertitore/Freemake%20Video%20Converter.png",
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Convertitore/Freemake_Video_Converter.png",
     "Sezione": "Convertitore",
     "Descrizione": "Freemake Video Converter è un software freemium sviluppato da Ellora Assets Corporation. È progettato per convertire i file video in vari formati, masterizzare video su DVD e creare presentazioni fotografiche.",
     "Tooltip": "Freemake Video Converter v4.1.13.187",
-    "MRicerca": "freemake"
+    "MRicerca": "frremake",
+    "Hash": null
   },
   {
     "Nome": "Wondershare UniConverter",
     "Link": "https://devuploads.com/7x03kc4tlpyt",
     "LinkR": "",
-    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Convertitore/UniConverter.png",
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Convertitore/Wondershare_UniConverter.png",
     "Sezione": "Convertitore",
     "Descrizione": "Wondershare UniConverter è un software di conversione video sviluppato da Wondershare, progettato per convertire e migliorare video in modo semplice e veloce.",
     "Tooltip": "Wondershare UniConverter",
-    "MRicerca": "UniConverter"
+    "MRicerca": "uniconverter",
+    "Hash": null
   },
   {
     "Nome": "IDM",
