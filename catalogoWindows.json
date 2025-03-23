@@ -1193,42 +1193,46 @@
   {
     "Nome": "Topaz Photo AI",
     "Link": "https://devuploads.com/ejdrv7cqsqyx",
-    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Altro/topaz.jpg",
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/IA/Topaz_Photo_AI.png",
     "Sezione": "IA",
     "Tooltip": "Topaz Photo AI",
-    "MRicerca": "IA",
+    "MRicerca": "topaz",
     "LinkR": "",
-    "Descrizione": "Topaz Photo AI è un software di miglioramento delle immagini sviluppato da Topaz Labs, progettato per migliorare la qualità delle foto utilizzando l'intelligenza artificiale"
+    "Descrizione": "Topaz Photo AI è un software di miglioramento delle immagini sviluppato da Topaz Labs, progettato per migliorare la qualità delle foto utilizzando l'intelligenza artificiale",
+    "Hash": null
   },
   {
     "Nome": "Topaz Gigapixel AI",
     "Link": "https://devuploads.com/dxcanae4yp90",
-    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/AI/topazgigapixel.jpg",
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/IA/Topaz_Gigapixel_AI.png",
     "Sezione": "IA",
     "Tooltip": "Topaz Gigapixel AI",
-    "MRicerca": "IA",
+    "MRicerca": "topaz",
     "LinkR": "",
-    "Descrizione": "Topaz Gigapixel AI è un software di miglioramento delle immagini sviluppato da Topaz Labs, progettato per aumentare la risoluzione e la qualità delle immagini utilizzando l'intelligenza artificiale"
+    "Descrizione": "Topaz Gigapixel AI è un software di miglioramento delle immagini sviluppato da Topaz Labs, progettato per aumentare la risoluzione e la qualità delle immagini utilizzando l'intelligenza artificiale",
+    "Hash": null
   },
   {
     "Nome": "Generatore Immagini",
     "Link": "https://devuploads.com/c8j0jajfy7tt",
-    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/AI/ai.jpg",
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/IA/Generatore_Immagini.png",
     "Sezione": "IA",
     "Tooltip": "Generatore Immagini AIMODS",
-    "MRicerca": "IA",
-    "LinkR": null,
-    "Descrizione": null
+    "MRicerca": "generatore",
+    "LinkR": "",
+    "Descrizione": "",
+    "Hash": null
   },
   {
     "Nome": "Topaz Video AI",
     "Link": "https://devuploads.com/xdn21zmskux7",
-    "LinkR": null,
-    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/AI/Topaz%20Video%20AI.png",
+    "LinkR": "",
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/IA/Topaz_Video_AI.png",
     "Sezione": "IA",
     "Descrizione": "Topaz Video AI è un software avanzato per il miglioramento e la riparazione di video, utilizzando l'intelligenza artificiale (AI) per eseguire diverse operazioni come l'upscaling, il miglioramento della qualità video e la riduzione del rumore. È molto apprezzato da professionisti del video editing, videomaker e creatori di contenuti che desiderano migliorare la qualità visiva dei loro filmati senza ricorrere a metodi complessi o costosi.",
     "Tooltip": "Topaz Video Ai",
-    "MRicerca": "Topaz Video AI"
+    "MRicerca": "topaz",
+    "Hash": null
   },
   {
     "Nome": "IObit SystemCare",
