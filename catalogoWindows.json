@@ -829,7 +829,7 @@
     "MRicerca": "spider",
     "LinkR": "",
     "Descrizione": "Marvel's Spider-Man Remastered è una versione migliorata del gioco originale sviluppato da Insomniac Games e pubblicato da Sony Interactive Entertainment. Questa versione è stata ottimizzata per le console PS5 e PC, offrendo grafica migliorata, nuove funzionalità immersive e un'esperienza di gioco più fluida.",
-    "Hash": null
+    "Hash": ""
   },
   {
     "Nome": "Life is Strange Before The Storm",
@@ -1095,44 +1095,48 @@
     "Hash": null
   },
   {
-    "Nome": "Dredge: Complete Editon",
+    "Nome": "Dredge Complete Editon",
     "Link": "https://devuploads.com/clfv303pv4bo",
-    "LinkR": null,
-    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Games/dredge.png",
+    "LinkR": "",
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Games/Dredge_Complete_Editon.png",
     "Sezione": "Giochi",
-    "Descrizione": "DREDGE è un'avventura di pesca per giocatore singolo con una corrente sinistra. Vendi i pesci, migliora la tua barca e draga le profondità alla ricerca di segreti sepolti da tempo. Esplora un arcipelago misterioso e scopri perché è meglio che certe cose restino dimenticate per sempre.",
-    "Tooltip": "DREDGE: Complete Edition – v1.5.3 Build 2879 + 9 ",
-    "MRicerca": "Giochi"
+    "Descrizione": "Dredge è un'avventura di pesca per giocatore singolo con una corrente sinistra. Vendi i pesci, migliora la tua barca e draga le profondità alla ricerca di segreti sepolti da tempo. Esplora un arcipelago misterioso e scopri perché è meglio che certe cose restino dimenticate per sempre.",
+    "Tooltip": "Dredge: Complete Edition – v1.5.3 Build 2879 + 9 ",
+    "MRicerca": "dredge",
+    "Hash": null
   },
   {
     "Nome": "Farming Simulator 25",
     "Link": "https://devuploads.com/kcou0ggquo9e",
-    "LinkR": null,
-    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Games/farmingsimulator25.png",
+    "LinkR": "",
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Games/Farming_Simulator_25.png",
     "Sezione": "Giochi",
     "Descrizione": "Farming Simulator 25 vi invita a tuffarvi nella gratificante vita agricola. Costruite la fattoria tra i fiumi sinuosi e gli storici montacarichi da cereali del Nord America, tra gli specchi d'acqua dell'Europa centrale o in un rigoglioso panorama dell'Asia orientale ricco di risaie accanto a una città portuale dalle mille luci. Coltivate i campi, allevate gli animali, datevi alla silvicoltura e gestite un vero e proprio impero con negozi, produzioni e costruzioni!",
     "Tooltip": "Farming Simulator 25 v1.2.1.0",
-    "MRicerca": "Giochi"
+    "MRicerca": "farming",
+    "Hash": null
   },
   {
     "Nome": "Forza Horizon 5",
     "Link": "https://devuploads.com/4jwzg7x6mlqp",
-    "LinkR": null,
-    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Games/forzahorizon5.png",
+    "LinkR": "",
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Games/Forza_Horizon_5.png",
     "Sezione": "Giochi",
     "Descrizione": "La tua avventura Horizon definitiva ti aspetta! Esplora vivaci paesaggi open world del Messico in continua evoluzione. Divertimento al volante illimitato con centinaia tra le migliori auto al mondo.",
     "Tooltip": "Forza Horizon 5: Premium Edition  v1.656.386.0",
-    "MRicerca": "Giochi"
+    "MRicerca": "horizon",
+    "Hash": null
   },
   {
-    "Nome": "Elden Ring Shadow Of The Erdtree – Deluxe Edition",
+    "Nome": "Elden Ring Shadow Of The Erdtree Deluxe Edition",
     "Link": "https://devuploads.com/cd0fm61ga7zb",
     "LinkR": "",
-    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Games/Elden%20Ring.png",
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/AI/Elden_Ring_Shadow_Of_The_Erdtree_Deluxe_Edition.png",
     "Sezione": "Giochi",
     "Descrizione": "Elden Ring è un action RPG sviluppato da FromSoftware, diretto da Hidetaka Miyazaki con la collaborazione di George R.R. Martin per la costruzione del mondo. Ambientato nell'Interregno, i giocatori esplorano un vasto open world, affrontando nemici e boss impegnativi, con l'obiettivo di ricostruire l'Elden Ring e diventare il nuovo Lord ancestrale.",
     "Tooltip": "Elden Ring Shadow Of The Erdtree (Deluxe Edition) v1.12.1",
-    "MRicerca": "elden"
+    "MRicerca": "elden",
+    "Hash": null
   },
   {
     "Nome": "Tavern Master",
@@ -1148,11 +1152,12 @@
     "Nome": "Marvels Spider-Man 2 Digital Deluxe Edition",
     "Link": "https://devuploads.com/0678slx2q7ro",
     "LinkR": "",
-    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Games/Spider-Man%202.png",
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Games/Marvels_Spider-Man_2_Digital_Deluxe_Edition.png",
     "Sezione": "Giochi",
     "Descrizione": "Marvel's Spider-Man Remastered è una versione migliorata del gioco originale sviluppato da Insomniac Games e pubblicato da Sony Interactive Entertainment. Questa versione è stata ottimizzata per le console PS5 e PC, offrendo grafica migliorata, nuove funzionalità immersive e un'esperienza di gioco più fluida.",
     "Tooltip": "Marvels Spider-Man 2 Digital Deluxe Edition v1.130",
-    "MRicerca": "marvels"
+    "MRicerca": "spider",
+    "Hash": null
   },
   {
     "Nome": "Kingdom Hearts HD",
