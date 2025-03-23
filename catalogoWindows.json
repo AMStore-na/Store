@@ -911,12 +911,13 @@
   {
     "Nome": "DIRT 5 Year One Edition",
     "Link": "https://devuploads.com/l1b6491ho8l6",
-    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Games/dirt5.jpg",
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Games/DIRT_5_Year_One_Edition.png",
     "Sezione": "Giochi",
     "Tooltip": "DIRT 5 Year One Edition v1.2767.60.0 + DLCs",
-    "MRicerca": "Giochi",
+    "MRicerca": "dirt",
     "LinkR": "",
-    "Descrizione": "DIRT 5 Year One Edition è un'edizione speciale del gioco di corse off-road DIRT 5, sviluppato da Codemasters. Questa edizione include contenuti esclusivi e aggiornamenti che saranno rilasciati nei primi 12 mesi dopo il lancio del gioco."
+    "Descrizione": "DIRT 5 Year One Edition è un'edizione speciale del gioco di corse off-road DIRT 5, sviluppato da Codemasters. Questa edizione include contenuti esclusivi e aggiornamenti che saranno rilasciati nei primi 12 mesi dopo il lancio del gioco.",
+    "Hash": null
   },
   {
     "Nome": "The Casting Of Frank Stone",
@@ -1043,12 +1044,12 @@
     "Nome": "Train Sim World",
     "Link": "https://devuploads.com/bibcnnmx6i71",
     "LinkR": "",
-    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Games/Train_Sim_World.png",
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Games/Train_Sim_World_5.png",
     "Sezione": "Giochi",
     "Descrizione": "Train Sim World",
     "Tooltip": "Train Sim World v5",
     "MRicerca": "train",
-    "Hash": null
+    "Hash": ""
   },
   {
     "Nome": "Arcade Paradise Digital Deluxe Edition",
@@ -1141,12 +1142,13 @@
   {
     "Nome": "Tavern Master",
     "Link": "https://devuploads.com/yvh90b77friw",
-    "LinkR": null,
-    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Games/Tavern%20Master.png",
+    "LinkR": "",
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Games/Tavern_Master.png",
     "Sezione": "Giochi",
-    "Descrizione": null,
+    "Descrizione": "",
     "Tooltip": "Tavern Master build 16501626",
-    "MRicerca": "tavern"
+    "MRicerca": "tavern",
+    "Hash": null
   },
   {
     "Nome": "Marvels Spider-Man 2 Digital Deluxe Edition",
