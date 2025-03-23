@@ -1424,7 +1424,8 @@
     "Sezione": "Registratore Audio-Video",
     "Descrizione": "Bandicam è un leggero programma di registrazione video per Windows che può catturaretutto quello che avviene sullo schermo in un file video di alta qualità.",
     "Tooltip": "Bandicam",
-    "MRicerca": "Bandicam"
+    "MRicerca": "Bandicam",
+    "Hash": null
   },
   {
     "Nome": "Aiseesoft Screen Recorder",
