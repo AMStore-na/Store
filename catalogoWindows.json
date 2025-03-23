@@ -1168,12 +1168,12 @@
     "Nome": "Arma Reforger",
     "Link": "https://devuploads.com/h000vc8ie6fn",
     "LinkR": "",
-    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Games/arma-reforger.png",
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Games/Arma_Reforger.png",
     "Sezione": "Giochi",
     "Descrizione": "Vivi realistici combattimenti sullo sfondo della guerra fredda e prendi parte alla lotta per la vasta isola atlantica di Everon e il suo territorio offshore più circoscritto, Arland. Oppure, vesti i panni del game master e plasma esclusivi scenari per gli altri giocatori.",
     "Tooltip": "Arma Reforger (v1.0.0.47 – Final Release + Bonus Content",
-    "MRicerca": "Giochi",
-    "Hash": null
+    "MRicerca": "arma",
+    "Hash": ""
   },
   {
     "Nome": "Topaz Photo AI",
