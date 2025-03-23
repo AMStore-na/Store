@@ -1323,11 +1323,12 @@
     "Nome": "Atomix VirtualDJ",
     "Link": "https://devuploads.com/2neswhyyw5ub",
     "LinkR": "https://devuploads.com/ckol7gf6vjyj",
-    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Editing/Atomix%20VirtualDJ.png",
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Musica/Atomix_VirtualDJ.png",
     "Sezione": "Musica",
     "Descrizione": "Atomix VirtualDJ è un software per DJ sviluppato da Atomix Productions, noto per le sue funzionalità avanzate di mixaggio audio e video. È ampiamente utilizzato sia da DJ professionisti che da principianti grazie alla sua interfaccia intuitiva e alle potenti capacità di automazione.",
     "Tooltip": "Atomix VirtualDJ",
-    "MRicerca": "Atomix VirtualDJ"
+    "MRicerca": "xirtualdj",
+    "Hash": null
   },
   {
     "Nome": "OfficeSuite",
