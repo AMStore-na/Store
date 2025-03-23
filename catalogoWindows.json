@@ -569,70 +569,76 @@
     "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Editing/CorelDraw_Technical_Suite.png",
     "Sezione": "Gestione Foto/Video e Editing",
     "Tooltip": "CorelDraw Technical Suite 2024 v25.0.0.230",
-    "MRicerca": "Gestione Foto/Video e Editing",
+    "MRicerca": "corel",
     "LinkR": "",
     "Descrizione": "La CorelDRAW Technical Suite è una collezione completa di applicazioni professionali per la progettazione tecnica e la documentazione di alto impatto. È progettata per soddisfare le esigenze di vari settori, come la manifattura, l'ingegneria, l'architettura e l'alta tecnologia.",
-    "Hash": null
+    "Hash": ""
   },
   {
     "Nome": "Wondershare Filmora",
     "Link": "https://devuploads.com/74538nrm9rf0",
-    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Editing/wondershare.jpg",
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Editing/Wondershare_Filmora.png",
     "Sezione": "Gestione Foto/Video e Editing",
     "Tooltip": "Wondershare Filmora 14.3.2.11147",
     "MRicerca": "filmora",
     "LinkR": "https://devuploads.com/7gzl1i5hh21q",
-    "Descrizione": "Wondershare Filmora è un software di editing video facile da usare, sviluppato da Wondershare. È progettato per utenti di tutti i livelli, dai principianti agli esperti, e offre una vasta gamma di funzionalità per creare video di alta qualità."
+    "Descrizione": "Wondershare Filmora è un software di editing video facile da usare, sviluppato da Wondershare. È progettato per utenti di tutti i livelli, dai principianti agli esperti, e offre una vasta gamma di funzionalità per creare video di alta qualità.",
+    "Hash": null
   },
   {
     "Nome": "Prima Cartoonizer",
     "Link": "https://devuploads.com/bgl0drn5wuqh",
-    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Editing/primacartoonizer.jpg",
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Editing/Prima_Cartoonizer.png",
     "Sezione": "Gestione Foto/Video e Editing",
     "Tooltip": "Prima Cartoonizer v5.2.7",
-    "MRicerca": "Gestione Foto/Video e Editing",
-    "LinkR": null,
-    "Descrizione": "Prima Cartoonizer è un software che permette di trasformare le foto in stile cartone animato con una varietà di effetti"
+    "MRicerca": "prima",
+    "LinkR": "",
+    "Descrizione": "Prima Cartoonizer è un software che permette di trasformare le foto in stile cartone animato con una varietà di effetti",
+    "Hash": null
   },
   {
     "Nome": "AquaSoft Stages",
     "Link": "https://devuploads.com/cuwffg230x6d",
-    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Editing/aquasoftstager.jpg",
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Editing/AquaSoft_Stages.png",
     "Sezione": "Gestione Foto/Video e Editing",
     "Tooltip": "AquaSoft Stages v15.2.05",
-    "MRicerca": "Gestione Foto/Video e Editing",
-    "LinkR": null,
-    "Descrizione": "AquaSoft Stages è un software di creazione di presentazioni multimediali e slideshow, progettato per aiutare gli utenti a combinare immagini, video, musica e testi in maniera creativa e coinvolgente."
+    "MRicerca": "aqua",
+    "LinkR": "",
+    "Descrizione": "AquaSoft Stages è un software di creazione di presentazioni multimediali e slideshow, progettato per aiutare gli utenti a combinare immagini, video, musica e testi in maniera creativa e coinvolgente.",
+    "Hash": null
   },
   {
     "Nome": "EaseUS Video Editor",
     "Link": "https://devuploads.com/n42mfzgilz1v",
-    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Editing/easeusvideoeditor.png",
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Editing/EaseUS_Video_Editor.png",
     "Sezione": "Gestione Foto/Video e Editing",
     "Tooltip": "EaseUS Video Editor Pro 2.4.0 Build 20240910 ",
-    "MRicerca": "Gestione Foto/Video e Editing",
-    "LinkR": null,
-    "Descrizione": "EaseUS Video Editor è un software di editing video gratuito e intuitivo, ideale sia per principianti che per utenti avanzati. Offre una vasta gamma di funzionalità per creare video professionali senza sforzo."
+    "MRicerca": "easeus",
+    "LinkR": "",
+    "Descrizione": "EaseUS Video Editor è un software di editing video gratuito e intuitivo, ideale sia per principianti che per utenti avanzati. Offre una vasta gamma di funzionalità per creare video professionali senza sforzo.",
+    "Hash": null
   },
   {
     "Nome": "Face Rig",
     "Link": "https://telegra.ph/FaceRig-Pro-v1312-06-19",
-    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/refs/heads/main/Immagini/Editing/facerig.jpg",
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Editing/Face_Rig.png",
     "Sezione": "Gestione Foto/Video e Editing",
     "Tooltip": "Face Rig",
-    "MRicerca": "Gestione Foto/Video e Editing",
-    "LinkR": null,
-    "Descrizione": "FaceRig è un software che simula i movimenti faciali di vari personaggi attraverso un dispositivo di cattura video. È stato successivamente sostituito da Animaze by FaceRig, che offre funzionalità più avanzate e una maggiore personalizzazione."
+    "MRicerca": "face",
+    "LinkR": "",
+    "Descrizione": "FaceRig è un software che simula i movimenti faciali di vari personaggi attraverso un dispositivo di cattura video. È stato successivamente sostituito da Animaze by FaceRig, che offre funzionalità più avanzate e una maggiore personalizzazione.",
+    "Hash": null
   },
   {
     "Nome": "CyberLink PowerDirector",
     "Link": "https://devuploads.com/gc9f0djf7if8",
-    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Editing/cyberlink%20power%20director%20ultimate.png",
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Editing/CyberLink_PowerDirector.png",
     "Sezione": "Gestione Foto/Video e Editing",
     "Tooltip": "CyberLink PowerDirector Ultimate 2025 v23.1.1322.0",
     "MRicerca": "cyberlink",
     "LinkR": "https://devuploads.com/afiiczvjp2fs",
-    "Descrizione": "CyberLink PowerDirector è un software di montaggio video avanzato e intuitivo, disponibile per Windows e Mac. È noto per la sua capacità di creare video professionali con una vasta gamma di strumenti e funzionalità."
+    "Descrizione": "CyberLink PowerDirector è un software di montaggio video avanzato e intuitivo, disponibile per Windows e Mac. È noto per la sua capacità di creare video professionali con una vasta gamma di strumenti e funzionalità.",
+    "Hash": null
   },
   {
     "Nome": "SketchUp",
@@ -642,7 +648,8 @@
     "Sezione": "Gestione Foto/Video e Editing",
     "Descrizione": "SketchUp è un software di modellazione 3D molto popolare, utilizzato in vari settori come l'architettura, il design, l'ingegneria e altro ancora",
     "Tooltip": "SketchUp",
-    "MRicerca": "SketchUp"
+    "MRicerca": "sketchUp",
+    "Hash": null
   },
   {
     "Nome": "DVDFab",
@@ -659,11 +666,12 @@
     "Nome": "RecordFab",
     "Link": "https://devuploads.com/97pd17oj648a",
     "LinkR": "",
-    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Editing/RecordFab.png",
-    "Sezione": "Gestione Foto/Video e Editing",
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Registratore%20Audio-Video/RecordFab.png",
+    "Sezione": "Registratore Audio-Video",
     "Descrizione": "RecordFab è uno strumento potente per registrare video da vari servizi di streaming, social media e piattaforme educative.",
     "Tooltip": "RecordFab v1.0.0.7",
-    "MRicerca": "recordfab"
+    "MRicerca": "recordfab",
+    "Hash": null
   },
   {
     "Nome": "FL Studio",
