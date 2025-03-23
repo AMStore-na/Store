@@ -423,112 +423,123 @@
   {
     "Nome": "IDM",
     "Link": "https://devuploads.com/sf9j8ohsw07s",
-    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Downloader/IDM.jpg",
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Downloader/IDM.png",
     "Sezione": "Downloader",
     "Tooltip": "IDM v6.42 b26",
-    "MRicerca": "Downloader",
+    "MRicerca": "idm",
     "LinkR": "",
-    "Descrizione": "Installa Internet Download Manager (IDM) per interrompere l'attesa per i download. Rimarrai davvero stupito dalla velocità con cui IDM scarica i tuoi file. IDM riparerà anche i download interrotti e riprenderà a causa di connessioni perse, problemi di rete, arresti del computer o interruzioni di corrente impreviste."
+    "Descrizione": "Installa Internet Download Manager (IDM) per interrompere l'attesa per i download. Rimarrai davvero stupito dalla velocità con cui IDM scarica i tuoi file. IDM riparerà anche i download interrotti e riprenderà a causa di connessioni perse, problemi di rete, arresti del computer o interruzioni di corrente impreviste.",
+    "Hash": null
   },
   {
     "Nome": "IDM Portable",
     "Link": "https://devuploads.com/hw09x86wbw87",
-    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Downloader/IDM.jpg",
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Downloader/IDM_Portable.png",
     "Sezione": "Downloader",
     "Tooltip": "IDM v6.42 Portable",
     "LinkR": "",
     "Descrizione": "IDM Portable è una versione portatile di Internet Download Manager (IDM), un acceleratore di download progettato per aumentare la velocità di download fino a otto volte, riprendere i download interrotti e pianificare i download. La versione portatile consente di utilizzare IDM su diversi dispositivi senza necessità di installazione permanente.",
-    "MRicerca": "idm"
+    "MRicerca": "idm",
+    "Hash": null
   },
   {
     "Nome": "iTubeGo Musify",
     "Link": "https://devuploads.com/mymzeoplsshx",
-    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Downloader/Musify.jpg",
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Downloader/iTubeGo_Musify.pngCer",
     "Sezione": "Downloader",
     "Tooltip": "iTubeGo Musify v3.6.0",
-    "MRicerca": "Downloader",
-    "LinkR": null,
-    "Descrizione": "iTubeGo Musify è un software sviluppato da iTubeGo per scaricare e convertire musica da varie piattaforme online."
+    "MRicerca": "itubego",
+    "LinkR": "",
+    "Descrizione": "iTubeGo Musify è un software sviluppato da iTubeGo per scaricare e convertire musica da varie piattaforme online.",
+    "Hash": null
   },
   {
     "Nome": "4K Video Downloader Plus",
     "Link": "https://devuploads.com/0o9z1ga2hohj",
-    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Downloader/4kdownloader.jpg",
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Downloader/4K_Video_Downloader_Plus.pngNe",
     "Sezione": "Downloader",
     "Tooltip": "4K Video Downloader Plus v1.10.3.0161",
-    "MRicerca": "4k video",
+    "MRicerca": "4K",
     "LinkR": "",
-    "Descrizione": "4K Video Downloader è un'applicazione multipiattaforma che consente di salvare video di alta qualità da YouTube e altri siti web in pochi secondi."
+    "Descrizione": "4K Video Downloader è un'applicazione multipiattaforma che consente di salvare video di alta qualità da YouTube e altri siti web in pochi secondi.",
+    "Hash": null
   },
   {
     "Nome": "KeepStreams",
     "Link": "https://devuploads.com/jca4ilc524ry",
-    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Downloader/keepstreams.jpg",
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Downloader/KeepStreams.png",
     "Sezione": "Downloader",
     "Tooltip": "KeepStreams v1.2.2.2",
-    "MRicerca": "Downloader",
-    "LinkR": null,
-    "Descrizione": "KeepStreams è un software di gestione dei download progettato per scaricare e convertire media da varie piattaforme di streaming."
+    "MRicerca": "keep",
+    "LinkR": "",
+    "Descrizione": "KeepStreams è un software di gestione dei download progettato per scaricare e convertire media da varie piattaforme di streaming.",
+    "Hash": null
   },
   {
     "Nome": "Y2mate Downloader",
     "Link": "https://devuploads.com/fqw06y68xfz5",
-    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Downloader/y2matedownloader.jpg",
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Downloader/Y2mate_Downloader.png",
     "Sezione": "Downloader",
     "Tooltip": "Y2mate Downloader v1.2.3.4",
-    "MRicerca": "Downloader",
+    "MRicerca": "y2mate",
     "LinkR": "",
-    "Descrizione": "Y2mate è uno strumento online che permette di scaricare video da YouTube e altre piattaforme di condivisione video"
+    "Descrizione": "Y2mate è uno strumento online che permette di scaricare video da YouTube e altre piattaforme di condivisione video",
+    "Hash": null
   },
   {
     "Nome": "MusicFab",
     "Link": "https://devuploads.com/plqcfbf5xuth",
-    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Downloader/musicfab.png",
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Downloader/MusicFab.png",
     "Sezione": "Downloader",
     "Tooltip": "MusicFab v1.0.4.3",
-    "MRicerca": "Downloader",
-    "LinkR": null,
-    "Descrizione": "MusicFab è un software sviluppato da DVDFab che consente di scaricare musica da vari servizi di streaming come Amazon Music, Spotify, Apple Music e altri."
+    "MRicerca": "music",
+    "LinkR": "",
+    "Descrizione": "MusicFab è un software sviluppato da DVDFab che consente di scaricare musica da vari servizi di streaming come Amazon Music, Spotify, Apple Music e altri.",
+    "Hash": null
   },
   {
     "Nome": "StreamFab",
     "Link": "https://devuploads.com/vk2aj211j1nn",
     "LinkR": "",
-    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Downloader/DVDFab.jpg",
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Downloader/StreamFab.png",
     "Sezione": "Downloader",
     "Descrizione": "StreamFab è un software progettato per scaricare video da una vasta gamma di servizi di streaming e piattaforme online",
     "Tooltip": "Streamfab v6.1.9.4",
-    "MRicerca": "streamfab"
+    "MRicerca": "streamfab",
+    "Hash": null
   },
   {
     "Nome": "Moyea Downloader",
     "Link": "https://devuploads.com/tor37dqbr29w",
     "LinkR": "",
-    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Downloader/Moyea%20Downloader.png",
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Downloader/Moyea_Downloader.png",
     "Sezione": "Downloader",
     "Descrizione": "a Software offre strumenti per il download e la conversione video, incluso il download da piattaforme streaming e la conversione di file SWF e PowerPoint in vari formati. Offre la soluzione più completa per scaricare video in streaming da Amazon Prime, Netflix, Disney+, etc. Ideale per l'uso personale e aziendale, le soluzioni semplificano la creazione e la gestione di contenuti multimediali, garantendo alta qualità e flessibilità.",
     "Tooltip": "Moyea Downloader v20.0.0.0",
-    "MRicerca": "moyea"
+    "MRicerca": "moyea",
+    "Hash": null
   },
   {
     "Nome": "Spotify Downloader",
     "Link": "https://devuploads.com/qj9ubkrym11m",
     "LinkR": "",
-    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Downloader/spotifydownloader.jpg",
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Downloader/Spotify_Downloader.png",
     "Sezione": "Downloader",
     "Descrizione": "",
     "Tooltip": "Spotify Downloader",
-    "MRicerca": "spotify"
+    "MRicerca": "spotify",
+    "Hash": null
   },
   {
     "Nome": "YT Saver",
     "Link": "https://devuploads.com/4r1hjmjps3w4",
     "LinkR": "",
-    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Downloader/YTsaver.png",
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Downloader/YT_Saver.png",
     "Sezione": "Downloader",
     "Descrizione": "YT Saver è un'applicazione per il download e la conversione di video da oltre 10.000 piattaforme, inclusi YouTube, Instagram e TikTok. Permette di scaricare video fino a risoluzioni 8K e convertirli in oltre 20 formati diversi, come MP4 e MP3. Offre anche funzionalità avanzate come il download di playlist da servizi come Spotify, Tidal, etc e la modalità privata.",
     "Tooltip": "YT Saver v10.2.1",
-    "MRicerca": "Downloader"
+    "MRicerca": "yt",
+    "Hash": null
   },
   {
     "Nome": "Araxis Merge",
