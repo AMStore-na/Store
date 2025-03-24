@@ -1479,12 +1479,13 @@
   {
     "Nome": "WinHubX",
     "Link": "https://github.com/Italian-Developer/WinHubX/releases/download/WinHubX/WinHubX.exe",
-    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Tool-AIMODS/WinHubX.jpg",
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Tool-AIMODS/WinHubX.png",
     "Sezione": "Tools AIMODS",
     "Tooltip": "WinHubX v.2.4.2.0",
     "MRicerca": "Tools AIMODS, Office",
-    "LinkR": null,
-    "Descrizione": "Con questo tool sarete in grado di scaricare file ISO per la maggior parte delle versioni ed edizioni di Windows comprese edizioni All in One e Lite. Inoltre potrete scaricare, installare ed attivare le ultime versioni di Office sia in setup online sia offline. Infine abbiamo inserito la sezione Tools che include scorciatoie ai nostri tool come WinCustomizer, WIMToolKit e altre piccole chicche che lasciamo scoprire a voi!"
+    "LinkR": "",
+    "Descrizione": "Con questo tool sarete in grado di scaricare file ISO per la maggior parte delle versioni ed edizioni di Windows comprese edizioni All in One e Lite. Inoltre potrete scaricare, installare ed attivare le ultime versioni di Office sia in setup online sia offline. Infine abbiamo inserito la sezione Tools che include scorciatoie ai nostri tool come WinCustomizer, WIMToolKit e altre piccole chicche che lasciamo scoprire a voi!",
+    "Hash": null
   },
   {
     "Nome": "Fix Licenza",
@@ -1499,22 +1500,24 @@
   {
     "Nome": "RadioWindows",
     "Link": "https://devuploads.com/5fccbiupg8zg",
-    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Tool-AIMODS/radio.png",
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Tool-AIMODS/RadioWindows.png",
     "Sezione": "Tools AIMODS",
     "Tooltip": "RadioWindows v.0.0.0.0",
     "MRicerca": "Tools AIMODS",
-    "LinkR": null,
-    "Descrizione": "Scopri la nostra innovativa app: una radio pensata per Windows! 🎵 Non importa quali siano le tue preferenze musicali, la nostra piattaforma è pronta a offrirti un’esperienza unica. Anche se viene fornita con una selezione di radio di default, non preoccuparti! "
+    "LinkR": "",
+    "Descrizione": "Scopri la nostra innovativa app: una radio pensata per Windows! 🎵 Non importa quali siano le tue preferenze musicali, la nostra piattaforma è pronta a offrirti un’esperienza unica. Anche se viene fornita con una selezione di radio di default, non preoccuparti! ",
+    "Hash": null
   },
   {
     "Nome": "DataLock",
     "Link": "https://devuploads.com/8t0g8x8mpsrz",
-    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Tool-AIMODS/datalock.png",
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Tool-AIMODS/DataLock.png",
     "Sezione": "Tools AIMODS",
     "Tooltip": "DataLock v.0.0.0.0",
     "MRicerca": "Tools AIMODS",
-    "LinkR": null,
-    "Descrizione": "Addio Backup PC , benvenuta DataLock!"
+    "LinkR": "",
+    "Descrizione": "Addio Backup PC , benvenuta DataLock!",
+    "Hash": null
   },
   {
     "Nome": "Assistente-Aggiornamento-Win11",
@@ -1524,7 +1527,8 @@
     "Sezione": "Tools AIMODS",
     "Descrizione": " Lo strumento facilita l'aggiornamento rendendolo automatico e, quindi, semplice da effettuare anche per i meno esperti, mantenendo tutti i file personali.",
     "Tooltip": "Assistente Aggiornamento v.0.0.0.2",
-    "MRicerca": "Tools AIMODS"
+    "MRicerca": "Tools AIMODS",
+    "Hash": null
   },
   {
     "Nome": "Riproduttore Video",
