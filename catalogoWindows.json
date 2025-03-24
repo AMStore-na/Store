@@ -1359,12 +1359,12 @@
     "Nome": "OfficeSuite",
     "Link": "https://devuploads.com/bix9b7odmekc",
     "LinkR": "",
-    "ImmagineUrl": null,
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Office/OfficeSuite.png",
     "Sezione": "Office",
     "Descrizione": "OfficeSuite è una soluzione completa per ufficio sviluppata da MobiSystems, che include moduli per la modifica di documenti, presentazioni e fogli di calcolo, oltre a un client di posta integrato e un editor PDF avanzato.",
     "Tooltip": "OfficeSuite Premium v8.90.57422",
     "MRicerca": "office",
-    "Hash": null
+    "Hash": ""
   },
   {
     "Nome": "PassFab for Excel",
