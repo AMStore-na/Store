@@ -1520,25 +1520,26 @@
     "Hash": null
   },
   {
-    "Nome": "Assistente-Aggiornamento-Win11",
+    "Nome": "Assistente Aggiornamento Win11",
     "Link": "https://devuploads.com/dilzl5glhtr3",
     "LinkR": "",
-    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/refs/heads/main/Immagini/Tool-AIMODS/5de66eb3-586e-4a61-ae97-a5cdb9b58470.png",
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Tool-AIMODS/Assistente_Aggiornamento_Win11.png",
     "Sezione": "Tools AIMODS",
     "Descrizione": " Lo strumento facilita l'aggiornamento rendendolo automatico e, quindi, semplice da effettuare anche per i meno esperti, mantenendo tutti i file personali.",
     "Tooltip": "Assistente Aggiornamento v.0.0.0.2",
     "MRicerca": "Tools AIMODS",
-    "Hash": null
+    "Hash": ""
   },
   {
     "Nome": "Riproduttore Video",
     "Link": "https://devuploads.com/ls9eb5bdt9fa",
     "LinkR": "",
-    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Tool-AIMODS/riproduttorevideo.png",
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Tool-AIMODS/Riproduttore_Video.png",
     "Sezione": "Tools AIMODS",
     "Descrizione": "Il nostro player è una piattaforma che offre un’esperienza immersiva per la visione di eventi sportivi in diretta su MacOS e Windows. Sviluppato per garantire la massima qualità di streaming e un’interfaccia intuitiva, il software consente agli utenti di accedere facilmente ai contenuti sportivi da qualsiasi dispositivo desktop. L’obiettivo è quello di mettere gli appassionati di sport al centro dell’azione, con eventi in tempo reale e una qualità video impeccabile.",
     "Tooltip": "Riproduttore Video v.0.0.0.0",
-    "MRicerca": "Tools AIMODS"
+    "MRicerca": "Tools AIMODS",
+    "Hash": null
   },
   {
     "Nome": "Calibre",
@@ -1548,7 +1549,8 @@
     "Sezione": "Tools AIMODS",
     "Descrizione": "Calibre cos'è\nCalibre è un software open source gratuito per la gestione degli ebook. È estremamente utile per chi possiede una vasta collezione di libri digitali e desidera organizzarli, convertirli in vari formati, e trasferirli su diversi dispositivi di lettura.",
     "Tooltip": "",
-    "MRicerca": "Calibre"
+    "MRicerca": "Calibre",
+    "Hash": null
   },
   {
     "Nome": "PassFab For RAR",
