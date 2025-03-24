@@ -1611,5 +1611,27 @@
     "MRicerca": "Xara",
     "LinkR": null,
     "Descrizione": "Xara Designer Pro+ è un software di progettazione versatile sviluppato da Xara, che combina desktop publishing, web design, editing foto e grafica in un'unica piattaforma"
+  },
+  {
+    "Nome": "Age of Mythology",
+    "Link": "https://devuploads.com/gjwyna9l2n8k",
+    "LinkR": null,
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Games/Age_of_Mythology_Retold.png",
+    "Sezione": "Giochi",
+    "Descrizione": "Dai creatori dell'acclamata serie Age of Empires, Age of Mythology: Retold si spinge oltre la storia, trasportando i giocatori in un'età mitica in cui divinità, mostri ed esseri umani si incontrano e si scontrano.",
+    "Tooltip": "Age of Mythology: Retold – v100.18.9036.0 + 4 DLCs/Bonuses",
+    "MRicerca": "Giochi",
+    "Hash": "b592627074fdacea"
+  },
+  {
+    "Nome": "Bus Simulator 21",
+    "Link": "https://devuploads.com/kc0343x7iwxg",
+    "LinkR": null,
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Games/Bus%20Simulator%2021%20Next%20Stop.png",
+    "Sezione": "Giochi",
+    "Descrizione": "Bus Simulator 21 è un gioco di simulazione di autobus sviluppato da Stillalive Studios e pubblicato da Astragon Entertainment. È sviluppato su Unreal Engine 4. È il sesto della serie Bus Simulator ed è il sequel diretto di Bus Simulator 18.",
+    "Tooltip": "Bus Simulator 21: Next Stop – Gold Edition – Build 11097407 + 20 DLCs",
+    "MRicerca": "Giochi",
+    "Hash": "ad355b637c30f79e"
   }
 ]
