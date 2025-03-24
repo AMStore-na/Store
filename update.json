@@ -1,5 +1,5 @@
 { 
-    "version": "1.0.0.9", 
-    "releaseNotes": "Cambio logica", 
+    "version": "1.0.1.0", 
+    "releaseNotes": "Nuova interfaccia, apertura .aimods", 
     "updateUrl": "https://github.com/AMStore-na/Store/releases/download/Store/AIMODS-Store.exe" 
 }
