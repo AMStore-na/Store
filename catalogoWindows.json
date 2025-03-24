@@ -1381,21 +1381,23 @@
     "Nome": "Foxit PDF Editor Pro",
     "Link": "https://devuploads.com/068e5gdcd7tn",
     "LinkR": "",
-    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/refs/heads/main/Immagini/Altro/FoxitPDF.png",
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/PDF/Foxit_PDF_Editor_Pro.png",
     "Sezione": "PDF",
     "Descrizione": "Foxit PDF Editor Pro è un software avanzato per la modifica di documenti PDF, sviluppato da Foxit Software. È progettato per offrire capacità di modifica PDF professionali, inclusa la possibilità di aggiungere testo, commenti, immagini, e di firmare elettronicamente i documenti.",
     "Tooltip": "Foxit PDF Editor Pro",
-    "MRicerca": "foxit"
+    "MRicerca": "foxit",
+    "Hash": null
   },
   {
     "Nome": "Nitro PDF Pro Enterprise",
     "Link": "https://devuploads.com/hwv3m8wh9tyw",
-    "LinkR": null,
-    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/PDF/Nitro.png",
+    "LinkR": "",
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Adobe/Nitro_PDF_Pro_Enterprise.png",
     "Sezione": "PDF",
-    "Descrizione": null,
+    "Descrizione": "",
     "Tooltip": "Nitro PDF Pro Enterprise v14.34.2.0",
-    "MRicerca": "nitro"
+    "MRicerca": "nitro",
+    "Hash": null
   },
   {
     "Nome": "RecordFab",
