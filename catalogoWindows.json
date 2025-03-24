@@ -1436,11 +1436,12 @@
     "Nome": "Movavi Screen Recorder",
     "Link": "https://devuploads.com/klsx2cu9t20q",
     "LinkR": "",
-    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Registratore%20Audio-Video/Movavi%20Screen%20Recorder.png",
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Registratore%20Audio-Video/Movavi_Screen_Recorder.png",
     "Sezione": "Registratore Audio-Video",
     "Descrizione": "Movavi Screen Recorder è un software di registrazione dello schermo progettato per catturare video e audio dal tuo schermo PC o Mac.",
     "Tooltip": "Movavi Screen Recorder",
-    "MRicerca": "Movavi Screen Recorder"
+    "MRicerca": "movavi",
+    "Hash": null
   },
   {
     "Nome": "Bandicam",
@@ -1450,8 +1451,8 @@
     "Sezione": "Registratore Audio-Video",
     "Descrizione": "Bandicam è un leggero programma di registrazione video per Windows che può catturaretutto quello che avviene sullo schermo in un file video di alta qualità.",
     "Tooltip": "Bandicam",
-    "MRicerca": "Bandicam",
-    "Hash": null
+    "MRicerca": "bandicam",
+    "Hash": ""
   },
   {
     "Nome": "Aiseesoft Screen Recorder",
