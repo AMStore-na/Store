@@ -1370,11 +1370,12 @@
     "Nome": "PassFab for Excel",
     "Link": "https://devuploads.com/hukvaf6f0rvq",
     "LinkR": "",
-    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Office/passfabexcel.jpg",
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Office/PassFab_for_Excel.png",
     "Sezione": "Office",
     "Descrizione": "PassFab for Excel è uno strumento professionale per recuperare e rimuovere le password di file Excel.",
     "Tooltip": "PassFab for Excel v8.5.11",
-    "MRicerca": "Office"
+    "MRicerca": "office",
+    "Hash": null
   },
   {
     "Nome": "Foxit PDF Editor Pro",
