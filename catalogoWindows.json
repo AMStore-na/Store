@@ -1213,6 +1213,17 @@
     "Hash": "ad355b637c30f79e"
   },
   {
+    "Nome": "Cities - Skylines II",
+    "Link": "https://devuploads.com/kenqnkyemiht",
+    "LinkR": null,
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Games/Cities_Skylines_II.png",
+    "Sezione": "Giochi",
+    "Descrizione": "Erigi una città da zero e fanne una metropoli fiorente con il city builder più realistico di sempre. Sfrutta le tue doti creative e risolutive per creare a livelli mai provati. Simulazione profonda ed economia dinamica per costruire un mondo senza limiti.",
+    "Tooltip": "Cities: Skylines II – v1.2.5f1 + 16 DLCs + Bonus OSTs",
+    "MRicerca": "Giochi",
+    "Hash": "a6932453a2b93536"
+  },
+  {
     "Nome": "Topaz Photo AI",
     "Link": "https://devuploads.com/ejdrv7cqsqyx",
     "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/IA/Topaz_Photo_AI.png",
@@ -1647,16 +1658,5 @@
     "MRicerca": "Xara",
     "LinkR": null,
     "Descrizione": "Xara Designer Pro+ è un software di progettazione versatile sviluppato da Xara, che combina desktop publishing, web design, editing foto e grafica in un'unica piattaforma"
-  },
-  {
-    "Nome": "Cities - Skylines II",
-    "Link": "https://devuploads.com/kenqnkyemiht",
-    "LinkR": null,
-    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Games/Cities_Skylines_II.png",
-    "Sezione": "Giochi",
-    "Descrizione": "Erigi una città da zero e fanne una metropoli fiorente con il city builder più realistico di sempre. Sfrutta le tue doti creative e risolutive per creare a livelli mai provati. Simulazione profonda ed economia dinamica per costruire un mondo senza limiti.",
-    "Tooltip": "Cities: Skylines II – v1.2.5f1 + 16 DLCs + Bonus OSTs",
-    "MRicerca": "Giochi",
-    "Hash": "a6932453a2b93536"
   }
 ]
