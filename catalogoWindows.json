@@ -1599,22 +1599,24 @@
   {
     "Nome": "Windscribe",
     "Link": "https://devuploads.com/o6rzuq8c5wz5",
-    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/VPN/windscribe.jpg",
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/VPN/Windscribe.png",
     "Sezione": "VPN",
     "Tooltip": "Windscribe VPN",
-    "MRicerca": "VPN",
+    "MRicerca": "windscribe",
     "LinkR": "",
-    "Descrizione": "Windscribe è un servizio VPN e blocco pubblicità che offre una combinazione di strumenti per proteggere la tua privacy online e migliorare la tua esperienza di navigazione"
+    "Descrizione": "Windscribe è un servizio VPN e blocco pubblicità che offre una combinazione di strumenti per proteggere la tua privacy online e migliorare la tua esperienza di navigazione",
+    "Hash": null
   },
   {
     "Nome": "Avira Phantom",
     "Link": "https://devuploads.com/yqb8gsqhyniz",
-    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/refs/heads/main/Immagini/VPN/aviraphantomvpn.jpg",
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/VPN/Avira_Phantom.png",
     "Sezione": "VPN",
     "Tooltip": "Avira Phantom VPN Pro v2.44.1.19908",
-    "MRicerca": "VPN",
-    "LinkR": null,
-    "Descrizione": "Avira Phantom è un servizio di VPN (Virtual Private Network) offerto da Avira, una nota azienda di sicurezza informatica."
+    "MRicerca": "avira",
+    "LinkR": "",
+    "Descrizione": "Avira Phantom è un servizio di VPN (Virtual Private Network) offerto da Avira, una nota azienda di sicurezza informatica.",
+    "Hash": null
   },
   {
     "Nome": "Xara Photo and Graphic Designer Plus",
