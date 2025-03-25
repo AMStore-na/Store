@@ -674,6 +674,39 @@
     "Hash": null
   },
   {
+    "Nome": "Xara Photo and Graphic Designer Plus",
+    "Link": "https://devuploads.com/dxcd4p38yj8x",
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Editing/Xara_Photo_and_Graphic_Designer_Plus.png",
+    "Sezione": "Gestione Foto/Video e Editing",
+    "Tooltip": "Xara Photo and Graphic Designer Plus v24.3.0.70123",
+    "MRicerca": "xara",
+    "LinkR": "",
+    "Descrizione": "Xara Photo & Graphic Designer+ è un software di editing foto e grafica sviluppato da Xara, progettato per offrire un'esperienza di editing rapida e intuitiva.",
+    "Hash": null
+  },
+  {
+    "Nome": "Xara Web Designer Plus",
+    "Link": "https://devuploads.com/ltsrevy9pzjm",
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Editing/Xara_Web_Designer_Plus.png",
+    "Sezione": "Gestione Foto/Video e Editing",
+    "Tooltip": "Xara Web Designer Plus",
+    "MRicerca": "xara",
+    "LinkR": "",
+    "Descrizione": "Xara Web Designer+ è un potente strumento di creazione di siti web senza codifica sviluppato da Xara",
+    "Hash": null
+  },
+  {
+    "Nome": "Xara Designer Pro Plus",
+    "Link": "https://devuploads.com/ij3edxne7bin",
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Editing/Xara_Designer_Pro_Plus.png",
+    "Sezione": "Gestione Foto/Video e Editing",
+    "Tooltip": "Xara Designer Pro Plus v24.3.0.70123",
+    "MRicerca": "xara",
+    "LinkR": "",
+    "Descrizione": "Xara Designer Pro+ è un software di progettazione versatile sviluppato da Xara, che combina desktop publishing, web design, editing foto e grafica in un'unica piattaforma",
+    "Hash": null
+  },
+  {
     "Nome": "EaseUS Partition Master",
     "Link": "https://devuploads.com/e1x7gkigjdka",
     "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/GestioneHDD-SSD/EaseUS_Partition_Master.png",
@@ -1627,39 +1660,6 @@
     "MRicerca": "avira",
     "LinkR": "",
     "Descrizione": "Avira Phantom è un servizio di VPN (Virtual Private Network) offerto da Avira, una nota azienda di sicurezza informatica.",
-    "Hash": null
-  },
-  {
-    "Nome": "Xara Photo and Graphic Designer Plus",
-    "Link": "https://devuploads.com/dxcd4p38yj8x",
-    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Editing/Xara_Photo_and_Graphic_Designer_Plus.png",
-    "Sezione": "Gestione Foto/Video e Editing",
-    "Tooltip": "Xara Photo and Graphic Designer Plus v24.3.0.70123",
-    "MRicerca": "xara",
-    "LinkR": "",
-    "Descrizione": "Xara Photo & Graphic Designer+ è un software di editing foto e grafica sviluppato da Xara, progettato per offrire un'esperienza di editing rapida e intuitiva.",
-    "Hash": null
-  },
-  {
-    "Nome": "Xara Web Designer Plus",
-    "Link": "https://devuploads.com/ltsrevy9pzjm",
-    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Editing/Xara_Web_Designer_Plus.png",
-    "Sezione": "Gestione Foto/Video e Editing",
-    "Tooltip": "Xara Web Designer Plus",
-    "MRicerca": "xara",
-    "LinkR": "",
-    "Descrizione": "Xara Web Designer+ è un potente strumento di creazione di siti web senza codifica sviluppato da Xara",
-    "Hash": null
-  },
-  {
-    "Nome": "Xara Designer Pro Plus",
-    "Link": "https://devuploads.com/ij3edxne7bin",
-    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Editing/Xara_Designer_Pro_Plus.png",
-    "Sezione": "Gestione Foto/Video e Editing",
-    "Tooltip": "Xara Designer Pro Plus v24.3.0.70123",
-    "MRicerca": "xara",
-    "LinkR": "",
-    "Descrizione": "Xara Designer Pro+ è un software di progettazione versatile sviluppato da Xara, che combina desktop publishing, web design, editing foto e grafica in un'unica piattaforma",
     "Hash": null
   }
 ]
