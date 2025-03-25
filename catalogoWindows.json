@@ -1549,48 +1549,52 @@
     "Sezione": "Tools AIMODS",
     "Descrizione": "Calibre cos'è\nCalibre è un software open source gratuito per la gestione degli ebook. È estremamente utile per chi possiede una vasta collezione di libri digitali e desidera organizzarli, convertirli in vari formati, e trasferirli su diversi dispositivi di lettura.",
     "Tooltip": "",
-    "MRicerca": "Calibre",
-    "Hash": null
+    "MRicerca": "calibre",
+    "Hash": ""
   },
   {
     "Nome": "PassFab For RAR",
     "Link": "https://devuploads.com/z1y68h5fvja5",
     "LinkR": "",
-    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Tool-AIMODS/PassFab%20RAR.png",
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Games/PassFab_For_RAR.png",
     "Sezione": "Tools AIMODS",
     "Descrizione": "PassFab for RAR è uno strumento professionale per recuperare le password di archivi RAR e WinRAR",
     "Tooltip": "PassFab For RAR 9.5.2.2",
-    "MRicerca": ""
+    "MRicerca": "passfab",
+    "Hash": null
   },
   {
     "Nome": "Clipboard",
     "Link": "https://devuploads.com/h2e9cktq8fde",
     "LinkR": "",
-    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/refs/heads/main/Immagini/Tool-AIMODS/Clipboard.jpg",
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Tool-AIMODS/Clipboard.png",
     "Sezione": "Tools AIMODS",
     "Descrizione": "AIMods Advanced Clipboard instaura una connessione client-server con tutti i dispositivi connessi alla stessa rete privata. Sfruttando tale meccanismo, un server (un dispositivo) invia ai client (tutti gli altri dispositivi) ciò che è stato copiato (o la nota creata). In questo modo, le note, il testo e le immagini copiate sul PC in camera, verranno copiati istantaneamente anche sul PC in sala e viceversa.",
     "Tooltip": "Clipboard v.1.0.0.0",
-    "MRicerca": "Tools AIMODS"
+    "MRicerca": "clipboard",
+    "Hash": null
   },
   {
     "Nome": "QuickTweak",
     "Link": "https://devuploads.com/xpfq0fryeyqn",
     "LinkR": "",
-    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Tool-AIMODS/quicktweaklogo.png",
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Tool-AIMODS/QuickTweak.png",
     "Sezione": "Tools AIMODS",
     "Descrizione": "Uno strumento automatico e altamente personalizzabile per l'ottimizazione del sistema operativo.",
     "Tooltip": "QuickTweak v.0.0.0.0",
-    "MRicerca": "Tools AIMODS"
+    "MRicerca": "quickk",
+    "Hash": null
   },
   {
     "Nome": "Media Convert",
     "Link": "https://devuploads.com/odjp3s5zemw7",
     "LinkR": "",
-    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Tool-AIMODS/MediaConvert.png",
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Tool-AIMODS/Media_Convert.png",
     "Sezione": "Tools AIMODS",
     "Descrizione": "Il nuovo convertitore video e audio targato AIMODS è un potente strumento progettato per semplificare la gestione dei tuoi file multimediali. Supporta una vasta gamma di formati, tra cui MP4, AVI, MKV, MXF per video, e WAV, MP3, FLAC, AAC per audio, garantendo la massima versatilità.",
     "Tooltip": "Media Convert v.0.0.0.0",
-    "MRicerca": "Tools AIMODS"
+    "MRicerca": "media",
+    "Hash": null
   },
   {
     "Nome": "Windscribe",
