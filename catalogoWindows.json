@@ -1673,5 +1673,16 @@
     "LinkR": "",
     "Descrizione": "Avira Phantom è un servizio di VPN (Virtual Private Network) offerto da Avira, una nota azienda di sicurezza informatica.",
     "Hash": null
+  },
+  {
+    "Nome": "Lightburn",
+    "Link": "https://devuploads.com/k8djf1q1o6n3",
+    "LinkR": "",
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Altro/Lightburn.png",
+    "Sezione": "Altro",
+    "Descrizione": "LightBurn è un software di progettazione e controllo per laser cutter e engravers",
+    "Tooltip": "LightBurn v1.707",
+    "MRicerca": "lightburn",
+    "Hash": "19f5864d9efb5944"
   }
 ]
