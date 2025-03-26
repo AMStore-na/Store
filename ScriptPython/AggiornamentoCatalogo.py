@@ -19,6 +19,15 @@ catalogo_data = catalogo_response.json()
 state_response = requests.get(state_url)
 state_data = state_response.json()
 
+# Normalizza i dati per evitare problemi di confronto
+for item in catalogo_data:
+    if 'Hash' not in item:
+        item['Hash'] = None  # Aggiunge il campo Hash se mancante
+
+for item in state_data:
+    if 'Hash' not in item:
+        item['Hash'] = None  # Aggiunge il campo Hash se mancante
+
 # Confronta i dati
 if catalogo_data != state_data:
     print("I dati sono cambiati, aggiornamento in corso...")
@@ -33,7 +42,7 @@ if catalogo_data != state_data:
     # Aggiorna il contenuto del file old_catalogoWindows.json
     update_response = repo.update_file(
         file_content.path,
-        "Aggiornamento catalogo",
+        "Aggiornamento catalogo con Hash",
         json.dumps(catalogo_data, indent=4, ensure_ascii=False),  # Mantiene i caratteri speciali correttamente
         file_content.sha
     )
