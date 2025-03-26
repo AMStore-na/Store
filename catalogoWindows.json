@@ -1673,5 +1673,16 @@
     "Tooltip": "IDM v6.42 b29",
     "MRicerca": "idm",
     "Hash": "6494ae5738a2b09e"
+  },
+  {
+    "Nome": "Copernic Desktop Search",
+    "Link": "https://devuploads.com/c8yke8uupctj",
+    "LinkR": null,
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Gestione%20file/Copernic_Desktop_Search.png",
+    "Sezione": "Gestione file",
+    "Descrizione": null,
+    "Tooltip": "Copernic Desktop Search v7.1.1.13217",
+    "MRicerca": "desktop",
+    "Hash": "371b16681ab42c74"
   }
 ]
