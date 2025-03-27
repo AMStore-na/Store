@@ -1695,7 +1695,8 @@
     "Descrizione": "test",
     "Tooltip": "test",
     "MRicerca": "test",
-    "Hash": "test"
+    "Hash": "test",
+    "UUID": "2"
   },
   {
     "Nome": "test1",
