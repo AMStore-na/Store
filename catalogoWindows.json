@@ -229,19 +229,7 @@
     "MRicerca": "vmware",
     "Hash": "null",
     "UUID": "19"
-  },
-  {
-    "Nome": "Lightburn",
-    "Link": "https://devuploads.com/gssd3vrq5zvw",
-    "LinkR": "",
-    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Altro/Lightburn.png",
-    "Sezione": "Altro",
-    "Descrizione": "LightBurn è un software di progettazione e controllo per laser cutter e engravers",
-    "Tooltip": "LightBurn v1.6.03",
-    "MRicerca": "lightburn",
-    "Hash": "null",
-    "UUID": "20"
-  },
+  }
   {
     "Nome": "Tenorshare ReiBoot for Android",
     "Link": "https://devuploads.com/33nkbi5nasx8",
@@ -1836,6 +1824,6 @@
     "Tooltip": "Avira Phantom VPN Pro v2.44.1.19908",
     "MRicerca": "avira",
     "Hash": "null",
-    "UUID": "153"
+    "UUID": "20"
   }
 ]
