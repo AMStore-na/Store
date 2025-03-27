@@ -1849,41 +1849,5 @@
     "MRicerca": "test",
     "Hash": "test",
     "UUID": "154"
-  },
-  {
-    "Nome": "test1",
-    "Link": "test1",
-    "LinkR": "test1",
-    "ImmagineUrl": "test1",
-    "Sezione": "test1",
-    "Descrizione": "test1",
-    "Tooltip": "test1",
-    "MRicerca": "test1",
-    "Hash": "test1",
-    "UUID": "155"
-  },
-  {
-    "Nome": "test3",
-    "Link": "test3",
-    "LinkR": "test3",
-    "ImmagineUrl": "test3",
-    "Sezione": "test3",
-    "Descrizione": "test3",
-    "Tooltip": "test3",
-    "MRicerca": "test3",
-    "Hash": "test3",
-    "UUID": "156"
-  },
-  {
-    "Nome": "test6",
-    "Link": "test6",
-    "LinkR": "test6",
-    "ImmagineUrl": "test6",
-    "Sezione": "test6",
-    "Descrizione": "test6",
-    "Tooltip": "test6",
-    "MRicerca": "test6",
-    "Hash": "test6",
-    "UUID": "157"
   }
 ]
