@@ -11,7 +11,7 @@
     "Descrizione": "Adobe Acrobat Pro è un software potente e versatile sviluppato da Adobe Systems per la creazione, modifica e gestione di file PDF (Portable Document Format). è ampiamente utilizzato in ambito professionale per la sua capacità di manipolare documenti in modo efficiente.",
     "Tooltip": "Adobe Acrobat Pro 2025 v25.1.20428",
     "MRicerca": "acrobat",
-    "Hash": "null",
+    "Hash": "",
     "UUID": "1"
   },
   {
@@ -155,7 +155,7 @@
     "Descrizione": "IntelliJ IDEA è un Integrated Development Environment (IDE) sviluppato da JetBrains, progettato principalmente per lo sviluppo in Java e Kotlin. È noto per la sua potenza, flessibilità e strumenti avanzati che migliorano la produttività dei programmatori.",
     "Tooltip": "JetBrains Intellij IDEA Ultimate v2024.1",
     "MRicerca": "intellij",
-    "Hash": "null",
+    "Hash": "",
     "UUID": "13"
   },
   {
@@ -167,7 +167,7 @@
     "Descrizione": "MediaMonkey è un software di gestione e organizzazione dei media progettato per collezionisti seri di musica e video.",
     "Tooltip": "Media Monkey Gold v2024.0.0.3019",
     "MRicerca": "monkey",
-    "Hash": "null",
+    "Hash": "",
     "UUID": "14"
   },
   {
@@ -191,7 +191,7 @@
     "Descrizione": "64Gram è un'applicazione non ufficiale di Telegram Desktop, progettata per offrire un'esperienza migliorata rispetto alla versione standard di Telegram con funzionalità aggiuntive e una maggiore personalizzazione.",
     "Tooltip": "64Gram v1.1.45",
     "MRicerca": "64gram",
-    "Hash": "null",
+    "Hash": "",
     "UUID": "16"
   },
   {
@@ -203,7 +203,7 @@
     "Descrizione": "NetSpot è un'applicazione professionale multipiattaforma progettata per la pianificazione delle reti WiFi, le site survey wireless, l'analisi del WiFi e la risoluzione dei problemi di rete.",
     "Tooltip": "NetSpot Multilingual v3.1.0.478",
     "MRicerca": "netspot",
-    "Hash": "null",
+    "Hash": "",
     "UUID": "17"
   },
   {
@@ -215,7 +215,7 @@
     "Descrizione": "Ekahau è una piattaforma completa per la progettazione, ottimizzazione e gestione delle reti Wi-Fi, particolarmente utilizzata in ambienti aziendali. Offre una serie di strumenti avanzati per garantire prestazioni ottimali e affidabili delle reti wireless.",
     "Tooltip": "Ekahau Ai Pro 11.6.0",
     "MRicerca": "ekahau",
-    "Hash": "null",
+    "Hash": "",
     "UUID": "18"
   },
   {
@@ -227,7 +227,7 @@
     "Descrizione": "VMware Workstation Pro è un potente strumento di virtualizzazione che permette agli utenti di eseguire più sistemi operativi su un singolo PC.",
     "Tooltip": "VMware Workstation Pro v17.6.2.24409262",
     "MRicerca": "vmware",
-    "Hash": "null",
+    "Hash": "",
     "UUID": "19"
   },
   {
@@ -239,7 +239,7 @@
     "Descrizione": "Tenorshare ReiBoot for Android è uno strumento di riparazione del sistema Android progettato per risolvere oltre 50 problemi comuni del sistema Android, come il blocco del logo Samsung, il telefono che continua a riavviarsi, lo schermo nero e altro ancora",
     "Tooltip": "Tenorshare ReiBoot for Android 2-1.8",
     "MRicerca": "reiboot",
-    "Hash": "null",
+    "Hash": "",
     "UUID": "21"
   },
   {
@@ -287,7 +287,7 @@
     "Descrizione": "Malwarebytes è un software di sicurezza informatica progettato per rilevare e rimuovere malware, spyware, ransomware, adware e altre minacce pericolose.",
     "Tooltip": "Malwerbytes",
     "MRicerca": "malwarebites",
-    "Hash": "null",
+    "Hash": "",
     "UUID": "25"
   },
   {
@@ -299,7 +299,7 @@
     "Descrizione": "Kaspersky è un'azienda russa di sicurezza informatica nota per i suoi software antivirus e suite di sicurezza.",
     "Tooltip": "Kaspersky",
     "MRicerca": "kaspersy",
-    "Hash": "null",
+    "Hash": "",
     "UUID": "26"
   },
   {
@@ -311,7 +311,7 @@
     "Descrizione": "Bitdefender è una rinomata azienda di sicurezza informatica che offre una gamma di prodotti e servizi per proteggere dispositivi e reti da minacce digitali come virus, malware, ransomware, e altre minacce online.",
     "Tooltip": "Bitdefender Total Security",
     "MRicerca": "bitdefender",
-    "Hash": "null",
+    "Hash": "",
     "UUID": "27"
   },
   {
@@ -323,7 +323,7 @@
     "Descrizione": "Avast Premium Security è un software di sicurezza informatica progettato per proteggere i dispositivi da vari tipi di minacce informatiche.",
     "Tooltip": "Avast Premium Security v24.9.9452.875",
     "MRicerca": "avast",
-    "Hash": "null",
+    "Hash": "",
     "UUID": "28"
   },
   {
@@ -335,7 +335,7 @@
     "Descrizione": "ESET Endpoint Security è una soluzione di protezione completa per endpoint, progettata per proteggere i dispositivi aziendali da una vasta gamma di minacce informatiche. È una piattaforma Endpoint Protection Platform (EPP) che offre protezione multilivello, rilevamento e correzione di attività dannose.",
     "Tooltip": "ESET Endpoint Security v12.0.2038.0",
     "MRicerca": "eset",
-    "Hash": "null",
+    "Hash": "",
     "UUID": "29"
   },
   {
@@ -359,7 +359,7 @@
     "Descrizione": "Autodesk Revit è un software di progettazione e modellazione per l'architettura, l'ingegneria e le costruzioni, sviluppato da Autodesk. È ampiamente utilizzato nel settore delle costruzioni per il Building Information Modeling (BIM).",
     "Tooltip": "Autodesk Revit 2025",
     "MRicerca": "revit",
-    "Hash": "null",
+    "Hash": "",
     "UUID": "31"
   },
   {
@@ -371,7 +371,7 @@
     "Descrizione": "Autodesk AutoCAD è un software di progettazione assistita da computer (CAD) molto utilizzato nel settore dell'architettura, dell'ingegneria e della progettazione industriale.",
     "Tooltip": "Autodesk AutoCAD 2025.0.1 Build v72.0.0",
     "MRicerca": "autocad",
-    "Hash": "null",
+    "Hash": "",
     "UUID": "32"
   },
   {
@@ -383,7 +383,7 @@
     "Descrizione": "Autodesk Maya è un software di animazione e modellazione 3D ampiamente utilizzato nell'industria dell'animazione, dei videogiochi, della visualizzazione architettonica e degli effetti visivi.",
     "Tooltip": "Autodesk Maya 2025",
     "MRicerca": "maya",
-    "Hash": "null",
+    "Hash": "",
     "UUID": "33"
   },
   {
@@ -395,7 +395,7 @@
     "Descrizione": "Enscape 3D è un plugin di rendering in tempo reale e realtà virtuale progettato per integrarsi perfettamente con strumenti di progettazione come Revit, SketchUp, Rhino, ArchiCAD e Vectorworks. È utilizzato principalmente da architetti, progettisti e paesaggisti per visualizzare e presentare i loro progetti in modo più interattivo e realistico.",
     "Tooltip": "Enscape 3D v4.0.1.48 for Revit",
     "MRicerca": "enscape",
-    "Hash": "null",
+    "Hash": "",
     "UUID": "34"
   },
   {
@@ -407,7 +407,7 @@
     "Descrizione": "Autodesk Inventor è un software di progettazione assistita da computer (CAD) 3D, sviluppato da Autodesk, utilizzato principalmente per la progettazione meccanica e l'ingegneria.",
     "Tooltip": "Autodesk Inventor",
     "MRicerca": "inventor",
-    "Hash": "null",
+    "Hash": "",
     "UUID": "35"
   },
   {
@@ -419,7 +419,7 @@
     "Descrizione": "ACCA Edificius è un software di progettazione architettonica e di gestione della costruzione, sviluppato da ACCA Software, un'azienda italiana specializzata in soluzioni informatiche per il settore delle costruzioni. Ecco alcune delle sue caratteristiche principali",
     "Tooltip": "ACCA Edificius",
     "MRicerca": "edificius",
-    "Hash": "null",
+    "Hash": "",
     "UUID": "36"
   },
   {
@@ -431,7 +431,7 @@
     "Descrizione": "Lumion Pro",
     "Tooltip": "Lumion Pro (https://lumion.com/) v2024.4.2.0",
     "MRicerca": "lumion",
-    "Hash": "null",
+    "Hash": "",
     "UUID": "37"
   },
   {
@@ -443,7 +443,7 @@
     "Descrizione": "Freemake Video Converter è un software freemium sviluppato da Ellora Assets Corporation. È progettato per convertire i file video in vari formati, masterizzare video su DVD e creare presentazioni fotografiche.",
     "Tooltip": "Freemake Video Converter v4.1.13.187",
     "MRicerca": "frremake",
-    "Hash": "null",
+    "Hash": "",
     "UUID": "38"
   },
   {
@@ -467,7 +467,7 @@
     "Descrizione": "IDM Portable è una versione portatile di Internet Download Manager (IDM), un acceleratore di download progettato per aumentare la velocità di download fino a otto volte, riprendere i download interrotti e pianificare i download. La versione portatile consente di utilizzare IDM su diversi dispositivi senza necessità di installazione permanente.",
     "Tooltip": "IDM v6.42 Portable",
     "MRicerca": "idm",
-    "Hash": "null",
+    "Hash": "",
     "UUID": "40"
   },
   {
@@ -503,7 +503,7 @@
     "Descrizione": "KeepStreams è un software di gestione dei download progettato per scaricare e convertire media da varie piattaforme di streaming.",
     "Tooltip": "KeepStreams v1.2.2.2",
     "MRicerca": "keep",
-    "Hash": "null",
+    "Hash": "",
     "UUID": "43"
   },
   {
@@ -515,7 +515,7 @@
     "Descrizione": "Y2mate è uno strumento online che permette di scaricare video da YouTube e altre piattaforme di condivisione video",
     "Tooltip": "Y2mate Downloader v1.2.3.4",
     "MRicerca": "y2mate",
-    "Hash": "null",
+    "Hash": "",
     "UUID": "44"
   },
   {
@@ -527,7 +527,7 @@
     "Descrizione": "MusicFab è un software sviluppato da DVDFab che consente di scaricare musica da vari servizi di streaming come Amazon Music, Spotify, Apple Music e altri.",
     "Tooltip": "MusicFab v1.0.4.3",
     "MRicerca": "music",
-    "Hash": "null",
+    "Hash": "",
     "UUID": "45"
   },
   {
@@ -539,7 +539,7 @@
     "Descrizione": "StreamFab è un software progettato per scaricare video da una vasta gamma di servizi di streaming e piattaforme online",
     "Tooltip": "Streamfab v6.1.9.4",
     "MRicerca": "streamfab",
-    "Hash": "null",
+    "Hash": "",
     "UUID": "46"
   },
   {
@@ -551,7 +551,7 @@
     "Descrizione": "a Software offre strumenti per il download e la conversione video, incluso il download da piattaforme streaming e la conversione di file SWF e PowerPoint in vari formati. Offre la soluzione più completa per scaricare video in streaming da Amazon Prime, Netflix, Disney+, etc. Ideale per l'uso personale e aziendale, le soluzioni semplificano la creazione e la gestione di contenuti multimediali, garantendo alta qualità e flessibilità.",
     "Tooltip": "Moyea Downloader v20.0.0.0",
     "MRicerca": "moyea",
-    "Hash": "null",
+    "Hash": "",
     "UUID": "47"
   },
   {
@@ -563,7 +563,7 @@
     "Descrizione": "",
     "Tooltip": "Spotify Downloader",
     "MRicerca": "spotify",
-    "Hash": "null",
+    "Hash": "",
     "UUID": "48"
   },
   {
@@ -575,7 +575,7 @@
     "Descrizione": "YT Saver è un'applicazione per il download e la conversione di video da oltre 10.000 piattaforme, inclusi YouTube, Instagram e TikTok. Permette di scaricare video fino a risoluzioni 8K e convertirli in oltre 20 formati diversi, come MP4 e MP3. Offre anche funzionalità avanzate come il download di playlist da servizi come Spotify, Tidal, etc e la modalità privata.",
     "Tooltip": "YT Saver v10.2.1",
     "MRicerca": "yt",
-    "Hash": "null",
+    "Hash": "",
     "UUID": "49"
   },
   {
@@ -599,16 +599,16 @@
     "Descrizione": "Araxis Merge è un'applicazione avanzata per il confronto di file (diff), l'unione (merge) e la sincronizzazione di cartelle.",
     "Tooltip": "Araxis Merge Professional v2024.6002",
     "MRicerca": "araxis",
-    "Hash": "null",
+    "Hash": "",
     "UUID": "51"
   },
   {
     "Nome": "Copernic Desktop Search",
     "Link": "https://devuploads.com/c8yke8uupctj",
-    "LinkR": "null",
+    "LinkR": "",
     "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Gestione%20file/Copernic_Desktop_Search.png",
     "Sezione": "Gestione file",
-    "Descrizione": "null",
+    "Descrizione": "",
     "Tooltip": "Copernic Desktop Search v7.1.1.13217",
     "MRicerca": "desktop",
     "Hash": "371b16681ab42c74",
@@ -623,7 +623,7 @@
     "Descrizione": "UniFab è un software di miglioramento delle immagini e dei video sviluppato da Topaz Labs, progettato per migliorare la qualità delle foto e dei video utilizzando l'intelligenza artificiale.",
     "Tooltip": "UniFab v2.0.2.1",
     "MRicerca": "unifab",
-    "Hash": "null",
+    "Hash": "",
     "UUID": "53"
   },
   {
@@ -659,7 +659,7 @@
     "Descrizione": "Prima Cartoonizer è un software che permette di trasformare le foto in stile cartone animato con una varietà di effetti",
     "Tooltip": "Prima Cartoonizer v5.2.7",
     "MRicerca": "prima",
-    "Hash": "null",
+    "Hash": "",
     "UUID": "56"
   },
   {
@@ -671,7 +671,7 @@
     "Descrizione": "AquaSoft Stages è un software di creazione di presentazioni multimediali e slideshow, progettato per aiutare gli utenti a combinare immagini, video, musica e testi in maniera creativa e coinvolgente.",
     "Tooltip": "AquaSoft Stages v15.2.05",
     "MRicerca": "aqua",
-    "Hash": "null",
+    "Hash": "",
     "UUID": "57"
   },
   {
@@ -683,7 +683,7 @@
     "Descrizione": "EaseUS Video Editor è un software di editing video gratuito e intuitivo, ideale sia per principianti che per utenti avanzati. Offre una vasta gamma di funzionalità per creare video professionali senza sforzo.",
     "Tooltip": "EaseUS Video Editor Pro 2.4.0 Build 20240910 ",
     "MRicerca": "easeus",
-    "Hash": "null",
+    "Hash": "",
     "UUID": "58"
   },
   {
@@ -695,7 +695,7 @@
     "Descrizione": "FaceRig è un software che simula i movimenti faciali di vari personaggi attraverso un dispositivo di cattura video. È stato successivamente sostituito da Animaze by FaceRig, che offre funzionalità più avanzate e una maggiore personalizzazione.",
     "Tooltip": "Face Rig",
     "MRicerca": "face",
-    "Hash": "null",
+    "Hash": "",
     "UUID": "59"
   },
   {
@@ -707,7 +707,7 @@
     "Descrizione": "CyberLink PowerDirector è un software di montaggio video avanzato e intuitivo, disponibile per Windows e Mac. È noto per la sua capacità di creare video professionali con una vasta gamma di strumenti e funzionalità.",
     "Tooltip": "CyberLink PowerDirector Ultimate 2025 v23.1.1322.0",
     "MRicerca": "cyberlink",
-    "Hash": "null",
+    "Hash": "",
     "UUID": "60"
   },
   {
@@ -719,7 +719,7 @@
     "Descrizione": "SketchUp è un software di modellazione 3D molto popolare, utilizzato in vari settori come l'architettura, il design, l'ingegneria e altro ancora",
     "Tooltip": "SketchUp",
     "MRicerca": "sketchUp",
-    "Hash": "null",
+    "Hash": "",
     "UUID": "61"
   },
   {
@@ -743,7 +743,7 @@
     "Descrizione": "",
     "Tooltip": "Capture One Enterprise v16.5.8.2763",
     "MRicerca": "capture",
-    "Hash": "null",
+    "Hash": "",
     "UUID": "63"
   },
   {
@@ -755,7 +755,7 @@
     "Descrizione": "Xara Photo & Graphic Designer+ è un software di editing foto e grafica sviluppato da Xara, progettato per offrire un'esperienza di editing rapida e intuitiva.",
     "Tooltip": "Xara Photo and Graphic Designer Plus v24.3.0.70123",
     "MRicerca": "xara",
-    "Hash": "null",
+    "Hash": "",
     "UUID": "64"
   },
   {
@@ -767,7 +767,7 @@
     "Descrizione": "Xara Web Designer+ è un potente strumento di creazione di siti web senza codifica sviluppato da Xara",
     "Tooltip": "Xara Web Designer Plus",
     "MRicerca": "xara",
-    "Hash": "null",
+    "Hash": "",
     "UUID": "65"
   },
   {
@@ -779,7 +779,7 @@
     "Descrizione": "Xara Designer Pro+ è un software di progettazione versatile sviluppato da Xara, che combina desktop publishing, web design, editing foto e grafica in un'unica piattaforma",
     "Tooltip": "Xara Designer Pro Plus v24.3.0.70123",
     "MRicerca": "xara",
-    "Hash": "null",
+    "Hash": "",
     "UUID": "66"
   },
   {
@@ -791,7 +791,7 @@
     "Descrizione": "EaseUS Partition Master è un software di gestione delle partizioni per Windows. È progettato per aiutare gli utenti a creare, ridimensionare, eliminare e combinare partizioni in modo semplice e sicuro.",
     "Tooltip": "EaseUS Partition Master v19.5.0 ",
     "MRicerca": "partition",
-    "Hash": "null",
+    "Hash": "",
     "UUID": "67"
   },
   {
@@ -803,7 +803,7 @@
     "Descrizione": "Recuva Business Edition è una versione avanzata del popolare strumento di recupero file Recuva, sviluppato da Piriform. Questa versione è progettata per le esigenze aziendali e offre funzionalità aggiuntive rispetto alla versione gratuita.",
     "Tooltip": "Recuva Business Edition v1.53.2095",
     "MRicerca": "recuva",
-    "Hash": "null",
+    "Hash": "",
     "UUID": "68"
   },
   {
@@ -815,7 +815,7 @@
     "Descrizione": "Glary Utilities Pro è un software di utilità completo progettato per ottimizzare, pulire e proteggere il tuo PC. Offre oltre 20 strumenti per migliorare le prestazioni del sistema, mantenere la privacy e risolvere problemi comuni.",
     "Tooltip": "Glary Utilities Pro v6.21.0.25",
     "MRicerca": "glary",
-    "Hash": "null",
+    "Hash": "",
     "UUID": "69"
   },
   {
@@ -827,7 +827,7 @@
     "Descrizione": "Driver Easy è un software di aggiornamento driver per Windows. È progettato per aiutarti a mantenere i driver del tuo sistema operativo aggiornati, il che può risolvere molti problemi di compatibilità e prestazioni del computer.",
     "Tooltip": "Driver Easy Professional v6.1.2.29728",
     "MRicerca": "easy",
-    "Hash": "null",
+    "Hash": "",
     "UUID": "70"
   },
   {
@@ -839,7 +839,7 @@
     "Descrizione": "Wallpaper Engine è un software che permette di utilizzare sfondi animati sul desktop Windows",
     "Tooltip": "Wallpaper Engine",
     "MRicerca": "wallpaper",
-    "Hash": "null",
+    "Hash": "",
     "UUID": "71"
   },
   {
@@ -851,7 +851,7 @@
     "Descrizione": "Ashampoo Driver Updater è un software utile per la gestione dei driver del computer, progettato per semplificare il processo di aggiornamento e ottimizzazione dei driver.",
     "Tooltip": "Ashampoo Driver Updater 1.6.2",
     "MRicerca": "ashampoo",
-    "Hash": "null",
+    "Hash": "",
     "UUID": "72"
   },
   {
@@ -863,7 +863,7 @@
     "Descrizione": "CCleaner è un popolare software di ottimizzazione e pulizia del sistema sviluppato da Piriform (ora parte di Avast). È progettato per migliorare le prestazioni del tuo computer rimuovendo file temporanei, cookie, file di registro inutili, e altri dati che possono accumularsi nel tempo e rallentare il sistema.",
     "Tooltip": "CCleaner Professional v6.33",
     "MRicerca": "ccleaner",
-    "Hash": "null",
+    "Hash": "",
     "UUID": "73"
   },
   {
@@ -875,7 +875,7 @@
     "Descrizione": "StartAllBack è un'applicazione progettata per migliorare e personalizzare l'interfaccia utente di Windows 11, permettendo agli utenti di ripristinare elementi familiari delle versioni precedenti di Windows, come Windows 10 e Windows 7",
     "Tooltip": "StartAllBack v3.9.4",
     "MRicerca": "start",
-    "Hash": "null",
+    "Hash": "",
     "UUID": "74"
   },
   {
@@ -887,7 +887,7 @@
     "Descrizione": "EaseUS PCTrans è un software di trasferimento dati progettato per aiutarti a spostare facilmente file, programmi, impostazioni e profili utente da un vecchio PC a uno nuovo senza dover reinstallare nulla. È particolarmente utile quando stai passando a un nuovo computer o aggiornando il tuo sistema operativo.",
     "Tooltip": "EaseUS Todo PCTrans v13.17",
     "MRicerca": "pc trans",
-    "Hash": "null",
+    "Hash": "",
     "UUID": "75"
   },
   {
@@ -899,7 +899,7 @@
     "Descrizione": "Macrium Reflect X è un software di backup e ripristino avanzato sviluppato da Macrium Software. È progettato per proteggere i dati e facilitare il ripristino dei sistemi in modo rapido ed efficiente.",
     "Tooltip": "Macrium Reflect X Workstation v10.0.8406",
     "MRicerca": "macrium",
-    "Hash": "null",
+    "Hash": "",
     "UUID": "76"
   },
   {
@@ -911,7 +911,7 @@
     "Descrizione": "Tenorshare 4DDiG è un software di recupero dati avanzato progettato per recuperare file eliminati, formattati o persi da vari dispositivi e scenari",
     "Tooltip": "Tenorshare 4DDiG v10.2.7.11",
     "MRicerca": "4ddig",
-    "Hash": "null",
+    "Hash": "",
     "UUID": "77"
   },
   {
@@ -923,7 +923,7 @@
     "Descrizione": "Tenorshare 4DDiG Duplicate File Deleter è uno strumento progettato per aiutare gli utenti a gestire e rimuovere i file duplicati presenti sui propri dispositivi. Il programma esegue la scansione del sistema alla ricerca di file duplicati, permettendo di risparmiare spazio di archiviazione e migliorare l'efficienza del dispositivo.",
     "Tooltip": "Tenorshare 4DDiG Duplicate File Deleter",
     "MRicerca": "4ddig",
-    "Hash": "null",
+    "Hash": "",
     "UUID": "78"
   },
   {
@@ -935,7 +935,7 @@
     "Descrizione": "Revo Uninstaller Pro è uno strumento potente per disinstallare programmi e rimuovere completamente i residui lasciati sul sistema",
     "Tooltip": "Revo Uninstaller Pro v5.3.7",
     "MRicerca": "revo",
-    "Hash": "null",
+    "Hash": "",
     "UUID": "79"
   },
   {
@@ -947,7 +947,7 @@
     "Descrizione": "Grand Theft Auto V (GTA V) è un videogioco d'azione-avventura sviluppato da Rockstar North e pubblicato da Rockstar Games. È il quinto capitolo principale della serie Grand Theft Auto ed è ambientato nello stato immaginario di San Andreas, che include la città di Los Santos, ispirata a Los Angeles.",
     "Tooltip": "Grand Theft Auto V",
     "MRicerca": "auto",
-    "Hash": "null",
+    "Hash": "",
     "UUID": "80"
   },
   {
@@ -971,7 +971,7 @@
     "Descrizione": "Life Is Strange: Before the Storm è un'avventura grafica episodica sviluppata da Deck Nine Games e pubblicata da Square Enix. È un prequel della serie Life Is Strange e si svolge tre anni prima degli eventi del primo gioco. La storia si concentra su Chloe Price, una ribelle di sedici anni, e sulla sua relazione con Rachel Amber, una compagna di classe destinata al successo.",
     "Tooltip": "LIS: Before The Storm",
     "MRicerca": "life",
-    "Hash": "null",
+    "Hash": "",
     "UUID": "82"
   },
   {
@@ -983,7 +983,7 @@
     "Descrizione": "Horizon Forbidden West è un videogioco action RPG sviluppato da Guerrilla Games e pubblicato da Sony Interactive Entertainment. È il sequel di Horizon Zero Dawn e è ambientato in un mondo post-apocalittico. Il gioco segue le avventure di Aloy, una cercatrice che cerca di scoprire i segreti che minacciano la Terra e di riportare equilibrio e ordine nel mondo.",
     "Tooltip": "Horizon Forbidden West",
     "MRicerca": "horizon",
-    "Hash": "null",
+    "Hash": "",
     "UUID": "83"
   },
   {
@@ -995,7 +995,7 @@
     "Descrizione": "Football Manager 2023 è il più recente titolo della serie di simulazione calcistica sviluppata da Sports Interactive e pubblicato da SEGA. Questo gioco permette agli utenti di assumere il ruolo di un allenatore di calcio, gestendo squadre, tattiche, trasferimenti di giocatori e molto altro.",
     "Tooltip": "Football Manager 2023",
     "MRicerca": "football",
-    "Hash": "null",
+    "Hash": "",
     "UUID": "84"
   },
   {
@@ -1007,7 +1007,7 @@
     "Descrizione": "Hearts of Iron IV è un videogioco di strategia in tempo reale ambientato durante la Seconda Guerra Mondiale, sviluppato da Paradox Interactive. Il gioco permette ai giocatori di assumere il controllo di qualsiasi nazione indipendente del mondo negli anni 1936 o 1939 e guidarla attraverso la guerra.",
     "Tooltip": "Hearts Of Iron IV v1.14.6 + all DLC",
     "MRicerca": "hearts",
-    "Hash": "null",
+    "Hash": "",
     "UUID": "85"
   },
   {
@@ -1019,7 +1019,7 @@
     "Descrizione": "Supermarket Simulator è un gioco di simulazione in cui puoi gestire il tuo supermercato, dall'inventario alla gestione del personale",
     "Tooltip": "Supermarket Simulator v0.5",
     "MRicerca": "supermarket",
-    "Hash": "null",
+    "Hash": "",
     "UUID": "86"
   },
   {
@@ -1055,7 +1055,7 @@
     "Descrizione": "DIRT 5 Year One Edition è un'edizione speciale del gioco di corse off-road DIRT 5, sviluppato da Codemasters. Questa edizione include contenuti esclusivi e aggiornamenti che saranno rilasciati nei primi 12 mesi dopo il lancio del gioco.",
     "Tooltip": "DIRT 5 Year One Edition v1.2767.60.0 + DLCs",
     "MRicerca": "dirt",
-    "Hash": "null",
+    "Hash": "",
     "UUID": "89"
   },
   {
@@ -1079,7 +1079,7 @@
     "Descrizione": "Life Is Strange 2 è un'avventura grafica episodica sviluppata da Dontnod Entertainment e pubblicata da Square Enix. È il quarto titolo della serie Life Is Strange. La storia segue le vicende di due fratelli, Sean e Daniel Diaz, che fuggono a casa dopo un tragico incidente. Durante la loro fuga, Daniel sviluppa poteri telecinetici, e i due fratelli devono affrontare nuove sfide e incontrare nuovi amici mentre viaggiano verso il Messico.",
     "Tooltip": "Life Is Strange 2",
     "MRicerca": "life",
-    "Hash": "null",
+    "Hash": "",
     "UUID": "91"
   },
   {
@@ -1091,7 +1091,7 @@
     "Descrizione": "Palworld è un gioco di sopravvivenza e crafting sviluppato da Pocketpair. In questo gioco, i giocatori possono esplorare un mondo aperto, combattere, catturare creature chiamate Pals, costruire basi e svolgere varie attività.",
     "Tooltip": "Palworld v0.3.6.57672",
     "MRicerca": "palworld",
-    "Hash": "null",
+    "Hash": "",
     "UUID": "92"
   },
   {
@@ -1103,7 +1103,7 @@
     "Descrizione": "Enotria: The Last Song è un videogioco action RPG in stile Souls sviluppato da Jyamma Games. È ambientato in un mondo ispirato dal folklore italiano, dove il sole più luminoso proietta l'ombra più oscura. Il giocatore assume il ruolo di un personaggio senza maschera, libero dal destino predeterminato, e deve liberare il mondo dalla stagnazione usando il potere dell'Ardore.",
     "Tooltip": "Enotria",
     "MRicerca": "enotria",
-    "Hash": "null",
+    "Hash": "",
     "UUID": "93"
   },
   {
@@ -1115,7 +1115,7 @@
     "Descrizione": "Silent Hill 2 è un classico videogioco survival horror psicologico, pubblicato originariamente nel 2001 da Konami per PlayStation 2. La trama segue James Sunderland, un uomo che riceve una misteriosa lettera dalla moglie defunta, Mary, e decide di recarsi nella nebbiosa città di Silent Hill per ritrovarla1. Lungo il suo cammino, incontra Maria, una donna che somiglia a Mary, e deve affrontare creature inquietanti e risolvere enigmi per scoprire la verità",
     "Tooltip": "Silent Hill 2: Digital Deluxe Edition – v1.1.236.114 + 4 DLCs/Bonuses",
     "MRicerca": "silent",
-    "Hash": "null",
+    "Hash": "",
     "UUID": "94"
   },
   {
@@ -1127,7 +1127,7 @@
     "Descrizione": "Dragon Ball Sparking! Zero è un videogioco di combattimento 3D sviluppato da Spike Chunsoft e pubblicato da Bandai Namco Entertainment. È il sequel di Dragon Ball Z: Budokai Tenkaichi 3 e fa parte della serie Budokai Tenkaichi.",
     "Tooltip": "DRAGON BALL: Sparking! ZERO, v1003.003.003.003.002 + 5 DLCs + Windows 7 Fix",
     "MRicerca": "dragon",
-    "Hash": "null",
+    "Hash": "",
     "UUID": "95"
   },
   {
@@ -1139,7 +1139,7 @@
     "Descrizione": "TCG Card Shop Simulator è una simulazione di negozio di carte collezionabili in cui si vendono i booster pack di carte per guadagnare denaro e costruire il proprio negozio di carte.",
     "Tooltip": "TCG Card Shop Simulator v0.47.3",
     "MRicerca": "tcg",
-    "Hash": "null",
+    "Hash": "",
     "UUID": "96"
   },
   {
@@ -1151,7 +1151,7 @@
     "Descrizione": "Teardown è un gioco sandbox, puzzle e azione sviluppato e pubblicato da Tuxedo Labs. Il gioco si svolge in un ambiente completamente distruttibile e interattivo, dove i giocatori devono pianificare e eseguire colpi perfetti utilizzando la risoluzione creativa dei problemi o la forza bruta.",
     "Tooltip": "Teardown",
     "MRicerca": "teardown",
-    "Hash": "null",
+    "Hash": "",
     "UUID": "97"
   },
   {
@@ -1163,7 +1163,7 @@
     "Descrizione": "Assassin's Creed Syndicate è un videogioco d'azione-avventura sviluppato da Ubisoft e pubblicato nel 2015. Fa parte della famosa serie Assassin's Creed e si distingue per le sue ambientazioni storiche, la narrativa avvincente e il gameplay dinamico.",
     "Tooltip": "Assassin's Creed Syndacate",
     "MRicerca": "assassins",
-    "Hash": "null",
+    "Hash": "",
     "UUID": "98"
   },
   {
@@ -1175,7 +1175,7 @@
     "Descrizione": "Assassin's Creed Mirage è un gioco d'azione e avventura sviluppato da Ubisoft Bordeaux e pubblicato da Ubisoft. Rappresenta il tredicesimo capitolo principale della serie Assassin's Creed ed è stato pubblicato nel 2023.",
     "Tooltip": "Assassin's Creed Mirage",
     "MRicerca": "assassins",
-    "Hash": "null",
+    "Hash": "",
     "UUID": "99"
   },
   {
@@ -1187,7 +1187,7 @@
     "Descrizione": "Fernbus Coach Simulator è il primo simulatore dei popolari autobus interurbani. Grazie alla cooperazione con FlixBus, Fernbus Coach Simulator fa immedesimare il giocatore nella vita quotidiana di un autista di autobus sulle Autobahn tedesche, autostrade e più di 40 città estremamente dettagliate.",
     "Tooltip": "Fernbus Simulator",
     "MRicerca": "fernbus",
-    "Hash": "null",
+    "Hash": "",
     "UUID": "100"
   },
   {
@@ -1211,7 +1211,7 @@
     "Descrizione": "Arcade Paradise: Digital Deluxe Edition è un'entusiasmante miscela di gioco arcade retrò e simulazione di gestione della luce, ambientata nel vivace mondo degli anni '90.",
     "Tooltip": "Arcade Paradise: Digital Deluxe Edition, v1.3.20230515.143309 + 8 DLCs + Bonus OST",
     "MRicerca": "arcade",
-    "Hash": "null",
+    "Hash": "",
     "UUID": "102"
   },
   {
@@ -1223,7 +1223,7 @@
     "Descrizione": "Need for Speed: Most Wanted (2005) è a videogioco di corse sviluppato da EA Canada e pubblicato da Electronic Arts. È la nona puntata della serie Need for Speed ed è stata rilasciata nel novembre 2005 per piattaforme tra cui PC, PlayStation 2, Nintendo GameCube, Xbox e telefoni cellulari. Il gioco reintroduce le attività di polizia e combina il gameplay open world con le opzioni di personalizzazione dei veicoli dei precedenti titoli Underground. La storia coinvolge un corridore di strada solitario in competizione con 15 piloti d'élite nella città immaginaria di Rockport per diventare il pilota “più ricercato ”. Il gioco è stato ben accolto, con un recensore che gli ha dato un punteggio di 9,0 su 10, elogiando il suo gameplay e il design open world.",
     "Tooltip": "Need For Speed Most Wanted Black Edition",
     "MRicerca": "need",
-    "Hash": "null",
+    "Hash": "",
     "UUID": "103"
   },
   {
@@ -1247,7 +1247,7 @@
     "Descrizione": "Pinball FX3 è un videogioco di flipper sviluppato da Zen Studios, ed è la terza versione della serie di giochi di flipper digitali Pinball FX. È un gioco che simula l'esperienza del flipper tradizionale, ma con una serie di elementi aggiuntivi che lo rendono unico, come ambientazioni originali, modalità di gioco innovative e una vasta gamma di tavoli tematici.",
     "Tooltip": "Pinball FX3",
     "MRicerca": "pinball",
-    "Hash": "null",
+    "Hash": "",
     "UUID": "105"
   },
   {
@@ -1259,7 +1259,7 @@
     "Descrizione": "Dredge è un'avventura di pesca per giocatore singolo con una corrente sinistra. Vendi i pesci, migliora la tua barca e draga le profondità alla ricerca di segreti sepolti da tempo. Esplora un arcipelago misterioso e scopri perché è meglio che certe cose restino dimenticate per sempre.",
     "Tooltip": "Dredge: Complete Edition – v1.5.3 Build 2879 + 9 ",
     "MRicerca": "dredge",
-    "Hash": "null",
+    "Hash": "",
     "UUID": "106"
   },
   {
@@ -1271,7 +1271,7 @@
     "Descrizione": "Farming Simulator 25 vi invita a tuffarvi nella gratificante vita agricola. Costruite la fattoria tra i fiumi sinuosi e gli storici montacarichi da cereali del Nord America, tra gli specchi d'acqua dell'Europa centrale o in un rigoglioso panorama dell'Asia orientale ricco di risaie accanto a una città portuale dalle mille luci. Coltivate i campi, allevate gli animali, datevi alla silvicoltura e gestite un vero e proprio impero con negozi, produzioni e costruzioni!",
     "Tooltip": "Farming Simulator 25 v1.2.1.0",
     "MRicerca": "farming",
-    "Hash": "null",
+    "Hash": "",
     "UUID": "107"
   },
   {
@@ -1283,7 +1283,7 @@
     "Descrizione": "La tua avventura Horizon definitiva ti aspetta! Esplora vivaci paesaggi open world del Messico in continua evoluzione. Divertimento al volante illimitato con centinaia tra le migliori auto al mondo.",
     "Tooltip": "Forza Horizon 5: Premium Edition  v1.656.386.0",
     "MRicerca": "horizon",
-    "Hash": "null",
+    "Hash": "",
     "UUID": "108"
   },
   {
@@ -1307,7 +1307,7 @@
     "Descrizione": "",
     "Tooltip": "Tavern Master build 16501626",
     "MRicerca": "tavern",
-    "Hash": "null",
+    "Hash": "",
     "UUID": "110"
   },
   {
@@ -1319,7 +1319,7 @@
     "Descrizione": "Marvel's Spider-Man Remastered è una versione migliorata del gioco originale sviluppato da Insomniac Games e pubblicato da Sony Interactive Entertainment. Questa versione è stata ottimizzata per le console PS5 e PC, offrendo grafica migliorata, nuove funzionalità immersive e un'esperienza di gioco più fluida.",
     "Tooltip": "Marvels Spider-Man 2 Digital Deluxe Edition v1.130",
     "MRicerca": "spider",
-    "Hash": "null",
+    "Hash": "",
     "UUID": "111"
   },
   {
@@ -1391,7 +1391,7 @@
     "Descrizione": "Topaz Photo AI è un software di miglioramento delle immagini sviluppato da Topaz Labs, progettato per migliorare la qualità delle foto utilizzando l'intelligenza artificiale",
     "Tooltip": "Topaz Photo AI",
     "MRicerca": "topaz",
-    "Hash": "null",
+    "Hash": "",
     "UUID": "117"
   },
   {
@@ -1403,7 +1403,7 @@
     "Descrizione": "Topaz Gigapixel AI è un software di miglioramento delle immagini sviluppato da Topaz Labs, progettato per aumentare la risoluzione e la qualità delle immagini utilizzando l'intelligenza artificiale",
     "Tooltip": "Topaz Gigapixel AI",
     "MRicerca": "topaz",
-    "Hash": "null",
+    "Hash": "",
     "UUID": "118"
   },
   {
@@ -1415,7 +1415,7 @@
     "Descrizione": "",
     "Tooltip": "Generatore Immagini AIMODS",
     "MRicerca": "generatore",
-    "Hash": "null",
+    "Hash": "",
     "UUID": "119"
   },
   {
@@ -1427,7 +1427,7 @@
     "Descrizione": "Topaz Video AI è un software avanzato per il miglioramento e la riparazione di video, utilizzando l'intelligenza artificiale (AI) per eseguire diverse operazioni come l'upscaling, il miglioramento della qualità video e la riduzione del rumore. È molto apprezzato da professionisti del video editing, videomaker e creatori di contenuti che desiderano migliorare la qualità visiva dei loro filmati senza ricorrere a metodi complessi o costosi.",
     "Tooltip": "Topaz Video Ai",
     "MRicerca": "topaz",
-    "Hash": "null",
+    "Hash": "",
     "UUID": "120"
   },
   {
@@ -1439,7 +1439,7 @@
     "Descrizione": "IObit SystemCare è un software completo progettato per ottimizzare, pulire e proteggere il tuo PC.",
     "Tooltip": "Advanced SystemCare Pro v17.6.0.322",
     "MRicerca": "IObit",
-    "Hash": "null",
+    "Hash": "",
     "UUID": "121"
   },
   {
@@ -1451,7 +1451,7 @@
     "Descrizione": "IObit Driver Booster è un software progettato per aiutarti a mantenere i driver del tuo PC aggiornati in modo semplice e rapido.",
     "Tooltip": "Iobit Driver Booster Pro v12.2.0.542",
     "MRicerca": "IObit",
-    "Hash": "null",
+    "Hash": "",
     "UUID": "122"
   },
   {
@@ -1463,7 +1463,7 @@
     "Descrizione": "IObit Uninstaller è un software progettato per rimuovere completamente programmi indesiderati, bundleware, app di Windows e plugin del browser.",
     "Tooltip": "IObit Uninstaller Pro v14.1.0.2",
     "MRicerca": "IObit",
-    "Hash": "null",
+    "Hash": "",
     "UUID": "123"
   },
   {
@@ -1475,7 +1475,7 @@
     "Descrizione": "IObit Smart Defrag è un software progettato per deframmentare i dischi rigidi del tuo PC, migliorando così le prestazioni generali del sistema.",
     "Tooltip": "IObit Smart Defrag Pro v10.1.0.419",
     "MRicerca": "IObit",
-    "Hash": "null",
+    "Hash": "",
     "UUID": "124"
   },
   {
@@ -1487,7 +1487,7 @@
     "Descrizione": "IObit Software Updater è un software progettato per mantenere tutti i programmi installati sul tuo PC aggiornati in modo automatico.",
     "Tooltip": "IObit Software Updater Pro v7.1.121",
     "MRicerca": "IObit",
-    "Hash": "null",
+    "Hash": "",
     "UUID": "125"
   },
   {
@@ -1499,7 +1499,7 @@
     "Descrizione": "IObit Malware Fighter è un software di sicurezza progettato per proteggere il tuo PC da vari tipi di malware, tra cui virus, ransomware, spyware, trojan, adware e worm.",
     "Tooltip": "IObit Malware Fighter Pro v11.4.0.1360",
     "MRicerca": "IObit",
-    "Hash": "null",
+    "Hash": "",
     "UUID": "126"
   },
   {
@@ -1511,7 +1511,7 @@
     "Descrizione": "FL Studio è una delle stazioni di lavoro audio digitali (DAW) più popolari, usata per la produzione musicale, la composizione, l'arrangiamento e il mixaggio. È conosciuta per la sua interfaccia intuitiva, che offre una vasta gamma di strumenti per musicisti, produttori e ingegneri del suono.",
     "Tooltip": "FL Studio",
     "MRicerca": "fl",
-    "Hash": "null",
+    "Hash": "",
     "UUID": "127"
   },
   {
@@ -1523,7 +1523,7 @@
     "Descrizione": "EZdrummer è un software di batteria virtuale sviluppato da Toontrack, noto per la sua capacità di offrire suoni di batteria realistici e di alta qualità, senza la necessità di un batterista dal vivo. È molto apprezzato sia dai produttori musicali che dai musicisti, in particolare per chi cerca un modo facile e veloce per aggiungere batterie alle proprie composizioni.",
     "Tooltip": "EZDrummer",
     "MRicerca": "ez",
-    "Hash": "null",
+    "Hash": "",
     "UUID": "128"
   },
   {
@@ -1535,7 +1535,7 @@
     "Descrizione": "Spotify è un servizio musicale digitale che offre accesso a milioni di brani, podcast e playlist",
     "Tooltip": "Spotify v1.2.55.235",
     "MRicerca": "spotify",
-    "Hash": "null",
+    "Hash": "",
     "UUID": "129"
   },
   {
@@ -1547,7 +1547,7 @@
     "Descrizione": "Spotube è un'app open source che combina Spotify e YouTube Music per offrire un'esperienza musicale gratuita, senza pubblicità",
     "Tooltip": "Spotube v4.0.1",
     "MRicerca": "spotube",
-    "Hash": "null",
+    "Hash": "",
     "UUID": "130"
   },
   {
@@ -1559,7 +1559,7 @@
     "Descrizione": "Atomix VirtualDJ è un software per DJ sviluppato da Atomix Productions, noto per le sue funzionalità avanzate di mixaggio audio e video. È ampiamente utilizzato sia da DJ professionisti che da principianti grazie alla sua interfaccia intuitiva e alle potenti capacità di automazione.",
     "Tooltip": "Atomix VirtualDJ",
     "MRicerca": "xirtualdj",
-    "Hash": "null",
+    "Hash": "",
     "UUID": "131"
   },
   {
@@ -1619,7 +1619,7 @@
     "Descrizione": "RecordFab è uno strumento potente per registrare video da vari servizi di streaming, social media e piattaforme educative.",
     "Tooltip": "RecordFab v1.0.0.7",
     "MRicerca": "recordfab",
-    "Hash": "null",
+    "Hash": "",
     "UUID": "136"
   },
   {
@@ -1631,7 +1631,7 @@
     "Descrizione": "Movavi Screen Recorder è un software di registrazione dello schermo progettato per catturare video e audio dal tuo schermo PC o Mac.",
     "Tooltip": "Movavi Screen Recorder",
     "MRicerca": "movavi",
-    "Hash": "null",
+    "Hash": "",
     "UUID": "137"
   },
   {
@@ -1667,7 +1667,7 @@
     "Descrizione": "Aiseesoft iPhone Unlocker è un software progettato per aiutare gli utenti a sbloccare i dispositivi Apple, come iPhone e iPad, in diverse situazioni.",
     "Tooltip": "Aiseesoft iPhone Unlocker v2.0.88",
     "MRicerca": "unlocker",
-    "Hash": "null",
+    "Hash": "",
     "UUID": "140"
   },
   {
@@ -1679,7 +1679,7 @@
     "Descrizione": "Con questo tool sarete in grado di scaricare file ISO per la maggior parte delle versioni ed edizioni di Windows comprese edizioni All in One e Lite. Inoltre potrete scaricare, installare ed attivare le ultime versioni di Office sia in setup online sia offline. Infine abbiamo inserito la sezione Tools che include scorciatoie ai nostri tool come WinCustomizer, WIMToolKit e altre piccole chicche che lasciamo scoprire a voi!",
     "Tooltip": "WinHubX v.2.4.2.0",
     "MRicerca": "Tools AIMODS, Office",
-    "Hash": "null",
+    "Hash": "",
     "UUID": "141"
   },
   {
@@ -1691,7 +1691,7 @@
     "Descrizione": "",
     "Tooltip": "Fix Licenza",
     "MRicerca": "licenza",
-    "Hash": "null",
+    "Hash": "",
     "UUID": "142"
   },
   {
@@ -1703,7 +1703,7 @@
     "Descrizione": "Scopri la nostra innovativa app: una radio pensata per Windows! 🎵 Non importa quali siano le tue preferenze musicali, la nostra piattaforma è pronta a offrirti un’esperienza unica. Anche se viene fornita con una selezione di radio di default, non preoccuparti! ",
     "Tooltip": "RadioWindows v.0.0.0.0",
     "MRicerca": "Tools AIMODS",
-    "Hash": "null",
+    "Hash": "",
     "UUID": "143"
   },
   {
@@ -1715,7 +1715,7 @@
     "Descrizione": "Addio Backup PC , benvenuta DataLock!",
     "Tooltip": "DataLock v.0.0.0.0",
     "MRicerca": "Tools AIMODS",
-    "Hash": "null",
+    "Hash": "",
     "UUID": "144"
   },
   {
@@ -1739,7 +1739,7 @@
     "Descrizione": "Il nostro player è una piattaforma che offre un’esperienza immersiva per la visione di eventi sportivi in diretta su MacOS e Windows. Sviluppato per garantire la massima qualità di streaming e un’interfaccia intuitiva, il software consente agli utenti di accedere facilmente ai contenuti sportivi da qualsiasi dispositivo desktop. L’obiettivo è quello di mettere gli appassionati di sport al centro dell’azione, con eventi in tempo reale e una qualità video impeccabile.",
     "Tooltip": "Riproduttore Video v.0.0.0.0",
     "MRicerca": "Tools AIMODS",
-    "Hash": "null",
+    "Hash": "",
     "UUID": "146"
   },
   {
@@ -1775,7 +1775,7 @@
     "Descrizione": "AIMods Advanced Clipboard instaura una connessione client-server con tutti i dispositivi connessi alla stessa rete privata. Sfruttando tale meccanismo, un server (un dispositivo) invia ai client (tutti gli altri dispositivi) ciò che è stato copiato (o la nota creata). In questo modo, le note, il testo e le immagini copiate sul PC in camera, verranno copiati istantaneamente anche sul PC in sala e viceversa.",
     "Tooltip": "Clipboard v.1.0.0.0",
     "MRicerca": "clipboard",
-    "Hash": "null",
+    "Hash": "",
     "UUID": "149"
   },
   {
@@ -1787,7 +1787,7 @@
     "Descrizione": "Uno strumento automatico e altamente personalizzabile per l'ottimizazione del sistema operativo.",
     "Tooltip": "QuickTweak v.0.0.0.0",
     "MRicerca": "quickk",
-    "Hash": "null",
+    "Hash": "",
     "UUID": "150"
   },
   {
@@ -1799,7 +1799,7 @@
     "Descrizione": "Il nuovo convertitore video e audio targato AIMODS è un potente strumento progettato per semplificare la gestione dei tuoi file multimediali. Supporta una vasta gamma di formati, tra cui MP4, AVI, MKV, MXF per video, e WAV, MP3, FLAC, AAC per audio, garantendo la massima versatilità.",
     "Tooltip": "Media Convert v.0.0.0.0",
     "MRicerca": "media",
-    "Hash": "null",
+    "Hash": "",
     "UUID": "151"
   },
   {
@@ -1823,7 +1823,7 @@
     "Descrizione": "Avira Phantom è un servizio di VPN (Virtual Private Network) offerto da Avira, una nota azienda di sicurezza informatica.",
     "Tooltip": "Avira Phantom VPN Pro v2.44.1.19908",
     "MRicerca": "avira",
-    "Hash": "null",
+    "Hash": "",
     "UUID": "20"
   }
 ]
