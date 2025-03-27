@@ -1685,28 +1685,5 @@
     "LinkR": "",
     "Descrizione": "Avira Phantom è un servizio di VPN (Virtual Private Network) offerto da Avira, una nota azienda di sicurezza informatica.",
     "Hash": null
-  },
-  {
-    "Nome": "test",
-    "Link": "test",
-    "LinkR": "test",
-    "ImmagineUrl": "test",
-    "Sezione": "test",
-    "Descrizione": "test",
-    "Tooltip": "test",
-    "MRicerca": "test",
-    "Hash": "test",
-    "UUID": "2"
-  },
-  {
-    "Nome": "test1",
-    "Link": "test1",
-    "LinkR": "1",
-    "ImmagineUrl": "test1",
-    "Sezione": "test1",
-    "Descrizione": "2",
-    "Tooltip": "3",
-    "MRicerca": "test7",
-    "Hash": "test"
   }
 ]
