@@ -1825,5 +1825,17 @@
     "MRicerca": "avira",
     "Hash": "",
     "UUID": "20"
+  },
+  {
+    "Nome": "CapCut",
+    "Link": "https://devuploads.com/vgc3eh5gnb1x",
+    "LinkR": null,
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Editing/CapCut.png",
+    "Sezione": "Gestione Foto/Video e Editing",
+    "Descrizione": null,
+    "Tooltip": "CapCut per windows",
+    "MRicerca": "Gestione Foto/Video e Editing",
+    "Hash": "6f3dc78279e9c8d6",
+    "UUID": "3fec5fa3-11f5-4ead-89ab-52289bcc74a0"
   }
 ]
