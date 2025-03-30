@@ -5,79 +5,86 @@
             "x64": "https://devuploads.com/3jxh3h0bnkhb",
             "x32": "https://devuploads.com/c2gs8lp9s8xe"
         },
+        "LinkR": "",
         "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Adobe/Adobe_Acrobat_Pro.png",
         "Sezione": "Adobe",
+        "Descrizione": "Adobe Acrobat Pro è un software potente e versatile sviluppato da Adobe Systems per la creazione, modifica e gestione di file PDF (Portable Document Format). è ampiamente utilizzato in ambito professionale per la sua capacità di manipolare documenti in modo efficiente.",
         "Tooltip": "Adobe Acrobat Pro 2025 v25.1.20428",
         "MRicerca": "acrobat",
-        "LinkR": "",
-        "Descrizione": "Adobe Acrobat Pro è un software potente e versatile sviluppato da Adobe Systems per la creazione, modifica e gestione di file PDF (Portable Document Format). È ampiamente utilizzato in ambito professionale per la sua capacità di manipolare documenti in modo efficiente.",
-        "Hash": null
+        "Hash": "",
+        "UUID": "1"
     },
     {
         "Nome": "Adobe Photoshop",
         "Link": "https://devuploads.com/u6f1klo6a5wr",
+        "LinkR": "",
         "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Adobe/Adobe_Photoshop.png",
         "Sezione": "Adobe",
+        "Descrizione": "Adobe Photoshop è un software potente e versatile per l’editing digitale delle immagini e la progettazione grafica.",
         "Tooltip": "Adobe Photoshop 2025 v.26.1",
         "MRicerca": "photoshop",
-        "LinkR": "",
-        "Descrizione": "Adobe Photoshop è un software potente e versatile per l’editing digitale delle immagini e la progettazione grafica.",
-        "Hash": ""
+        "Hash": "",
+        "UUID": "2"
     },
     {
         "Nome": "Adobe Reader DC",
         "Link": "https://devuploads.com/n4w7rl20522s",
+        "LinkR": "",
         "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Adobe/Adobe_Reader_DC.png",
         "Sezione": "Adobe",
+        "Descrizione": "Adobe Reader DC (Document Cloud) è un software sviluppato da Adobe Systems, progettato per visualizzare, stampare e annotare documenti in formato PDF (Portable Document Format). È uno degli strumenti più popolari e ampiamente utilizzati per gestire file PDF.",
         "Tooltip": "Adobe Reader DC",
         "MRicerca": "reader",
-        "LinkR": "",
-        "Descrizione": "Adobe Reader DC (Document Cloud) è un software sviluppato da Adobe Systems, progettato per visualizzare, stampare e annotare documenti in formato PDF (Portable Document Format). È uno degli strumenti più popolari e ampiamente utilizzati per gestire file PDF.",
-        "Hash": ""
+        "Hash": "",
+        "UUID": "3"
     },
     {
         "Nome": "Adobe Illustrator",
         "Link": "https://devuploads.com/6bgcon2wya1b",
+        "LinkR": "",
         "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Adobe/Adobe_Illustrator.png",
         "Sezione": "Adobe",
+        "Descrizione": "Adobe Illustrator è un software di grafica vettoriale sviluppato da Adobe Inc. È uno strumento molto popolare tra designer, illustratori e artisti per creare e modificare immagini e design.",
         "Tooltip": "Adobe Illustrator 2024 v29.1",
         "MRicerca": "illustrator",
-        "LinkR": "",
-        "Descrizione": "Adobe Illustrator è un software di grafica vettoriale sviluppato da Adobe Inc. È uno strumento molto popolare tra designer, illustratori e artisti per creare e modificare immagini e design.",
-        "Hash": ""
+        "Hash": "",
+        "UUID": "4"
     },
     {
         "Nome": "Adobe Premiere Pro",
         "Link": "https://devuploads.com/61h4xhgo06nv",
+        "LinkR": "",
         "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Adobe/Adobe_Premiere_Pro.png",
         "Sezione": "Adobe",
+        "Descrizione": "Adobe Premiere Pro è un software di montaggio video professionale sviluppato da Adobe Systems. È ampiamente utilizzato nell'industria cinematografica e televisiva per la sua potenza e versatilità.",
         "Tooltip": "Adobe Premiere Pro 2024 v25.1",
         "MRicerca": "premiere",
-        "LinkR": "",
-        "Descrizione": "Adobe Premiere Pro è un software di montaggio video professionale sviluppato da Adobe Systems. È ampiamente utilizzato nell'industria cinematografica e televisiva per la sua potenza e versatilità.",
-        "Hash": ""
+        "Hash": "",
+        "UUID": "5"
     },
     {
         "Nome": "Adobe InDesign",
         "Link": "https://devuploads.com/nzrhgxyu1b63",
+        "LinkR": "",
         "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Adobe/Adobe_InDesign.png",
         "Sezione": "Adobe",
+        "Descrizione": "Adobe InDesign è un software di desktop publishing (DTP) sviluppato da Adobe Systems, ampiamente utilizzato per la creazione di layout e design grafici per una varietà di pubblicazioni.",
         "Tooltip": "Adobe InDesign 2024 v19.5.0.084",
         "MRicerca": "indesign",
-        "LinkR": "",
-        "Descrizione": "Adobe InDesign è un software di desktop publishing (DTP) sviluppato da Adobe Systems, ampiamente utilizzato per la creazione di layout e design grafici per una varietà di pubblicazioni.",
-        "Hash": ""
+        "Hash": "",
+        "UUID": "6"
     },
     {
         "Nome": "Adobe Lightroom Classic",
         "Link": "https://devuploads.com/64dmlwznnqdr",
+        "LinkR": "",
         "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Adobe/Adobe_Lightroom_Classic.png",
         "Sezione": "Adobe",
+        "Descrizione": "Adobe Lightroom Classic è un software di editing e gestione fotografica sviluppato da Adobe Systems, particolarmente apprezzato dai fotografi professionisti e dagli appassionati.",
         "Tooltip": "Adobe Lightroom Classic v13.4.0.202406181129",
         "MRicerca": "lightroom",
-        "LinkR": "",
-        "Descrizione": "Adobe Lightroom Classic è un software di editing e gestione fotografica sviluppato da Adobe Systems, particolarmente apprezzato dai fotografi professionisti e dagli appassionati.",
-        "Hash": ""
+        "Hash": "",
+        "UUID": "7"
     },
     {
         "Nome": "Adobe Master Collection",
@@ -85,10 +92,11 @@
         "LinkR": "",
         "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Adobe/Adobe_Master_Collection.png",
         "Sezione": "Adobe",
-        "Tooltip": "Adobe Master Collection 2024 v8",
-        "MRicerca": "adm",
         "Descrizione": "Adobe Master Collection è un pacchetto software completo di Adobe Systems che comprende una serie di applicazioni professionali per la creazione, l'editing e la gestione di contenuti multimediali. È particolarmente apprezzato da professionisti del design, della fotografia, del video e del web.",
-        "Hash": ""
+        "Tooltip": "Adobe Master Collection 2024 v8",
+        "MRicerca": "master",
+        "Hash": "",
+        "UUID": "8"
     },
     {
         "Nome": "Adobe Dimension",
@@ -99,7 +107,8 @@
         "Descrizione": "Adobe Dimension è un software di grafica 3D sviluppato da Adobe Systems, progettato per facilitare la creazione di immagini e composizioni 3D in modo semplice e intuitivo.",
         "Tooltip": "Adobe Dimension v4.0.4",
         "MRicerca": "dimension",
-        "Hash": ""
+        "Hash": "",
+        "UUID": "9"
     },
     {
         "Nome": "Adobe After Effects",
@@ -110,117 +119,116 @@
         "Descrizione": "Adobe After Effects è un software di compositing e animazione grafica sviluppato da Adobe Inc. È ampiamente utilizzato nel campo della produzione video e della post-produzione per creare effetti visivi dinamici e animazioni di alta qualità.",
         "Tooltip": "Adobe After Effects 2024_v.24.6.2.002",
         "MRicerca": "effects",
-        "Hash": ""
+        "Hash": "",
+        "UUID": "10"
     },
     {
         "Nome": "WinToUSB",
         "Link": "https://devuploads.com/k9uy80fy2mjh",
+        "LinkR": "",
         "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Altro/WinToUSB.png",
         "Sezione": "Altro",
+        "Descrizione": "WinToUSB è un software gratuito che permette di creare un'unità USB avviabile con un sistema operativo Windows",
         "Tooltip": "WinToUsb v8.8",
         "MRicerca": "wintousb",
-        "LinkR": "",
-        "Descrizione": "WinToUSB è un software gratuito che permette di creare un'unità USB avviabile con un sistema operativo Windows",
-        "Hash": ""
+        "Hash": "",
+        "UUID": "11"
     },
     {
         "Nome": "Rhinoceros",
         "Link": "https://devuploads.com/9xdolsczvkw4",
+        "LinkR": "",
         "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Altro/Rhinoceros.png",
         "Sezione": "Altro",
+        "Descrizione": "Rhino, noto anche come Rhinoceros 3D, è un potente software di modellazione 3D utilizzato in vari settori come l'architettura, l'ingegneria, il design navale, la gioielleria e altro ancora",
         "Tooltip": "Rhinoceros v8.6.24101.5001",
         "MRicerca": "rhinoceros",
-        "LinkR": "",
-        "Descrizione": "Rhino, noto anche come Rhinoceros 3D, è un potente software di modellazione 3D utilizzato in vari settori come l'architettura, l'ingegneria, il design navale, la gioielleria e altro ancora",
-        "Hash": ""
+        "Hash": "",
+        "UUID": "12"
     },
     {
         "Nome": "Intellij",
         "Link": "https://devuploads.com/ri9msx4rpkl0",
+        "LinkR": "",
         "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Altro/Intellij.png",
         "Sezione": "Altro",
+        "Descrizione": "IntelliJ IDEA è un Integrated Development Environment (IDE) sviluppato da JetBrains, progettato principalmente per lo sviluppo in Java e Kotlin. È noto per la sua potenza, flessibilità e strumenti avanzati che migliorano la produttività dei programmatori.",
         "Tooltip": "JetBrains Intellij IDEA Ultimate v2024.1",
         "MRicerca": "intellij",
-        "LinkR": "",
-        "Descrizione": "IntelliJ IDEA è un Integrated Development Environment (IDE) sviluppato da JetBrains, progettato principalmente per lo sviluppo in Java e Kotlin. È noto per la sua potenza, flessibilità e strumenti avanzati che migliorano la produttività dei programmatori.",
-        "Hash": null
+        "Hash": "",
+        "UUID": "13"
     },
     {
         "Nome": "MediaMonkey",
         "Link": "https://devuploads.com/rekhmdck974h",
+        "LinkR": "",
         "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Altro/MediaMonkey.png",
         "Sezione": "Altro",
+        "Descrizione": "MediaMonkey è un software di gestione e organizzazione dei media progettato per collezionisti seri di musica e video.",
         "Tooltip": "Media Monkey Gold v2024.0.0.3019",
         "MRicerca": "monkey",
-        "LinkR": "",
-        "Descrizione": "MediaMonkey è un software di gestione e organizzazione dei media progettato per collezionisti seri di musica e video.",
-        "Hash": null
+        "Hash": "",
+        "UUID": "14"
     },
     {
         "Nome": "DaVinci",
         "Link": "https://devuploads.com/g6bcwha9l6hv",
+        "LinkR": "",
         "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Altro/DaVinci.png",
         "Sezione": "Altro",
+        "Descrizione": "DaVinci Resolve è un software di editing video professionale sviluppato da Blackmagic Design. È noto per la sua capacità di integrare montaggio, correzione colore, effetti visivi e post produzione audio in un'unica applicazione. DaVinci Resolve è utilizzato da professionisti di Hollywood e offre una vasta gamma di strumenti avanzati per la creazione di contenuti video di alta qualità.",
         "Tooltip": "DaVinci Resolve Studio 19.0.0.25",
         "MRicerca": "davinci",
-        "LinkR": "",
-        "Descrizione": "DaVinci Resolve è un software di editing video professionale sviluppato da Blackmagic Design. È noto per la sua capacità di integrare montaggio, correzione colore, effetti visivi e post produzione audio in un'unica applicazione. DaVinci Resolve è utilizzato da professionisti di Hollywood e offre una vasta gamma di strumenti avanzati per la creazione di contenuti video di alta qualità.",
-        "Hash": ""
+        "Hash": "",
+        "UUID": "15"
     },
     {
         "Nome": "64Gram",
         "Link": "https://devuploads.com/pb36ovr3dt0h",
+        "LinkR": "",
         "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Altro/64Gram.png",
         "Sezione": "Altro",
+        "Descrizione": "64Gram è un'applicazione non ufficiale di Telegram Desktop, progettata per offrire un'esperienza migliorata rispetto alla versione standard di Telegram con funzionalità aggiuntive e una maggiore personalizzazione.",
         "Tooltip": "64Gram v1.1.45",
         "MRicerca": "64gram",
-        "LinkR": "",
-        "Descrizione": "64Gram è un'applicazione non ufficiale di Telegram Desktop, progettata per offrire un'esperienza migliorata rispetto alla versione standard di Telegram con funzionalità aggiuntive e una maggiore personalizzazione.",
-        "Hash": null
+        "Hash": "",
+        "UUID": "16"
     },
     {
         "Nome": "NetSpot",
         "Link": "https://devuploads.com/vhk49q5bfmb2",
+        "LinkR": "",
         "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Altro/NetSpot.png",
         "Sezione": "Altro",
+        "Descrizione": "NetSpot è un'applicazione professionale multipiattaforma progettata per la pianificazione delle reti WiFi, le site survey wireless, l'analisi del WiFi e la risoluzione dei problemi di rete.",
         "Tooltip": "NetSpot Multilingual v3.1.0.478",
         "MRicerca": "netspot",
-        "LinkR": "",
-        "Descrizione": "NetSpot è un'applicazione professionale multipiattaforma progettata per la pianificazione delle reti WiFi, le site survey wireless, l'analisi del WiFi e la risoluzione dei problemi di rete.",
-        "Hash": null
+        "Hash": "",
+        "UUID": "17"
     },
     {
         "Nome": "Ekahau",
         "Link": "https://devuploads.com/5s0xeca5gmeu",
+        "LinkR": "",
         "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Altro/Ekahau.png",
         "Sezione": "Altro",
+        "Descrizione": "Ekahau è una piattaforma completa per la progettazione, ottimizzazione e gestione delle reti Wi-Fi, particolarmente utilizzata in ambienti aziendali. Offre una serie di strumenti avanzati per garantire prestazioni ottimali e affidabili delle reti wireless.",
         "Tooltip": "Ekahau Ai Pro 11.6.0",
         "MRicerca": "ekahau",
-        "LinkR": "",
-        "Descrizione": "Ekahau è una piattaforma completa per la progettazione, ottimizzazione e gestione delle reti Wi-Fi, particolarmente utilizzata in ambienti aziendali. Offre una serie di strumenti avanzati per garantire prestazioni ottimali e affidabili delle reti wireless.",
-        "Hash": null
+        "Hash": "",
+        "UUID": "18"
     },
     {
         "Nome": "VMware",
         "Link": "https://devuploads.com/wu2lujy0o76m",
+        "LinkR": "",
         "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Altro/VMware.png",
         "Sezione": "Altro",
+        "Descrizione": "VMware Workstation Pro è un potente strumento di virtualizzazione che permette agli utenti di eseguire più sistemi operativi su un singolo PC.",
         "Tooltip": "VMware Workstation Pro v17.6.2.24409262",
         "MRicerca": "vmware",
-        "LinkR": "",
-        "Descrizione": "VMware Workstation Pro è un potente strumento di virtualizzazione che permette agli utenti di eseguire più sistemi operativi su un singolo PC.",
-        "Hash": null
-    },
-    {
-        "Nome": "Lightburn",
-        "Link": "https://devuploads.com/gssd3vrq5zvw",
-        "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Altro/Lightburn.png",
-        "Sezione": "Altro",
-        "Tooltip": "LightBurn v1.6.03",
-        "MRicerca": "lightburn",
-        "LinkR": "",
-        "Descrizione": "LightBurn è un software di progettazione e controllo per laser cutter e engravers",
-        "Hash": null
+        "Hash": "",
+        "UUID": "19"
     },
     {
         "Nome": "Tenorshare ReiBoot for Android",
@@ -231,7 +239,8 @@
         "Descrizione": "Tenorshare ReiBoot for Android è uno strumento di riparazione del sistema Android progettato per risolvere oltre 50 problemi comuni del sistema Android, come il blocco del logo Samsung, il telefono che continua a riavviarsi, lo schermo nero e altro ancora",
         "Tooltip": "Tenorshare ReiBoot for Android 2-1.8",
         "MRicerca": "reiboot",
-        "Hash": null
+        "Hash": "",
+        "UUID": "21"
     },
     {
         "Nome": "Wise Care",
@@ -242,7 +251,8 @@
         "Descrizione": "Wise Care 365 è un software di ottimizzazione del sistema sviluppato da WiseCleaner, progettato per migliorare le prestazioni del tuo PC Windows",
         "Tooltip": "Wise Care 365 Pro v7.2.3.696",
         "MRicerca": "wise",
-        "Hash": ""
+        "Hash": "",
+        "UUID": "22"
     },
     {
         "Nome": "Mountain Duck",
@@ -253,51 +263,68 @@
         "Descrizione": "Mountain Duck è un software sviluppato dagli stessi creatori di Cyberduck. Questo strumento permette di montare server e storage cloud come unità locali nel Finder su macOS e nel File Explorer su Windows.",
         "Tooltip": "Mountain Duck v4.17.3.22638",
         "MRicerca": "mountain",
-        "Hash": "e10677123b8f3e6c"
+        "Hash": "e10677123b8f3e6c",
+        "UUID": "23"
+    },
+    {
+        "Nome": "Lightburn",
+        "Link": "https://devuploads.com/k8djf1q1o6n3",
+        "LinkR": "",
+        "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Altro/Lightburn.png",
+        "Sezione": "Altro",
+        "Descrizione": "LightBurn è un software di progettazione e controllo per laser cutter e engravers",
+        "Tooltip": "LightBurn v1.707",
+        "MRicerca": "lightburn",
+        "Hash": "19f5864d9efb5944",
+        "UUID": "24"
     },
     {
         "Nome": "Malwerbytes",
         "Link": "https://devuploads.com/6r8q9eo2jp3d",
+        "LinkR": "",
         "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Antivirus/Malwerbytes.png",
         "Sezione": "Antivirus",
+        "Descrizione": "Malwarebytes è un software di sicurezza informatica progettato per rilevare e rimuovere malware, spyware, ransomware, adware e altre minacce pericolose.",
         "Tooltip": "Malwerbytes",
         "MRicerca": "malwarebites",
-        "LinkR": "",
-        "Descrizione": "Malwarebytes è un software di sicurezza informatica progettato per rilevare e rimuovere malware, spyware, ransomware, adware e altre minacce pericolose.",
-        "Hash": null
+        "Hash": "",
+        "UUID": "25"
     },
     {
         "Nome": "Kaspersky",
         "Link": "https://devuploads.com/io1rr5jbsvjv",
+        "LinkR": "",
         "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Antivirus/Kaspersky.png",
         "Sezione": "Antivirus",
+        "Descrizione": "Kaspersky è un'azienda russa di sicurezza informatica nota per i suoi software antivirus e suite di sicurezza.",
         "Tooltip": "Kaspersky",
         "MRicerca": "kaspersy",
-        "LinkR": "",
-        "Descrizione": "Kaspersky è un'azienda russa di sicurezza informatica nota per i suoi software antivirus e suite di sicurezza.",
-        "Hash": null
+        "Hash": "",
+        "UUID": "26"
     },
     {
         "Nome": "Bitdefender",
         "Link": "https://devuploads.com/b3cjct4khdqp",
+        "LinkR": "",
         "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Antivirus/Bitdefender.png",
         "Sezione": "Antivirus",
+        "Descrizione": "Bitdefender è una rinomata azienda di sicurezza informatica che offre una gamma di prodotti e servizi per proteggere dispositivi e reti da minacce digitali come virus, malware, ransomware, e altre minacce online.",
         "Tooltip": "Bitdefender Total Security",
         "MRicerca": "bitdefender",
-        "LinkR": "",
-        "Descrizione": "Bitdefender è una rinomata azienda di sicurezza informatica che offre una gamma di prodotti e servizi per proteggere dispositivi e reti da minacce digitali come virus, malware, ransomware, e altre minacce online.",
-        "Hash": null
+        "Hash": "",
+        "UUID": "27"
     },
     {
         "Nome": "Avast Premium Security",
         "Link": "https://devuploads.com/0303n29teh7u",
+        "LinkR": "",
         "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Antivirus/Avast_Premium_Security.png",
         "Sezione": "Antivirus",
+        "Descrizione": "Avast Premium Security è un software di sicurezza informatica progettato per proteggere i dispositivi da vari tipi di minacce informatiche.",
         "Tooltip": "Avast Premium Security v24.9.9452.875",
         "MRicerca": "avast",
-        "LinkR": "",
-        "Descrizione": "Avast Premium Security è un software di sicurezza informatica progettato per proteggere i dispositivi da vari tipi di minacce informatiche.",
-        "Hash": null
+        "Hash": "",
+        "UUID": "28"
     },
     {
         "Nome": "ESET Endpoint Security",
@@ -308,7 +335,8 @@
         "Descrizione": "ESET Endpoint Security è una soluzione di protezione completa per endpoint, progettata per proteggere i dispositivi aziendali da una vasta gamma di minacce informatiche. È una piattaforma Endpoint Protection Platform (EPP) che offre protezione multilivello, rilevamento e correzione di attività dannose.",
         "Tooltip": "ESET Endpoint Security v12.0.2038.0",
         "MRicerca": "eset",
-        "Hash": null
+        "Hash": "",
+        "UUID": "29"
     },
     {
         "Nome": "AdGuard",
@@ -319,51 +347,56 @@
         "Descrizione": "AdGuard è un software progettato per bloccare annunci pubblicitari, tracker e siti web dannosi. È disponibile su diverse piattaforme, tra cui Windows, macOS, Android e iOS.",
         "Tooltip": "AdGuard",
         "MRicerca": "adguard",
-        "Hash": ""
+        "Hash": "",
+        "UUID": "30"
     },
     {
         "Nome": "Autodesk Revit",
         "Link": "https://devuploads.com/1sukco621r70",
+        "LinkR": "",
         "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Building%20Information%20Modeling/Autodesk_Revit.png",
         "Sezione": "Building Information Modeling",
+        "Descrizione": "Autodesk Revit è un software di progettazione e modellazione per l'architettura, l'ingegneria e le costruzioni, sviluppato da Autodesk. È ampiamente utilizzato nel settore delle costruzioni per il Building Information Modeling (BIM).",
         "Tooltip": "Autodesk Revit 2025",
         "MRicerca": "revit",
-        "LinkR": "",
-        "Descrizione": "Autodesk Revit è un software di progettazione e modellazione per l'architettura, l'ingegneria e le costruzioni, sviluppato da Autodesk. È ampiamente utilizzato nel settore delle costruzioni per il Building Information Modeling (BIM).",
-        "Hash": null
+        "Hash": "",
+        "UUID": "31"
     },
     {
         "Nome": "Autodesk AutoCAD",
         "Link": "https://devuploads.com/n2zng89rr6hw",
+        "LinkR": "",
         "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Building%20Information%20Modeling/Autodesk_AutoCAD.png",
         "Sezione": "Building Information Modeling",
+        "Descrizione": "Autodesk AutoCAD è un software di progettazione assistita da computer (CAD) molto utilizzato nel settore dell'architettura, dell'ingegneria e della progettazione industriale.",
         "Tooltip": "Autodesk AutoCAD 2025.0.1 Build v72.0.0",
         "MRicerca": "autocad",
-        "LinkR": "",
-        "Descrizione": "Autodesk AutoCAD è un software di progettazione assistita da computer (CAD) molto utilizzato nel settore dell'architettura, dell'ingegneria e della progettazione industriale.",
-        "Hash": null
+        "Hash": "",
+        "UUID": "32"
     },
     {
         "Nome": "Autodesk Maya",
         "Link": "https://devuploads.com/w5cug44ntqx5",
+        "LinkR": "",
         "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Building%20Information%20Modeling/Autodesk_Maya.png",
         "Sezione": "Building Information Modeling",
+        "Descrizione": "Autodesk Maya è un software di animazione e modellazione 3D ampiamente utilizzato nell'industria dell'animazione, dei videogiochi, della visualizzazione architettonica e degli effetti visivi.",
         "Tooltip": "Autodesk Maya 2025",
         "MRicerca": "maya",
-        "LinkR": "",
-        "Descrizione": "Autodesk Maya è un software di animazione e modellazione 3D ampiamente utilizzato nell'industria dell'animazione, dei videogiochi, della visualizzazione architettonica e degli effetti visivi.",
-        "Hash": null
+        "Hash": "",
+        "UUID": "33"
     },
     {
         "Nome": "Enscape 3D",
         "Link": "https://devuploads.com/8sbvdqj9r1bc",
+        "LinkR": "",
         "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Building%20Information%20Modeling/Enscape_3D.png",
         "Sezione": "Building Information Modeling",
+        "Descrizione": "Enscape 3D è un plugin di rendering in tempo reale e realtà virtuale progettato per integrarsi perfettamente con strumenti di progettazione come Revit, SketchUp, Rhino, ArchiCAD e Vectorworks. È utilizzato principalmente da architetti, progettisti e paesaggisti per visualizzare e presentare i loro progetti in modo più interattivo e realistico.",
         "Tooltip": "Enscape 3D v4.0.1.48 for Revit",
         "MRicerca": "enscape",
-        "LinkR": "",
-        "Descrizione": "Enscape 3D è un plugin di rendering in tempo reale e realtà virtuale progettato per integrarsi perfettamente con strumenti di progettazione come Revit, SketchUp, Rhino, ArchiCAD e Vectorworks. È utilizzato principalmente da architetti, progettisti e paesaggisti per visualizzare e presentare i loro progetti in modo più interattivo e realistico.",
-        "Hash": null
+        "Hash": "",
+        "UUID": "34"
     },
     {
         "Nome": "Autodesk Inventor",
@@ -374,7 +407,8 @@
         "Descrizione": "Autodesk Inventor è un software di progettazione assistita da computer (CAD) 3D, sviluppato da Autodesk, utilizzato principalmente per la progettazione meccanica e l'ingegneria.",
         "Tooltip": "Autodesk Inventor",
         "MRicerca": "inventor",
-        "Hash": null
+        "Hash": "",
+        "UUID": "35"
     },
     {
         "Nome": "ACCA Edificius",
@@ -385,7 +419,8 @@
         "Descrizione": "ACCA Edificius è un software di progettazione architettonica e di gestione della costruzione, sviluppato da ACCA Software, un'azienda italiana specializzata in soluzioni informatiche per il settore delle costruzioni. Ecco alcune delle sue caratteristiche principali",
         "Tooltip": "ACCA Edificius",
         "MRicerca": "edificius",
-        "Hash": null
+        "Hash": "",
+        "UUID": "36"
     },
     {
         "Nome": "Lumion",
@@ -393,10 +428,11 @@
         "LinkR": "",
         "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Building%20Information%20Modeling/Lumion.png",
         "Sezione": "Building Information Modeling",
-        "Descrizione": "Lumion Pro",
+        "Descrizione": "Lumion è un software di rendering 3D in tempo reale progettato per architetti, designer e professionisti della visualizzazione. È noto per la sua facilità d'uso e la capacità di creare immagini, animazioni e panorami 360° altamente realistici in tempi rapidi.",
         "Tooltip": "Lumion Pro (https://lumion.com/) v2024.4.2.0",
         "MRicerca": "lumion",
-        "Hash": null
+        "Hash": "",
+        "UUID": "37"
     },
     {
         "Nome": "Freemake Video Converter",
@@ -407,7 +443,8 @@
         "Descrizione": "Freemake Video Converter è un software freemium sviluppato da Ellora Assets Corporation. È progettato per convertire i file video in vari formati, masterizzare video su DVD e creare presentazioni fotografiche.",
         "Tooltip": "Freemake Video Converter v4.1.13.187",
         "MRicerca": "frremake",
-        "Hash": null
+        "Hash": "",
+        "UUID": "38"
     },
     {
         "Nome": "Wondershare UniConverter",
@@ -418,73 +455,80 @@
         "Descrizione": "Wondershare UniConverter è un software di conversione video sviluppato da Wondershare, progettato per convertire e migliorare video in modo semplice e veloce.",
         "Tooltip": "Wondershare UniConverter",
         "MRicerca": "uniconverter",
-        "Hash": ""
+        "Hash": "",
+        "UUID": "39"
     },
     {
         "Nome": "IDM Portable",
         "Link": "https://devuploads.com/hw09x86wbw87",
+        "LinkR": "",
         "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Downloader/IDM_Portable.png",
         "Sezione": "Downloader",
-        "Tooltip": "IDM v6.42 Portable",
-        "LinkR": "",
         "Descrizione": "IDM Portable è una versione portatile di Internet Download Manager (IDM), un acceleratore di download progettato per aumentare la velocità di download fino a otto volte, riprendere i download interrotti e pianificare i download. La versione portatile consente di utilizzare IDM su diversi dispositivi senza necessità di installazione permanente.",
+        "Tooltip": "IDM v6.42 Portable",
         "MRicerca": "idm",
-        "Hash": null
+        "Hash": "",
+        "UUID": "40"
     },
     {
         "Nome": "iTubeGo Musify",
         "Link": "https://devuploads.com/mymzeoplsshx",
+        "LinkR": "",
         "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Downloader/iTubeGo_Musify.png",
         "Sezione": "Downloader",
+        "Descrizione": "iTubeGo Musify è un software sviluppato da iTubeGo per scaricare e convertire musica da varie piattaforme online.",
         "Tooltip": "iTubeGo Musify v3.6.0",
         "MRicerca": "itubego",
-        "LinkR": "",
-        "Descrizione": "iTubeGo Musify è un software sviluppato da iTubeGo per scaricare e convertire musica da varie piattaforme online.",
-        "Hash": ""
+        "Hash": "",
+        "UUID": "41"
     },
     {
         "Nome": "4K Video Downloader Plus",
         "Link": "https://devuploads.com/0o9z1ga2hohj",
+        "LinkR": "",
         "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Downloader/4K_Video_Downloader_Plus.png",
         "Sezione": "Downloader",
+        "Descrizione": "4K Video Downloader è un'applicazione multipiattaforma che consente di salvare video di alta qualità da YouTube e altri siti web in pochi secondi.",
         "Tooltip": "4K Video Downloader Plus v1.10.3.0161",
         "MRicerca": "4K",
-        "LinkR": "",
-        "Descrizione": "4K Video Downloader è un'applicazione multipiattaforma che consente di salvare video di alta qualità da YouTube e altri siti web in pochi secondi.",
-        "Hash": ""
+        "Hash": "",
+        "UUID": "42"
     },
     {
         "Nome": "KeepStreams",
         "Link": "https://devuploads.com/jca4ilc524ry",
+        "LinkR": "",
         "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Downloader/KeepStreams.png",
         "Sezione": "Downloader",
+        "Descrizione": "KeepStreams è un software di gestione dei download progettato per scaricare e convertire media da varie piattaforme di streaming.",
         "Tooltip": "KeepStreams v1.2.2.2",
         "MRicerca": "keep",
-        "LinkR": "",
-        "Descrizione": "KeepStreams è un software di gestione dei download progettato per scaricare e convertire media da varie piattaforme di streaming.",
-        "Hash": null
+        "Hash": "",
+        "UUID": "43"
     },
     {
         "Nome": "Y2mate Downloader",
         "Link": "https://devuploads.com/fqw06y68xfz5",
+        "LinkR": "",
         "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Downloader/Y2mate_Downloader.png",
         "Sezione": "Downloader",
+        "Descrizione": "Y2mate è uno strumento online che permette di scaricare video da YouTube e altre piattaforme di condivisione video",
         "Tooltip": "Y2mate Downloader v1.2.3.4",
         "MRicerca": "y2mate",
-        "LinkR": "",
-        "Descrizione": "Y2mate è uno strumento online che permette di scaricare video da YouTube e altre piattaforme di condivisione video",
-        "Hash": null
+        "Hash": "",
+        "UUID": "44"
     },
     {
         "Nome": "MusicFab",
         "Link": "https://devuploads.com/plqcfbf5xuth",
+        "LinkR": "",
         "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Downloader/MusicFab.png",
         "Sezione": "Downloader",
+        "Descrizione": "MusicFab è un software sviluppato da DVDFab che consente di scaricare musica da vari servizi di streaming come Amazon Music, Spotify, Apple Music e altri.",
         "Tooltip": "MusicFab v1.0.4.3",
         "MRicerca": "music",
-        "LinkR": "",
-        "Descrizione": "MusicFab è un software sviluppato da DVDFab che consente di scaricare musica da vari servizi di streaming come Amazon Music, Spotify, Apple Music e altri.",
-        "Hash": null
+        "Hash": "",
+        "UUID": "45"
     },
     {
         "Nome": "StreamFab",
@@ -495,7 +539,8 @@
         "Descrizione": "StreamFab è un software progettato per scaricare video da una vasta gamma di servizi di streaming e piattaforme online",
         "Tooltip": "Streamfab v6.1.9.4",
         "MRicerca": "streamfab",
-        "Hash": null
+        "Hash": "",
+        "UUID": "46"
     },
     {
         "Nome": "Moyea Downloader",
@@ -506,7 +551,8 @@
         "Descrizione": "a Software offre strumenti per il download e la conversione video, incluso il download da piattaforme streaming e la conversione di file SWF e PowerPoint in vari formati. Offre la soluzione più completa per scaricare video in streaming da Amazon Prime, Netflix, Disney+, etc. Ideale per l'uso personale e aziendale, le soluzioni semplificano la creazione e la gestione di contenuti multimediali, garantendo alta qualità e flessibilità.",
         "Tooltip": "Moyea Downloader v20.0.0.0",
         "MRicerca": "moyea",
-        "Hash": null
+        "Hash": "",
+        "UUID": "47"
     },
     {
         "Nome": "Spotify Downloader",
@@ -517,7 +563,8 @@
         "Descrizione": "",
         "Tooltip": "Spotify Downloader",
         "MRicerca": "spotify",
-        "Hash": null
+        "Hash": "",
+        "UUID": "48"
     },
     {
         "Nome": "YT Saver",
@@ -528,18 +575,20 @@
         "Descrizione": "YT Saver è un'applicazione per il download e la conversione di video da oltre 10.000 piattaforme, inclusi YouTube, Instagram e TikTok. Permette di scaricare video fino a risoluzioni 8K e convertirli in oltre 20 formati diversi, come MP4 e MP3. Offre anche funzionalità avanzate come il download di playlist da servizi come Spotify, Tidal, etc e la modalità privata.",
         "Tooltip": "YT Saver v10.2.1",
         "MRicerca": "yt",
-        "Hash": null
+        "Hash": "",
+        "UUID": "49"
     },
     {
         "Nome": "IDM",
-        "Link": "https://devuploads.com/wyulbeu5qfn7",
+        "Link": "https://devuploads.com/yc6xht7vvw80",
         "LinkR": "",
         "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Downloader/IDM.png",
         "Sezione": "Downloader",
         "Descrizione": "Installa Internet Download Manager (IDM) per interrompere l'attesa per i download. Rimarrai davvero stupito dalla velocità con cui IDM scarica i tuoi file. IDM riparerà anche i download interrotti e riprenderà a causa di connessioni perse, problemi di rete, arresti del computer o interruzioni di corrente impreviste.",
-        "Tooltip": "IDM v6.42 b28",
+        "Tooltip": "IDM v6.42 b31",
         "MRicerca": "idm",
-        "Hash": "1425936b050dde2c"
+        "Hash": "2bb5c73dab30a31c",
+        "UUID": "50"
     },
     {
         "Nome": "Araxis Merge",
@@ -550,95 +599,116 @@
         "Descrizione": "Araxis Merge è un'applicazione avanzata per il confronto di file (diff), l'unione (merge) e la sincronizzazione di cartelle.",
         "Tooltip": "Araxis Merge Professional v2024.6002",
         "MRicerca": "araxis",
-        "Hash": null
+        "Hash": "",
+        "UUID": "51"
+    },
+    {
+        "Nome": "Copernic Desktop Search",
+        "Link": "https://devuploads.com/c8yke8uupctj",
+        "LinkR": "",
+        "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Gestione%20file/Copernic_Desktop_Search.png",
+        "Sezione": "Gestione file",
+        "Descrizione": "",
+        "Tooltip": "Copernic Desktop Search v7.1.1.13217",
+        "MRicerca": "desktop",
+        "Hash": "371b16681ab42c74",
+        "UUID": "52"
     },
     {
         "Nome": "UniFab",
         "Link": "https://devuploads.com/bzeyzplxcm2g",
+        "LinkR": "",
         "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Editing/UniFab.png",
         "Sezione": "Gestione Foto/Video e Editing",
+        "Descrizione": "UniFab è un software di miglioramento delle immagini e dei video sviluppato da Topaz Labs, progettato per migliorare la qualità delle foto e dei video utilizzando l'intelligenza artificiale.",
         "Tooltip": "UniFab v2.0.2.1",
         "MRicerca": "unifab",
-        "LinkR": "",
-        "Descrizione": "UniFab è un software di miglioramento delle immagini e dei video sviluppato da Topaz Labs, progettato per migliorare la qualità delle foto e dei video utilizzando l'intelligenza artificiale.",
-        "Hash": null
+        "Hash": "",
+        "UUID": "53"
     },
     {
         "Nome": "CorelDraw Technical Suite",
         "Link": "https://devuploads.com/jc60551uvyff",
+        "LinkR": "",
         "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Editing/CorelDraw_Technical_Suite.png",
         "Sezione": "Gestione Foto/Video e Editing",
+        "Descrizione": "La CorelDRAW Technical Suite è una collezione completa di applicazioni professionali per la progettazione tecnica e la documentazione di alto impatto. È progettata per soddisfare le esigenze di vari settori, come la manifattura, l'ingegneria, l'architettura e l'alta tecnologia.",
         "Tooltip": "CorelDraw Technical Suite 2024 v25.0.0.230",
         "MRicerca": "corel",
-        "LinkR": "",
-        "Descrizione": "La CorelDRAW Technical Suite è una collezione completa di applicazioni professionali per la progettazione tecnica e la documentazione di alto impatto. È progettata per soddisfare le esigenze di vari settori, come la manifattura, l'ingegneria, l'architettura e l'alta tecnologia.",
-        "Hash": ""
+        "Hash": "",
+        "UUID": "54"
     },
     {
         "Nome": "Wondershare Filmora",
         "Link": "https://devuploads.com/74538nrm9rf0",
+        "LinkR": "https://devuploads.com/7gzl1i5hh21q",
         "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Editing/Wondershare_Filmora.png",
         "Sezione": "Gestione Foto/Video e Editing",
+        "Descrizione": "Wondershare Filmora è un software di editing video facile da usare, sviluppato da Wondershare. È progettato per utenti di tutti i livelli, dai principianti agli esperti, e offre una vasta gamma di funzionalità per creare video di alta qualità.",
         "Tooltip": "Wondershare Filmora 14.3.2.11147",
         "MRicerca": "filmora",
-        "LinkR": "https://devuploads.com/7gzl1i5hh21q",
-        "Descrizione": "Wondershare Filmora è un software di editing video facile da usare, sviluppato da Wondershare. È progettato per utenti di tutti i livelli, dai principianti agli esperti, e offre una vasta gamma di funzionalità per creare video di alta qualità.",
-        "Hash": ""
+        "Hash": "",
+        "UUID": "55"
     },
     {
         "Nome": "Prima Cartoonizer",
         "Link": "https://devuploads.com/bgl0drn5wuqh",
+        "LinkR": "",
         "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Editing/Prima_Cartoonizer.png",
         "Sezione": "Gestione Foto/Video e Editing",
+        "Descrizione": "Prima Cartoonizer è un software che permette di trasformare le foto in stile cartone animato con una varietà di effetti",
         "Tooltip": "Prima Cartoonizer v5.2.7",
         "MRicerca": "prima",
-        "LinkR": "",
-        "Descrizione": "Prima Cartoonizer è un software che permette di trasformare le foto in stile cartone animato con una varietà di effetti",
-        "Hash": null
+        "Hash": "",
+        "UUID": "56"
     },
     {
         "Nome": "AquaSoft Stages",
         "Link": "https://devuploads.com/cuwffg230x6d",
+        "LinkR": "",
         "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Editing/AquaSoft_Stages.png",
         "Sezione": "Gestione Foto/Video e Editing",
+        "Descrizione": "AquaSoft Stages è un software di creazione di presentazioni multimediali e slideshow, progettato per aiutare gli utenti a combinare immagini, video, musica e testi in maniera creativa e coinvolgente.",
         "Tooltip": "AquaSoft Stages v15.2.05",
         "MRicerca": "aqua",
-        "LinkR": "",
-        "Descrizione": "AquaSoft Stages è un software di creazione di presentazioni multimediali e slideshow, progettato per aiutare gli utenti a combinare immagini, video, musica e testi in maniera creativa e coinvolgente.",
-        "Hash": null
+        "Hash": "",
+        "UUID": "57"
     },
     {
         "Nome": "EaseUS Video Editor",
         "Link": "https://devuploads.com/n42mfzgilz1v",
+        "LinkR": "",
         "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Editing/EaseUS_Video_Editor.png",
         "Sezione": "Gestione Foto/Video e Editing",
+        "Descrizione": "EaseUS Video Editor è un software di editing video gratuito e intuitivo, ideale sia per principianti che per utenti avanzati. Offre una vasta gamma di funzionalità per creare video professionali senza sforzo.",
         "Tooltip": "EaseUS Video Editor Pro 2.4.0 Build 20240910 ",
         "MRicerca": "easeus",
-        "LinkR": "",
-        "Descrizione": "EaseUS Video Editor è un software di editing video gratuito e intuitivo, ideale sia per principianti che per utenti avanzati. Offre una vasta gamma di funzionalità per creare video professionali senza sforzo.",
-        "Hash": null
+        "Hash": "",
+        "UUID": "58"
     },
     {
         "Nome": "Face Rig",
         "Link": "https://telegra.ph/FaceRig-Pro-v1312-06-19",
+        "LinkR": "",
         "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Editing/Face_Rig.png",
         "Sezione": "Gestione Foto/Video e Editing",
+        "Descrizione": "FaceRig è un software che simula i movimenti faciali di vari personaggi attraverso un dispositivo di cattura video. È stato successivamente sostituito da Animaze by FaceRig, che offre funzionalità più avanzate e una maggiore personalizzazione.",
         "Tooltip": "Face Rig",
         "MRicerca": "face",
-        "LinkR": "",
-        "Descrizione": "FaceRig è un software che simula i movimenti faciali di vari personaggi attraverso un dispositivo di cattura video. È stato successivamente sostituito da Animaze by FaceRig, che offre funzionalità più avanzate e una maggiore personalizzazione.",
-        "Hash": null
+        "Hash": "",
+        "UUID": "59"
     },
     {
         "Nome": "CyberLink PowerDirector",
         "Link": "https://devuploads.com/gc9f0djf7if8",
+        "LinkR": "https://devuploads.com/afiiczvjp2fs",
         "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Editing/CyberLink_PowerDirector.png",
         "Sezione": "Gestione Foto/Video e Editing",
+        "Descrizione": "CyberLink PowerDirector è un software di montaggio video avanzato e intuitivo, disponibile per Windows e Mac. È noto per la sua capacità di creare video professionali con una vasta gamma di strumenti e funzionalità.",
         "Tooltip": "CyberLink PowerDirector Ultimate 2025 v23.1.1322.0",
         "MRicerca": "cyberlink",
-        "LinkR": "https://devuploads.com/afiiczvjp2fs",
-        "Descrizione": "CyberLink PowerDirector è un software di montaggio video avanzato e intuitivo, disponibile per Windows e Mac. È noto per la sua capacità di creare video professionali con una vasta gamma di strumenti e funzionalità.",
-        "Hash": null
+        "Hash": "",
+        "UUID": "60"
     },
     {
         "Nome": "SketchUp",
@@ -649,18 +719,20 @@
         "Descrizione": "SketchUp è un software di modellazione 3D molto popolare, utilizzato in vari settori come l'architettura, il design, l'ingegneria e altro ancora",
         "Tooltip": "SketchUp",
         "MRicerca": "sketchUp",
-        "Hash": null
+        "Hash": "",
+        "UUID": "61"
     },
     {
         "Nome": "DVDFab",
         "Link": "https://devuploads.com/i9kytyj1pd0w",
+        "LinkR": "",
         "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Editing/DVDFab.png",
         "Sezione": "Gestione Foto/Video e Editing",
+        "Descrizione": "DVDFab è un software multimediale completo che offre una vasta gamma di soluzioni per la gestione dei DVD, Blu-ray e 4K UHD. È noto per le sue capacità di copia, conversione, creazione e riproduzione di dischi.",
         "Tooltip": "DVDFab v13.0.3.4",
         "MRicerca": "dvdfab",
-        "LinkR": "",
-        "Descrizione": "DVDFab è un software multimediale completo che offre una vasta gamma di soluzioni per la gestione dei DVD, Blu-ray e 4K UHD. È noto per le sue capacità di copia, conversione, creazione e riproduzione di dischi.",
-        "Hash": ""
+        "Hash": "",
+        "UUID": "62"
     },
     {
         "Nome": "Capture One Enterprise",
@@ -668,142 +740,167 @@
         "LinkR": "",
         "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Editing/Capture_One_Enterprise.png",
         "Sezione": "Gestione Foto/Video e Editing",
-        "Descrizione": "",
+        "Descrizione": "Capture One è un software professionale per la gestione, l'editing e il ritocco delle fotografie, sviluppato da Phase One. È particolarmente apprezzato dai fotografi per la sua eccellente gestione dei file RAW, il controllo avanzato del colore e l'editing non distruttivo.",
         "Tooltip": "Capture One Enterprise v16.5.8.2763",
         "MRicerca": "capture",
-        "Hash": null
+        "Hash": "",
+        "UUID": "63"
     },
     {
         "Nome": "Xara Photo and Graphic Designer Plus",
         "Link": "https://devuploads.com/dxcd4p38yj8x",
+        "LinkR": "",
         "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Editing/Xara_Photo_and_Graphic_Designer_Plus.png",
         "Sezione": "Gestione Foto/Video e Editing",
+        "Descrizione": "Xara Photo & Graphic Designer+ è un software di editing foto e grafica sviluppato da Xara, progettato per offrire un'esperienza di editing rapida e intuitiva.",
         "Tooltip": "Xara Photo and Graphic Designer Plus v24.3.0.70123",
         "MRicerca": "xara",
-        "LinkR": "",
-        "Descrizione": "Xara Photo & Graphic Designer+ è un software di editing foto e grafica sviluppato da Xara, progettato per offrire un'esperienza di editing rapida e intuitiva.",
-        "Hash": null
+        "Hash": "",
+        "UUID": "64"
     },
     {
         "Nome": "Xara Web Designer Plus",
         "Link": "https://devuploads.com/ltsrevy9pzjm",
+        "LinkR": "",
         "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Editing/Xara_Web_Designer_Plus.png",
         "Sezione": "Gestione Foto/Video e Editing",
+        "Descrizione": "Xara Web Designer+ è un potente strumento di creazione di siti web senza codifica sviluppato da Xara",
         "Tooltip": "Xara Web Designer Plus",
         "MRicerca": "xara",
-        "LinkR": "",
-        "Descrizione": "Xara Web Designer+ è un potente strumento di creazione di siti web senza codifica sviluppato da Xara",
-        "Hash": null
+        "Hash": "",
+        "UUID": "65"
     },
     {
         "Nome": "Xara Designer Pro Plus",
         "Link": "https://devuploads.com/ij3edxne7bin",
+        "LinkR": "",
         "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Editing/Xara_Designer_Pro_Plus.png",
         "Sezione": "Gestione Foto/Video e Editing",
+        "Descrizione": "Xara Designer Pro+ è un software di progettazione versatile sviluppato da Xara, che combina desktop publishing, web design, editing foto e grafica in un'unica piattaforma",
         "Tooltip": "Xara Designer Pro Plus v24.3.0.70123",
         "MRicerca": "xara",
-        "LinkR": "",
-        "Descrizione": "Xara Designer Pro+ è un software di progettazione versatile sviluppato da Xara, che combina desktop publishing, web design, editing foto e grafica in un'unica piattaforma",
-        "Hash": null
+        "Hash": "",
+        "UUID": "66"
+    },
+    {
+        "Nome": "CapCut",
+        "Link": "https://devuploads.com/vgc3eh5gnb1x",
+        "LinkR": null,
+        "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Editing/CapCut.png",
+        "Sezione": "Gestione Foto/Video e Editing",
+        "Descrizione": "CapCut è un potente editor video gratuito che offre strumenti avanzati per creare e modificare video con facilità. Dispone di funzionalità come transizioni, effetti, filtri, testo animato e intelligenza artificiale per migliorare i contenuti. Perfetto per creator, permette di esportare video in alta qualità e condividerli direttamente sui social. Disponibile per Windows, macOS e dispositivi mobili.",
+        "Tooltip": "CapCut per windows",
+        "MRicerca": "Gestione Foto/Video e Editing",
+        "Hash": "6f3dc78279e9c8d6",
+        "UUID": "3fec5fa3-11f5-4ead-89ab-52289bcc74a0"
     },
     {
         "Nome": "EaseUS Partition Master",
         "Link": "https://devuploads.com/e1x7gkigjdka",
+        "LinkR": "",
         "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/GestioneHDD-SSD/EaseUS_Partition_Master.png",
         "Sezione": "Gestione/Pulizia/Personalizzazione PC",
+        "Descrizione": "EaseUS Partition Master è un software di gestione delle partizioni per Windows. È progettato per aiutare gli utenti a creare, ridimensionare, eliminare e combinare partizioni in modo semplice e sicuro.",
         "Tooltip": "EaseUS Partition Master v19.5.0 ",
         "MRicerca": "partition",
-        "LinkR": "",
-        "Descrizione": "EaseUS Partition Master è un software di gestione delle partizioni per Windows. È progettato per aiutare gli utenti a creare, ridimensionare, eliminare e combinare partizioni in modo semplice e sicuro.",
-        "Hash": null
+        "Hash": "",
+        "UUID": "67"
     },
     {
         "Nome": "Recuva Business Edition",
         "Link": "https://devuploads.com/79qqfzhga9xy",
+        "LinkR": "",
         "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/GestioneHDD-SSD/Recuva_Business_Edition.png",
         "Sezione": "Gestione/Pulizia/Personalizzazione PC",
+        "Descrizione": "Recuva Business Edition è una versione avanzata del popolare strumento di recupero file Recuva, sviluppato da Piriform. Questa versione è progettata per le esigenze aziendali e offre funzionalità aggiuntive rispetto alla versione gratuita.",
         "Tooltip": "Recuva Business Edition v1.53.2095",
         "MRicerca": "recuva",
-        "LinkR": "",
-        "Descrizione": "Recuva Business Edition è una versione avanzata del popolare strumento di recupero file Recuva, sviluppato da Piriform. Questa versione è progettata per le esigenze aziendali e offre funzionalità aggiuntive rispetto alla versione gratuita.",
-        "Hash": null
+        "Hash": "",
+        "UUID": "68"
     },
     {
         "Nome": "Glary Utilities Pro",
         "Link": "https://devuploads.com/5gji1bkdbuju",
+        "LinkR": "",
         "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/GestioneHDD-SSD/Glary_Utilities_Pro.png",
         "Sezione": "Gestione/Pulizia/Personalizzazione PC",
+        "Descrizione": "Glary Utilities Pro è un software di utilità completo progettato per ottimizzare, pulire e proteggere il tuo PC. Offre oltre 20 strumenti per migliorare le prestazioni del sistema, mantenere la privacy e risolvere problemi comuni.",
         "Tooltip": "Glary Utilities Pro v6.21.0.25",
         "MRicerca": "glary",
-        "LinkR": "",
-        "Descrizione": "Glary Utilities Pro è un software di utilità completo progettato per ottimizzare, pulire e proteggere il tuo PC. Offre oltre 20 strumenti per migliorare le prestazioni del sistema, mantenere la privacy e risolvere problemi comuni.",
-        "Hash": null
+        "Hash": "",
+        "UUID": "69"
     },
     {
         "Nome": "Driver Easy",
         "Link": "https://devuploads.com/pvfnpvt7zfnk",
+        "LinkR": "",
         "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/GestioneHDD-SSD/Driver_Easy.png",
         "Sezione": "Gestione/Pulizia/Personalizzazione PC",
+        "Descrizione": "Driver Easy è un software di aggiornamento driver per Windows. È progettato per aiutarti a mantenere i driver del tuo sistema operativo aggiornati, il che può risolvere molti problemi di compatibilità e prestazioni del computer.",
         "Tooltip": "Driver Easy Professional v6.1.2.29728",
         "MRicerca": "easy",
-        "LinkR": "",
-        "Descrizione": "Driver Easy è un software di aggiornamento driver per Windows. È progettato per aiutarti a mantenere i driver del tuo sistema operativo aggiornati, il che può risolvere molti problemi di compatibilità e prestazioni del computer.",
-        "Hash": null
+        "Hash": "",
+        "UUID": "70"
     },
     {
         "Nome": "Wallpaper Engine",
         "Link": "https://devuploads.com/kex8xbqbfeyv",
+        "LinkR": "",
         "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/GestioneHDD-SSD/Wallpaper_Engine.png",
         "Sezione": "Gestione/Pulizia/Personalizzazione PC",
+        "Descrizione": "Wallpaper Engine è un software che permette di utilizzare sfondi animati sul desktop Windows",
         "Tooltip": "Wallpaper Engine",
         "MRicerca": "wallpaper",
-        "LinkR": "",
-        "Descrizione": "Wallpaper Engine è un software che permette di utilizzare sfondi animati sul desktop Windows",
-        "Hash": null
+        "Hash": "",
+        "UUID": "71"
     },
     {
         "Nome": "Ashampoo Driver Updater",
         "Link": "https://devuploads.com/wjfvhnx0l06l",
+        "LinkR": "",
         "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/GestioneHDD-SSD/Ashampoo_Driver_Updater.png",
         "Sezione": "Gestione/Pulizia/Personalizzazione PC",
+        "Descrizione": "Ashampoo Driver Updater è un software utile per la gestione dei driver del computer, progettato per semplificare il processo di aggiornamento e ottimizzazione dei driver.",
         "Tooltip": "Ashampoo Driver Updater 1.6.2",
         "MRicerca": "ashampoo",
-        "LinkR": "",
-        "Descrizione": "Ashampoo Driver Updater è un software utile per la gestione dei driver del computer, progettato per semplificare il processo di aggiornamento e ottimizzazione dei driver.",
-        "Hash": null
+        "Hash": "",
+        "UUID": "72"
     },
     {
         "Nome": "CCleaner",
         "Link": "https://devuploads.com/hmh2213q633w",
+        "LinkR": "",
         "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/GestioneHDD-SSD/CCleaner.png",
         "Sezione": "Gestione/Pulizia/Personalizzazione PC",
+        "Descrizione": "CCleaner è un popolare software di ottimizzazione e pulizia del sistema sviluppato da Piriform (ora parte di Avast). È progettato per migliorare le prestazioni del tuo computer rimuovendo file temporanei, cookie, file di registro inutili, e altri dati che possono accumularsi nel tempo e rallentare il sistema.",
         "Tooltip": "CCleaner Professional v6.33",
         "MRicerca": "ccleaner",
-        "LinkR": "",
-        "Descrizione": "CCleaner è un popolare software di ottimizzazione e pulizia del sistema sviluppato da Piriform (ora parte di Avast). È progettato per migliorare le prestazioni del tuo computer rimuovendo file temporanei, cookie, file di registro inutili, e altri dati che possono accumularsi nel tempo e rallentare il sistema.",
-        "Hash": null
+        "Hash": "",
+        "UUID": "73"
     },
     {
         "Nome": "StartAllBack",
         "Link": "https://devuploads.com/c3si7eikgqo0",
+        "LinkR": "",
         "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/GestioneHDD-SSD/StartAllBack.png",
         "Sezione": "Gestione/Pulizia/Personalizzazione PC",
+        "Descrizione": "StartAllBack è un'applicazione progettata per migliorare e personalizzare l'interfaccia utente di Windows 11, permettendo agli utenti di ripristinare elementi familiari delle versioni precedenti di Windows, come Windows 10 e Windows 7",
         "Tooltip": "StartAllBack v3.9.4",
         "MRicerca": "start",
-        "LinkR": "",
-        "Descrizione": "StartAllBack è un'applicazione progettata per migliorare e personalizzare l'interfaccia utente di Windows 11, permettendo agli utenti di ripristinare elementi familiari delle versioni precedenti di Windows, come Windows 10 e Windows 7",
-        "Hash": null
+        "Hash": "",
+        "UUID": "74"
     },
     {
         "Nome": "EaseUS PCTrans",
         "Link": "https://devuploads.com/gdwqc6sgq3u5",
+        "LinkR": "",
         "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/GestioneHDD-SSD/EaseUS_PC_Trans.png",
         "Sezione": "Gestione/Pulizia/Personalizzazione PC",
+        "Descrizione": "EaseUS PCTrans è un software di trasferimento dati progettato per aiutarti a spostare facilmente file, programmi, impostazioni e profili utente da un vecchio PC a uno nuovo senza dover reinstallare nulla. È particolarmente utile quando stai passando a un nuovo computer o aggiornando il tuo sistema operativo.",
         "Tooltip": "EaseUS Todo PCTrans v13.17",
         "MRicerca": "pc trans",
-        "LinkR": "",
-        "Descrizione": "EaseUS PCTrans è un software di trasferimento dati progettato per aiutarti a spostare facilmente file, programmi, impostazioni e profili utente da un vecchio PC a uno nuovo senza dover reinstallare nulla. È particolarmente utile quando stai passando a un nuovo computer o aggiornando il tuo sistema operativo.",
-        "Hash": null
+        "Hash": "",
+        "UUID": "75"
     },
     {
         "Nome": "Macrium Reflect X",
@@ -814,7 +911,8 @@
         "Descrizione": "Macrium Reflect X è un software di backup e ripristino avanzato sviluppato da Macrium Software. È progettato per proteggere i dati e facilitare il ripristino dei sistemi in modo rapido ed efficiente.",
         "Tooltip": "Macrium Reflect X Workstation v10.0.8406",
         "MRicerca": "macrium",
-        "Hash": null
+        "Hash": "",
+        "UUID": "76"
     },
     {
         "Nome": "Tenorshare 4DDiG",
@@ -825,7 +923,8 @@
         "Descrizione": "Tenorshare 4DDiG è un software di recupero dati avanzato progettato per recuperare file eliminati, formattati o persi da vari dispositivi e scenari",
         "Tooltip": "Tenorshare 4DDiG v10.2.7.11",
         "MRicerca": "4ddig",
-        "Hash": null
+        "Hash": "",
+        "UUID": "77"
     },
     {
         "Nome": "Tenorshare 4DDiG Duplicate File Deleter",
@@ -836,7 +935,8 @@
         "Descrizione": "Tenorshare 4DDiG Duplicate File Deleter è uno strumento progettato per aiutare gli utenti a gestire e rimuovere i file duplicati presenti sui propri dispositivi. Il programma esegue la scansione del sistema alla ricerca di file duplicati, permettendo di risparmiare spazio di archiviazione e migliorare l'efficienza del dispositivo.",
         "Tooltip": "Tenorshare 4DDiG Duplicate File Deleter",
         "MRicerca": "4ddig",
-        "Hash": null
+        "Hash": "",
+        "UUID": "78"
     },
     {
         "Nome": "Revo Unistaller Pro",
@@ -847,183 +947,200 @@
         "Descrizione": "Revo Uninstaller Pro è uno strumento potente per disinstallare programmi e rimuovere completamente i residui lasciati sul sistema",
         "Tooltip": "Revo Uninstaller Pro v5.3.7",
         "MRicerca": "revo",
-        "Hash": null
+        "Hash": "",
+        "UUID": "79"
     },
     {
         "Nome": "Grand Theft Auto V",
         "Link": "https://devuploads.com/7jsijapl15cu",
+        "LinkR": "",
         "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Games/Grand_Theft_Auto_V.png",
         "Sezione": "Giochi",
+        "Descrizione": "Grand Theft Auto V (GTA V) è un videogioco d'azione-avventura sviluppato da Rockstar North e pubblicato da Rockstar Games. È il quinto capitolo principale della serie Grand Theft Auto ed è ambientato nello stato immaginario di San Andreas, che include la città di Los Santos, ispirata a Los Angeles.",
         "Tooltip": "Grand Theft Auto V",
         "MRicerca": "auto",
-        "LinkR": "",
-        "Descrizione": "Grand Theft Auto V (GTA V) è un videogioco d'azione-avventura sviluppato da Rockstar North e pubblicato da Rockstar Games. È il quinto capitolo principale della serie Grand Theft Auto ed è ambientato nello stato immaginario di San Andreas, che include la città di Los Santos, ispirata a Los Angeles.",
-        "Hash": null
+        "Hash": "",
+        "UUID": "80"
     },
     {
         "Nome": "Marvels Spider-Man Remastered",
         "Link": "https://telegra.ph/Marvels-Spider-Man-Remastered-V181210--DLC--Correzione-SSE-06-11",
+        "LinkR": "",
         "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Games/Marvels_Spider-Man_Remastered.png",
         "Sezione": "Giochi",
+        "Descrizione": "Marvel's Spider-Man Remastered è una versione migliorata del gioco originale sviluppato da Insomniac Games e pubblicato da Sony Interactive Entertainment. Questa versione è stata ottimizzata per le console PS5 e PC, offrendo grafica migliorata, nuove funzionalità immersive e un'esperienza di gioco più fluida.",
         "Tooltip": "Marvels Spider-Man Remastered V1.812.1.0 + DLC + Correzione SSE",
         "MRicerca": "spider",
-        "LinkR": "",
-        "Descrizione": "Marvel's Spider-Man Remastered è una versione migliorata del gioco originale sviluppato da Insomniac Games e pubblicato da Sony Interactive Entertainment. Questa versione è stata ottimizzata per le console PS5 e PC, offrendo grafica migliorata, nuove funzionalità immersive e un'esperienza di gioco più fluida.",
-        "Hash": ""
+        "Hash": "",
+        "UUID": "81"
     },
     {
         "Nome": "Life is Strange Before The Storm",
         "Link": "https://telegra.ph/Life-Is-Strange-Before-The-Storm-06-14",
+        "LinkR": "",
         "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Games/Life_is_Strange_Before_The_Storm.png",
         "Sezione": "Giochi",
+        "Descrizione": "Life Is Strange: Before the Storm è un'avventura grafica episodica sviluppata da Deck Nine Games e pubblicata da Square Enix. È un prequel della serie Life Is Strange e si svolge tre anni prima degli eventi del primo gioco. La storia si concentra su Chloe Price, una ribelle di sedici anni, e sulla sua relazione con Rachel Amber, una compagna di classe destinata al successo.",
         "Tooltip": "LIS: Before The Storm",
         "MRicerca": "life",
-        "LinkR": "",
-        "Descrizione": "Life Is Strange: Before the Storm è un'avventura grafica episodica sviluppata da Deck Nine Games e pubblicata da Square Enix. È un prequel della serie Life Is Strange e si svolge tre anni prima degli eventi del primo gioco. La storia si concentra su Chloe Price, una ribelle di sedici anni, e sulla sua relazione con Rachel Amber, una compagna di classe destinata al successo.",
-        "Hash": null
+        "Hash": "",
+        "UUID": "82"
     },
     {
         "Nome": "Horizon Forbidden West",
         "Link": "https://devuploads.com/7l7zir8jloun",
+        "LinkR": "",
         "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Games/Horizon_Forbidden_West.png",
         "Sezione": "Giochi",
+        "Descrizione": "Horizon Forbidden West è un videogioco action RPG sviluppato da Guerrilla Games e pubblicato da Sony Interactive Entertainment. È il sequel di Horizon Zero Dawn e è ambientato in un mondo post-apocalittico. Il gioco segue le avventure di Aloy, una cercatrice che cerca di scoprire i segreti che minacciano la Terra e di riportare equilibrio e ordine nel mondo.",
         "Tooltip": "Horizon Forbidden West",
         "MRicerca": "horizon",
-        "LinkR": "",
-        "Descrizione": "Horizon Forbidden West è un videogioco action RPG sviluppato da Guerrilla Games e pubblicato da Sony Interactive Entertainment. È il sequel di Horizon Zero Dawn e è ambientato in un mondo post-apocalittico. Il gioco segue le avventure di Aloy, una cercatrice che cerca di scoprire i segreti che minacciano la Terra e di riportare equilibrio e ordine nel mondo.",
-        "Hash": null
+        "Hash": "",
+        "UUID": "83"
     },
     {
         "Nome": "Football Manager 2023",
         "Link": "https://devuploads.com/q046k792f9vl",
+        "LinkR": "",
         "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Games/Football_Manager_2023.png",
         "Sezione": "Giochi",
+        "Descrizione": "Football Manager 2023 è il più recente titolo della serie di simulazione calcistica sviluppata da Sports Interactive e pubblicato da SEGA. Questo gioco permette agli utenti di assumere il ruolo di un allenatore di calcio, gestendo squadre, tattiche, trasferimenti di giocatori e molto altro.",
         "Tooltip": "Football Manager 2023",
         "MRicerca": "football",
-        "LinkR": "",
-        "Descrizione": "Football Manager 2023 è il più recente titolo della serie di simulazione calcistica sviluppata da Sports Interactive e pubblicato da SEGA. Questo gioco permette agli utenti di assumere il ruolo di un allenatore di calcio, gestendo squadre, tattiche, trasferimenti di giocatori e molto altro.",
-        "Hash": null
+        "Hash": "",
+        "UUID": "84"
     },
     {
         "Nome": "Hearts Of Iron IV",
         "Link": "https://telegra.ph/Hearts-Of-Iron-IV-v1146--all-DLC-06-18",
+        "LinkR": "",
         "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Games/Hearts_Of_Iron_IV.png",
         "Sezione": "Giochi",
+        "Descrizione": "Hearts of Iron IV è un videogioco di strategia in tempo reale ambientato durante la Seconda Guerra Mondiale, sviluppato da Paradox Interactive. Il gioco permette ai giocatori di assumere il controllo di qualsiasi nazione indipendente del mondo negli anni 1936 o 1939 e guidarla attraverso la guerra.",
         "Tooltip": "Hearts Of Iron IV v1.14.6 + all DLC",
         "MRicerca": "hearts",
-        "LinkR": "",
-        "Descrizione": "Hearts of Iron IV è un videogioco di strategia in tempo reale ambientato durante la Seconda Guerra Mondiale, sviluppato da Paradox Interactive. Il gioco permette ai giocatori di assumere il controllo di qualsiasi nazione indipendente del mondo negli anni 1936 o 1939 e guidarla attraverso la guerra.",
-        "Hash": null
+        "Hash": "",
+        "UUID": "85"
     },
     {
         "Nome": "Supermarket Simulator",
         "Link": "https://devuploads.com/qoq7y7i2zjeu",
+        "LinkR": "",
         "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Games/Supermarket_Simulator.png",
         "Sezione": "Giochi",
+        "Descrizione": "Supermarket Simulator è un gioco di simulazione in cui puoi gestire il tuo supermercato, dall'inventario alla gestione del personale",
         "Tooltip": "Supermarket Simulator v0.5",
         "MRicerca": "supermarket",
-        "LinkR": "",
-        "Descrizione": "Supermarket Simulator è un gioco di simulazione in cui puoi gestire il tuo supermercato, dall'inventario alla gestione del personale",
-        "Hash": null
+        "Hash": "",
+        "UUID": "86"
     },
     {
         "Nome": "Euro Truck Simulator 2",
         "Link": "https://devuploads.com/1b1km9u0r76g",
+        "LinkR": "",
         "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Games/Euro_Truck_Simulator_2.png",
         "Sezione": "Giochi",
+        "Descrizione": "Euro Truck Simulator 2 è un videogioco di simulazione di camion sviluppato da SCS Software e pubblicato da Euro Truck Simulator 2. Il gioco ti permette di viaggiare attraverso l'Europa come re della strada, consegnando merci su lunghe distanze e esplorando numerose città e paesi.",
         "Tooltip": "Euro Truck Simulator 2 v1.50.1.0s + 87 DLCs",
         "MRicerca": "euro",
-        "LinkR": "",
-        "Descrizione": "Euro Truck Simulator 2 è un videogioco di simulazione di camion sviluppato da SCS Software e pubblicato da Euro Truck Simulator 2. Il gioco ti permette di viaggiare attraverso l'Europa come re della strada, consegnando merci su lunghe distanze e esplorando numerose città e paesi.",
-        "Hash": ""
+        "Hash": "",
+        "UUID": "87"
     },
     {
         "Nome": "Far Cry 5",
         "Link": "https://devuploads.com/pjz1k3kpgsjv",
+        "LinkR": "",
         "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Games/Far_Cry_5.png",
         "Sezione": "Giochi",
+        "Descrizione": "Far Cry 5 è un videogioco d'azione-avventura sviluppato da Ubisoft Montreal e pubblicato da Ubisoft. È il quinto capitolo principale della serie Far Cry e è ambientato nella fittizia contea di Hope County, Montana1. Il gioco ruota attorno alla lotta contro una setta religiosa estremista chiamata Eden's Gate, guidata da Joseph Seed, che si è insediata abusivamente nella regione.",
         "Tooltip": "Far Cry 5 v1.011 + 5 DLCs",
         "MRicerca": "far",
-        "LinkR": "",
-        "Descrizione": "Far Cry 5 è un videogioco d'azione-avventura sviluppato da Ubisoft Montreal e pubblicato da Ubisoft. È il quinto capitolo principale della serie Far Cry e è ambientato nella fittizia contea di Hope County, Montana1. Il gioco ruota attorno alla lotta contro una setta religiosa estremista chiamata Eden's Gate, guidata da Joseph Seed, che si è insediata abusivamente nella regione.",
-        "Hash": ""
+        "Hash": "",
+        "UUID": "88"
     },
     {
         "Nome": "DIRT 5 Year One Edition",
         "Link": "https://devuploads.com/l1b6491ho8l6",
+        "LinkR": "",
         "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Games/DIRT_5_Year_One_Edition.png",
         "Sezione": "Giochi",
+        "Descrizione": "DIRT 5 Year One Edition è un'edizione speciale del gioco di corse off-road DIRT 5, sviluppato da Codemasters. Questa edizione include contenuti esclusivi e aggiornamenti che saranno rilasciati nei primi 12 mesi dopo il lancio del gioco.",
         "Tooltip": "DIRT 5 Year One Edition v1.2767.60.0 + DLCs",
         "MRicerca": "dirt",
-        "LinkR": "",
-        "Descrizione": "DIRT 5 Year One Edition è un'edizione speciale del gioco di corse off-road DIRT 5, sviluppato da Codemasters. Questa edizione include contenuti esclusivi e aggiornamenti che saranno rilasciati nei primi 12 mesi dopo il lancio del gioco.",
-        "Hash": null
+        "Hash": "",
+        "UUID": "89"
     },
     {
         "Nome": "The Casting Of Frank Stone",
         "Link": "https://devuploads.com/yya3r4q3jjtw",
+        "LinkR": "",
         "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Games/The_Casting_Of%20Frank_Stone.png",
         "Sezione": "Giochi",
+        "Descrizione": "The Casting of Frank Stone è un gioco horror interattivo sviluppato da Supermassive Games e pubblicato da Behaviour Interactive. È ambientato nell'universo di Dead by Daylight e offre una narrazione ramificata, enigmi ambientali e eventi in tempo reale (QTE).",
         "Tooltip": "The Casting of Frank Stone Deluxe Edition + 2 DLCs",
         "MRicerca": "casting",
-        "LinkR": "",
-        "Descrizione": "The Casting of Frank Stone è un gioco horror interattivo sviluppato da Supermassive Games e pubblicato da Behaviour Interactive. È ambientato nell'universo di Dead by Daylight e offre una narrazione ramificata, enigmi ambientali e eventi in tempo reale (QTE).",
-        "Hash": ""
+        "Hash": "",
+        "UUID": "90"
     },
     {
         "Nome": "Life Is Strange 2",
         "Link": "https://devuploads.com/e7hmldkob48m",
+        "LinkR": "",
         "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Games/Life_Is_Strange_2.png",
         "Sezione": "Giochi",
+        "Descrizione": "Life Is Strange 2 è un'avventura grafica episodica sviluppata da Dontnod Entertainment e pubblicata da Square Enix. È il quarto titolo della serie Life Is Strange. La storia segue le vicende di due fratelli, Sean e Daniel Diaz, che fuggono a casa dopo un tragico incidente. Durante la loro fuga, Daniel sviluppa poteri telecinetici, e i due fratelli devono affrontare nuove sfide e incontrare nuovi amici mentre viaggiano verso il Messico.",
         "Tooltip": "Life Is Strange 2",
         "MRicerca": "life",
-        "LinkR": "",
-        "Descrizione": "Life Is Strange 2 è un'avventura grafica episodica sviluppata da Dontnod Entertainment e pubblicata da Square Enix. È il quarto titolo della serie Life Is Strange. La storia segue le vicende di due fratelli, Sean e Daniel Diaz, che fuggono a casa dopo un tragico incidente. Durante la loro fuga, Daniel sviluppa poteri telecinetici, e i due fratelli devono affrontare nuove sfide e incontrare nuovi amici mentre viaggiano verso il Messico.",
-        "Hash": null
+        "Hash": "",
+        "UUID": "91"
     },
     {
         "Nome": "Palworld",
         "Link": "https://telegra.ph/Palworld-v03657672-09-17",
+        "LinkR": "",
         "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Games/Palworld.png",
         "Sezione": "Giochi",
+        "Descrizione": "Palworld è un gioco di sopravvivenza e crafting sviluppato da Pocketpair. In questo gioco, i giocatori possono esplorare un mondo aperto, combattere, catturare creature chiamate Pals, costruire basi e svolgere varie attività.",
         "Tooltip": "Palworld v0.3.6.57672",
         "MRicerca": "palworld",
-        "LinkR": "",
-        "Descrizione": "Palworld è un gioco di sopravvivenza e crafting sviluppato da Pocketpair. In questo gioco, i giocatori possono esplorare un mondo aperto, combattere, catturare creature chiamate Pals, costruire basi e svolgere varie attività.",
-        "Hash": null
+        "Hash": "",
+        "UUID": "92"
     },
     {
         "Nome": "Enotria",
         "Link": "https://devuploads.com/7sgzren8qaju",
+        "LinkR": "",
         "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Games/Enotria.png",
         "Sezione": "Giochi",
+        "Descrizione": "Enotria: The Last Song è un videogioco action RPG in stile Souls sviluppato da Jyamma Games. È ambientato in un mondo ispirato dal folklore italiano, dove il sole più luminoso proietta l'ombra più oscura. Il giocatore assume il ruolo di un personaggio senza maschera, libero dal destino predeterminato, e deve liberare il mondo dalla stagnazione usando il potere dell'Ardore.",
         "Tooltip": "Enotria",
         "MRicerca": "enotria",
-        "LinkR": "",
-        "Descrizione": "Enotria: The Last Song è un videogioco action RPG in stile Souls sviluppato da Jyamma Games. È ambientato in un mondo ispirato dal folklore italiano, dove il sole più luminoso proietta l'ombra più oscura. Il giocatore assume il ruolo di un personaggio senza maschera, libero dal destino predeterminato, e deve liberare il mondo dalla stagnazione usando il potere dell'Ardore.",
-        "Hash": null
+        "Hash": "",
+        "UUID": "93"
     },
     {
         "Nome": "Silent Hill 2",
         "Link": "https://devuploads.com/ask4manf1zqq",
+        "LinkR": "",
         "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Games/Silent_Hill_2.png",
         "Sezione": "Giochi",
+        "Descrizione": "Silent Hill 2 è un classico videogioco survival horror psicologico, pubblicato originariamente nel 2001 da Konami per PlayStation 2. La trama segue James Sunderland, un uomo che riceve una misteriosa lettera dalla moglie defunta, Mary, e decide di recarsi nella nebbiosa città di Silent Hill per ritrovarla1. Lungo il suo cammino, incontra Maria, una donna che somiglia a Mary, e deve affrontare creature inquietanti e risolvere enigmi per scoprire la verità",
         "Tooltip": "Silent Hill 2: Digital Deluxe Edition – v1.1.236.114 + 4 DLCs/Bonuses",
         "MRicerca": "silent",
-        "LinkR": "",
-        "Descrizione": "Silent Hill 2 è un classico videogioco survival horror psicologico, pubblicato originariamente nel 2001 da Konami per PlayStation 2. La trama segue James Sunderland, un uomo che riceve una misteriosa lettera dalla moglie defunta, Mary, e decide di recarsi nella nebbiosa città di Silent Hill per ritrovarla1. Lungo il suo cammino, incontra Maria, una donna che somiglia a Mary, e deve affrontare creature inquietanti e risolvere enigmi per scoprire la verità",
-        "Hash": null
+        "Hash": "",
+        "UUID": "94"
     },
     {
         "Nome": "DRAGON BALL Sparking ZERO",
         "Link": "https://devuploads.com/scm25orkavdf",
+        "LinkR": "",
         "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Games/DRAGON_BALL_Sparking_ZERO.png",
         "Sezione": "Giochi",
+        "Descrizione": "Dragon Ball Sparking! Zero è un videogioco di combattimento 3D sviluppato da Spike Chunsoft e pubblicato da Bandai Namco Entertainment. È il sequel di Dragon Ball Z: Budokai Tenkaichi 3 e fa parte della serie Budokai Tenkaichi.",
         "Tooltip": "DRAGON BALL: Sparking! ZERO, v1003.003.003.003.002 + 5 DLCs + Windows 7 Fix",
         "MRicerca": "dragon",
-        "LinkR": "",
-        "Descrizione": "Dragon Ball Sparking! Zero è un videogioco di combattimento 3D sviluppato da Spike Chunsoft e pubblicato da Bandai Namco Entertainment. È il sequel di Dragon Ball Z: Budokai Tenkaichi 3 e fa parte della serie Budokai Tenkaichi.",
-        "Hash": null
+        "Hash": "",
+        "UUID": "95"
     },
     {
         "Nome": "TCG Card Shop Simulator",
@@ -1034,7 +1151,8 @@
         "Descrizione": "TCG Card Shop Simulator è una simulazione di negozio di carte collezionabili in cui si vendono i booster pack di carte per guadagnare denaro e costruire il proprio negozio di carte.",
         "Tooltip": "TCG Card Shop Simulator v0.47.3",
         "MRicerca": "tcg",
-        "Hash": null
+        "Hash": "",
+        "UUID": "96"
     },
     {
         "Nome": "Teardown",
@@ -1045,7 +1163,8 @@
         "Descrizione": "Teardown è un gioco sandbox, puzzle e azione sviluppato e pubblicato da Tuxedo Labs. Il gioco si svolge in un ambiente completamente distruttibile e interattivo, dove i giocatori devono pianificare e eseguire colpi perfetti utilizzando la risoluzione creativa dei problemi o la forza bruta.",
         "Tooltip": "Teardown",
         "MRicerca": "teardown",
-        "Hash": null
+        "Hash": "",
+        "UUID": "97"
     },
     {
         "Nome": "Assassin's Creed Syndacate",
@@ -1056,7 +1175,8 @@
         "Descrizione": "Assassin's Creed Syndicate è un videogioco d'azione-avventura sviluppato da Ubisoft e pubblicato nel 2015. Fa parte della famosa serie Assassin's Creed e si distingue per le sue ambientazioni storiche, la narrativa avvincente e il gameplay dinamico.",
         "Tooltip": "Assassin's Creed Syndacate",
         "MRicerca": "assassins",
-        "Hash": null
+        "Hash": "",
+        "UUID": "98"
     },
     {
         "Nome": "Assassin's Creed Mirage",
@@ -1067,7 +1187,8 @@
         "Descrizione": "Assassin's Creed Mirage è un gioco d'azione e avventura sviluppato da Ubisoft Bordeaux e pubblicato da Ubisoft. Rappresenta il tredicesimo capitolo principale della serie Assassin's Creed ed è stato pubblicato nel 2023.",
         "Tooltip": "Assassin's Creed Mirage",
         "MRicerca": "assassins",
-        "Hash": null
+        "Hash": "",
+        "UUID": "99"
     },
     {
         "Nome": "Fernbus Simulator",
@@ -1078,7 +1199,8 @@
         "Descrizione": "Fernbus Coach Simulator è il primo simulatore dei popolari autobus interurbani. Grazie alla cooperazione con FlixBus, Fernbus Coach Simulator fa immedesimare il giocatore nella vita quotidiana di un autista di autobus sulle Autobahn tedesche, autostrade e più di 40 città estremamente dettagliate.",
         "Tooltip": "Fernbus Simulator",
         "MRicerca": "fernbus",
-        "Hash": null
+        "Hash": "",
+        "UUID": "100"
     },
     {
         "Nome": "Train Sim World",
@@ -1087,9 +1209,10 @@
         "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Games/Train_Sim_World_5.png",
         "Sezione": "Giochi",
         "Descrizione": "Train Sim World",
-        "Tooltip": "Train Sim World v5",
+        "Tooltip": "Train Sim World è un simulatore di treni sviluppato da Dovetail Games, progettato per offrire un'esperienza realistica di guida ferroviaria. Il gioco permette ai giocatori di controllare vari tipi di locomotive, sia elettriche che diesel e a vapore, su percorsi reali ricreati con grande dettaglio.",
         "MRicerca": "train",
-        "Hash": ""
+        "Hash": "",
+        "UUID": "101"
     },
     {
         "Nome": "Arcade Paradise Digital Deluxe Edition",
@@ -1100,7 +1223,8 @@
         "Descrizione": "Arcade Paradise: Digital Deluxe Edition è un'entusiasmante miscela di gioco arcade retrò e simulazione di gestione della luce, ambientata nel vivace mondo degli anni '90.",
         "Tooltip": "Arcade Paradise: Digital Deluxe Edition, v1.3.20230515.143309 + 8 DLCs + Bonus OST",
         "MRicerca": "arcade",
-        "Hash": null
+        "Hash": "",
+        "UUID": "102"
     },
     {
         "Nome": "Need For Speed Most Wanted Black Edition",
@@ -1111,7 +1235,8 @@
         "Descrizione": "Need for Speed: Most Wanted (2005) è a videogioco di corse sviluppato da EA Canada e pubblicato da Electronic Arts. È la nona puntata della serie Need for Speed ed è stata rilasciata nel novembre 2005 per piattaforme tra cui PC, PlayStation 2, Nintendo GameCube, Xbox e telefoni cellulari. Il gioco reintroduce le attività di polizia e combina il gameplay open world con le opzioni di personalizzazione dei veicoli dei precedenti titoli Underground. La storia coinvolge un corridore di strada solitario in competizione con 15 piloti d'élite nella città immaginaria di Rockport per diventare il pilota “più ricercato ”. Il gioco è stato ben accolto, con un recensore che gli ha dato un punteggio di 9,0 su 10, elogiando il suo gameplay e il design open world.",
         "Tooltip": "Need For Speed Most Wanted Black Edition",
         "MRicerca": "need",
-        "Hash": null
+        "Hash": "",
+        "UUID": "103"
     },
     {
         "Nome": "Thief Simulator",
@@ -1122,7 +1247,8 @@
         "Descrizione": "Diventa il migliore dei ladri. Raccogli informazioni, ruba oggetti e vendili per comprare attrezzature hi-tech. Fai tutto ciò che fa un vero ladro.",
         "Tooltip": "Thief Simulator – v1.8 + 2 DLCs",
         "MRicerca": "thief",
-        "Hash": ""
+        "Hash": "",
+        "UUID": "104"
     },
     {
         "Nome": "Pinball FX3",
@@ -1133,7 +1259,8 @@
         "Descrizione": "Pinball FX3 è un videogioco di flipper sviluppato da Zen Studios, ed è la terza versione della serie di giochi di flipper digitali Pinball FX. È un gioco che simula l'esperienza del flipper tradizionale, ma con una serie di elementi aggiuntivi che lo rendono unico, come ambientazioni originali, modalità di gioco innovative e una vasta gamma di tavoli tematici.",
         "Tooltip": "Pinball FX3",
         "MRicerca": "pinball",
-        "Hash": null
+        "Hash": "",
+        "UUID": "105"
     },
     {
         "Nome": "Dredge Complete Editon",
@@ -1144,7 +1271,8 @@
         "Descrizione": "Dredge è un'avventura di pesca per giocatore singolo con una corrente sinistra. Vendi i pesci, migliora la tua barca e draga le profondità alla ricerca di segreti sepolti da tempo. Esplora un arcipelago misterioso e scopri perché è meglio che certe cose restino dimenticate per sempre.",
         "Tooltip": "Dredge: Complete Edition – v1.5.3 Build 2879 + 9 ",
         "MRicerca": "dredge",
-        "Hash": null
+        "Hash": "",
+        "UUID": "106"
     },
     {
         "Nome": "Farming Simulator 25",
@@ -1155,7 +1283,8 @@
         "Descrizione": "Farming Simulator 25 vi invita a tuffarvi nella gratificante vita agricola. Costruite la fattoria tra i fiumi sinuosi e gli storici montacarichi da cereali del Nord America, tra gli specchi d'acqua dell'Europa centrale o in un rigoglioso panorama dell'Asia orientale ricco di risaie accanto a una città portuale dalle mille luci. Coltivate i campi, allevate gli animali, datevi alla silvicoltura e gestite un vero e proprio impero con negozi, produzioni e costruzioni!",
         "Tooltip": "Farming Simulator 25 v1.2.1.0",
         "MRicerca": "farming",
-        "Hash": null
+        "Hash": "",
+        "UUID": "107"
     },
     {
         "Nome": "Forza Horizon 5",
@@ -1166,7 +1295,8 @@
         "Descrizione": "La tua avventura Horizon definitiva ti aspetta! Esplora vivaci paesaggi open world del Messico in continua evoluzione. Divertimento al volante illimitato con centinaia tra le migliori auto al mondo.",
         "Tooltip": "Forza Horizon 5: Premium Edition  v1.656.386.0",
         "MRicerca": "horizon",
-        "Hash": null
+        "Hash": "",
+        "UUID": "108"
     },
     {
         "Nome": "Elden Ring Shadow Of The Erdtree Deluxe Edition",
@@ -1177,7 +1307,8 @@
         "Descrizione": "Elden Ring è un action RPG sviluppato da FromSoftware, diretto da Hidetaka Miyazaki con la collaborazione di George R.R. Martin per la costruzione del mondo. Ambientato nell'Interregno, i giocatori esplorano un vasto open world, affrontando nemici e boss impegnativi, con l'obiettivo di ricostruire l'Elden Ring e diventare il nuovo Lord ancestrale.",
         "Tooltip": "Elden Ring Shadow Of The Erdtree (Deluxe Edition) v1.12.1",
         "MRicerca": "elden",
-        "Hash": ""
+        "Hash": "",
+        "UUID": "109"
     },
     {
         "Nome": "Tavern Master",
@@ -1188,7 +1319,8 @@
         "Descrizione": "",
         "Tooltip": "Tavern Master build 16501626",
         "MRicerca": "tavern",
-        "Hash": null
+        "Hash": "",
+        "UUID": "110"
     },
     {
         "Nome": "Marvels Spider-Man 2 Digital Deluxe Edition",
@@ -1199,7 +1331,8 @@
         "Descrizione": "Marvel's Spider-Man Remastered è una versione migliorata del gioco originale sviluppato da Insomniac Games e pubblicato da Sony Interactive Entertainment. Questa versione è stata ottimizzata per le console PS5 e PC, offrendo grafica migliorata, nuove funzionalità immersive e un'esperienza di gioco più fluida.",
         "Tooltip": "Marvels Spider-Man 2 Digital Deluxe Edition v1.130",
         "MRicerca": "spider",
-        "Hash": null
+        "Hash": "",
+        "UUID": "111"
     },
     {
         "Nome": "Kingdom Hearts HD",
@@ -1210,7 +1343,8 @@
         "Descrizione": "Kingdom Hearts HD 2.8 Final Chapter Prologue è una raccolta di giochi della serie Kingdom Hearts, sviluppata da Square Enix.",
         "Tooltip": "Kingdom Hearts HD 2.8 Final Chapter Prologue",
         "MRicerca": "kingdom",
-        "Hash": ""
+        "Hash": "",
+        "UUID": "112"
     },
     {
         "Nome": "Arma Reforger",
@@ -1221,7 +1355,8 @@
         "Descrizione": "Vivi realistici combattimenti sullo sfondo della guerra fredda e prendi parte alla lotta per la vasta isola atlantica di Everon e il suo territorio offshore più circoscritto, Arland. Oppure, vesti i panni del game master e plasma esclusivi scenari per gli altri giocatori.",
         "Tooltip": "Arma Reforger (v1.0.0.47 – Final Release + Bonus Content",
         "MRicerca": "arma",
-        "Hash": ""
+        "Hash": "",
+        "UUID": "113"
     },
     {
         "Nome": "Age Of Mythology Retold",
@@ -1232,18 +1367,20 @@
         "Descrizione": "Dai creatori dell'acclamata serie Age of Empires, Age of Mythology: Retold si spinge oltre la storia, trasportando i giocatori in un'età mitica in cui divinità, mostri ed esseri umani si incontrano e si scontrano.",
         "Tooltip": "Age Of Mythology: Retold – v100.18.9036.0 + 4 DLCs/Bonuses",
         "MRicerca": "Giochi",
-        "Hash": "b592627074fdacea"
+        "Hash": "b592627074fdacea",
+        "UUID": "114"
     },
     {
-        "Nome": "Bus Simulator 21",
+        "Nome": "Bus Simulator 21 Next Stop",
         "Link": "https://devuploads.com/kc0343x7iwxg",
         "LinkR": "",
-        "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Games/Bus_Simulator_21.png",
+        "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Games/Bus_Simulator_21_Next_Stop.png",
         "Sezione": "Giochi",
         "Descrizione": "Bus Simulator 21 è un gioco di simulazione di autobus sviluppato da Stillalive Studios e pubblicato da Astragon Entertainment. È sviluppato su Unreal Engine 4. È il sesto della serie Bus Simulator ed è il sequel diretto di Bus Simulator 18.",
         "Tooltip": "Bus Simulator 21: Next Stop – Gold Edition – Build 11097407 + 20 DLCs",
         "MRicerca": "Giochi",
-        "Hash": "ad355b637c30f79e"
+        "Hash": "ad355b637c30f79e",
+        "UUID": "115"
     },
     {
         "Nome": "Cities - Skylines II",
@@ -1254,40 +1391,56 @@
         "Descrizione": "Erigi una città da zero e fanne una metropoli fiorente con il city builder più realistico di sempre. Sfrutta le tue doti creative e risolutive per creare a livelli mai provati. Simulazione profonda ed economia dinamica per costruire un mondo senza limiti.",
         "Tooltip": "Cities: Skylines II – v1.2.5f1 + 16 DLCs + Bonus OSTs",
         "MRicerca": "Giochi",
-        "Hash": "a6932453a2b93536"
+        "Hash": "a6932453a2b93536",
+        "UUID": "116"
+    },
+    {
+        "Nome": "inZOI",
+        "Link": "https://devuploads.com/2tmtb7fji47g",
+        "LinkR": null,
+        "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Games/inZOI.png",
+        "Sezione": "Giochi",
+        "Descrizione": " inZOI è un gioco di simulazione dove i giocatori assumono il ruolo di Designer, plasmando il mondo secondo le loro preferenze e assistendo alle varie storie che si susseguono. Attraverso questa esperienza immersiva, vogliamo ispirare i giocatori ad apprezzare il dono prezioso che è la vita, vedendola come un viaggio ricco di significato. Entra in storie uniche, portate in vita da una grafica realistica!",
+        "Tooltip": null,
+        "MRicerca": "Giochi",
+        "Hash": "ba2a2da8b5aa98d8",
+        "UUID": "4a923195-02f4-465b-b9e0-cd09660e608b"
     },
     {
         "Nome": "Topaz Photo AI",
         "Link": "https://devuploads.com/ejdrv7cqsqyx",
+        "LinkR": "",
         "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/IA/Topaz_Photo_AI.png",
         "Sezione": "IA",
+        "Descrizione": "Topaz Photo AI è un software di miglioramento delle immagini sviluppato da Topaz Labs, progettato per migliorare la qualità delle foto utilizzando l'intelligenza artificiale",
         "Tooltip": "Topaz Photo AI",
         "MRicerca": "topaz",
-        "LinkR": "",
-        "Descrizione": "Topaz Photo AI è un software di miglioramento delle immagini sviluppato da Topaz Labs, progettato per migliorare la qualità delle foto utilizzando l'intelligenza artificiale",
-        "Hash": null
+        "Hash": "",
+        "UUID": "117"
     },
     {
         "Nome": "Topaz Gigapixel AI",
         "Link": "https://devuploads.com/dxcanae4yp90",
+        "LinkR": "",
         "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/IA/Topaz_Gigapixel_AI.png",
         "Sezione": "IA",
+        "Descrizione": "Topaz Gigapixel AI è un software di miglioramento delle immagini sviluppato da Topaz Labs, progettato per aumentare la risoluzione e la qualità delle immagini utilizzando l'intelligenza artificiale",
         "Tooltip": "Topaz Gigapixel AI",
         "MRicerca": "topaz",
-        "LinkR": "",
-        "Descrizione": "Topaz Gigapixel AI è un software di miglioramento delle immagini sviluppato da Topaz Labs, progettato per aumentare la risoluzione e la qualità delle immagini utilizzando l'intelligenza artificiale",
-        "Hash": null
+        "Hash": "",
+        "UUID": "118"
     },
     {
         "Nome": "Generatore Immagini",
         "Link": "https://devuploads.com/c8j0jajfy7tt",
+        "LinkR": "",
         "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/IA/Generatore_Immagini.png",
         "Sezione": "IA",
+        "Descrizione": "",
         "Tooltip": "Generatore Immagini AIMODS",
         "MRicerca": "generatore",
-        "LinkR": "",
-        "Descrizione": "",
-        "Hash": null
+        "Hash": "",
+        "UUID": "119"
     },
     {
         "Nome": "Topaz Video AI",
@@ -1298,73 +1451,80 @@
         "Descrizione": "Topaz Video AI è un software avanzato per il miglioramento e la riparazione di video, utilizzando l'intelligenza artificiale (AI) per eseguire diverse operazioni come l'upscaling, il miglioramento della qualità video e la riduzione del rumore. È molto apprezzato da professionisti del video editing, videomaker e creatori di contenuti che desiderano migliorare la qualità visiva dei loro filmati senza ricorrere a metodi complessi o costosi.",
         "Tooltip": "Topaz Video Ai",
         "MRicerca": "topaz",
-        "Hash": null
+        "Hash": "",
+        "UUID": "120"
     },
     {
         "Nome": "IObit SystemCare",
         "Link": "https://devuploads.com/50973sd2nuio",
+        "LinkR": "",
         "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Iobit/IObit_SystemCare.png",
         "Sezione": "IObit",
+        "Descrizione": "IObit SystemCare è un software completo progettato per ottimizzare, pulire e proteggere il tuo PC.",
         "Tooltip": "Advanced SystemCare Pro v17.6.0.322",
         "MRicerca": "IObit",
-        "LinkR": "",
-        "Descrizione": "IObit SystemCare è un software completo progettato per ottimizzare, pulire e proteggere il tuo PC.",
-        "Hash": null
+        "Hash": "",
+        "UUID": "121"
     },
     {
         "Nome": "IObit Driver Booster",
         "Link": "https://devuploads.com/ib5kq1w6asj9",
+        "LinkR": "",
         "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Iobit/IObit_Driver_Booster.png",
         "Sezione": "IObit",
+        "Descrizione": "IObit Driver Booster è un software progettato per aiutarti a mantenere i driver del tuo PC aggiornati in modo semplice e rapido.",
         "Tooltip": "Iobit Driver Booster Pro v12.2.0.542",
         "MRicerca": "IObit",
-        "LinkR": "",
-        "Descrizione": "IObit Driver Booster è un software progettato per aiutarti a mantenere i driver del tuo PC aggiornati in modo semplice e rapido.",
-        "Hash": null
+        "Hash": "",
+        "UUID": "122"
     },
     {
         "Nome": "IObit Unistaller",
         "Link": "https://devuploads.com/038nmynhqbwe",
+        "LinkR": "",
         "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Iobit/IObit_Unistaller.png",
         "Sezione": "IObit",
+        "Descrizione": "IObit Uninstaller è un software progettato per rimuovere completamente programmi indesiderati, bundleware, app di Windows e plugin del browser.",
         "Tooltip": "IObit Uninstaller Pro v14.1.0.2",
         "MRicerca": "IObit",
-        "LinkR": "",
-        "Descrizione": "IObit Uninstaller è un software progettato per rimuovere completamente programmi indesiderati, bundleware, app di Windows e plugin del browser.",
-        "Hash": null
+        "Hash": "",
+        "UUID": "123"
     },
     {
         "Nome": "IObit Smart Defrag",
         "Link": "https://devuploads.com/g35xo5kzs93a",
+        "LinkR": "",
         "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Iobit/IObit_Smart_Defrag.png",
         "Sezione": "IObit",
+        "Descrizione": "IObit Smart Defrag è un software progettato per deframmentare i dischi rigidi del tuo PC, migliorando così le prestazioni generali del sistema.",
         "Tooltip": "IObit Smart Defrag Pro v10.1.0.419",
         "MRicerca": "IObit",
-        "LinkR": "",
-        "Descrizione": "IObit Smart Defrag è un software progettato per deframmentare i dischi rigidi del tuo PC, migliorando così le prestazioni generali del sistema.",
-        "Hash": null
+        "Hash": "",
+        "UUID": "124"
     },
     {
         "Nome": "IObit Software Updater",
         "Link": "https://devuploads.com/69r1u6kcky00",
+        "LinkR": "",
         "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Iobit/IObit_Software_Updater.png",
         "Sezione": "IObit",
+        "Descrizione": "IObit Software Updater è un software progettato per mantenere tutti i programmi installati sul tuo PC aggiornati in modo automatico.",
         "Tooltip": "IObit Software Updater Pro v7.1.121",
         "MRicerca": "IObit",
-        "LinkR": "",
-        "Descrizione": "IObit Software Updater è un software progettato per mantenere tutti i programmi installati sul tuo PC aggiornati in modo automatico.",
-        "Hash": null
+        "Hash": "",
+        "UUID": "125"
     },
     {
         "Nome": "IObit Malware Fighter",
         "Link": "https://devuploads.com/son0sdn5mqfo",
+        "LinkR": "",
         "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Iobit/IObit_Malware_Fighter.png",
         "Sezione": "IObit",
+        "Descrizione": "IObit Malware Fighter è un software di sicurezza progettato per proteggere il tuo PC da vari tipi di malware, tra cui virus, ransomware, spyware, trojan, adware e worm.",
         "Tooltip": "IObit Malware Fighter Pro v11.4.0.1360",
         "MRicerca": "IObit",
-        "LinkR": "",
-        "Descrizione": "IObit Malware Fighter è un software di sicurezza progettato per proteggere il tuo PC da vari tipi di malware, tra cui virus, ransomware, spyware, trojan, adware e worm.",
-        "Hash": null
+        "Hash": "",
+        "UUID": "126"
     },
     {
         "Nome": "FL Studio",
@@ -1375,7 +1535,8 @@
         "Descrizione": "FL Studio è una delle stazioni di lavoro audio digitali (DAW) più popolari, usata per la produzione musicale, la composizione, l'arrangiamento e il mixaggio. È conosciuta per la sua interfaccia intuitiva, che offre una vasta gamma di strumenti per musicisti, produttori e ingegneri del suono.",
         "Tooltip": "FL Studio",
         "MRicerca": "fl",
-        "Hash": null
+        "Hash": "",
+        "UUID": "127"
     },
     {
         "Nome": "EZDrummer",
@@ -1386,29 +1547,32 @@
         "Descrizione": "EZdrummer è un software di batteria virtuale sviluppato da Toontrack, noto per la sua capacità di offrire suoni di batteria realistici e di alta qualità, senza la necessità di un batterista dal vivo. È molto apprezzato sia dai produttori musicali che dai musicisti, in particolare per chi cerca un modo facile e veloce per aggiungere batterie alle proprie composizioni.",
         "Tooltip": "EZDrummer",
         "MRicerca": "ez",
-        "Hash": null
+        "Hash": "",
+        "UUID": "128"
     },
     {
         "Nome": "Spotify",
         "Link": "https://devuploads.com/5875o52omn51",
+        "LinkR": "",
         "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Musica/Spotify.png",
         "Sezione": "Musica",
+        "Descrizione": "Spotify è un servizio musicale digitale che offre accesso a milioni di brani, podcast e playlist",
         "Tooltip": "Spotify v1.2.55.235",
         "MRicerca": "spotify",
-        "LinkR": "",
-        "Descrizione": "Spotify è un servizio musicale digitale che offre accesso a milioni di brani, podcast e playlist",
-        "Hash": null
+        "Hash": "",
+        "UUID": "129"
     },
     {
         "Nome": "Spotube",
-        "Link": "https://devuploads.com/q8gr57ynlox2",
+        "Link": "https://devuploads.com/u93uyek2o26w",
+        "LinkR": "",
         "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Musica/Spotube.png",
         "Sezione": "Musica",
-        "Tooltip": "Spotube v4.0.1",
-        "MRicerca": "spotube",
-        "LinkR": "",
         "Descrizione": "Spotube è un'app open source che combina Spotify e YouTube Music per offrire un'esperienza musicale gratuita, senza pubblicità",
-        "Hash": null
+        "Tooltip": "Spotube v4.0.2",
+        "MRicerca": "spotube",
+        "Hash": "",
+        "UUID": "130"
     },
     {
         "Nome": "Atomix VirtualDJ",
@@ -1419,7 +1583,8 @@
         "Descrizione": "Atomix VirtualDJ è un software per DJ sviluppato da Atomix Productions, noto per le sue funzionalità avanzate di mixaggio audio e video. È ampiamente utilizzato sia da DJ professionisti che da principianti grazie alla sua interfaccia intuitiva e alle potenti capacità di automazione.",
         "Tooltip": "Atomix VirtualDJ",
         "MRicerca": "xirtualdj",
-        "Hash": null
+        "Hash": "",
+        "UUID": "131"
     },
     {
         "Nome": "OfficeSuite",
@@ -1430,7 +1595,8 @@
         "Descrizione": "OfficeSuite è una soluzione completa per ufficio sviluppata da MobiSystems, che include moduli per la modifica di documenti, presentazioni e fogli di calcolo, oltre a un client di posta integrato e un editor PDF avanzato.",
         "Tooltip": "OfficeSuite Premium v8.90.57422",
         "MRicerca": "office",
-        "Hash": ""
+        "Hash": "",
+        "UUID": "132"
     },
     {
         "Nome": "PassFab for Excel",
@@ -1441,7 +1607,8 @@
         "Descrizione": "PassFab for Excel è uno strumento professionale per recuperare e rimuovere le password di file Excel.",
         "Tooltip": "PassFab for Excel v8.5.11",
         "MRicerca": "excel",
-        "Hash": ""
+        "Hash": "",
+        "UUID": "133"
     },
     {
         "Nome": "Foxit PDF Editor Pro",
@@ -1452,7 +1619,8 @@
         "Descrizione": "Foxit PDF Editor Pro è un software avanzato per la modifica di documenti PDF, sviluppato da Foxit Software. È progettato per offrire capacità di modifica PDF professionali, inclusa la possibilità di aggiungere testo, commenti, immagini, e di firmare elettronicamente i documenti.",
         "Tooltip": "Foxit PDF Editor Pro",
         "MRicerca": "foxit",
-        "Hash": ""
+        "Hash": "",
+        "UUID": "134"
     },
     {
         "Nome": "Nitro PDF Pro Enterprise",
@@ -1463,7 +1631,8 @@
         "Descrizione": "",
         "Tooltip": "Nitro PDF Pro Enterprise v14.34.2.0",
         "MRicerca": "nitro",
-        "Hash": ""
+        "Hash": "",
+        "UUID": "135"
     },
     {
         "Nome": "RecordFab",
@@ -1474,7 +1643,8 @@
         "Descrizione": "RecordFab è uno strumento potente per registrare video da vari servizi di streaming, social media e piattaforme educative.",
         "Tooltip": "RecordFab v1.0.0.7",
         "MRicerca": "recordfab",
-        "Hash": null
+        "Hash": "",
+        "UUID": "136"
     },
     {
         "Nome": "Movavi Screen Recorder",
@@ -1485,7 +1655,8 @@
         "Descrizione": "Movavi Screen Recorder è un software di registrazione dello schermo progettato per catturare video e audio dal tuo schermo PC o Mac.",
         "Tooltip": "Movavi Screen Recorder",
         "MRicerca": "movavi",
-        "Hash": null
+        "Hash": "",
+        "UUID": "137"
     },
     {
         "Nome": "Bandicam",
@@ -1496,7 +1667,8 @@
         "Descrizione": "Bandicam è un leggero programma di registrazione video per Windows che può catturaretutto quello che avviene sullo schermo in un file video di alta qualità.",
         "Tooltip": "Bandicam",
         "MRicerca": "bandicam",
-        "Hash": ""
+        "Hash": "",
+        "UUID": "138"
     },
     {
         "Nome": "Aiseesoft Screen Recorder",
@@ -1507,7 +1679,8 @@
         "Descrizione": "Aiseesoft Screen Recorder è un software di registrazione dello schermo progettato per catturare video e audio dal computer. È particolarmente utile per diverse applicazioni, come la creazione di tutorial video, la registrazione di giochi, o la cattura di videoconferenze.",
         "Tooltip": "Aiseesoft Screen Recorder v3.1.16",
         "MRicerca": "recorder",
-        "Hash": "902fb24083673301"
+        "Hash": "902fb24083673301",
+        "UUID": "139"
     },
     {
         "Nome": "Aiseesoft iPhone Unlocker",
@@ -1518,51 +1691,56 @@
         "Descrizione": "Aiseesoft iPhone Unlocker è un software progettato per aiutare gli utenti a sbloccare i dispositivi Apple, come iPhone e iPad, in diverse situazioni.",
         "Tooltip": "Aiseesoft iPhone Unlocker v2.0.88",
         "MRicerca": "unlocker",
-        "Hash": null
+        "Hash": "",
+        "UUID": "140"
     },
     {
         "Nome": "WinHubX",
         "Link": "https://github.com/Italian-Developer/WinHubX/releases/download/WinHubX/WinHubX.exe",
+        "LinkR": "",
         "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Tool-AIMODS/WinHubX.png",
         "Sezione": "Tools AIMODS",
+        "Descrizione": "Con questo tool sarete in grado di scaricare file ISO per la maggior parte delle versioni ed edizioni di Windows comprese edizioni All in One e Lite. Inoltre potrete scaricare, installare ed attivare le ultime versioni di Office sia in setup online sia offline. Infine abbiamo inserito la sezione Tools che include scorciatoie ai nostri tool come WinCustomizer, WIMToolKit e altre piccole chicche che lasciamo scoprire a voi!",
         "Tooltip": "WinHubX v.2.4.2.0",
         "MRicerca": "Tools AIMODS, Office",
-        "LinkR": "",
-        "Descrizione": "Con questo tool sarete in grado di scaricare file ISO per la maggior parte delle versioni ed edizioni di Windows comprese edizioni All in One e Lite. Inoltre potrete scaricare, installare ed attivare le ultime versioni di Office sia in setup online sia offline. Infine abbiamo inserito la sezione Tools che include scorciatoie ai nostri tool come WinCustomizer, WIMToolKit e altre piccole chicche che lasciamo scoprire a voi!",
-        "Hash": null
+        "Hash": "",
+        "UUID": "141"
     },
     {
         "Nome": "Fix Licenza",
         "Link": "https://devuploads.com/tnxey5xkoxiv",
+        "LinkR": "",
         "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Tool-AIMODS/Fix_Licenza.png",
         "Sezione": "Tools AIMODS",
+        "Descrizione": "",
         "Tooltip": "Fix Licenza",
         "MRicerca": "licenza",
-        "LinkR": "",
-        "Descrizione": "",
-        "Hash": null
+        "Hash": "",
+        "UUID": "142"
     },
     {
         "Nome": "RadioWindows",
         "Link": "https://devuploads.com/5fccbiupg8zg",
+        "LinkR": "",
         "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Tool-AIMODS/RadioWindows.png",
         "Sezione": "Tools AIMODS",
+        "Descrizione": "Scopri la nostra innovativa app: una radio pensata per Windows! 🎵 Non importa quali siano le tue preferenze musicali, la nostra piattaforma è pronta a offrirti un’esperienza unica. Anche se viene fornita con una selezione di radio di default, non preoccuparti! ",
         "Tooltip": "RadioWindows v.0.0.0.0",
         "MRicerca": "Tools AIMODS",
-        "LinkR": "",
-        "Descrizione": "Scopri la nostra innovativa app: una radio pensata per Windows! 🎵 Non importa quali siano le tue preferenze musicali, la nostra piattaforma è pronta a offrirti un’esperienza unica. Anche se viene fornita con una selezione di radio di default, non preoccuparti! ",
-        "Hash": null
+        "Hash": "",
+        "UUID": "143"
     },
     {
         "Nome": "DataLock",
         "Link": "https://devuploads.com/8t0g8x8mpsrz",
+        "LinkR": "",
         "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Tool-AIMODS/DataLock.png",
         "Sezione": "Tools AIMODS",
+        "Descrizione": "Addio Backup PC , benvenuta DataLock!",
         "Tooltip": "DataLock v.0.0.0.0",
         "MRicerca": "Tools AIMODS",
-        "LinkR": "",
-        "Descrizione": "Addio Backup PC , benvenuta DataLock!",
-        "Hash": null
+        "Hash": "",
+        "UUID": "144"
     },
     {
         "Nome": "Assistente Aggiornamento Win11",
@@ -1573,7 +1751,8 @@
         "Descrizione": " Lo strumento facilita l'aggiornamento rendendolo automatico e, quindi, semplice da effettuare anche per i meno esperti, mantenendo tutti i file personali.",
         "Tooltip": "Assistente Aggiornamento v.0.0.0.2",
         "MRicerca": "Tools AIMODS",
-        "Hash": ""
+        "Hash": "",
+        "UUID": "145"
     },
     {
         "Nome": "Riproduttore Video",
@@ -1584,7 +1763,8 @@
         "Descrizione": "Il nostro player è una piattaforma che offre un’esperienza immersiva per la visione di eventi sportivi in diretta su MacOS e Windows. Sviluppato per garantire la massima qualità di streaming e un’interfaccia intuitiva, il software consente agli utenti di accedere facilmente ai contenuti sportivi da qualsiasi dispositivo desktop. L’obiettivo è quello di mettere gli appassionati di sport al centro dell’azione, con eventi in tempo reale e una qualità video impeccabile.",
         "Tooltip": "Riproduttore Video v.0.0.0.0",
         "MRicerca": "Tools AIMODS",
-        "Hash": null
+        "Hash": "",
+        "UUID": "146"
     },
     {
         "Nome": "Calibre",
@@ -1595,7 +1775,8 @@
         "Descrizione": "Calibre cos'è\nCalibre è un software open source gratuito per la gestione degli ebook. È estremamente utile per chi possiede una vasta collezione di libri digitali e desidera organizzarli, convertirli in vari formati, e trasferirli su diversi dispositivi di lettura.",
         "Tooltip": "",
         "MRicerca": "calibre",
-        "Hash": ""
+        "Hash": "",
+        "UUID": "147"
     },
     {
         "Nome": "PassFab For RAR",
@@ -1606,7 +1787,8 @@
         "Descrizione": "PassFab for RAR è uno strumento professionale per recuperare le password di archivi RAR e WinRAR",
         "Tooltip": "PassFab For RAR 9.5.2.2",
         "MRicerca": "rar",
-        "Hash": ""
+        "Hash": "",
+        "UUID": "148"
     },
     {
         "Nome": "Clipboard",
@@ -1617,7 +1799,8 @@
         "Descrizione": "AIMods Advanced Clipboard instaura una connessione client-server con tutti i dispositivi connessi alla stessa rete privata. Sfruttando tale meccanismo, un server (un dispositivo) invia ai client (tutti gli altri dispositivi) ciò che è stato copiato (o la nota creata). In questo modo, le note, il testo e le immagini copiate sul PC in camera, verranno copiati istantaneamente anche sul PC in sala e viceversa.",
         "Tooltip": "Clipboard v.1.0.0.0",
         "MRicerca": "clipboard",
-        "Hash": null
+        "Hash": "",
+        "UUID": "149"
     },
     {
         "Nome": "QuickTweak",
@@ -1628,7 +1811,8 @@
         "Descrizione": "Uno strumento automatico e altamente personalizzabile per l'ottimizazione del sistema operativo.",
         "Tooltip": "QuickTweak v.0.0.0.0",
         "MRicerca": "quickk",
-        "Hash": null
+        "Hash": "",
+        "UUID": "150"
     },
     {
         "Nome": "Media Convert",
@@ -1639,28 +1823,31 @@
         "Descrizione": "Il nuovo convertitore video e audio targato AIMODS è un potente strumento progettato per semplificare la gestione dei tuoi file multimediali. Supporta una vasta gamma di formati, tra cui MP4, AVI, MKV, MXF per video, e WAV, MP3, FLAC, AAC per audio, garantendo la massima versatilità.",
         "Tooltip": "Media Convert v.0.0.0.0",
         "MRicerca": "media",
-        "Hash": null
+        "Hash": "",
+        "UUID": "151"
     },
     {
         "Nome": "Windscribe",
         "Link": "https://devuploads.com/o6rzuq8c5wz5",
+        "LinkR": "",
         "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/VPN/Windscribe.png",
         "Sezione": "VPN",
+        "Descrizione": "Windscribe è un servizio VPN e blocco pubblicità che offre una combinazione di strumenti per proteggere la tua privacy online e migliorare la tua esperienza di navigazione",
         "Tooltip": "Windscribe VPN",
         "MRicerca": "windscribe",
-        "LinkR": "",
-        "Descrizione": "Windscribe è un servizio VPN e blocco pubblicità che offre una combinazione di strumenti per proteggere la tua privacy online e migliorare la tua esperienza di navigazione",
-        "Hash": ""
+        "Hash": "",
+        "UUID": "152"
     },
     {
         "Nome": "Avira Phantom",
         "Link": "https://devuploads.com/yqb8gsqhyniz",
+        "LinkR": "",
         "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/VPN/Avira_Phantom.png",
         "Sezione": "VPN",
+        "Descrizione": "Avira Phantom è un servizio di VPN (Virtual Private Network) offerto da Avira, una nota azienda di sicurezza informatica.",
         "Tooltip": "Avira Phantom VPN Pro v2.44.1.19908",
         "MRicerca": "avira",
-        "LinkR": "",
-        "Descrizione": "Avira Phantom è un servizio di VPN (Virtual Private Network) offerto da Avira, una nota azienda di sicurezza informatica.",
-        "Hash": null
+        "Hash": "",
+        "UUID": "20"
     }
 ]
