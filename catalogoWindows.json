@@ -783,6 +783,18 @@
     "UUID": "66"
   },
   {
+    "Nome": "CapCut",
+    "Link": "https://devuploads.com/vgc3eh5gnb1x",
+    "LinkR": null,
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Editing/CapCut.png",
+    "Sezione": "Gestione Foto/Video e Editing",
+    "Descrizione": "CapCut è un potente editor video gratuito che offre strumenti avanzati per creare e modificare video con facilità. Dispone di funzionalità come transizioni, effetti, filtri, testo animato e intelligenza artificiale per migliorare i contenuti. Perfetto per creator, permette di esportare video in alta qualità e condividerli direttamente sui social. Disponibile per Windows, macOS e dispositivi mobili.",
+    "Tooltip": "CapCut per windows",
+    "MRicerca": "Gestione Foto/Video e Editing",
+    "Hash": "6f3dc78279e9c8d6",
+    "UUID": "3fec5fa3-11f5-4ead-89ab-52289bcc74a0"
+  },
+  {
     "Nome": "EaseUS Partition Master",
     "Link": "https://devuploads.com/e1x7gkigjdka",
     "LinkR": "",
@@ -1383,6 +1395,18 @@
     "UUID": "116"
   },
   {
+    "Nome": "inZOI",
+    "Link": "https://devuploads.com/2tmtb7fji47g",
+    "LinkR": null,
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Games/inZOI.png",
+    "Sezione": "Giochi",
+    "Descrizione": " inZOI è un gioco di simulazione dove i giocatori assumono il ruolo di Designer, plasmando il mondo secondo le loro preferenze e assistendo alle varie storie che si susseguono. Attraverso questa esperienza immersiva, vogliamo ispirare i giocatori ad apprezzare il dono prezioso che è la vita, vedendola come un viaggio ricco di significato. Entra in storie uniche, portate in vita da una grafica realistica!",
+    "Tooltip": null,
+    "MRicerca": "Giochi",
+    "Hash": "ba2a2da8b5aa98d8",
+    "UUID": "4a923195-02f4-465b-b9e0-cd09660e608b"
+  },
+  {
     "Nome": "Topaz Photo AI",
     "Link": "https://devuploads.com/ejdrv7cqsqyx",
     "LinkR": "",
@@ -1825,29 +1849,5 @@
     "MRicerca": "avira",
     "Hash": "",
     "UUID": "20"
-  },
-  {
-    "Nome": "CapCut",
-    "Link": "https://devuploads.com/vgc3eh5gnb1x",
-    "LinkR": null,
-    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Editing/CapCut.png",
-    "Sezione": "Gestione Foto/Video e Editing",
-    "Descrizione": "CapCut è un potente editor video gratuito che offre strumenti avanzati per creare e modificare video con facilità. Dispone di funzionalità come transizioni, effetti, filtri, testo animato e intelligenza artificiale per migliorare i contenuti. Perfetto per creator, permette di esportare video in alta qualità e condividerli direttamente sui social. Disponibile per Windows, macOS e dispositivi mobili.",
-    "Tooltip": "CapCut per windows",
-    "MRicerca": "Gestione Foto/Video e Editing",
-    "Hash": "6f3dc78279e9c8d6",
-    "UUID": "3fec5fa3-11f5-4ead-89ab-52289bcc74a0"
-  },
-  {
-    "Nome": "inZOI",
-    "Link": "https://devuploads.com/2tmtb7fji47g",
-    "LinkR": null,
-    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Games/inZOI.png",
-    "Sezione": "Giochi",
-    "Descrizione": " inZOI è un gioco di simulazione dove i giocatori assumono il ruolo di Designer, plasmando il mondo secondo le loro preferenze e assistendo alle varie storie che si susseguono. Attraverso questa esperienza immersiva, vogliamo ispirare i giocatori ad apprezzare il dono prezioso che è la vita, vedendola come un viaggio ricco di significato. Entra in storie uniche, portate in vita da una grafica realistica!",
-    "Tooltip": null,
-    "MRicerca": "Giochi",
-    "Hash": "ba2a2da8b5aa98d8",
-    "UUID": "4a923195-02f4-465b-b9e0-cd09660e608b"
   }
 ]
