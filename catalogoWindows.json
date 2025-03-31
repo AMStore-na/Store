@@ -1851,15 +1851,27 @@
     "UUID": "20"
   },
   {
-    "Nome": "Thats not my Neighbor",
+    "Nome": "That's Not My Neighbor",
     "Link": "https://devuploads.com/5q6vu08c77fl",
     "LinkR": null,
     "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Games/That's_Not_My_Neighbor.png",
     "Sezione": "Giochi",
-    "Descrizione": null,
-    "Tooltip": "Thats not my Neighbor V.2.0.4",
+    "Descrizione": " Immergiti nell'esperienza di lavorare come portiere in un complesso residenziale infestato da esseri che assumono le sembianze dei vicini del tuo edificio",
+    "Tooltip": "That's Not My Neighbor V.2.0.4",
     "MRicerca": "Giochi",
     "Hash": "80ef9970a4f5075e",
     "UUID": "4a77b621-cb33-467d-b5b8-1b671f493718"
+  },
+  {
+    "Nome": "Hello Kitty Island Adventure",
+    "Link": "https://devuploads.com/51hlhfiu5j66",
+    "LinkR": null,
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Games/Hello_Kitty_Island_Adventure_-_Edizione_Deluxe.png",
+    "Sezione": "Giochi",
+    "Descrizione": "Esplora un mondo aperto, incontra Hello Kitty and Friends, risolvi antichi enigmi, cucina piatti deliziosi, personalizza il tuo avatar e i tuoi bungalow, e molto altro ancora. Regalati l'edizione deluxe, che comprende il gioco base Hello Kitty Island Adventure e tre pacchetti deluxe, per iniziare con una marcia in più e goderti gli spettacolari oggetti degli eventi precedenti.",
+    "Tooltip": "Hello Kitty Island Adventure v1.10.1",
+    "MRicerca": "Giochi",
+    "Hash": "ebf1b71f3d76d0c6",
+    "UUID": "193767b3-e850-42b7-a1bb-70b9484d65fe"
   }
 ]
