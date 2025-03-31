@@ -1849,5 +1849,17 @@
     "MRicerca": "avira",
     "Hash": "",
     "UUID": "20"
+  },
+  {
+    "Nome": "Thats not my Neighbor",
+    "Link": "https://devuploads.com/5q6vu08c77fl",
+    "LinkR": null,
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Games/That's_Not_My_Neighbor.png",
+    "Sezione": "Giochi",
+    "Descrizione": null,
+    "Tooltip": "Thats not my Neighbor V.2.0.4",
+    "MRicerca": "Giochi",
+    "Hash": "80ef9970a4f5075e",
+    "UUID": "4a77b621-cb33-467d-b5b8-1b671f493718"
   }
 ]
