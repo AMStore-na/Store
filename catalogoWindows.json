@@ -1578,7 +1578,7 @@
     "Nome": "Spotify",
     "Link": "https://devuploads.com/u4wat9uzcks1",
     "LinkR": "",
-    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Musica/Spotify.png",
+    "ImmagineUrl": null,
     "Sezione": "Musica",
     "Descrizione": "Spotify è un servizio musicale digitale che offre accesso a milioni di brani, podcast e playlist",
     "Tooltip": "Spotify v1.2.60.564",
