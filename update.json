@@ -1,8 +1,5 @@
 { 
     "version": "1.0.1.0", 
-    "releaseNotes": [
-     "Aggiornamento per decompilazione migliorata",
-     "Suddivisione di alcune app in x32 e x64"
-    ],
+    "releaseNotes":"Aggiornamento per decompilazione migliorata, Suddivisione di alcune app in x32 e x64, Miglioramento leggibilita release (prossimo aggiornamento)"    ],
     "updateUrl": "https://github.com/AMStore-na/Store/releases/download/Store/AIMODS-Store.exe" 
 }
