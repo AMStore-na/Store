@@ -1,10 +1,8 @@
 [
   {
     "Nome": "Adobe Acrobat Pro",
-    "Link": {
-      "x64": "https://devuploads.com/3jxh3h0bnkhb",
-      "x32": "https://devuploads.com/c2gs8lp9s8xe"
-    },
+    "Linkx64": "https://devuploads.com/3jxh3h0bnkhb",
+    "Linkx32": "https://devuploads.com/c2gs8lp9s8xe",
     "LinkR": "",
     "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Adobe/Adobe_Acrobat_Pro.png",
     "Sezione": "Adobe",
