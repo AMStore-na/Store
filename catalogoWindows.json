@@ -124,14 +124,18 @@
   },
   {
     "Nome": "WinToUSB",
-    "Link": "https://devuploads.com/k9uy80fy2mjh",
+    "Link":  {
+      "x64": "https://devuploads.com/3jxh3h0bnkhb",
+      "x32": "https://devuploads.com/a3d51n77l29o"
+    },
     "LinkR": "",
     "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Altro/WinToUSB.png",
     "Sezione": "Altro",
     "Descrizione": "WinToUSB è un software gratuito che permette di creare un'unità USB avviabile con un sistema operativo Windows",
-    "Tooltip": "WinToUsb v8.8",
+    "Tooltip": "WinToUSB 9.6 Enterprise",
     "MRicerca": "wintousb",
-    "Hash": "",
+    "HashX64" = "e2ca1bd154278d89",
+    "HashX32" = "627a2742671fa971",
     "UUID": "11"
   },
   {
