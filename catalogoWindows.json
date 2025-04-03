@@ -1739,10 +1739,7 @@
     "Descrizione": "Aiseesoft Screen Recorder è un software di registrazione dello schermo progettato per catturare video e audio dal computer. È particolarmente utile per diverse applicazioni, come la creazione di tutorial video, la registrazione di giochi, o la cattura di videoconferenze.",
     "Tooltip": "Aiseesoft Screen Recorder v3.1.16",
     "MRicerca": "recorder",
-    "Hash":  {
-      "x64": "902fb24083673301",
-      "x32": ""
-    },
+    "Hash": "902fb24083673301",
     "UUID": "139"
   },
   {
