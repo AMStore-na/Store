@@ -2542,5 +2542,21 @@
     "HashX64": null,
     "HashX32": null,
     "UUID": "20"
+  },
+  {
+    "Nome": "64Gram Portable",
+    "Link": "https://devuploads.com/6gp84ivhyyc2",
+    "Linkx32": null,
+    "Linkx64": null,
+    "LinkR": null,
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/64Gram%20Portable/64Gram%20Portable.png",
+    "Sezione": "Altro",
+    "Descrizione": "64Gram Portable è un'applicazione non ufficiale di Telegram Desktop in versione portatile, progettata per offrire un'esperienza migliorata rispetto alla versione standard di Telegram con finzionalità aggiuntive e una maggiore personalizzazione.",
+    "Tooltip": "64gram",
+    "MRicerca": "64",
+    "Hash": "9feb19cbbd4c7b7e",
+    "HashX64": null,
+    "HashX32": null,
+    "UUID": "2f00af2f-4b95-4daf-a025-18d7bc773cd2"
   }
 ]
