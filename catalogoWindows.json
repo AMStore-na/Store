@@ -672,22 +672,6 @@
     "UUID": "42"
   },
   {
-    "Nome": "KeepStreams",
-    "Link": "https://devuploads.com/jca4ilc524ry",
-    "Linkx32": null,
-    "Linkx64": null,
-    "LinkR": "",
-    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Downloader/KeepStreams.png",
-    "Sezione": "Downloader",
-    "Descrizione": "KeepStreams è un software di gestione dei download progettato per scaricare e convertire media da varie piattaforme di streaming.",
-    "Tooltip": "KeepStreams v1.2.2.2",
-    "MRicerca": "keep",
-    "Hash": "",
-    "HashX64": null,
-    "HashX32": null,
-    "UUID": "43"
-  },
-  {
     "Nome": "Y2mate Downloader",
     "Link": "https://devuploads.com/fqw06y68xfz5",
     "Linkx32": null,
