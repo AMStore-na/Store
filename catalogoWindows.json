@@ -657,9 +657,9 @@
   },
   {
     "Nome": "4K Video Downloader Plus",
-    "Link": "https://devuploads.com/io8llxuuuyjg",
-    "Linkx32": "https://devuploads.com/heg7jtdlk660",
-    "Linkx64": "https://devuploads.com/io8llxuuuyjg",
+    "Link": null,
+    "Linkx32": null,
+    "Linkx64": null,
     "LinkR": "",
     "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Downloader/4K_Video_Downloader_Plus.png",
     "Sezione": "Downloader",
@@ -667,7 +667,7 @@
     "Tooltip": "4K Video Downloader Plus v25.0.2.0185",
     "MRicerca": "4K",
     "Hash": "",
-    "HashX64": "de32977ea741b67b",
+    "HashX64": null,
     "HashX32": "",
     "UUID": "42"
   },
