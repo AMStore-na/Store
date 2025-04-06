@@ -995,7 +995,7 @@
     "Nome": "DVDFab",
     "Link": null,
     "Linkx32": null,
-    "Linkx64": null,
+    "Linkx64": "https://devuploads.com/o76fkx57x6my",
     "LinkR": "",
     "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Editing/DVDFab.png",
     "Sezione": "Gestione Foto/Video e Editing",
@@ -1003,7 +1003,7 @@
     "Tooltip": "DVDFab v13.0.3.8",
     "MRicerca": "dvdfab",
     "Hash": null,
-    "HashX64": null,
+    "HashX64": "2d52c492065571eb",
     "HashX32": null,
     "UUID": "62"
   },
