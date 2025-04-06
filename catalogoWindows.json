@@ -177,9 +177,9 @@
   },
   {
     "Nome": "Rhinoceros",
-    "Link": "https://devuploads.com/9xdolsczvkw4",
+    "Link": null,
     "Linkx32": null,
-    "Linkx64": null,
+    "Linkx64": "https://devuploads.com/k35wa5minf0n",
     "LinkR": "",
     "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Altro/Rhinoceros.png",
     "Sezione": "Altro",
@@ -188,7 +188,7 @@
     "MRicerca": "rhinoceros",
     "Hash": "",
     "HashX64": null,
-    "HashX32": null,
+    "HashX32": "",
     "UUID": "12"
   },
   {
