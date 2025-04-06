@@ -192,7 +192,7 @@
     "UUID": "12"
   },
   {
-    "Nome": "Intellij",
+    "Nome": "JetBrains IntelliJ IDEA",
     "Link": "https://devuploads.com/ri9msx4rpkl0",
     "Linkx32": null,
     "Linkx64": null,
@@ -204,7 +204,7 @@
     "MRicerca": "intellij",
     "Hash": "",
     "HashX64": null,
-    "HashX32": null,
+    "HashX32": "",
     "UUID": "13"
   },
   {
