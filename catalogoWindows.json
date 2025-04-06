@@ -672,22 +672,6 @@
     "UUID": "42"
   },
   {
-    "Nome": "Y2mate Downloader",
-    "Link": "https://devuploads.com/fqw06y68xfz5",
-    "Linkx32": null,
-    "Linkx64": null,
-    "LinkR": "",
-    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Downloader/Y2mate_Downloader.png",
-    "Sezione": "Downloader",
-    "Descrizione": "Y2mate è uno strumento online che permette di scaricare video da YouTube e altre piattaforme di condivisione video",
-    "Tooltip": "Y2mate Downloader v1.2.3.4",
-    "MRicerca": "y2mate",
-    "Hash": "",
-    "HashX64": null,
-    "HashX32": null,
-    "UUID": "44"
-  },
-  {
     "Nome": "MusicFab",
     "Link": "https://devuploads.com/plqcfbf5xuth",
     "Linkx32": null,
