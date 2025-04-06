@@ -993,18 +993,18 @@
   },
   {
     "Nome": "DVDFab",
-    "Link": "https://devuploads.com/i9kytyj1pd0w",
+    "Link": "https://devuploads.com/o76fkx57x6my",
     "Linkx32": null,
     "Linkx64": null,
     "LinkR": "",
     "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Editing/DVDFab.png",
     "Sezione": "Gestione Foto/Video e Editing",
     "Descrizione": "DVDFab è un software multimediale completo che offre una vasta gamma di soluzioni per la gestione dei DVD, Blu-ray e 4K UHD. È noto per le sue capacità di copia, conversione, creazione e riproduzione di dischi.",
-    "Tooltip": "DVDFab v13.0.3.4",
+    "Tooltip": "DVDFab v13.0.3.8",
     "MRicerca": "dvdfab",
-    "Hash": "",
+    "Hash": "2d52c492065571eb",
     "HashX64": null,
-    "HashX32": null,
+    "HashX32": "2d52c492065571eb",
     "UUID": "62"
   },
   {
