@@ -2,7 +2,8 @@
     "version": "1.0.1.2", 
     "releaseNotes": [
       "Pulizia vecchi file Store durante l'aggiornamento",
-      "Adeguamento logica"  
+      "Adeguamento logica",
+      "Fix tasto aggiornamento non dava più feedback"
      ],
     "updateUrl": "https://github.com/AMStore-na/Store/releases/download/Store/AIMODS-Store.exe" 
 }
