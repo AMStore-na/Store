@@ -2004,7 +2004,7 @@
   {
     "Nome": "Bandicam",
     "Link": "https://devuploads.com/0vuvg6scyr8h",
-    "Linkx32": null,
+    "Linkx32": "https://devuploads.com/0vuvg6scyr8h",
     "LinkR": "",
     "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Registratore%20Audio-Video/Bandicam.png",
     "Sezione": "Registratore Audio-Video",
@@ -2012,7 +2012,7 @@
     "Tooltip": "Bandicam v8.1.1.2518",
     "MRicerca": "bandicam",
     "Hash": "ab6388d88d643e53",
-    "HashX32": null,
+    "HashX32": "ab6388d88d643e53",
     "UUID": "138"
   },
   {
