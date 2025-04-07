@@ -1,8 +1,8 @@
 { 
-    "version": "1.0.1.1", 
+    "version": "1.0.1.2", 
     "releaseNotes": [
-      "Aggiornamento per decompilazione migliorata",
-      "Suddivisione di alcune app in x32 e x64"
+      "Pulizia vecchi file Store durante l'aggiornamento",
+      "Adeguamento logica"  
      ],
     "updateUrl": "https://github.com/AMStore-na/Store/releases/download/Store/AIMODS-Store.exe" 
 }
