@@ -2224,5 +2224,19 @@
     "Hash": "",
     "HashX32": null,
     "UUID": "20"
+  },
+  {
+    "Nome": "Wondershare PDFElement",
+    "Link": "https://devuploads.com/mhtwpgb9r8fb",
+    "Linkx32": null,
+    "LinkR": null,
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Editing/Wondershare_PDFelements.png",
+    "Sezione": "PDF",
+    "Descrizione": "Wondershare PDFelement è un software completo per la gestione e la modifica di documenti PDF, progettato per offrire funzionalità professionali con un’interfaccia semplice e intuitiva.",
+    "Tooltip": "Wondershare PDFElement v11.4.12.3412",
+    "MRicerca": "PDF",
+    "Hash": "aaabc327daa9ca51",
+    "HashX32": null,
+    "UUID": "b5ca680d-3d74-40f5-8b58-12eaaf8c1f92"
   }
 ]
