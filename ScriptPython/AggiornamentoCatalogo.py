@@ -21,12 +21,14 @@ state_data = state_response.json()
 
 # Normalizza i dati per evitare problemi di confronto
 for item in catalogo_data:
-    if 'Hash' not in item:
-        item['Hash'] = None  # Aggiunge il campo Hash se mancante
+    # Aggiunge campi mancanti
+    item.setdefault('Hash', None)  # Se il campo 'Hash' non esiste, lo imposta su None
+    item.setdefault('HashX32', None)  # Se il campo 'HashX32' non esiste, lo imposta su None
 
 for item in state_data:
-    if 'Hash' not in item:
-        item['Hash'] = None  # Aggiunge il campo Hash se mancante
+    # Aggiunge campi mancanti
+    item.setdefault('Hash', None)  # Se il campo 'Hash' non esiste, lo imposta su None
+    item.setdefault('HashX32', None)  # Se il campo 'HashX32' non esiste, lo imposta su None
 
 # Confronta i dati
 if catalogo_data != state_data:
@@ -42,7 +44,7 @@ if catalogo_data != state_data:
     # Aggiorna il contenuto del file old_catalogoWindows.json
     update_response = repo.update_file(
         file_content.path,
-        "Aggiornamento catalogo con Hash",
+        "Aggiornamento catalogo con Hash e HashX32",
         json.dumps(catalogo_data, indent=4, ensure_ascii=False),  # Mantiene i caratteri speciali correttamente
         file_content.sha
     )
@@ -50,3 +52,4 @@ if catalogo_data != state_data:
     print(f"File aggiornato con successo: {update_response}")
 else:
     print("Nessuna modifica rilevata.")
+
