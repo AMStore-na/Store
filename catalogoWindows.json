@@ -56,20 +56,6 @@
     "UUID": "14"
   },
   {
-    "Nome": "DaVinci",
-    "Link": "https://devuploads.com/g6bcwha9l6hv",
-    "Linkx32": null,
-    "LinkR": "",
-    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Altro/DaVinci.png",
-    "Sezione": "Video e Animazione",
-    "Descrizione": "DaVinci Resolve è un software di editing video professionale sviluppato da Blackmagic Design. È noto per la sua capacità di integrare montaggio, correzione colore, effetti visivi e post produzione audio in un'unica applicazione. DaVinci Resolve è utilizzato da professionisti di Hollywood e offre una vasta gamma di strumenti avanzati per la creazione di contenuti video di alta qualità.",
-    "Tooltip": "DaVinci Resolve Studio 19.0.0.25",
-    "MRicerca": "davinci",
-    "Hash": "",
-    "HashX32": null,
-    "UUID": "15"
-  },
-  {
     "Nome": "64Gram",
     "Link": "https://devuploads.com/9fx5afm6lg7g",
     "Linkx32": null,
@@ -602,20 +588,6 @@
     "UUID": "62"
   },
   {
-    "Nome": "CapCut",
-    "Link": "https://devuploads.com/vgc3eh5gnb1x",
-    "Linkx32": null,
-    "LinkR": null,
-    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Editing/CapCut.png",
-    "Sezione": "Video e Animazione",
-    "Descrizione": "CapCut è un potente editor video gratuito che offre strumenti avanzati per creare e modificare video con facilità. Dispone di funzionalità come transizioni, effetti, filtri, testo animato e intelligenza artificiale per migliorare i contenuti. Perfetto per creator, permette di esportare video in alta qualità e condividerli direttamente sui social. Disponibile per Windows, macOS e dispositivi mobili.",
-    "Tooltip": "CapCut per windows",
-    "MRicerca": "Gestione Foto/Video e Editing",
-    "Hash": "6f3dc78279e9c8d6",
-    "HashX32": null,
-    "UUID": "3fec5fa3-11f5-4ead-89ab-52289bcc74a0"
-  },
-  {
     "Nome": "EaseUS Partition Master",
     "Link": "https://devuploads.com/e1x7gkigjdka",
     "Linkx32": null,
@@ -628,20 +600,6 @@
     "Hash": "",
     "HashX32": null,
     "UUID": "67"
-  },
-  {
-    "Nome": "Recuva Business Edition",
-    "Link": "https://devuploads.com/79qqfzhga9xy",
-    "Linkx32": null,
-    "LinkR": "",
-    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/GestioneHDD-SSD/Recuva_Business_Edition.png",
-    "Sezione": "Ricerca e Analisi Dati",
-    "Descrizione": "Recuva Business Edition è una versione avanzata del popolare strumento di recupero file Recuva, sviluppato da Piriform. Questa versione è progettata per le esigenze aziendali e offre funzionalità aggiuntive rispetto alla versione gratuita.",
-    "Tooltip": "Recuva Business Edition v1.53.2095",
-    "MRicerca": "recuva",
-    "Hash": "",
-    "HashX32": null,
-    "UUID": "68"
   },
   {
     "Nome": "Glary Utilities Pro",
@@ -1484,20 +1442,6 @@
     "UUID": "4"
   },
   {
-    "Nome": "Adobe Premiere Pro",
-    "Link": "https://devuploads.com/61h4xhgo06nv",
-    "Linkx32": null,
-    "LinkR": "",
-    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Adobe/Adobe_Premiere_Pro.png",
-    "Sezione": "Video e Animazione",
-    "Descrizione": "Adobe Premiere Pro è un software di montaggio video professionale sviluppato da Adobe Systems. È ampiamente utilizzato nell'industria cinematografica e televisiva per la sua potenza e versatilità.",
-    "Tooltip": "Adobe Premiere Pro 2024 v25.1",
-    "MRicerca": "premiere",
-    "Hash": "",
-    "HashX32": null,
-    "UUID": "5"
-  },
-  {
     "Nome": "Adobe InDesign",
     "Link": "https://devuploads.com/nzrhgxyu1b63",
     "Linkx32": null,
@@ -1552,20 +1496,6 @@
     "Hash": "",
     "HashX32": null,
     "UUID": "9"
-  },
-  {
-    "Nome": "Adobe After Effects",
-    "Link": "https://devuploads.com/mima169p81wm",
-    "Linkx32": null,
-    "LinkR": "",
-    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Adobe/Adobe_After_Effects.png",
-    "Sezione": "Video e Animazione",
-    "Descrizione": "Adobe After Effects è un software di compositing e animazione grafica sviluppato da Adobe Inc. È ampiamente utilizzato nel campo della produzione video e della post-produzione per creare effetti visivi dinamici e animazioni di alta qualità.",
-    "Tooltip": "Adobe After Effects 2024_v.24.6.2.002",
-    "MRicerca": "effects",
-    "Hash": "",
-    "HashX32": null,
-    "UUID": "10"
   },
   {
     "Nome": "Lightburn",
@@ -2016,6 +1946,20 @@
     "UUID": "139"
   },
   {
+    "Nome": "Recuva Business Edition",
+    "Link": "https://devuploads.com/79qqfzhga9xy",
+    "Linkx32": null,
+    "LinkR": "",
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/GestioneHDD-SSD/Recuva_Business_Edition.png",
+    "Sezione": "Ricerca e Analisi Dati",
+    "Descrizione": "Recuva Business Edition è una versione avanzata del popolare strumento di recupero file Recuva, sviluppato da Piriform. Questa versione è progettata per le esigenze aziendali e offre funzionalità aggiuntive rispetto alla versione gratuita.",
+    "Tooltip": "Recuva Business Edition v1.53.2095",
+    "MRicerca": "recuva",
+    "Hash": "",
+    "HashX32": null,
+    "UUID": "68"
+  },
+  {
     "Nome": "Copernic Desktop Search",
     "Link": "https://devuploads.com/c8yke8uupctj",
     "Linkx32": null,
@@ -2238,6 +2182,62 @@
     "Hash": "",
     "HashX32": null,
     "UUID": "151"
+  },
+  {
+    "Nome": "DaVinci",
+    "Link": "https://devuploads.com/g6bcwha9l6hv",
+    "Linkx32": null,
+    "LinkR": "",
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Altro/DaVinci.png",
+    "Sezione": "Video e Animazione",
+    "Descrizione": "DaVinci Resolve è un software di editing video professionale sviluppato da Blackmagic Design. È noto per la sua capacità di integrare montaggio, correzione colore, effetti visivi e post produzione audio in un'unica applicazione. DaVinci Resolve è utilizzato da professionisti di Hollywood e offre una vasta gamma di strumenti avanzati per la creazione di contenuti video di alta qualità.",
+    "Tooltip": "DaVinci Resolve Studio 19.0.0.25",
+    "MRicerca": "davinci",
+    "Hash": "",
+    "HashX32": null,
+    "UUID": "15"
+  },
+  {
+    "Nome": "CapCut",
+    "Link": "https://devuploads.com/vgc3eh5gnb1x",
+    "Linkx32": null,
+    "LinkR": null,
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Editing/CapCut.png",
+    "Sezione": "Video e Animazione",
+    "Descrizione": "CapCut è un potente editor video gratuito che offre strumenti avanzati per creare e modificare video con facilità. Dispone di funzionalità come transizioni, effetti, filtri, testo animato e intelligenza artificiale per migliorare i contenuti. Perfetto per creator, permette di esportare video in alta qualità e condividerli direttamente sui social. Disponibile per Windows, macOS e dispositivi mobili.",
+    "Tooltip": "CapCut per windows",
+    "MRicerca": "Gestione Foto/Video e Editing",
+    "Hash": "6f3dc78279e9c8d6",
+    "HashX32": null,
+    "UUID": "3fec5fa3-11f5-4ead-89ab-52289bcc74a0"
+  },
+  {
+    "Nome": "Adobe Premiere Pro",
+    "Link": "https://devuploads.com/61h4xhgo06nv",
+    "Linkx32": null,
+    "LinkR": "",
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Adobe/Adobe_Premiere_Pro.png",
+    "Sezione": "Video e Animazione",
+    "Descrizione": "Adobe Premiere Pro è un software di montaggio video professionale sviluppato da Adobe Systems. È ampiamente utilizzato nell'industria cinematografica e televisiva per la sua potenza e versatilità.",
+    "Tooltip": "Adobe Premiere Pro 2024 v25.1",
+    "MRicerca": "premiere",
+    "Hash": "",
+    "HashX32": null,
+    "UUID": "5"
+  },
+  {
+    "Nome": "Adobe After Effects",
+    "Link": "https://devuploads.com/mima169p81wm",
+    "Linkx32": null,
+    "LinkR": "",
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Adobe/Adobe_After_Effects.png",
+    "Sezione": "Video e Animazione",
+    "Descrizione": "Adobe After Effects è un software di compositing e animazione grafica sviluppato da Adobe Inc. È ampiamente utilizzato nel campo della produzione video e della post-produzione per creare effetti visivi dinamici e animazioni di alta qualità.",
+    "Tooltip": "Adobe After Effects 2024_v.24.6.2.002",
+    "MRicerca": "effects",
+    "Hash": "",
+    "HashX32": null,
+    "UUID": "10"
   },
   {
     "Nome": "Windscribe",
