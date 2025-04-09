@@ -1680,6 +1680,20 @@
     "UUID": "7e63ca0f-5840-48e5-8874-19bdfe336be2"
   },
   {
+    "Nome": "Silent Hill 2 Remake",
+    "Link": "https://devuploads.com/356i80tnpnis",
+    "Linkx32": null,
+    "LinkR": null,
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Games/SilentHill2-Remake.png",
+    "Sezione": "Giochi",
+    "Descrizione": "Dopo aver ricevuto una lettera dalla moglie defunta, James si dirige dove un tempo avevano condiviso tanti ricordi,nella speranza di rivederla un'ultima volta: Silent Hill.Giunto nei pressi del lago, James incontra una donna stranamente simile a lei... \"Il mio nome... è Maria\", dice la donna con un sorriso. Il suo viso, la sua voce... È identica a lei.Tuffati nel psicologico horror più acclamato su hardware di ultima generazione. Vivi un'esperienza psicologica unica grazie a immagini da brivido ed effetti sonori agghiaccianti. ",
+    "Tooltip": "Silent Hill 2: Digital Deluxe Edition – v1.1.236.114 + 4 DLCs/Bonuses",
+    "MRicerca": "Giochi",
+    "Hash": "eee3365a63ed72ed",
+    "HashX32": null,
+    "UUID": "8d2a98de-3e2a-4636-a65b-27f62189d10d"
+  },
+  {
     "Nome": "Topaz Photo AI",
     "Link": "https://devuploads.com/ejdrv7cqsqyx",
     "Linkx32": null,
@@ -1974,6 +1988,34 @@
     "UUID": "135"
   },
   {
+    "Nome": "Wondershare PDFElement",
+    "Link": "https://devuploads.com/mhtwpgb9r8fb",
+    "Linkx32": null,
+    "LinkR": null,
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Editing/Wondershare_PDFelements.png",
+    "Sezione": "PDF",
+    "Descrizione": "Wondershare PDFelement è un software completo per la gestione e la modifica di documenti PDF, progettato per offrire funzionalità professionali con un’interfaccia semplice e intuitiva.",
+    "Tooltip": "Wondershare PDFElement v11.4.12.3412",
+    "MRicerca": "PDF",
+    "Hash": "aaabc327daa9ca51",
+    "HashX32": null,
+    "UUID": "b5ca680d-3d74-40f5-8b58-12eaaf8c1f92"
+  },
+  {
+    "Nome": "Wallpaper Engine",
+    "Link": "https://devuploads.com/2sv8yd3goke1",
+    "Linkx32": null,
+    "LinkR": null,
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Giochi/Wallpaper_Engine.png",
+    "Sezione": "Personalizzazione",
+    "Descrizione": "Wallpaper Engine ti consente di personalizzare il desktop con sfondi animati, interattivi o video. Puoi scegliere tra migliaia di wallpaper creati dalla community oppure crearne di tuoi con l'editor integrato.",
+    "Tooltip": "Wallpaper Engine v2.6.0.19",
+    "MRicerca": "Wallpaper",
+    "Hash": "5b3287aad3f983df",
+    "HashX32": null,
+    "UUID": "a22cc928-cd34-461f-b2bd-679969bf181f"
+  },
+  {
     "Nome": "RecordFab",
     "Link": "https://devuploads.com/97pd17oj648a",
     "Linkx32": null,
@@ -2224,47 +2266,5 @@
     "Hash": "",
     "HashX32": null,
     "UUID": "20"
-  },
-  {
-    "Nome": "Wondershare PDFElement",
-    "Link": "https://devuploads.com/mhtwpgb9r8fb",
-    "Linkx32": null,
-    "LinkR": null,
-    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Editing/Wondershare_PDFelements.png",
-    "Sezione": "PDF",
-    "Descrizione": "Wondershare PDFelement è un software completo per la gestione e la modifica di documenti PDF, progettato per offrire funzionalità professionali con un’interfaccia semplice e intuitiva.",
-    "Tooltip": "Wondershare PDFElement v11.4.12.3412",
-    "MRicerca": "PDF",
-    "Hash": "aaabc327daa9ca51",
-    "HashX32": null,
-    "UUID": "b5ca680d-3d74-40f5-8b58-12eaaf8c1f92"
-  },
-  {
-    "Nome": "Silent Hill 2 Remake",
-    "Link": "https://devuploads.com/356i80tnpnis",
-    "Linkx32": null,
-    "LinkR": null,
-    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Games/SilentHill2-Remake.png",
-    "Sezione": "Giochi",
-    "Descrizione": "Dopo aver ricevuto una lettera dalla moglie defunta, James si dirige dove un tempo avevano condiviso tanti ricordi,nella speranza di rivederla un'ultima volta: Silent Hill.Giunto nei pressi del lago, James incontra una donna stranamente simile a lei... \"Il mio nome... è Maria\", dice la donna con un sorriso. Il suo viso, la sua voce... È identica a lei.Tuffati nel psicologico horror più acclamato su hardware di ultima generazione. Vivi un'esperienza psicologica unica grazie a immagini da brivido ed effetti sonori agghiaccianti. ",
-    "Tooltip": "Silent Hill 2: Digital Deluxe Edition – v1.1.236.114 + 4 DLCs/Bonuses",
-    "MRicerca": "Giochi",
-    "Hash": "eee3365a63ed72ed",
-    "HashX32": null,
-    "UUID": "8d2a98de-3e2a-4636-a65b-27f62189d10d"
-  },
-  {
-    "Nome": "Wallpaper Engine",
-    "Link": "https://devuploads.com/2sv8yd3goke1",
-    "Linkx32": null,
-    "LinkR": null,
-    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Giochi/Wallpaper_Engine.png",
-    "Sezione": "Personalizzazione",
-    "Descrizione": "Wallpaper Engine ti consente di personalizzare il desktop con sfondi animati, interattivi o video. Puoi scegliere tra migliaia di wallpaper creati dalla community oppure crearne di tuoi con l'editor integrato.",
-    "Tooltip": "Wallpaper Engine v2.6.0.19",
-    "MRicerca": "Wallpaper",
-    "Hash": "5b3287aad3f983df",
-    "HashX32": null,
-    "UUID": "a22cc928-cd34-461f-b2bd-679969bf181f"
   }
 ]
