@@ -1,33 +1,5 @@
 [
   {
-    "Nome": "Adobe Acrobat Pro",
-    "Link": "https://devuploads.com/3jxh3h0bnkhb",
-    "Linkx32": "https://devuploads.com/c2gs8lp9s8xe",
-    "LinkR": "",
-    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Adobe/Adobe_Acrobat_Pro.png",
-    "Sezione": "PDF e Office",
-    "Descrizione": "Adobe Acrobat Pro è un software potente e versatile sviluppato da Adobe Systems per la creazione, modifica e gestione di file PDF (Portable Document Format). è ampiamente utilizzato in ambito professionale per la sua capacità di manipolare documenti in modo efficiente.",
-    "Tooltip": "Adobe Acrobat Pro 2025 v25.1.20428",
-    "MRicerca": "acrobat",
-    "Hash": "",
-    "HashX32": null,
-    "UUID": "1"
-  },
-  {
-    "Nome": "Adobe Reader DC",
-    "Link": "https://devuploads.com/n4w7rl20522s",
-    "Linkx32": null,
-    "LinkR": "",
-    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Adobe/Adobe_Reader_DC.png",
-    "Sezione": "PDF e Office",
-    "Descrizione": "Adobe Reader DC (Document Cloud) è un software sviluppato da Adobe Systems, progettato per visualizzare, stampare e annotare documenti in formato PDF (Portable Document Format). È uno degli strumenti più popolari e ampiamente utilizzati per gestire file PDF.",
-    "Tooltip": "Adobe Reader DC",
-    "MRicerca": "reader",
-    "Hash": "",
-    "HashX32": null,
-    "UUID": "3"
-  },
-  {
     "Nome": "WinToUSB",
     "Link": "https://devuploads.com/3jxh3h0bnkhb",
     "Linkx32": "https://devuploads.com/a3d51n77l29o",
@@ -1568,34 +1540,6 @@
     "UUID": "126"
   },
   {
-    "Nome": "FL Studio",
-    "Link": "https://devuploads.com/1yxh6pdyy5ti",
-    "Linkx32": null,
-    "LinkR": "",
-    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Musica/FL_Studio.png",
-    "Sezione": "Musica e Audio",
-    "Descrizione": "FL Studio è una delle stazioni di lavoro audio digitali (DAW) più popolari, usata per la produzione musicale, la composizione, l'arrangiamento e il mixaggio. È conosciuta per la sua interfaccia intuitiva, che offre una vasta gamma di strumenti per musicisti, produttori e ingegneri del suono.",
-    "Tooltip": "FL Studio",
-    "MRicerca": "fl",
-    "Hash": "",
-    "HashX32": null,
-    "UUID": "127"
-  },
-  {
-    "Nome": "EZDrummer",
-    "Link": "https://devuploads.com/k744n4zwk784",
-    "Linkx32": null,
-    "LinkR": "",
-    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Musica/EZDrummer.png",
-    "Sezione": "Musica e Audio",
-    "Descrizione": "EZdrummer è un software di batteria virtuale sviluppato da Toontrack, noto per la sua capacità di offrire suoni di batteria realistici e di alta qualità, senza la necessità di un batterista dal vivo. È molto apprezzato sia dai produttori musicali che dai musicisti, in particolare per chi cerca un modo facile e veloce per aggiungere batterie alle proprie composizioni.",
-    "Tooltip": "EZDrummer",
-    "MRicerca": "ez",
-    "Hash": "",
-    "HashX32": null,
-    "UUID": "128"
-  },
-  {
     "Nome": "Spotify",
     "Link": "https://devuploads.com/u4wat9uzcks1",
     "Linkx32": null,
@@ -1622,6 +1566,34 @@
     "Hash": "",
     "HashX32": null,
     "UUID": "130"
+  },
+  {
+    "Nome": "FL Studio",
+    "Link": "https://devuploads.com/1yxh6pdyy5ti",
+    "Linkx32": null,
+    "LinkR": "",
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Musica/FL_Studio.png",
+    "Sezione": "Musica e Audio",
+    "Descrizione": "FL Studio è una delle stazioni di lavoro audio digitali (DAW) più popolari, usata per la produzione musicale, la composizione, l'arrangiamento e il mixaggio. È conosciuta per la sua interfaccia intuitiva, che offre una vasta gamma di strumenti per musicisti, produttori e ingegneri del suono.",
+    "Tooltip": "FL Studio",
+    "MRicerca": "fl",
+    "Hash": "",
+    "HashX32": null,
+    "UUID": "127"
+  },
+  {
+    "Nome": "EZDrummer",
+    "Link": "https://devuploads.com/k744n4zwk784",
+    "Linkx32": null,
+    "LinkR": "",
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Musica/EZDrummer.png",
+    "Sezione": "Musica e Audio",
+    "Descrizione": "EZdrummer è un software di batteria virtuale sviluppato da Toontrack, noto per la sua capacità di offrire suoni di batteria realistici e di alta qualità, senza la necessità di un batterista dal vivo. È molto apprezzato sia dai produttori musicali che dai musicisti, in particolare per chi cerca un modo facile e veloce per aggiungere batterie alle proprie composizioni.",
+    "Tooltip": "EZDrummer",
+    "MRicerca": "ez",
+    "Hash": "",
+    "HashX32": null,
+    "UUID": "128"
   },
   {
     "Nome": "Atomix VirtualDJ",
@@ -1664,6 +1636,48 @@
     "Hash": "9bfee2218095f482",
     "HashX32": null,
     "UUID": "2f5378a5-34c8-4d74-8486-4af22956bd10"
+  },
+  {
+    "Nome": "Wondershare PDFElement",
+    "Link": "https://devuploads.com/mhtwpgb9r8fb",
+    "Linkx32": null,
+    "LinkR": null,
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Editing/Wondershare_PDFelements.png",
+    "Sezione": "PDF",
+    "Descrizione": "Wondershare PDFelement è un software completo per la gestione e la modifica di documenti PDF, progettato per offrire funzionalità professionali con un’interfaccia semplice e intuitiva.",
+    "Tooltip": "Wondershare PDFElement v11.4.12.3412",
+    "MRicerca": "PDF",
+    "Hash": "aaabc327daa9ca51",
+    "HashX32": null,
+    "UUID": "b5ca680d-3d74-40f5-8b58-12eaaf8c1f92"
+  },
+  {
+    "Nome": "Adobe Acrobat Pro",
+    "Link": "https://devuploads.com/3jxh3h0bnkhb",
+    "Linkx32": "https://devuploads.com/c2gs8lp9s8xe",
+    "LinkR": "",
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Adobe/Adobe_Acrobat_Pro.png",
+    "Sezione": "PDF e Office",
+    "Descrizione": "Adobe Acrobat Pro è un software potente e versatile sviluppato da Adobe Systems per la creazione, modifica e gestione di file PDF (Portable Document Format). è ampiamente utilizzato in ambito professionale per la sua capacità di manipolare documenti in modo efficiente.",
+    "Tooltip": "Adobe Acrobat Pro 2025 v25.1.20428",
+    "MRicerca": "acrobat",
+    "Hash": "",
+    "HashX32": null,
+    "UUID": "1"
+  },
+  {
+    "Nome": "Adobe Reader DC",
+    "Link": "https://devuploads.com/n4w7rl20522s",
+    "Linkx32": null,
+    "LinkR": "",
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Adobe/Adobe_Reader_DC.png",
+    "Sezione": "PDF e Office",
+    "Descrizione": "Adobe Reader DC (Document Cloud) è un software sviluppato da Adobe Systems, progettato per visualizzare, stampare e annotare documenti in formato PDF (Portable Document Format). È uno degli strumenti più popolari e ampiamente utilizzati per gestire file PDF.",
+    "Tooltip": "Adobe Reader DC",
+    "MRicerca": "reader",
+    "Hash": "",
+    "HashX32": null,
+    "UUID": "3"
   },
   {
     "Nome": "OfficeSuite",
@@ -1722,18 +1736,18 @@
     "UUID": "135"
   },
   {
-    "Nome": "Wondershare PDFElement",
-    "Link": "https://devuploads.com/mhtwpgb9r8fb",
+    "Nome": "PassFab For RAR",
+    "Link": "https://devuploads.com/z1y68h5fvja5",
     "Linkx32": null,
-    "LinkR": null,
-    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Editing/Wondershare_PDFelements.png",
-    "Sezione": "PDF",
-    "Descrizione": "Wondershare PDFelement è un software completo per la gestione e la modifica di documenti PDF, progettato per offrire funzionalità professionali con un’interfaccia semplice e intuitiva.",
-    "Tooltip": "Wondershare PDFElement v11.4.12.3412",
-    "MRicerca": "PDF",
-    "Hash": "aaabc327daa9ca51",
+    "LinkR": "",
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Tool-AIMODS/PassFab_For_RAR.png",
+    "Sezione": "PDF e Office",
+    "Descrizione": "PassFab for RAR è uno strumento professionale per recuperare le password di archivi RAR e WinRAR",
+    "Tooltip": "PassFab For RAR 9.5.2.2",
+    "MRicerca": "rar",
+    "Hash": "",
     "HashX32": null,
-    "UUID": "b5ca680d-3d74-40f5-8b58-12eaaf8c1f92"
+    "UUID": "148"
   },
   {
     "Nome": "Wallpaper Engine",
@@ -1986,20 +2000,6 @@
     "Hash": "",
     "HashX32": null,
     "UUID": "147"
-  },
-  {
-    "Nome": "PassFab For RAR",
-    "Link": "https://devuploads.com/z1y68h5fvja5",
-    "Linkx32": null,
-    "LinkR": "",
-    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Tool-AIMODS/PassFab_For_RAR.png",
-    "Sezione": "PDF e Office",
-    "Descrizione": "PassFab for RAR è uno strumento professionale per recuperare le password di archivi RAR e WinRAR",
-    "Tooltip": "PassFab For RAR 9.5.2.2",
-    "MRicerca": "rar",
-    "Hash": "",
-    "HashX32": null,
-    "UUID": "148"
   },
   {
     "Nome": "Clipboard",
