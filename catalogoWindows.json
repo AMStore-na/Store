@@ -616,34 +616,6 @@
     "UUID": "55"
   },
   {
-    "Nome": "Prima Cartoonizer",
-    "Link": "https://devuploads.com/bgl0drn5wuqh",
-    "Linkx32": null,
-    "LinkR": "",
-    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Editing/Prima_Cartoonizer.png",
-    "Sezione": "Grafica e Design",
-    "Descrizione": "Prima Cartoonizer è un software che permette di trasformare le foto in stile cartone animato con una varietà di effetti",
-    "Tooltip": "Prima Cartoonizer v5.2.7",
-    "MRicerca": "prima",
-    "Hash": "",
-    "HashX32": null,
-    "UUID": "56"
-  },
-  {
-    "Nome": "AquaSoft Stages",
-    "Link": "https://devuploads.com/cuwffg230x6d",
-    "Linkx32": null,
-    "LinkR": "",
-    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Editing/AquaSoft_Stages.png",
-    "Sezione": "Grafica e Design",
-    "Descrizione": "AquaSoft Stages è un software di creazione di presentazioni multimediali e slideshow, progettato per aiutare gli utenti a combinare immagini, video, musica e testi in maniera creativa e coinvolgente.",
-    "Tooltip": "AquaSoft Stages v15.2.05",
-    "MRicerca": "aqua",
-    "Hash": "",
-    "HashX32": null,
-    "UUID": "57"
-  },
-  {
     "Nome": "EaseUS Video Editor",
     "Link": "https://devuploads.com/n42mfzgilz1v",
     "Linkx32": null,
@@ -656,20 +628,6 @@
     "Hash": "",
     "HashX32": null,
     "UUID": "58"
-  },
-  {
-    "Nome": "Face Rig",
-    "Link": "https://telegra.ph/FaceRig-Pro-v1312-06-19",
-    "Linkx32": null,
-    "LinkR": "",
-    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Editing/Face_Rig.png",
-    "Sezione": "Grafica e Design",
-    "Descrizione": "FaceRig è un software che simula i movimenti faciali di vari personaggi attraverso un dispositivo di cattura video. È stato successivamente sostituito da Animaze by FaceRig, che offre funzionalità più avanzate e una maggiore personalizzazione.",
-    "Tooltip": "Face Rig",
-    "MRicerca": "face",
-    "Hash": "",
-    "HashX32": null,
-    "UUID": "59"
   },
   {
     "Nome": "CyberLink PowerDirector",
@@ -686,20 +644,6 @@
     "UUID": "60"
   },
   {
-    "Nome": "SketchUp",
-    "Link": "https://devuploads.com/je103841mm6a",
-    "Linkx32": null,
-    "LinkR": "",
-    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Editing/SketchUp.png",
-    "Sezione": "Grafica e Design",
-    "Descrizione": "SketchUp è un software di modellazione 3D molto popolare, utilizzato in vari settori come l'architettura, il design, l'ingegneria e altro ancora",
-    "Tooltip": "SketchUp",
-    "MRicerca": "sketchUp",
-    "Hash": "",
-    "HashX32": null,
-    "UUID": "61"
-  },
-  {
     "Nome": "DVDFab",
     "Link": "https://devuploads.com/o76fkx57x6my",
     "Linkx32": null,
@@ -712,20 +656,6 @@
     "Hash": null,
     "HashX32": null,
     "UUID": "62"
-  },
-  {
-    "Nome": "Capture One Enterprise",
-    "Link": "https://devuploads.com/4jztfltryye4",
-    "Linkx32": null,
-    "LinkR": "",
-    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Editing/Capture_One_Enterprise.png",
-    "Sezione": "Grafica e Design",
-    "Descrizione": "Capture One è un software professionale per la gestione, l'editing e il ritocco delle fotografie, sviluppato da Phase One. È particolarmente apprezzato dai fotografi per la sua eccellente gestione dei file RAW, il controllo avanzato del colore e l'editing non distruttivo.",
-    "Tooltip": "Capture One Enterprise v16.5.8.2763",
-    "MRicerca": "capture",
-    "Hash": "",
-    "HashX32": null,
-    "UUID": "63"
   },
   {
     "Nome": "CapCut",
@@ -1510,6 +1440,76 @@
     "Hash": "eee3365a63ed72ed",
     "HashX32": null,
     "UUID": "8d2a98de-3e2a-4636-a65b-27f62189d10d"
+  },
+  {
+    "Nome": "Prima Cartoonizer",
+    "Link": "https://devuploads.com/bgl0drn5wuqh",
+    "Linkx32": null,
+    "LinkR": "",
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Editing/Prima_Cartoonizer.png",
+    "Sezione": "Grafica e Design",
+    "Descrizione": "Prima Cartoonizer è un software che permette di trasformare le foto in stile cartone animato con una varietà di effetti",
+    "Tooltip": "Prima Cartoonizer v5.2.7",
+    "MRicerca": "prima",
+    "Hash": "",
+    "HashX32": null,
+    "UUID": "56"
+  },
+  {
+    "Nome": "AquaSoft Stages",
+    "Link": "https://devuploads.com/cuwffg230x6d",
+    "Linkx32": null,
+    "LinkR": "",
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Editing/AquaSoft_Stages.png",
+    "Sezione": "Grafica e Design",
+    "Descrizione": "AquaSoft Stages è un software di creazione di presentazioni multimediali e slideshow, progettato per aiutare gli utenti a combinare immagini, video, musica e testi in maniera creativa e coinvolgente.",
+    "Tooltip": "AquaSoft Stages v15.2.05",
+    "MRicerca": "aqua",
+    "Hash": "",
+    "HashX32": null,
+    "UUID": "57"
+  },
+  {
+    "Nome": "Face Rig",
+    "Link": "https://telegra.ph/FaceRig-Pro-v1312-06-19",
+    "Linkx32": null,
+    "LinkR": "",
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Editing/Face_Rig.png",
+    "Sezione": "Grafica e Design",
+    "Descrizione": "FaceRig è un software che simula i movimenti faciali di vari personaggi attraverso un dispositivo di cattura video. È stato successivamente sostituito da Animaze by FaceRig, che offre funzionalità più avanzate e una maggiore personalizzazione.",
+    "Tooltip": "Face Rig",
+    "MRicerca": "face",
+    "Hash": "",
+    "HashX32": null,
+    "UUID": "59"
+  },
+  {
+    "Nome": "SketchUp",
+    "Link": "https://devuploads.com/je103841mm6a",
+    "Linkx32": null,
+    "LinkR": "",
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Editing/SketchUp.png",
+    "Sezione": "Grafica e Design",
+    "Descrizione": "SketchUp è un software di modellazione 3D molto popolare, utilizzato in vari settori come l'architettura, il design, l'ingegneria e altro ancora",
+    "Tooltip": "SketchUp",
+    "MRicerca": "sketchUp",
+    "Hash": "",
+    "HashX32": null,
+    "UUID": "61"
+  },
+  {
+    "Nome": "Capture One Enterprise",
+    "Link": "https://devuploads.com/4jztfltryye4",
+    "Linkx32": null,
+    "LinkR": "",
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Editing/Capture_One_Enterprise.png",
+    "Sezione": "Grafica e Design",
+    "Descrizione": "Capture One è un software professionale per la gestione, l'editing e il ritocco delle fotografie, sviluppato da Phase One. È particolarmente apprezzato dai fotografi per la sua eccellente gestione dei file RAW, il controllo avanzato del colore e l'editing non distruttivo.",
+    "Tooltip": "Capture One Enterprise v16.5.8.2763",
+    "MRicerca": "capture",
+    "Hash": "",
+    "HashX32": null,
+    "UUID": "63"
   },
   {
     "Nome": "Adobe Photoshop",
