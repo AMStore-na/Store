@@ -42,20 +42,6 @@
     "UUID": "11"
   },
   {
-    "Nome": "Rhinoceros",
-    "Link": "https://devuploads.com/k35wa5minf0n",
-    "Linkx32": null,
-    "LinkR": "",
-    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Altro/Rhinoceros.png",
-    "Sezione": "Architettura, CAD e Modellazione 3D",
-    "Descrizione": "Rhino, noto anche come Rhinoceros 3D, è un potente software di modellazione 3D utilizzato in vari settori come l'architettura, l'ingegneria, il design navale, la gioielleria e altro ancora",
-    "Tooltip": "Rhinoceros v8.17.25066.7001",
-    "MRicerca": "rhinoceros",
-    "Hash": "63b3078112964f81",
-    "HashX32": "",
-    "UUID": "12"
-  },
-  {
     "Nome": "JetBrains IntelliJ IDEA",
     "Link": "https://devuploads.com/72gfpmryh0eq",
     "Linkx32": null,
@@ -280,18 +266,18 @@
     "UUID": "29"
   },
   {
-    "Nome": "AdGuard",
-    "Link": "https://devuploads.com/tx9o4p750fo6",
+    "Nome": "Rhinoceros",
+    "Link": "https://devuploads.com/k35wa5minf0n",
     "Linkx32": null,
     "LinkR": "",
-    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Blocco pubblicità/AdGuard.png",
-    "Sezione": "Blocco pubblicità",
-    "Descrizione": "AdGuard è un software progettato per bloccare annunci pubblicitari, tracker e siti web dannosi. È disponibile su diverse piattaforme, tra cui Windows, macOS, Android e iOS.",
-    "Tooltip": "AdGuard",
-    "MRicerca": "adguard",
-    "Hash": "",
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Altro/Rhinoceros.png",
+    "Sezione": "Architettura, CAD e Modellazione 3D",
+    "Descrizione": "Rhino, noto anche come Rhinoceros 3D, è un potente software di modellazione 3D utilizzato in vari settori come l'architettura, l'ingegneria, il design navale, la gioielleria e altro ancora",
+    "Tooltip": "Rhinoceros v8.17.25066.7001",
+    "MRicerca": "rhinoceros",
+    "Hash": "63b3078112964f81",
     "HashX32": "",
-    "UUID": "30"
+    "UUID": "12"
   },
   {
     "Nome": "Autodesk Revit",
@@ -390,6 +376,20 @@
     "Hash": "",
     "HashX32": null,
     "UUID": "37"
+  },
+  {
+    "Nome": "AdGuard",
+    "Link": "https://devuploads.com/tx9o4p750fo6",
+    "Linkx32": null,
+    "LinkR": "",
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Blocco pubblicità/AdGuard.png",
+    "Sezione": "Blocco pubblicità",
+    "Descrizione": "AdGuard è un software progettato per bloccare annunci pubblicitari, tracker e siti web dannosi. È disponibile su diverse piattaforme, tra cui Windows, macOS, Android e iOS.",
+    "Tooltip": "AdGuard",
+    "MRicerca": "adguard",
+    "Hash": "",
+    "HashX32": "",
+    "UUID": "30"
   },
   {
     "Nome": "Freemake Video Converter",
