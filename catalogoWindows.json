@@ -42,20 +42,6 @@
     "UUID": "11"
   },
   {
-    "Nome": "JetBrains IntelliJ IDEA",
-    "Link": "https://devuploads.com/72gfpmryh0eq",
-    "Linkx32": null,
-    "LinkR": "",
-    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Altro/Intellij.png",
-    "Sezione": "Sviluppo Software e IDE",
-    "Descrizione": "IntelliJ IDEA è un Integrated Development Environment (IDE) sviluppato da JetBrains, progettato principalmente per lo sviluppo in Java e Kotlin. È noto per la sua potenza, flessibilità e strumenti avanzati che migliorano la produttività dei programmatori.",
-    "Tooltip": "JetBrains Intellij IDEA Ultimate v2024.3.5",
-    "MRicerca": "intellij",
-    "Hash": "16f7deb571c7f659",
-    "HashX32": "16f7deb571c7f659",
-    "UUID": "13"
-  },
-  {
     "Nome": "MediaMonkey",
     "Link": "https://devuploads.com/rekhmdck974h",
     "Linkx32": null,
@@ -124,20 +110,6 @@
     "Hash": "",
     "HashX32": null,
     "UUID": "18"
-  },
-  {
-    "Nome": "VMware",
-    "Link": "https://devuploads.com/wu2lujy0o76m",
-    "Linkx32": null,
-    "LinkR": "",
-    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Altro/VMware.png",
-    "Sezione": "Sviluppo Software e IDE",
-    "Descrizione": "VMware Workstation Pro è un potente strumento di virtualizzazione che permette agli utenti di eseguire più sistemi operativi su un singolo PC.",
-    "Tooltip": "VMware Workstation Pro v17.6.2.24409262",
-    "MRicerca": "vmware",
-    "Hash": "",
-    "HashX32": null,
-    "UUID": "19"
   },
   {
     "Nome": "Tenorshare ReiBoot for Android",
@@ -558,34 +530,6 @@
     "Hash": "17cb14ec4dd2c782",
     "HashX32": "17cb14ec4dd2c782",
     "UUID": "63bf6f5c-bd7f-4b10-a7be-d6e9d917a721"
-  },
-  {
-    "Nome": "Araxis Merge",
-    "Link": "https://devuploads.com/zxxzgdrgd0bo",
-    "Linkx32": null,
-    "LinkR": "",
-    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Gestione%20file/Araxis_Merge.png",
-    "Sezione": "Sviluppo Software e IDE",
-    "Descrizione": "Araxis Merge è un'applicazione avanzata per il confronto di file (diff), l'unione (merge) e la sincronizzazione di cartelle.",
-    "Tooltip": "Araxis Merge Professional v2024.6002",
-    "MRicerca": "araxis",
-    "Hash": "",
-    "HashX32": null,
-    "UUID": "51"
-  },
-  {
-    "Nome": "Copernic Desktop Search",
-    "Link": "https://devuploads.com/c8yke8uupctj",
-    "Linkx32": null,
-    "LinkR": "",
-    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Gestione%20file/Copernic_Desktop_Search.png",
-    "Sezione": "Ricerca e Analisi Dati",
-    "Descrizione": "Copernic Desktop Search è un software avanzato di ricerca per Windows che consente di trovare rapidamente file, email, documenti e altri contenuti presenti sul proprio computer. È pensato per chi lavora con grandi quantità di dati e ha bisogno di una ricerca veloce, precisa e completa.\n\n",
-    "Tooltip": "Copernic Desktop Search v7.1.1.13217",
-    "MRicerca": "desktop",
-    "Hash": "371b16681ab42c74",
-    "HashX32": null,
-    "UUID": "52"
   },
   {
     "Nome": "UniFab",
@@ -2072,6 +2016,20 @@
     "UUID": "139"
   },
   {
+    "Nome": "Copernic Desktop Search",
+    "Link": "https://devuploads.com/c8yke8uupctj",
+    "Linkx32": null,
+    "LinkR": "",
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Gestione%20file/Copernic_Desktop_Search.png",
+    "Sezione": "Ricerca e Analisi Dati",
+    "Descrizione": "Copernic Desktop Search è un software avanzato di ricerca per Windows che consente di trovare rapidamente file, email, documenti e altri contenuti presenti sul proprio computer. È pensato per chi lavora con grandi quantità di dati e ha bisogno di una ricerca veloce, precisa e completa.\n\n",
+    "Tooltip": "Copernic Desktop Search v7.1.1.13217",
+    "MRicerca": "desktop",
+    "Hash": "371b16681ab42c74",
+    "HashX32": null,
+    "UUID": "52"
+  },
+  {
     "Nome": "Aiseesoft iPhone Unlocker",
     "Link": "https://devuploads.com/vav7fw3xkzpd",
     "Linkx32": null,
@@ -2084,6 +2042,48 @@
     "Hash": "",
     "HashX32": null,
     "UUID": "140"
+  },
+  {
+    "Nome": "JetBrains IntelliJ IDEA",
+    "Link": "https://devuploads.com/72gfpmryh0eq",
+    "Linkx32": null,
+    "LinkR": "",
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Altro/Intellij.png",
+    "Sezione": "Sviluppo Software e IDE",
+    "Descrizione": "IntelliJ IDEA è un Integrated Development Environment (IDE) sviluppato da JetBrains, progettato principalmente per lo sviluppo in Java e Kotlin. È noto per la sua potenza, flessibilità e strumenti avanzati che migliorano la produttività dei programmatori.",
+    "Tooltip": "JetBrains Intellij IDEA Ultimate v2024.3.5",
+    "MRicerca": "intellij",
+    "Hash": "16f7deb571c7f659",
+    "HashX32": "16f7deb571c7f659",
+    "UUID": "13"
+  },
+  {
+    "Nome": "VMware",
+    "Link": "https://devuploads.com/wu2lujy0o76m",
+    "Linkx32": null,
+    "LinkR": "",
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Altro/VMware.png",
+    "Sezione": "Sviluppo Software e IDE",
+    "Descrizione": "VMware Workstation Pro è un potente strumento di virtualizzazione che permette agli utenti di eseguire più sistemi operativi su un singolo PC.",
+    "Tooltip": "VMware Workstation Pro v17.6.2.24409262",
+    "MRicerca": "vmware",
+    "Hash": "",
+    "HashX32": null,
+    "UUID": "19"
+  },
+  {
+    "Nome": "Araxis Merge",
+    "Link": "https://devuploads.com/zxxzgdrgd0bo",
+    "Linkx32": null,
+    "LinkR": "",
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Gestione%20file/Araxis_Merge.png",
+    "Sezione": "Sviluppo Software e IDE",
+    "Descrizione": "Araxis Merge è un'applicazione avanzata per il confronto di file (diff), l'unione (merge) e la sincronizzazione di cartelle.",
+    "Tooltip": "Araxis Merge Professional v2024.6002",
+    "MRicerca": "araxis",
+    "Hash": "",
+    "HashX32": null,
+    "UUID": "51"
   },
   {
     "Nome": "WinHubX",
