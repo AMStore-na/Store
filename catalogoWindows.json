@@ -252,20 +252,6 @@
     "UUID": "63bf6f5c-bd7f-4b10-a7be-d6e9d917a721"
   },
   {
-    "Nome": "Wondershare Filmora",
-    "Link": "https://devuploads.com/74538nrm9rf0",
-    "Linkx32": null,
-    "LinkR": "",
-    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Editing/Wondershare_Filmora.png",
-    "Sezione": "Video e Animazione",
-    "Descrizione": "Wondershare Filmora è un software di editing video facile da usare, sviluppato da Wondershare. È progettato per utenti di tutti i livelli, dai principianti agli esperti, e offre una vasta gamma di funzionalità per creare video di alta qualità.",
-    "Tooltip": "Wondershare Filmora 14.3.2.11147",
-    "MRicerca": "filmora",
-    "Hash": "",
-    "HashX32": null,
-    "UUID": "55"
-  },
-  {
     "Nome": "Grand Theft Auto V",
     "Link": "https://devuploads.com/7jsijapl15cu",
     "Linkx32": null,
@@ -1092,20 +1078,6 @@
     "UUID": "119"
   },
   {
-    "Nome": "IObit Uninstaller",
-    "Link": "https://devuploads.com/038nmynhqbwe",
-    "Linkx32": null,
-    "LinkR": "",
-    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Iobit/IObit_Unistaller.png",
-    "Sezione": "Utility di Sistema / Gestione File",
-    "Descrizione": "IObit Uninstaller è un software progettato per rimuovere completamente programmi indesiderati, bundleware, app di Windows e plugin del browser.",
-    "Tooltip": "IObit Uninstaller Pro v14.1.0.2",
-    "MRicerca": "Uninstaller",
-    "Hash": "",
-    "HashX32": null,
-    "UUID": "123"
-  },
-  {
     "Nome": "Spotify",
     "Link": "https://devuploads.com/u4wat9uzcks1",
     "Linkx32": null,
@@ -1470,6 +1442,20 @@
     "UUID": "147"
   },
   {
+    "Nome": "MediaMonkey",
+    "Link": "https://devuploads.com/rekhmdck974h",
+    "Linkx32": null,
+    "LinkR": "",
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Altro/MediaMonkey.png",
+    "Sezione": "Personalizzazione e Interfaccia",
+    "Descrizione": "MediaMonkey è un software di gestione e organizzazione dei media progettato per collezionisti seri di musica e video.",
+    "Tooltip": "Media Monkey Gold v2024.0.0.3019",
+    "MRicerca": "monkey",
+    "Hash": "",
+    "HashX32": null,
+    "UUID": "14"
+  },
+  {
     "Nome": "Movavi Screen Recorder",
     "Link": "https://devuploads.com/klsx2cu9t20q",
     "Linkx32": null,
@@ -1736,6 +1722,20 @@
     "UUID": "51"
   },
   {
+    "Nome": "IObit Uninstaller",
+    "Link": "https://devuploads.com/038nmynhqbwe",
+    "Linkx32": null,
+    "LinkR": "",
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Iobit/IObit_Unistaller.png",
+    "Sezione": "Utility di Sistema / Gestione File",
+    "Descrizione": "IObit Uninstaller è un software progettato per rimuovere completamente programmi indesiderati, bundleware, app di Windows e plugin del browser.",
+    "Tooltip": "IObit Uninstaller Pro v14.1.0.2",
+    "MRicerca": "Uninstaller",
+    "Hash": "",
+    "HashX32": null,
+    "UUID": "123"
+  },
+  {
     "Nome": "DataLock",
     "Link": "https://devuploads.com/8t0g8x8mpsrz",
     "Linkx32": null,
@@ -1778,18 +1778,74 @@
     "UUID": "11"
   },
   {
-    "Nome": "MediaMonkey",
-    "Link": "https://devuploads.com/rekhmdck974h",
+    "Nome": "Driver Easy",
+    "Link": "https://devuploads.com/pvfnpvt7zfnk",
     "Linkx32": null,
     "LinkR": "",
-    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Altro/MediaMonkey.png",
-    "Sezione": "Personalizzazione e Interfaccia",
-    "Descrizione": "MediaMonkey è un software di gestione e organizzazione dei media progettato per collezionisti seri di musica e video.",
-    "Tooltip": "Media Monkey Gold v2024.0.0.3019",
-    "MRicerca": "monkey",
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/GestioneHDD-SSD/Driver_Easy.png",
+    "Sezione": "Utility di Sistema / Gestione File",
+    "Descrizione": "Driver Easy è un software di aggiornamento driver per Windows. È progettato per aiutarti a mantenere i driver del tuo sistema operativo aggiornati, il che può risolvere molti problemi di compatibilità e prestazioni del computer.",
+    "Tooltip": "Driver Easy Professional v6.1.2.29728",
+    "MRicerca": "easy",
     "Hash": "",
     "HashX32": null,
-    "UUID": "14"
+    "UUID": "70"
+  },
+  {
+    "Nome": "Ashampoo Driver Updater",
+    "Link": "https://devuploads.com/wjfvhnx0l06l",
+    "Linkx32": null,
+    "LinkR": "",
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/GestioneHDD-SSD/Ashampoo_Driver_Updater.png",
+    "Sezione": "Utility di Sistema / Gestione File",
+    "Descrizione": "Ashampoo Driver Updater è un software utile per la gestione dei driver del computer, progettato per semplificare il processo di aggiornamento e ottimizzazione dei driver.",
+    "Tooltip": "Ashampoo Driver Updater 1.6.2",
+    "MRicerca": "ashampoo",
+    "Hash": "",
+    "HashX32": null,
+    "UUID": "72"
+  },
+  {
+    "Nome": "Assistente Aggiornamento Win11",
+    "Link": "https://devuploads.com/dilzl5glhtr3",
+    "Linkx32": null,
+    "LinkR": "",
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Tool-AIMODS/Assistente_Aggiornamento_Win11.png",
+    "Sezione": "Utility di Sistema / Gestione File",
+    "Descrizione": " Lo strumento facilita l'aggiornamento rendendolo automatico e, quindi, semplice da effettuare anche per i meno esperti, mantenendo tutti i file personali.",
+    "Tooltip": "Assistente Aggiornamento v.0.0.0.2",
+    "MRicerca": "Tools AIMODS",
+    "Hash": "",
+    "HashX32": null,
+    "UUID": "145"
+  },
+  {
+    "Nome": "Clipboard",
+    "Link": "https://devuploads.com/h2e9cktq8fde",
+    "Linkx32": null,
+    "LinkR": "",
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Tool-AIMODS/Clipboard.png",
+    "Sezione": "Utility di Sistema / Gestione File",
+    "Descrizione": "AIMods Advanced Clipboard instaura una connessione client-server con tutti i dispositivi connessi alla stessa rete privata. Sfruttando tale meccanismo, un server (un dispositivo) invia ai client (tutti gli altri dispositivi) ciò che è stato copiato (o la nota creata). In questo modo, le note, il testo e le immagini copiate sul PC in camera, verranno copiati istantaneamente anche sul PC in sala e viceversa.",
+    "Tooltip": "Clipboard v.1.0.0.0",
+    "MRicerca": "clipboard",
+    "Hash": "",
+    "HashX32": null,
+    "UUID": "149"
+  },
+  {
+    "Nome": "CCleaner",
+    "Link": "https://devuploads.com/27humimk66s6",
+    "Linkx32": null,
+    "LinkR": "",
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/GestioneHDD-SSD/CCleaner.png",
+    "Sezione": "Utility di Sistema / Gestione File",
+    "Descrizione": "CCleaner è un popolare software di ottimizzazione e pulizia del sistema sviluppato da Piriform (ora parte di Avast). È progettato per migliorare le prestazioni del tuo computer rimuovendo file temporanei, cookie, file di registro inutili, e altri dati che possono accumularsi nel tempo e rallentare il sistema.",
+    "Tooltip": "CCleaner Professional v6.34.11482",
+    "MRicerca": "ccleaner",
+    "Hash": "d6fe299001020d17",
+    "HashX32": "",
+    "UUID": "73"
   },
   {
     "Nome": "Tenorshare ReiBoot for Android",
@@ -1818,34 +1874,6 @@
     "Hash": "",
     "HashX32": null,
     "UUID": "67"
-  },
-  {
-    "Nome": "Driver Easy",
-    "Link": "https://devuploads.com/pvfnpvt7zfnk",
-    "Linkx32": null,
-    "LinkR": "",
-    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/GestioneHDD-SSD/Driver_Easy.png",
-    "Sezione": "Utility di Sistema / Gestione File",
-    "Descrizione": "Driver Easy è un software di aggiornamento driver per Windows. È progettato per aiutarti a mantenere i driver del tuo sistema operativo aggiornati, il che può risolvere molti problemi di compatibilità e prestazioni del computer.",
-    "Tooltip": "Driver Easy Professional v6.1.2.29728",
-    "MRicerca": "easy",
-    "Hash": "",
-    "HashX32": null,
-    "UUID": "70"
-  },
-  {
-    "Nome": "Ashampoo Driver Updater",
-    "Link": "https://devuploads.com/wjfvhnx0l06l",
-    "Linkx32": null,
-    "LinkR": "",
-    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/GestioneHDD-SSD/Ashampoo_Driver_Updater.png",
-    "Sezione": "Utility di Sistema / Gestione File",
-    "Descrizione": "Ashampoo Driver Updater è un software utile per la gestione dei driver del computer, progettato per semplificare il processo di aggiornamento e ottimizzazione dei driver.",
-    "Tooltip": "Ashampoo Driver Updater 1.6.2",
-    "MRicerca": "ashampoo",
-    "Hash": "",
-    "HashX32": null,
-    "UUID": "72"
   },
   {
     "Nome": "EaseUS PCTrans",
@@ -1918,34 +1946,6 @@
     "UUID": "142"
   },
   {
-    "Nome": "Assistente Aggiornamento Win11",
-    "Link": "https://devuploads.com/dilzl5glhtr3",
-    "Linkx32": null,
-    "LinkR": "",
-    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Tool-AIMODS/Assistente_Aggiornamento_Win11.png",
-    "Sezione": "Utility di Sistema / Gestione File",
-    "Descrizione": " Lo strumento facilita l'aggiornamento rendendolo automatico e, quindi, semplice da effettuare anche per i meno esperti, mantenendo tutti i file personali.",
-    "Tooltip": "Assistente Aggiornamento v.0.0.0.2",
-    "MRicerca": "Tools AIMODS",
-    "Hash": "",
-    "HashX32": null,
-    "UUID": "145"
-  },
-  {
-    "Nome": "Clipboard",
-    "Link": "https://devuploads.com/h2e9cktq8fde",
-    "Linkx32": null,
-    "LinkR": "",
-    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Tool-AIMODS/Clipboard.png",
-    "Sezione": "Utility di Sistema / Gestione File",
-    "Descrizione": "AIMods Advanced Clipboard instaura una connessione client-server con tutti i dispositivi connessi alla stessa rete privata. Sfruttando tale meccanismo, un server (un dispositivo) invia ai client (tutti gli altri dispositivi) ciò che è stato copiato (o la nota creata). In questo modo, le note, il testo e le immagini copiate sul PC in camera, verranno copiati istantaneamente anche sul PC in sala e viceversa.",
-    "Tooltip": "Clipboard v.1.0.0.0",
-    "MRicerca": "clipboard",
-    "Hash": "",
-    "HashX32": null,
-    "UUID": "149"
-  },
-  {
     "Nome": "QuickTweak",
     "Link": "https://devuploads.com/xpfq0fryeyqn",
     "Linkx32": null,
@@ -1986,20 +1986,6 @@
     "Hash": "",
     "HashX32": null,
     "UUID": "69"
-  },
-  {
-    "Nome": "CCleaner",
-    "Link": "https://devuploads.com/27humimk66s6",
-    "Linkx32": null,
-    "LinkR": "",
-    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/GestioneHDD-SSD/CCleaner.png",
-    "Sezione": "Utility di Sistema / Gestione File",
-    "Descrizione": "CCleaner è un popolare software di ottimizzazione e pulizia del sistema sviluppato da Piriform (ora parte di Avast). È progettato per migliorare le prestazioni del tuo computer rimuovendo file temporanei, cookie, file di registro inutili, e altri dati che possono accumularsi nel tempo e rallentare il sistema.",
-    "Tooltip": "CCleaner Professional v6.34.11482",
-    "MRicerca": "ccleaner",
-    "Hash": "d6fe299001020d17",
-    "HashX32": "",
-    "UUID": "73"
   },
   {
     "Nome": "Revo Uninstaller Pro",
@@ -2070,6 +2056,20 @@
     "Hash": "",
     "HashX32": null,
     "UUID": "125"
+  },
+  {
+    "Nome": "Wondershare Filmora",
+    "Link": "https://devuploads.com/74538nrm9rf0",
+    "Linkx32": null,
+    "LinkR": "",
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Editing/Wondershare_Filmora.png",
+    "Sezione": "Video e Animazione",
+    "Descrizione": "Wondershare Filmora è un software di editing video facile da usare, sviluppato da Wondershare. È progettato per utenti di tutti i livelli, dai principianti agli esperti, e offre una vasta gamma di funzionalità per creare video di alta qualità.",
+    "Tooltip": "Wondershare Filmora 14.3.2.11147",
+    "MRicerca": "filmora",
+    "Hash": "",
+    "HashX32": null,
+    "UUID": "55"
   },
   {
     "Nome": "Freemake Video Converter",
