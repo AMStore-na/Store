@@ -252,6 +252,20 @@
     "UUID": "12"
   },
   {
+    "Nome": "AdGuard",
+    "Link": "https://devuploads.com/tx9o4p750fo6",
+    "Linkx32": null,
+    "LinkR": "",
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Blocco pubblicità/AdGuard.png",
+    "Sezione": "Blocco pubblicità",
+    "Descrizione": "AdGuard è un software progettato per bloccare annunci pubblicitari, tracker e siti web dannosi. È disponibile su diverse piattaforme, tra cui Windows, macOS, Android e iOS.",
+    "Tooltip": "AdGuard",
+    "MRicerca": "adguard",
+    "Hash": "",
+    "HashX32": "",
+    "UUID": "30"
+  },
+  {
     "Nome": "Autodesk Revit",
     "Link": "https://devuploads.com/1sukco621r70",
     "Linkx32": null,
@@ -348,20 +362,6 @@
     "Hash": "",
     "HashX32": null,
     "UUID": "37"
-  },
-  {
-    "Nome": "AdGuard",
-    "Link": "https://devuploads.com/tx9o4p750fo6",
-    "Linkx32": null,
-    "LinkR": "",
-    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Blocco pubblicità/AdGuard.png",
-    "Sezione": "Blocco pubblicità",
-    "Descrizione": "AdGuard è un software progettato per bloccare annunci pubblicitari, tracker e siti web dannosi. È disponibile su diverse piattaforme, tra cui Windows, macOS, Android e iOS.",
-    "Tooltip": "AdGuard",
-    "MRicerca": "adguard",
-    "Hash": "",
-    "HashX32": "",
-    "UUID": "30"
   },
   {
     "Nome": "Freemake Video Converter",
