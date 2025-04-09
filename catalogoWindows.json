@@ -2252,5 +2252,19 @@
     "Hash": "eee3365a63ed72ed",
     "HashX32": null,
     "UUID": "8d2a98de-3e2a-4636-a65b-27f62189d10d"
+  },
+  {
+    "Nome": "Wallpaper Engine",
+    "Link": "https://devuploads.com/2sv8yd3goke1",
+    "Linkx32": null,
+    "LinkR": null,
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Giochi/Wallpaper_Engine.png",
+    "Sezione": "Personalizzazione",
+    "Descrizione": "Wallpaper Engine ti consente di personalizzare il desktop con sfondi animati, interattivi o video. Puoi scegliere tra migliaia di wallpaper creati dalla community oppure crearne di tuoi con l'editor integrato.",
+    "Tooltip": "Wallpaper Engine v2.6.0.19",
+    "MRicerca": "Wallpaper",
+    "Hash": "5b3287aad3f983df",
+    "HashX32": null,
+    "UUID": "a22cc928-cd34-461f-b2bd-679969bf181f"
   }
 ]
