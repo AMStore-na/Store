@@ -1,9 +1,10 @@
 { 
-    "version": "1.0.1.2", 
+    "version": "1.0.1.3", 
     "releaseNotes": [
-      "Pulizia vecchi file Store durante l'aggiornamento",
-      "Adeguamento logica",
-      "Fix tasto aggiornamento non dava più feedback"
+      "Scorrimento orizzontale",
+      "Pulsante espansione categoria",
+      "Ordinamento categoria in ordine alfabetico",
+      "Correzioni varie al codice"
      ],
     "updateUrl": "https://github.com/AMStore-na/Store/releases/download/Store/AIMODS-Store.exe" 
 }
