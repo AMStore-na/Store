@@ -2238,5 +2238,33 @@
     "Hash": "",
     "HashX32": null,
     "UUID": "10"
+  },
+  {
+    "Nome": "3DF Zephyr",
+    "Link": "https://devuploads.com/42zt57ogl8pw",
+    "Linkx32": null,
+    "LinkR": null,
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/CAD%2C%20Architettura%20e%20Ingegneria/3DF_Zephyr.png",
+    "Sezione": "CAD, Architettura e Ingegneria",
+    "Descrizione": null,
+    "Tooltip": "3DF Zephyr v8.003",
+    "MRicerca": "3df",
+    "Hash": "c45c105f366f17bd",
+    "HashX32": null,
+    "UUID": "ca3ce18f-b274-401c-928d-c0415fd14e1c"
+  },
+  {
+    "Nome": "Reboot Restore Rx Pro",
+    "Link": "https://devuploads.com/lndzl0o22uyq",
+    "Linkx32": null,
+    "LinkR": null,
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Utility%20di%20Sistema%20e%20Manutenzione/Reboot_Restore_Rx_Pro.png",
+    "Sezione": "Utility di Sistema e Manutenzione",
+    "Descrizione": null,
+    "Tooltip": "Reboot Restore Rx Pro v12.8.2710270703",
+    "MRicerca": "reboot",
+    "Hash": "1b883d695307eb56v",
+    "HashX32": null,
+    "UUID": "4497d41a-17db-4da5-8467-f27db57a6787"
   }
 ]
