@@ -2266,5 +2266,19 @@
     "Hash": "",
     "HashX32": null,
     "UUID": "10"
+  },
+  {
+    "Nome": "MyDockFinder",
+    "Link": "https://devuploads.com/354fntdbwtpt",
+    "Linkx32": null,
+    "LinkR": null,
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Personalizzazione%20e%20Interfaccia/MyDockFinder.png",
+    "Sezione": "Personalizzazione e Interfaccia",
+    "Descrizione": "MyDockFinder è un'applicazione per Windows progettata per emulare l'aspetto e alcune funzionalità del dock di macOS, portando un'interfaccia utente in stile Mac su PC. È molto apprezzata dagli utenti che vogliono personalizzare il proprio desktop Windows per assomigliare di più al sistema operativo Apple.",
+    "Tooltip": "MyDockFinder v1.10.6",
+    "MRicerca": "finder",
+    "Hash": "57632eb3e1cb750f",
+    "HashX32": null,
+    "UUID": "01dd99fb-1668-44e2-9ee9-05728e39ed6c"
   }
 ]
