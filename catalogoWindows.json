@@ -1708,11 +1708,11 @@
     "UUID": "13"
   },
   {
-    "Nome": "VMware",
+    "Nome": "VMware Workstation",
     "Link": "https://devuploads.com/wu2lujy0o76m",
     "Linkx32": null,
     "LinkR": "",
-    "ImmagineUrl": null,
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Sviluppo%20Software%20e%20IDE/VMware_Workstation.png",
     "Sezione": "Sviluppo Software e IDE",
     "Descrizione": "VMware Workstation Pro è un potente strumento di virtualizzazione che permette agli utenti di eseguire più sistemi operativi su un singolo PC.",
     "Tooltip": "VMware Workstation Pro v17.6.2.24409262",
