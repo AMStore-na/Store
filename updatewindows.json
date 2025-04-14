@@ -1,8 +1,0 @@
-{ 
-    "version": "1.0.1.4", 
-    "releaseNotes": [
-      "Fix Changelog",
-      "Aggiunta guida file .aimods"
-     ],
-    "updateUrl": "https://github.com/AMStore-na/Store/releases/download/Store/AIMODS-Store.exe" 
-}
