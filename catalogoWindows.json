@@ -2294,5 +2294,19 @@
     "Hash": "",
     "HashX32": null,
     "UUID": "10"
+  },
+  {
+    "Nome": "CyberLink Power2Go Platinum",
+    "Link": "https://devuploads.com/gfmp9mixrynj",
+    "Linkx32": null,
+    "LinkR": null,
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Video%20e%20Animazione/CyberLink_Power2Go_Platinum.png",
+    "Sezione": "Video e Animazione",
+    "Descrizione": null,
+    "Tooltip": "CyberLink Power2Go Platinum v13.0.5924.0",
+    "MRicerca": "power",
+    "Hash": "3e4ecc57f8251a2a",
+    "HashX32": null,
+    "UUID": "155a13cf-1976-45a8-acff-a5dfb2f74797"
   }
 ]
