@@ -2308,5 +2308,19 @@
     "Hash": "3e4ecc57f8251a2a",
     "HashX32": null,
     "UUID": "155a13cf-1976-45a8-acff-a5dfb2f74797"
+  },
+  {
+    "Nome": "Clip Studio Paint EX",
+    "Link": "https://devuploads.com/q6ux71pc0c4v",
+    "Linkx32": null,
+    "LinkR": null,
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Grafica%20e%20Design/Clip_Studio_Paint.png",
+    "Sezione": "Grafica e Design",
+    "Descrizione": null,
+    "Tooltip": "Clip Studio Paint EX v4.0",
+    "MRicerca": "clip",
+    "Hash": "a76d41a744cd7e5a",
+    "HashX32": null,
+    "UUID": "52e605fb-c94c-41c6-b2d6-e82c9cf581ab"
   }
 ]
