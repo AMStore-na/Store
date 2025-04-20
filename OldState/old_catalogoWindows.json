@@ -1,7 +1,7 @@
 [
     {
         "Nome": "WinHubX",
-        "Link": "https://github.com/MrNico98/WinHubX/releases/download/WinHubX/WinHubX.exe",
+        "Link": "https://github.com/MrNico98/WinHubX/releases/download/WinHubX_2.4.2.3/WinHubX.exe",
         "Linkx32": null,
         "LinkR": "",
         "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Attivatori/WinHubX.png",
@@ -28,7 +28,7 @@
         "UUID": "31"
     },
     {
-        "Nome": "Autodesk AutoCAD",
+        "Nome": "Autodesk AutoCAD 2025",
         "Link": "https://devuploads.com/n2zng89rr6hw",
         "Linkx32": null,
         "LinkR": "",
@@ -1078,6 +1078,20 @@
         "UUID": "119"
     },
     {
+        "Nome": "Clip Studio Paint EX",
+        "Link": "https://devuploads.com/q6ux71pc0c4v",
+        "Linkx32": null,
+        "LinkR": null,
+        "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Grafica%20e%20Design/Clip_Studio_Paint.png",
+        "Sezione": "Grafica e Design",
+        "Descrizione": null,
+        "Tooltip": "Clip Studio Paint EX v4.0",
+        "MRicerca": "clip",
+        "Hash": "a76d41a744cd7e5a",
+        "HashX32": null,
+        "UUID": "52e605fb-c94c-41c6-b2d6-e82c9cf581ab"
+    },
+    {
         "Nome": "Spotify",
         "Link": "https://devuploads.com/u4wat9uzcks1",
         "Linkx32": null,
@@ -1708,16 +1722,16 @@
         "UUID": "13"
     },
     {
-        "Nome": "VMware",
-        "Link": "https://devuploads.com/wu2lujy0o76m",
+        "Nome": "VMware Workstation",
+        "Link": "https://devuploads.com/16578w61y987",
         "Linkx32": null,
         "LinkR": "",
-        "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Sviluppo%20Software%20e%20IDE/VMware.png",
+        "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Sviluppo%20Software%20e%20IDE/VMware_Workstation.png",
         "Sezione": "Sviluppo Software e IDE",
         "Descrizione": "VMware Workstation Pro è un potente strumento di virtualizzazione che permette agli utenti di eseguire più sistemi operativi su un singolo PC.",
-        "Tooltip": "VMware Workstation Pro v17.6.2.24409262",
+        "Tooltip": "VMware Workstation Pro v17.6.3.24583834",
         "MRicerca": "vmware",
-        "Hash": "",
+        "Hash": "86248d0493e35211",
         "HashX32": null,
         "UUID": "19"
     },
@@ -2240,14 +2254,14 @@
         "UUID": "120"
     },
     {
-        "Nome": "DaVinci",
+        "Nome": "DaVinci Resolve Studio",
         "Link": "https://devuploads.com/g6bcwha9l6hv",
         "Linkx32": null,
         "LinkR": "",
-        "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Video%20e%20Animazione/DaVinci.png",
+        "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Video%20e%20Animazione/DaVinci_Resolve.png",
         "Sezione": "Video e Animazione",
         "Descrizione": "DaVinci Resolve è un software di editing video professionale sviluppato da Blackmagic Design. È noto per la sua capacità di integrare montaggio, correzione colore, effetti visivi e post produzione audio in un'unica applicazione. DaVinci Resolve è utilizzato da professionisti di Hollywood e offre una vasta gamma di strumenti avanzati per la creazione di contenuti video di alta qualità.",
-        "Tooltip": "DaVinci Resolve Studio 19.0.0.25",
+        "Tooltip": "DaVinci Resolve Studio v19.0.0.25",
         "MRicerca": "davinci",
         "Hash": "",
         "HashX32": null,
@@ -2294,5 +2308,19 @@
         "Hash": "",
         "HashX32": null,
         "UUID": "10"
+    },
+    {
+        "Nome": "CyberLink Power2Go Platinum",
+        "Link": "https://devuploads.com/gfmp9mixrynj",
+        "Linkx32": null,
+        "LinkR": null,
+        "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Video%20e%20Animazione/CyberLink_Power2Go_Platinum.png",
+        "Sezione": "Video e Animazione",
+        "Descrizione": null,
+        "Tooltip": "CyberLink Power2Go Platinum v13.0.5924.0",
+        "MRicerca": "power",
+        "Hash": "3e4ecc57f8251a2a",
+        "HashX32": null,
+        "UUID": "155a13cf-1976-45a8-acff-a5dfb2f74797"
     }
 ]
