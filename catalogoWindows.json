@@ -126,6 +126,20 @@
     "UUID": "ca3ce18f-b274-401c-928d-c0415fd14e1c"
   },
   {
+    "Nome": "Autodesk AutoCAD 2026",
+    "Link": "https://devuploads.com/ctldqondrgko",
+    "Linkx32": null,
+    "LinkR": null,
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/CAD%2C%20Architettura%20e%20Ingegneria/Autodesk_AutoCAD_2026.png",
+    "Sezione": "CAD, Architettura e Ingegneria",
+    "Descrizione": "Autodesk AutoCAD è un software di progettazione assistita da computer (CAD) molto utilizzato nel settore dell'architettura, dell'ingegneria e della progettazione industriale.",
+    "Tooltip": "Autodesk AutoCAD v2026.0.1",
+    "MRicerca": "autocad",
+    "Hash": "fd05ca12209c1431",
+    "HashX32": null,
+    "UUID": "f6e3505d-67cc-41f3-844e-e8b8b126f203"
+  },
+  {
     "Nome": "IDM Portable",
     "Link": "https://devuploads.com/hw09x86wbw87",
     "Linkx32": null,
@@ -2322,19 +2336,5 @@
     "Hash": "3e4ecc57f8251a2a",
     "HashX32": null,
     "UUID": "155a13cf-1976-45a8-acff-a5dfb2f74797"
-  },
-  {
-    "Nome": "Autodesk AutoCAD 2026",
-    "Link": "https://devuploads.com/ctldqondrgko",
-    "Linkx32": null,
-    "LinkR": null,
-    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/CAD%2C%20Architettura%20e%20Ingegneria/Autodesk_AutoCAD_2026.png",
-    "Sezione": "CAD, Architettura e Ingegneria",
-    "Descrizione": "Autodesk AutoCAD è un software di progettazione assistita da computer (CAD) molto utilizzato nel settore dell'architettura, dell'ingegneria e della progettazione industriale.",
-    "Tooltip": "Autodesk AutoCAD v2026.0.1",
-    "MRicerca": "autocad",
-    "Hash": "fd05ca12209c1431",
-    "HashX32": null,
-    "UUID": "f6e3505d-67cc-41f3-844e-e8b8b126f203"
   }
 ]
