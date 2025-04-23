@@ -1639,16 +1639,16 @@
   },
   {
     "Nome": "ESET Endpoint Security",
-    "Link": "https://devuploads.com/om8lpreggft9",
-    "Linkx32": null,
+    "Link": "https://devuploads.com/bt9wq2fe1tm5",
+    "Linkx32": "https://devuploads.com/5soozpkxs1b5",
     "LinkR": "",
     "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Sicurezza%20e%20Privacy/ESET_Endpoint_Security.png",
     "Sezione": "Sicurezza e Privacy",
     "Descrizione": "ESET Endpoint Security è una soluzione di protezione completa per endpoint, progettata per proteggere i dispositivi aziendali da una vasta gamma di minacce informatiche. È una piattaforma Endpoint Protection Platform (EPP) che offre protezione multilivello, rilevamento e correzione di attività dannose.",
-    "Tooltip": "ESET Endpoint Security v12.0.2038.0",
+    "Tooltip": "ESET Endpoint Security v12.0.2049.0",
     "MRicerca": "eset",
-    "Hash": "",
-    "HashX32": null,
+    "Hash": "012f306355acfe6d",
+    "HashX32": "186d477a8eea6897",
     "UUID": "29"
   },
   {
