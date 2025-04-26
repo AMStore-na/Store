@@ -1779,15 +1779,15 @@
   },
   {
     "Nome": "IObit Uninstaller",
-    "Link": "https://devuploads.com/038nmynhqbwe",
+    "Link": "https://devuploads.com/vqmameqjrhh0",
     "Linkx32": null,
     "LinkR": "",
     "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Utility%20di%20Sistema%20e%20Manutenzione/IObit_Uninstaller.png",
     "Sezione": "Utility di Sistema e Manutenzione",
     "Descrizione": "IObit Uninstaller è un software progettato per rimuovere completamente programmi indesiderati, bundleware, app di Windows e plugin del browser.",
-    "Tooltip": "IObit Uninstaller Pro v14.1.0.2",
+    "Tooltip": "IObit Uninstaller Pro v14.3.1.8",
     "MRicerca": "Uninstaller",
-    "Hash": "",
+    "Hash": "9471e7a1a21f3d42",
     "HashX32": null,
     "UUID": "123"
   },
