@@ -1540,6 +1540,20 @@
     "UUID": "139"
   },
   {
+    "Nome": "TechSmith Snagit",
+    "Link": "https://devuploads.com/s8axnga02b9l",
+    "Linkx32": null,
+    "LinkR": null,
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Registrazione%20Schermo/TechSmith_Snagit.png",
+    "Sezione": "Registrazione Schermo",
+    "Descrizione": null,
+    "Tooltip": "TechSmith Snagit 2025 v25.1.1.6503",
+    "MRicerca": "snagit",
+    "Hash": "5cb24a8f7865f047",
+    "HashX32": null,
+    "UUID": "f0098774-cdbc-4c79-8a42-6d4df64f1607"
+  },
+  {
     "Nome": "Tenorshare 4DDIG Duplicate File Detector",
     "Link": "https://devuploads.com/n073gasue5x2",
     "Linkx32": null,
@@ -2336,19 +2350,5 @@
     "Hash": "3e4ecc57f8251a2a",
     "HashX32": null,
     "UUID": "155a13cf-1976-45a8-acff-a5dfb2f74797"
-  },
-  {
-    "Nome": "TechSmith Snagit",
-    "Link": "https://devuploads.com/s8axnga02b9l",
-    "Linkx32": null,
-    "LinkR": null,
-    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Registrazione%20Schermo/TechSmith_Snagit.png",
-    "Sezione": "Registrazione Schermo",
-    "Descrizione": null,
-    "Tooltip": "TechSmith Snagit 2025 v25.1.1.6503",
-    "MRicerca": "snagit",
-    "Hash": "5cb24a8f7865f047",
-    "HashX32": null,
-    "UUID": "f0098774-cdbc-4c79-8a42-6d4df64f1607"
   }
 ]
