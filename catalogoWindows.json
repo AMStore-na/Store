@@ -854,6 +854,20 @@
     "UUID": "8d2a98de-3e2a-4636-a65b-27f62189d10d"
   },
   {
+    "Nome": "Clair Obscur: Expedition 33 – Deluxe Edition",
+    "Link": "https://devuploads.com/f8t28yfxyu7f",
+    "Linkx32": null,
+    "LinkR": null,
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Giochi/Clair%20Obscur%20Expedition%2033.png",
+    "Sezione": "Giochi",
+    "Descrizione": "Il gioco segue le vicende di Gustave e Maelle, membri dell'Expedition 33, incaricati di fermare una misteriosa figura nota come \"La Pittrice\", che ogni anno decreta la morte di una persona in base al numero dipinto su un monolito. I protagonisti devono affrontare nemici devastanti e risolvere enigmi in un mondo ricco di mistero e bellezza.",
+    "Tooltip": "Clair Obscur: Expedition 33 – Deluxe Edition, v56190",
+    "MRicerca": "Clair",
+    "Hash": "b110598f56cd10c4",
+    "HashX32": null,
+    "UUID": "9b355354-90c5-422c-8d19-a6cc896bdc61"
+  },
+  {
     "Nome": "Rhinoceros",
     "Link": "https://devuploads.com/k35wa5minf0n",
     "Linkx32": null,
@@ -2350,19 +2364,5 @@
     "Hash": "3e4ecc57f8251a2a",
     "HashX32": null,
     "UUID": "155a13cf-1976-45a8-acff-a5dfb2f74797"
-  },
-  {
-    "Nome": "Clair Obscur: Expedition 33 – Deluxe Edition",
-    "Link": "https://devuploads.com/f8t28yfxyu7f",
-    "Linkx32": null,
-    "LinkR": null,
-    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Giochi/Clair%20Obscur%20Expedition%2033.png",
-    "Sezione": "Giochi",
-    "Descrizione": "Il gioco segue le vicende di Gustave e Maelle, membri dell'Expedition 33, incaricati di fermare una misteriosa figura nota come \"La Pittrice\", che ogni anno decreta la morte di una persona in base al numero dipinto su un monolito. I protagonisti devono affrontare nemici devastanti e risolvere enigmi in un mondo ricco di mistero e bellezza.",
-    "Tooltip": "Clair Obscur: Expedition 33 – Deluxe Edition, v56190",
-    "MRicerca": "Clair",
-    "Hash": "b110598f56cd10c4",
-    "HashX32": null,
-    "UUID": "9b355354-90c5-422c-8d19-a6cc896bdc61"
   }
 ]
