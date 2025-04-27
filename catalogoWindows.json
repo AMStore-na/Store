@@ -858,11 +858,11 @@
     "Link": "https://devuploads.com/f8t28yfxyu7f",
     "Linkx32": null,
     "LinkR": null,
-    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Giochi/Clair%20Obscur%20Expedition%2033.png",
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Giochi/Clair_Obscur_Expedition_33.png",
     "Sezione": "Giochi",
     "Descrizione": "Il gioco segue le vicende di Gustave e Maelle, membri dell'Expedition 33, incaricati di fermare una misteriosa figura nota come \"La Pittrice\", che ogni anno decreta la morte di una persona in base al numero dipinto su un monolito. I protagonisti devono affrontare nemici devastanti e risolvere enigmi in un mondo ricco di mistero e bellezza.",
     "Tooltip": "Clair Obscur: Expedition 33 – Deluxe Edition, v56190",
-    "MRicerca": "Clair",
+    "MRicerca": "clar",
     "Hash": "b110598f56cd10c4",
     "HashX32": null,
     "UUID": "9b355354-90c5-422c-8d19-a6cc896bdc61"
