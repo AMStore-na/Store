@@ -925,15 +925,15 @@
   },
   {
     "Nome": "Adobe Photoshop",
-    "Link": "https://devuploads.com/u6f1klo6a5wr",
+    "Link": "https://devuploads.com/pikksc62ngg0",
     "Linkx32": null,
     "LinkR": "",
     "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Grafica%20e%20Design/Adobe_Photoshop.png",
     "Sezione": "Grafica e Design",
     "Descrizione": "Adobe Photoshop è un software potente e versatile per l’editing digitale delle immagini e la progettazione grafica.",
-    "Tooltip": "Adobe Photoshop 2025 v.26.1",
+    "Tooltip": "Adobe Photoshop 2025 v26.6",
     "MRicerca": "photoshop",
-    "Hash": "",
+    "Hash": "fe89e0188df70fb3",
     "HashX32": "",
     "UUID": "2"
   },
@@ -953,7 +953,7 @@
   },
   {
     "Nome": "Adobe InDesign",
-    "Link": "https://devuploads.com/nzrhgxyu1b63",
+    "Link": "https://devuploads.com/y7gishu35v0b",
     "Linkx32": null,
     "LinkR": "",
     "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Grafica%20e%20Design/Adobe_InDesign.png",
@@ -961,21 +961,21 @@
     "Descrizione": "Adobe InDesign è un software di desktop publishing (DTP) sviluppato da Adobe Systems, ampiamente utilizzato per la creazione di layout e design grafici per una varietà di pubblicazioni.",
     "Tooltip": "Adobe InDesign 2024 v19.5.0.084",
     "MRicerca": "indesign",
-    "Hash": "",
+    "Hash": "a9755783542d7d78",
     "HashX32": null,
     "UUID": "6"
   },
   {
     "Nome": "Adobe Lightroom Classic",
-    "Link": "https://devuploads.com/64dmlwznnqdr",
+    "Link": "https://devuploads.com/ks3wi0jakdhw",
     "Linkx32": null,
     "LinkR": "",
     "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Grafica%20e%20Design/Adobe_Lightroom_Classic.png",
     "Sezione": "Grafica e Design",
     "Descrizione": "Adobe Lightroom Classic è un software di editing e gestione fotografica sviluppato da Adobe Systems, particolarmente apprezzato dai fotografi professionisti e dagli appassionati.",
-    "Tooltip": "Adobe Lightroom Classic v13.4.0.202406181129",
+    "Tooltip": "Adobe Lightroom Classic v14.3",
     "MRicerca": "lightroom",
-    "Hash": "",
+    "Hash": "63a841f9cbd92372",
     "HashX32": null,
     "UUID": "7"
   },
@@ -2364,5 +2364,19 @@
     "Hash": "3e4ecc57f8251a2a",
     "HashX32": null,
     "UUID": "155a13cf-1976-45a8-acff-a5dfb2f74797"
+  },
+  {
+    "Nome": null,
+    "Link": null,
+    "Linkx32": null,
+    "LinkR": null,
+    "ImmagineUrl": null,
+    "Sezione": null,
+    "Descrizione": null,
+    "Tooltip": null,
+    "MRicerca": null,
+    "Hash": null,
+    "HashX32": null,
+    "UUID": "f29022a6-6237-4e63-809b-7820591a9f51"
   }
 ]
