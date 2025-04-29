@@ -2364,5 +2364,19 @@
     "Hash": "3e4ecc57f8251a2a",
     "HashX32": null,
     "UUID": "169"
+  },
+  {
+    "Nome": "MAGIX VEGAS Pro",
+    "Link": "https://devuploads.com/3stjmktp1y5a",
+    "Linkx32": null,
+    "LinkR": null,
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Video%20e%20Animazione/MAGIX%20VEGAS%20Pro.png",
+    "Sezione": "Video e Animazione",
+    "Descrizione": "MAGIX VEGAS Pro è un software professionale di montaggio video noto per la sua interfaccia intuitiva, l’elevata velocità di rendering e le funzionalità avanzate di editing. Originariamente sviluppato da Sony e successivamente acquisito da MAGIX, VEGAS Pro è utilizzato da videomaker, youtuber, filmmaker indipendenti e professionisti della post-produzione.",
+    "Tooltip": "Magix Vegas Pro v22.0 B 248",
+    "MRicerca": "Magix Vegas",
+    "Hash": "a07c2d89a2b97673",
+    "HashX32": null,
+    "UUID": "803f0817-e0fa-4343-bf48-590aef65f2ae"
   }
 ]
