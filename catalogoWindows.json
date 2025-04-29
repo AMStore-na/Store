@@ -868,6 +868,20 @@
     "UUID": "157"
   },
   {
+    "Nome": "Indiana Jones e l'antico cerchio",
+    "Link": "https://devuploads.com/bw69p3wwqcdw",
+    "Linkx32": null,
+    "LinkR": null,
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Giochi/indiana_jones_antico_cerchio.png",
+    "Sezione": "Giochi",
+    "Descrizione": "Svela uno dei più grandi misteri della storia in un'avventura in soggettiva per giocatore singolo. Anno 1937. Forze sinistre setacciano il mondo per scoprire il segreto di un potere ancestrale connesso all'antico Cerchio, e solo una persona può fermarle: Indiana Jones",
+    "Tooltip": "Indiana Jones e l'antico cerchio",
+    "MRicerca": null,
+    "Hash": "2d370971be35a581",
+    "HashX32": null,
+    "UUID": "172"
+  },
+  {
     "Nome": "Rhinoceros",
     "Link": "https://devuploads.com/k35wa5minf0n",
     "Linkx32": null,
@@ -1132,6 +1146,34 @@
     "Hash": "82312d9ab30f2941",
     "HashX32": null,
     "UUID": "211efddf-1206-474f-8b3a-17114c121929"
+  },
+  {
+    "Nome": "Adobe Animate",
+    "Link": "https://devuploads.com/wzmnxjii3qbd",
+    "Linkx32": null,
+    "LinkR": null,
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Grafica%20e%20Design/Adobe_Animate.png",
+    "Sezione": "Grafica e Design",
+    "Descrizione": "Progetta animazioni interattive per giochi, programmi televisivi e web. Anima fumetti e banner pubblicitari, crea doodle e avatar animati e inserisci azioni a contenuti di e-learning e infografiche. Animate ti consente di pubblicare velocemente su diverse piattaforme, praticamente in qualsiasi formato, e di raggiungere gli spettatori su tutti gli schermi.",
+    "Tooltip": "Adobe Animate v24.0.9",
+    "MRicerca": "animate",
+    "Hash": "0f14feccea4972a5",
+    "HashX32": null,
+    "UUID": "170"
+  },
+  {
+    "Nome": "Adobe InCopy",
+    "Link": "https://devuploads.com/dqypjh3ud0ec",
+    "Linkx32": null,
+    "LinkR": null,
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Grafica%20e%20Design/Adobe_InCopy.png",
+    "Sezione": "Grafica e Design",
+    "Descrizione": " InCopy consente a editor e copywriter di adattare lo stile del testo, tenere traccia delle modifiche e apportare semplici variazioni al layout di un documento mentre il team di progettazione lavora contemporaneamente allo stesso file in Adobe InDesign, tutto senza sovrascrivere i reciproci contributi.",
+    "Tooltip": "Adobe InCopy v20.3",
+    "MRicerca": "incopy",
+    "Hash": "0cc0d6a2bd259938",
+    "HashX32": null,
+    "UUID": "171"
   },
   {
     "Nome": "Spotify",
@@ -2392,47 +2434,5 @@
     "Hash": "a07c2d89a2b97673",
     "HashX32": null,
     "UUID": "803f0817-e0fa-4343-bf48-590aef65f2ae"
-  },
-  {
-    "Nome": "Adobe Animate",
-    "Link": "https://devuploads.com/wzmnxjii3qbd",
-    "Linkx32": null,
-    "LinkR": null,
-    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Grafica%20e%20Design/Adobe_Animate.png",
-    "Sezione": "Grafica e Design",
-    "Descrizione": "Progetta animazioni interattive per giochi, programmi televisivi e web. Anima fumetti e banner pubblicitari, crea doodle e avatar animati e inserisci azioni a contenuti di e-learning e infografiche. Animate ti consente di pubblicare velocemente su diverse piattaforme, praticamente in qualsiasi formato, e di raggiungere gli spettatori su tutti gli schermi.",
-    "Tooltip": "Adobe Animate v24.0.9",
-    "MRicerca": "animate",
-    "Hash": "0f14feccea4972a5",
-    "HashX32": null,
-    "UUID": "170"
-  },
-  {
-    "Nome": "Adobe InCopy",
-    "Link": "https://devuploads.com/dqypjh3ud0ec",
-    "Linkx32": null,
-    "LinkR": null,
-    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Grafica%20e%20Design/Adobe_InCopy.png",
-    "Sezione": "Grafica e Design",
-    "Descrizione": " InCopy consente a editor e copywriter di adattare lo stile del testo, tenere traccia delle modifiche e apportare semplici variazioni al layout di un documento mentre il team di progettazione lavora contemporaneamente allo stesso file in Adobe InDesign, tutto senza sovrascrivere i reciproci contributi.",
-    "Tooltip": "Adobe InCopy v20.3",
-    "MRicerca": "incopy",
-    "Hash": "0cc0d6a2bd259938",
-    "HashX32": null,
-    "UUID": "171"
-  },
-  {
-    "Nome": "Indiana Jones e l'antico cerchio",
-    "Link": "https://devuploads.com/bw69p3wwqcdw",
-    "Linkx32": null,
-    "LinkR": null,
-    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Giochi/indiana_jones_antico_cerchio.png",
-    "Sezione": "Giochi",
-    "Descrizione": "Svela uno dei più grandi misteri della storia in un'avventura in soggettiva per giocatore singolo. Anno 1937. Forze sinistre setacciano il mondo per scoprire il segreto di un potere ancestrale connesso all'antico Cerchio, e solo una persona può fermarle: Indiana Jones",
-    "Tooltip": "Indiana Jones e l'antico cerchio",
-    "MRicerca": null,
-    "Hash": "2d370971be35a581",
-    "HashX32": null,
-    "UUID": "172"
   }
 ]
