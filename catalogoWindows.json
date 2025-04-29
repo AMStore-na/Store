@@ -2378,5 +2378,19 @@
     "Hash": "a07c2d89a2b97673",
     "HashX32": null,
     "UUID": "803f0817-e0fa-4343-bf48-590aef65f2ae"
+  },
+  {
+    "Nome": "Luminar Neo",
+    "Link": "https://devuploads.com/uhhzckk6nzkh",
+    "Linkx32": null,
+    "LinkR": null,
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Grafica%20e%20Design/Luminar%20Neo.png",
+    "Sezione": "Grafica e Design",
+    "Descrizione": "Luminar Neo è un software di fotoritocco avanzato sviluppato da Skylum, progettato per unire l’editing fotografico tradizionale con strumenti di intelligenza artificiale (IA) all’avanguardia. È pensato per fotografi, content creator e appassionati che vogliono ottenere risultati professionali in modo semplice e veloce, senza dover imparare software complessi come Photoshop.",
+    "Tooltip": "Luminar Neo v1.24.0.14794",
+    "MRicerca": "Luminar",
+    "Hash": "82312d9ab30f2941",
+    "HashX32": null,
+    "UUID": "211efddf-1206-474f-8b3a-17114c121929"
   }
 ]
