@@ -2364,19 +2364,5 @@
     "Hash": "3e4ecc57f8251a2a",
     "HashX32": null,
     "UUID": "169"
-  },
-  {
-    "Nome": "test",
-    "Link": "test",
-    "Linkx32": null,
-    "LinkR": null,
-    "ImmagineUrl": "test",
-    "Sezione": "test",
-    "Descrizione": "test",
-    "Tooltip": "test",
-    "MRicerca": "test",
-    "Hash": "1561a5sd",
-    "HashX32": null,
-    "UUID": "076cd457-9d1e-4212-af6e-3254a1a9d4f4"
   }
 ]
