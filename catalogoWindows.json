@@ -140,6 +140,20 @@
     "UUID": "32"
   },
   {
+    "Nome": "Luxion KeyShot",
+    "Link": "https://devuploads.com/qm92ammw0m8m",
+    "Linkx32": null,
+    "LinkR": null,
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/CAD%2C%20Architettura%20e%20Ingegneria/Luxion_Keyshot_Studio_Pro.png",
+    "Sezione": "CAD, Architettura e Ingegneria",
+    "Descrizione": "KeyShot Studio è una soluzione avanzata di rendering 3D sviluppata da Luxion, progettata per professionisti che necessitano di immagini fotorealistiche di alta qualità in tempi rapidi. Grazie alla sua interfaccia intuitiva e alle potenti funzionalità, KeyShot Studio è ampiamente utilizzato in vari settori, tra cui design industriale, automotive, elettronica, moda e packaging.",
+    "Tooltip": "Luxion KeyShot Studio Pro 2024.3 v13.2.1.1",
+    "MRicerca": "Keyshop",
+    "Hash": "0cb2a4182f700fef",
+    "HashX32": null,
+    "UUID": "173"
+  },
+  {
     "Nome": "IDM Portable",
     "Link": "https://devuploads.com/hw09x86wbw87",
     "Linkx32": null,
@@ -2434,19 +2448,5 @@
     "Hash": "a07c2d89a2b97673",
     "HashX32": null,
     "UUID": "803f0817-e0fa-4343-bf48-590aef65f2ae"
-  },
-  {
-    "Nome": "Luxion KeyShot",
-    "Link": "https://devuploads.com/qm92ammw0m8m",
-    "Linkx32": null,
-    "LinkR": null,
-    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/CAD%2C%20Architettura%20e%20Ingegneria/Luxion_Keyshot_Studio_Pro.png",
-    "Sezione": "CAD, Architettura e Ingegneria",
-    "Descrizione": "KeyShot Studio è una soluzione avanzata di rendering 3D sviluppata da Luxion, progettata per professionisti che necessitano di immagini fotorealistiche di alta qualità in tempi rapidi. Grazie alla sua interfaccia intuitiva e alle potenti funzionalità, KeyShot Studio è ampiamente utilizzato in vari settori, tra cui design industriale, automotive, elettronica, moda e packaging.",
-    "Tooltip": "Luxion KeyShot Studio Pro 2024.3 v13.2.1.1",
-    "MRicerca": "Keyshop",
-    "Hash": "0cb2a4182f700fef",
-    "HashX32": null,
-    "UUID": "173"
   }
 ]
