@@ -15,7 +15,7 @@
     "items": [
       {
         "name": "FL Studio",
-        "imageUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Musica/FLStudio.png",
+        "imageUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Musica e Audio/FL_Studio.png",
         "type": "FLStudio",
         "link": "https://devuploads.com/jivki1fmf76e"
       },
@@ -27,7 +27,7 @@
       },
       {
         "name": "Spotify",
-        "imageUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Musica/Spotify.jpg",
+        "imageUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Musica e Audio/Spotify.png",
         "type": "Spotify",
         "link": "https://devuploads.com/rgt2c0203jzz"
       }
@@ -44,7 +44,7 @@
       },
       {
         "name": "4K Downloader",
-        "imageUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Downloader/4kdownloader.jpg",
+        "imageUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Downloader/4K_Video_Downloader_Plus.png",
         "type": "4KDownloader",
         "link": "https://pastebin.com/x2H6vNX2"
       }
