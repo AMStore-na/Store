@@ -55,31 +55,31 @@
     "items": [
       {
         "name": "Cinema 4D",
-        "imageUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Editing/cinema4d.jpg",
+        "imageUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Video e Animazione/cinema4d.png",
         "type": "Cinema4D",
         "link": "https://devuploads.com/122e1vb4v9tx"
       },
       {
         "name": "Rhino 8",
-        "imageUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Editing/rhino8.jpg",
+        "imageUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Grafica e Design/Rhinoceros.png",
         "type": "Rhino8",
         "link": "https://devuploads.com/yfkwvqlogpi3"
       },
       {
         "name": "Camtasia",
-        "imageUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Editing/camtasia.jpg",
+        "imageUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Video e Design/camtasia.png",
         "type": "Camtasia",
         "link": "https://devuploads.com/bwbybrb2qxz5"
       },
       {
         "name": "CameraBag Pro",
-        "imageUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Editing/camerabagpro.jpg",
+        "imageUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Video e Animazione/camerabagpro.png",
         "type": "CameraBagPro",
         "link": "https://devuploads.com/pfzwctne8ndo"
       },
       {
         "name": "Resolve Studio",
-        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4d/DaVinci_Resolve_Studio.png",
+        "imageUrl": "https://raw.githubusercontent.com/AMStore-na/Store/Immagini/Video e Animazione/DaVinci_Resolve.png",
         "type": "ResolveStudio",
         "link": "https://devuploads.com/majzwcl3muuv"
       },
