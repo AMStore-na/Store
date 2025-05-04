@@ -96,25 +96,25 @@
     "items": [
       {
         "name": "Adobe Cracker",
-        "imageUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Adobe/acc.jpg",
+        "imageUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Attivatori/acc.png",
         "type": "AdobeCrack",
         "link": "https://devuploads.com/xgkidn9t9d78"
       },
       {
         "name": "Acrobat DC",
-        "imageUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Adobe/acrobatpro.jpg",
+        "imageUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/PDF e Office/Adobe_Acrobat_Pro.png",
         "type": "AcrobatDC",
         "link": "https://devuploads.com/7y19e6pq1rqe"
       },
       {
         "name": "Photoshop",
-        "imageUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Adobe/Photoshop.jpg",
+        "imageUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Grafica e Design/Adobe_Photoshop.png",
         "type": "Photoshop",
         "link": "https://devuploads.com/jcrmgd7ki5z3"
       },
       {
         "name": "Illustrator",
-        "imageUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Adobe/illustrator.jpg",
+        "imageUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Grafica e Design/Adobe_Illustrator.png",
         "type": "Illustrator",
         "link": "https://devuploads.com/igu0qobyogsy"
       }
