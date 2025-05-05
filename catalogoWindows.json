@@ -2462,5 +2462,19 @@
     "Hash": "2be8c536e9c65740",
     "HashX32": null,
     "UUID": "174"
+  },
+  {
+    "Nome": "Nero Platinum Suite",
+    "Link": "https://devuploads.com/gxrsz6mr38ep",
+    "Linkx32": null,
+    "LinkR": null,
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Video%20e%20Animazione/Nero_Platinum_Suite.png",
+    "Sezione": "Video e Animazione",
+    "Descrizione": null,
+    "Tooltip": "Nero Platinum Suite 2021 v23.0.1000",
+    "MRicerca": "cyberlink",
+    "Hash": "380eb235290d95dc",
+    "HashX32": null,
+    "UUID": "175"
   }
 ]
