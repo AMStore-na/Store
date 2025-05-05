@@ -11,7 +11,7 @@
         "MRicerca": "Tools AIMODS, Office",
         "Hash": "",
         "HashX32": null,
-        "UUID": "141"
+        "UUID": "43"
     },
     {
         "Nome": "Autodesk Revit",
@@ -25,7 +25,7 @@
         "MRicerca": "revit",
         "Hash": "",
         "HashX32": null,
-        "UUID": "31"
+        "UUID": "44"
     },
     {
         "Nome": "Autodesk AutoCAD 2025",
@@ -39,7 +39,7 @@
         "MRicerca": "autocad",
         "Hash": "",
         "HashX32": null,
-        "UUID": "32"
+        "UUID": "71"
     },
     {
         "Nome": "Autodesk Maya",
@@ -53,7 +53,7 @@
         "MRicerca": "maya",
         "Hash": "",
         "HashX32": null,
-        "UUID": "33"
+        "UUID": "94"
     },
     {
         "Nome": "Enscape 3D",
@@ -123,7 +123,7 @@
         "MRicerca": "3df",
         "Hash": "c45c105f366f17bd",
         "HashX32": null,
-        "UUID": "ca3ce18f-b274-401c-928d-c0415fd14e1c"
+        "UUID": "31"
     },
     {
         "Nome": "Autodesk AutoCAD 2026",
@@ -137,7 +137,21 @@
         "MRicerca": "autocad",
         "Hash": "fd05ca12209c1431",
         "HashX32": null,
-        "UUID": "f6e3505d-67cc-41f3-844e-e8b8b126f203"
+        "UUID": "32"
+    },
+    {
+        "Nome": "Luxion KeyShot",
+        "Link": "https://devuploads.com/qm92ammw0m8m",
+        "Linkx32": null,
+        "LinkR": null,
+        "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/CAD%2C%20Architettura%20e%20Ingegneria/Luxion_Keyshot_Studio_Pro.png",
+        "Sezione": "CAD, Architettura e Ingegneria",
+        "Descrizione": "KeyShot Studio è una soluzione avanzata di rendering 3D sviluppata da Luxion, progettata per professionisti che necessitano di immagini fotorealistiche di alta qualità in tempi rapidi. Grazie alla sua interfaccia intuitiva e alle potenti funzionalità, KeyShot Studio è ampiamente utilizzato in vari settori, tra cui design industriale, automotive, elettronica, moda e packaging.",
+        "Tooltip": "Luxion KeyShot Studio Pro 2024.3 v13.2.1.1",
+        "MRicerca": "Keyshop",
+        "Hash": "0cb2a4182f700fef",
+        "HashX32": null,
+        "UUID": "173"
     },
     {
         "Nome": "IDM Portable",
@@ -169,16 +183,16 @@
     },
     {
         "Nome": "4K Video Downloader Plus",
-        "Link": "https://devuploads.com/w22lvypb6i1n",
-        "Linkx32": "https://devuploads.com/wyqb4bn1h4wa",
+        "Link": "https://devuploads.com/oabjqzmsolve",
+        "Linkx32": "https://devuploads.com/97s2a0c8m8us",
         "LinkR": "",
         "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Downloader/4K_Video_Downloader_Plus.png",
         "Sezione": "Downloader",
         "Descrizione": "4K Video Downloader è un'applicazione multipiattaforma che consente di salvare video di alta qualità da YouTube e altri siti web in pochi secondi.",
-        "Tooltip": "4K Video Downloader Plus v25.0.3.0186",
+        "Tooltip": "4K Video Downloader Plus v25.0.",
         "MRicerca": "4K",
-        "Hash": "1f6f60b03fbc6bcd",
-        "HashX32": "458470891438b713",
+        "Hash": "e1f6ab5da6560310",
+        "HashX32": "4c37cf5047c52b90",
         "UUID": "42"
     },
     {
@@ -211,15 +225,15 @@
     },
     {
         "Nome": "Moyea Downloader",
-        "Link": "https://devuploads.com/gkuh7r2h3eev",
+        "Link": "https://devuploads.com/g2ak16bjw8rn",
         "Linkx32": null,
         "LinkR": "",
         "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Downloader/Moyea_Downloader.png",
         "Sezione": "Downloader",
         "Descrizione": "a Software offre strumenti per il download e la conversione video, incluso il download da piattaforme streaming e la conversione di file SWF e PowerPoint in vari formati. Offre la soluzione più completa per scaricare video in streaming da Amazon Prime, Netflix, Disney+, etc. Ideale per l'uso personale e aziendale, le soluzioni semplificano la creazione e la gestione di contenuti multimediali, garantendo alta qualità e flessibilità.",
-        "Tooltip": "Moyea Downloader v20.1.0.0",
+        "Tooltip": "Moyea Downloader v21.0.0.2",
         "MRicerca": "moyea",
-        "Hash": "a7e8a7d2885152bf",
+        "Hash": "c6c7d6fe54a81657",
         "HashX32": null,
         "UUID": "47"
     },
@@ -253,31 +267,31 @@
     },
     {
         "Nome": "IDM",
-        "Link": "https://devuploads.com/e1ycoxphw99f",
+        "Link": "https://devuploads.com/6rz33lkq7n6s",
         "Linkx32": null,
         "LinkR": "",
         "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Downloader/IDM.png",
         "Sezione": "Downloader",
         "Descrizione": "Installa Internet Download Manager (IDM) per interrompere l'attesa per i download. Rimarrai davvero stupito dalla velocità con cui IDM scarica i tuoi file. IDM riparerà anche i download interrotti e riprenderà a causa di connessioni perse, problemi di rete, arresti del computer o interruzioni di corrente impreviste.",
-        "Tooltip": "IDM v6.42 Build 33",
+        "Tooltip": "IDM v6.42 Build 35",
         "MRicerca": "idm",
-        "Hash": "0ce70fa08d72ad22",
+        "Hash": "1c27f068ee6ff9ab",
         "HashX32": null,
         "UUID": "50"
     },
     {
         "Nome": "Pazu StreamGet",
-        "Link": "https://devuploads.com/b3gwddlzjsbd",
+        "Link": "https://devuploads.com/ufsvrawf0vcp",
         "Linkx32": null,
         "LinkR": null,
         "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Downloader/Pazu_StreamGet.png",
         "Sezione": "Downloader",
         "Descrizione": "Pazu StreamGet è un potente strumento di download video che consente di scaricare film e programmi da varie piattaforme di streaming direttamente sul tuo dispositivo Windows. Permette il download da Amazon Prime  Video, Netflix, Disney Plus, Hulu e molti altri.",
-        "Tooltip": "Pazu StreamGet v2.6.2",
+        "Tooltip": "Pazu StreamGet v2.6.3",
         "MRicerca": "Pazu",
-        "Hash": "e1edac282558bd4e",
+        "Hash": "ea35f8920f70a525",
         "HashX32": null,
-        "UUID": "63bf6f5c-bd7f-4b10-a7be-d6e9d917a721"
+        "UUID": "33"
     },
     {
         "Nome": "Grand Theft Auto V",
@@ -795,7 +809,7 @@
         "MRicerca": "inzoi",
         "Hash": "de5d51d83c2d09df",
         "HashX32": null,
-        "UUID": "4a923195-02f4-465b-b9e0-cd09660e608b"
+        "UUID": "141"
     },
     {
         "Nome": "That's Not My Neighbor",
@@ -809,7 +823,7 @@
         "MRicerca": "Giochi",
         "Hash": "80ef9970a4f5075e",
         "HashX32": null,
-        "UUID": "4a77b621-cb33-467d-b5b8-1b671f493718"
+        "UUID": "153"
     },
     {
         "Nome": "Hello Kitty Island Adventure",
@@ -823,7 +837,7 @@
         "MRicerca": "Giochi",
         "Hash": "ebf1b71f3d76d0c6",
         "HashX32": null,
-        "UUID": "193767b3-e850-42b7-a1bb-70b9484d65fe"
+        "UUID": "154"
     },
     {
         "Nome": "Schedule I",
@@ -837,7 +851,7 @@
         "MRicerca": "Giochi",
         "Hash": "91a748674ba85820",
         "HashX32": null,
-        "UUID": "7e63ca0f-5840-48e5-8874-19bdfe336be2"
+        "UUID": "155"
     },
     {
         "Nome": "Silent Hill 2 - Remake",
@@ -851,7 +865,7 @@
         "MRicerca": "silent",
         "Hash": "eee3365a63ed72ed",
         "HashX32": null,
-        "UUID": "8d2a98de-3e2a-4636-a65b-27f62189d10d"
+        "UUID": "156"
     },
     {
         "Nome": "Clair Obscur: Expedition 33 – Deluxe Edition",
@@ -865,19 +879,33 @@
         "MRicerca": "clar",
         "Hash": "b110598f56cd10c4",
         "HashX32": null,
-        "UUID": "9b355354-90c5-422c-8d19-a6cc896bdc61"
+        "UUID": "157"
+    },
+    {
+        "Nome": "Indiana Jones e L'Antico Cerchio",
+        "Link": "https://devuploads.com/bw69p3wwqcdw",
+        "Linkx32": null,
+        "LinkR": null,
+        "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Giochi/Indiana_Jones_e_L'Antico_Cerchio.png",
+        "Sezione": "Giochi",
+        "Descrizione": "Svela uno dei più grandi misteri della storia in un'avventura in soggettiva per giocatore singolo. Anno 1937. Forze sinistre setacciano il mondo per scoprire il segreto di un potere ancestrale connesso all'antico Cerchio, e solo una persona può fermarle: Indiana Jones",
+        "Tooltip": "Indiana Jones e l'antico cerchio",
+        "MRicerca": null,
+        "Hash": "2d370971be35a581",
+        "HashX32": null,
+        "UUID": "172"
     },
     {
         "Nome": "Rhinoceros",
-        "Link": "https://devuploads.com/k35wa5minf0n",
+        "Link": "https://devuploads.com/xr0cre61l52m",
         "Linkx32": null,
         "LinkR": "",
         "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Grafica%20e%20Design/Rhinoceros.png",
         "Sezione": "Grafica e Design",
         "Descrizione": "Rhino, noto anche come Rhinoceros 3D, è un potente software di modellazione 3D utilizzato in vari settori come l'architettura, l'ingegneria, il design navale, la gioielleria e altro ancora",
-        "Tooltip": "Rhinoceros v8.17.25066.7001",
+        "Tooltip": "Rhinoceros v8.18.25100.11001",
         "MRicerca": "rhinoceros",
-        "Hash": "63b3078112964f81",
+        "Hash": "a82013afc94b93c3",
         "HashX32": "",
         "UUID": "12"
     },
@@ -925,35 +953,35 @@
     },
     {
         "Nome": "Adobe Photoshop",
-        "Link": "https://devuploads.com/u6f1klo6a5wr",
+        "Link": "https://devuploads.com/pikksc62ngg0",
         "Linkx32": null,
         "LinkR": "",
         "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Grafica%20e%20Design/Adobe_Photoshop.png",
         "Sezione": "Grafica e Design",
         "Descrizione": "Adobe Photoshop è un software potente e versatile per l’editing digitale delle immagini e la progettazione grafica.",
-        "Tooltip": "Adobe Photoshop 2025 v.26.1",
+        "Tooltip": "Adobe Photoshop 2025 v26.6",
         "MRicerca": "photoshop",
-        "Hash": "",
+        "Hash": "fe89e0188df70fb3",
         "HashX32": "",
         "UUID": "2"
     },
     {
         "Nome": "Adobe Illustrator",
-        "Link": "https://devuploads.com/6bgcon2wya1b",
+        "Link": "https://devuploads.com/f4mvkkcvyyg4",
         "Linkx32": null,
         "LinkR": "",
         "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Grafica%20e%20Design/Adobe_Illustrator.png",
         "Sezione": "Grafica e Design",
         "Descrizione": "Adobe Illustrator è un software di grafica vettoriale sviluppato da Adobe Inc. È uno strumento molto popolare tra designer, illustratori e artisti per creare e modificare immagini e design.",
-        "Tooltip": "Adobe Illustrator 2024 v29.1",
+        "Tooltip": "Adobe Illustrator 2024 v29.5",
         "MRicerca": "illustrator",
-        "Hash": "",
+        "Hash": "75dd462dd085fd7a",
         "HashX32": null,
         "UUID": "4"
     },
     {
         "Nome": "Adobe InDesign",
-        "Link": "https://devuploads.com/nzrhgxyu1b63",
+        "Link": "https://devuploads.com/y7gishu35v0b",
         "Linkx32": null,
         "LinkR": "",
         "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Grafica%20e%20Design/Adobe_InDesign.png",
@@ -961,21 +989,21 @@
         "Descrizione": "Adobe InDesign è un software di desktop publishing (DTP) sviluppato da Adobe Systems, ampiamente utilizzato per la creazione di layout e design grafici per una varietà di pubblicazioni.",
         "Tooltip": "Adobe InDesign 2024 v19.5.0.084",
         "MRicerca": "indesign",
-        "Hash": "",
+        "Hash": "a9755783542d7d78",
         "HashX32": null,
         "UUID": "6"
     },
     {
         "Nome": "Adobe Lightroom Classic",
-        "Link": "https://devuploads.com/64dmlwznnqdr",
+        "Link": "https://devuploads.com/ks3wi0jakdhw",
         "Linkx32": null,
         "LinkR": "",
         "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Grafica%20e%20Design/Adobe_Lightroom_Classic.png",
         "Sezione": "Grafica e Design",
         "Descrizione": "Adobe Lightroom Classic è un software di editing e gestione fotografica sviluppato da Adobe Systems, particolarmente apprezzato dai fotografi professionisti e dagli appassionati.",
-        "Tooltip": "Adobe Lightroom Classic v13.4.0.202406181129",
+        "Tooltip": "Adobe Lightroom Classic v14.3",
         "MRicerca": "lightroom",
-        "Hash": "",
+        "Hash": "63a841f9cbd92372",
         "HashX32": null,
         "UUID": "7"
     },
@@ -1117,7 +1145,49 @@
         "MRicerca": "clip",
         "Hash": "a76d41a744cd7e5a",
         "HashX32": null,
-        "UUID": "52e605fb-c94c-41c6-b2d6-e82c9cf581ab"
+        "UUID": "158"
+    },
+    {
+        "Nome": "Luminar Neo",
+        "Link": "https://devuploads.com/uhhzckk6nzkh",
+        "Linkx32": null,
+        "LinkR": null,
+        "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Grafica%20e%20Design/Luminar_Neo.png",
+        "Sezione": "Grafica e Design",
+        "Descrizione": "Luminar Neo è un software di fotoritocco avanzato sviluppato da Skylum, progettato per unire l’editing fotografico tradizionale con strumenti di intelligenza artificiale (IA) all’avanguardia. È pensato per fotografi, content creator e appassionati che vogliono ottenere risultati professionali in modo semplice e veloce, senza dover imparare software complessi come Photoshop.",
+        "Tooltip": "Luminar Neo v1.24.0.14794",
+        "MRicerca": "Luminar",
+        "Hash": "82312d9ab30f2941",
+        "HashX32": null,
+        "UUID": "211efddf-1206-474f-8b3a-17114c121929"
+    },
+    {
+        "Nome": "Adobe Animate",
+        "Link": "https://devuploads.com/wzmnxjii3qbd",
+        "Linkx32": null,
+        "LinkR": null,
+        "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Grafica%20e%20Design/Adobe_Animate.png",
+        "Sezione": "Grafica e Design",
+        "Descrizione": "Progetta animazioni interattive per giochi, programmi televisivi e web. Anima fumetti e banner pubblicitari, crea doodle e avatar animati e inserisci azioni a contenuti di e-learning e infografiche. Animate ti consente di pubblicare velocemente su diverse piattaforme, praticamente in qualsiasi formato, e di raggiungere gli spettatori su tutti gli schermi.",
+        "Tooltip": "Adobe Animate v24.0.9",
+        "MRicerca": "animate",
+        "Hash": "0f14feccea4972a5",
+        "HashX32": null,
+        "UUID": "170"
+    },
+    {
+        "Nome": "Adobe InCopy",
+        "Link": "https://devuploads.com/dqypjh3ud0ec",
+        "Linkx32": null,
+        "LinkR": null,
+        "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Grafica%20e%20Design/Adobe_InCopy.png",
+        "Sezione": "Grafica e Design",
+        "Descrizione": " InCopy consente a editor e copywriter di adattare lo stile del testo, tenere traccia delle modifiche e apportare semplici variazioni al layout di un documento mentre il team di progettazione lavora contemporaneamente allo stesso file in Adobe InDesign, tutto senza sovrascrivere i reciproci contributi.",
+        "Tooltip": "Adobe InCopy v20.3",
+        "MRicerca": "incopy",
+        "Hash": "0cc0d6a2bd259938",
+        "HashX32": null,
+        "UUID": "171"
     },
     {
         "Nome": "Spotify",
@@ -1201,7 +1271,7 @@
         "MRicerca": "serato",
         "Hash": "c446799bbc2c271d",
         "HashX32": null,
-        "UUID": "01f8bdda-33c1-4c3b-8284-121601c1a0a9"
+        "UUID": "159"
     },
     {
         "Nome": "MODO BASS 2",
@@ -1215,7 +1285,7 @@
         "MRicerca": "bass",
         "Hash": "9bfee2218095f482",
         "HashX32": null,
-        "UUID": "2f5378a5-34c8-4d74-8486-4af22956bd10"
+        "UUID": "160"
     },
     {
         "Nome": "Mixed In Key",
@@ -1229,7 +1299,7 @@
         "MRicerca": "mixed",
         "Hash": "0a540d35aac0276a",
         "HashX32": null,
-        "UUID": "8db794dc-e011-4bf2-be13-9e82d27710a1"
+        "UUID": "161"
     },
     {
         "Nome": "NetSpot",
@@ -1313,7 +1383,7 @@
         "MRicerca": "pdf",
         "Hash": "aaabc327daa9ca51",
         "HashX32": null,
-        "UUID": "b5ca680d-3d74-40f5-8b58-12eaaf8c1f92"
+        "UUID": "162"
     },
     {
         "Nome": "Adobe Acrobat Pro",
@@ -1425,7 +1495,7 @@
         "MRicerca": "Wallpaper",
         "Hash": "5b3287aad3f983df",
         "HashX32": null,
-        "UUID": "a22cc928-cd34-461f-b2bd-679969bf181f"
+        "UUID": "163"
     },
     {
         "Nome": "StartAllBack",
@@ -1509,7 +1579,7 @@
         "MRicerca": "finder",
         "Hash": "57632eb3e1cb750f",
         "HashX32": null,
-        "UUID": "01dd99fb-1668-44e2-9ee9-05728e39ed6c"
+        "UUID": "164"
     },
     {
         "Nome": "Movavi Screen Recorder",
@@ -1565,7 +1635,7 @@
         "MRicerca": "snagit",
         "Hash": "5cb24a8f7865f047",
         "HashX32": null,
-        "UUID": "f0098774-cdbc-4c79-8a42-6d4df64f1607"
+        "UUID": "165"
     },
     {
         "Nome": "Tenorshare 4DDIG Duplicate File Detector",
@@ -1733,7 +1803,7 @@
         "MRicerca": "64",
         "Hash": "9feb19cbbd4c7b7e",
         "HashX32": "9feb19cbbd4c7b7e",
-        "UUID": "2f00af2f-4b95-4daf-a025-18d7bc773cd2"
+        "UUID": "166"
     },
     {
         "Nome": "Adobe Master Collection",
@@ -2139,7 +2209,7 @@
         "MRicerca": "reboot",
         "Hash": "1b883d695307eb56v",
         "HashX32": null,
-        "UUID": "4497d41a-17db-4da5-8467-f27db57a6787"
+        "UUID": "167"
     },
     {
         "Nome": "Wondershare Filmora",
@@ -2185,15 +2255,15 @@
     },
     {
         "Nome": "UniFab",
-        "Link": "https://devuploads.com/bzeyzplxcm2g",
+        "Link": "https://devuploads.com/bb64mdcfzxpq",
         "Linkx32": null,
         "LinkR": "",
         "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Video%20e%20Animazione/UniFab.png",
         "Sezione": "Video e Animazione",
         "Descrizione": "UniFab è un software di miglioramento delle immagini e dei video sviluppato da Topaz Labs, progettato per migliorare la qualità delle foto e dei video utilizzando l'intelligenza artificiale.",
-        "Tooltip": "UniFab v2.0.2.1",
+        "Tooltip": "UniFab v3.0.1.6",
         "MRicerca": "unifab",
-        "Hash": "",
+        "Hash": "fc83d20cb15578f5",
         "HashX32": null,
         "UUID": "53"
     },
@@ -2321,7 +2391,7 @@
         "MRicerca": "Gestione Foto/Video e Editing",
         "Hash": "6f3dc78279e9c8d6",
         "HashX32": null,
-        "UUID": "3fec5fa3-11f5-4ead-89ab-52289bcc74a0"
+        "UUID": "168"
     },
     {
         "Nome": "Adobe Premiere Pro",
@@ -2363,6 +2433,20 @@
         "MRicerca": "power",
         "Hash": "3e4ecc57f8251a2a",
         "HashX32": null,
-        "UUID": "155a13cf-1976-45a8-acff-a5dfb2f74797"
+        "UUID": "169"
+    },
+    {
+        "Nome": "MAGIX VEGAS Pro",
+        "Link": "https://devuploads.com/3stjmktp1y5a",
+        "Linkx32": null,
+        "LinkR": null,
+        "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Video%20e%20Animazione/MAGIX_VEGAS_Pro.png",
+        "Sezione": "Video e Animazione",
+        "Descrizione": "MAGIX VEGAS Pro è un software professionale di montaggio video noto per la sua interfaccia intuitiva, l’elevata velocità di rendering e le funzionalità avanzate di editing. Originariamente sviluppato da Sony e successivamente acquisito da MAGIX, VEGAS Pro è utilizzato da videomaker, youtuber, filmmaker indipendenti e professionisti della post-produzione.",
+        "Tooltip": "Magix Vegas Pro v22.0 B 248",
+        "MRicerca": "Magix Vegas",
+        "Hash": "a07c2d89a2b97673",
+        "HashX32": null,
+        "UUID": "803f0817-e0fa-4343-bf48-590aef65f2ae"
     }
 ]
