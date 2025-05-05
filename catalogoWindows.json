@@ -2448,5 +2448,19 @@
     "Hash": "a07c2d89a2b97673",
     "HashX32": null,
     "UUID": "803f0817-e0fa-4343-bf48-590aef65f2ae"
+  },
+  {
+    "Nome": "SKlauncher",
+    "Link": "https://devuploads.com/43bdsbgxdwp0",
+    "Linkx32": null,
+    "LinkR": null,
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Giochi/SKlauncher.png",
+    "Sezione": "Giochi",
+    "Descrizione": "SKlauncher è un launcher che offre un'integrazione perfetta con i modloader Fabric, Forge, NeoForge e Quilt, consentendoti di personalizzare senza sforzo la tua esperienza Minecraft.",
+    "Tooltip": "SKlauncher v.3.2.12",
+    "MRicerca": "sklauncher",
+    "Hash": "2be8c536e9c65740",
+    "HashX32": null,
+    "UUID": "174"
   }
 ]
