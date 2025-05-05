@@ -379,15 +379,15 @@
   },
   {
     "Nome": "Supermarket Simulator",
-    "Link": "https://devuploads.com/qoq7y7i2zjeu",
+    "Link": "https://devuploads.com/4k2oim3t08c4",
     "Linkx32": null,
     "LinkR": "",
     "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Giochi/Supermarket_Simulator.png",
     "Sezione": "Giochi",
     "Descrizione": "Supermarket Simulator è un gioco di simulazione in cui puoi gestire il tuo supermercato, dall'inventario alla gestione del personale",
-    "Tooltip": "Supermarket Simulator v0.5",
+    "Tooltip": "Supermarket Simulator v0.8.1",
     "MRicerca": "supermarket",
-    "Hash": "",
+    "Hash": "e0a4d2b4fec4b1d2",
     "HashX32": null,
     "UUID": "86"
   },
