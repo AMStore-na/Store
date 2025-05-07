@@ -1233,15 +1233,15 @@
   },
   {
     "Nome": "FL Studio",
-    "Link": "https://devuploads.com/1yxh6pdyy5ti",
+    "Link": "https://devuploads.com/a76ssqvybk7g",
     "Linkx32": null,
     "LinkR": "",
     "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Musica%20e%20Audio/FL_Studio.png",
     "Sezione": "Musica e Audio",
     "Descrizione": "FL Studio è una delle stazioni di lavoro audio digitali (DAW) più popolari, usata per la produzione musicale, la composizione, l'arrangiamento e il mixaggio. È conosciuta per la sua interfaccia intuitiva, che offre una vasta gamma di strumenti per musicisti, produttori e ingegneri del suono.",
-    "Tooltip": "FL Studio",
+    "Tooltip": "FL Studio v24.2.2.4597",
     "MRicerca": "fl",
-    "Hash": "",
+    "Hash": "569b70af08839d89",
     "HashX32": null,
     "UUID": "127"
   },
