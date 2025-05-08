@@ -1330,6 +1330,20 @@
     "UUID": "161"
   },
   {
+    "Nome": "Waves Ultimate 15",
+    "Link": "https://devuploads.com/wmyl3jjnbk52",
+    "Linkx32": null,
+    "LinkR": null,
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Musica%20e%20Audio/Waves_Ultimate_15.png",
+    "Sezione": "Musica e Audio",
+    "Descrizione": "Waves Ultimate offre oltre 220 plug-in professionali per produzione, mixaggio e mastering, sempre aggiornati e con nuovi strumenti aggiunti regolarmente. Include StudioVerse, una comunità AI con migliaia di catene di effetti pronte all'uso. È compatibile con tutti i principali DAW e supporta due attivazioni simultanee. Ideale per chi cerca una soluzione completa e affidabile per la produzione audio.",
+    "Tooltip": "Waves Ultimate 15 v25.04.07 ",
+    "MRicerca": "Waves",
+    "Hash": "66224fbcc922fda7",
+    "HashX32": null,
+    "UUID": "177"
+  },
+  {
     "Nome": "NetSpot",
     "Link": "https://devuploads.com/vhk49q5bfmb2",
     "Linkx32": null,
@@ -2490,19 +2504,5 @@
     "Hash": "380eb235290d95dc",
     "HashX32": null,
     "UUID": "175"
-  },
-  {
-    "Nome": "Waves Ultimate 15",
-    "Link": "https://devuploads.com/wmyl3jjnbk52",
-    "Linkx32": null,
-    "LinkR": null,
-    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Musica%20e%20Audio/Waves_Ultimate_15.png",
-    "Sezione": "Musica e Audio",
-    "Descrizione": "Waves Ultimate offre oltre 220 plug-in professionali per produzione, mixaggio e mastering, sempre aggiornati e con nuovi strumenti aggiunti regolarmente. Include StudioVerse, una comunità AI con migliaia di catene di effetti pronte all'uso. È compatibile con tutti i principali DAW e supporta due attivazioni simultanee. Ideale per chi cerca una soluzione completa e affidabile per la produzione audio.",
-    "Tooltip": "Waves Ultimate 15 v25.04.07 ",
-    "MRicerca": "Waves",
-    "Hash": "66224fbcc922fda7",
-    "HashX32": null,
-    "UUID": "177"
   }
 ]
