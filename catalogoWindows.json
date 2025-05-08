@@ -2518,5 +2518,19 @@
     "Hash": "b65fa44ea331bc45",
     "HashX32": null,
     "UUID": "178"
+  },
+  {
+    "Nome": "Lossless Scaling",
+    "Link": "https://devuploads.com/9aa0qk7zliqs",
+    "Linkx32": null,
+    "LinkR": null,
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Giochi/Lossless_Scaling.png",
+    "Sezione": "Giochi",
+    "Descrizione": "Lossless Scaling è un'applicazione progettata per migliorare l'esperienza di gioco su PC. Utilizza algoritmi avanzati di upscaling e generazione di frame basati su machine learning, come LSFG, per aumentare il frame rate e la qualità visiva in giochi che non supportano nativamente queste funzionalità. Supporta una vasta gamma di tecniche di scaling, tra cui AMD FSR, NVIDIA Image Scaling e Anime4K, rendendola compatibile con giochi moderni, titoli retrò e emulatori. Ideale per sistemi con GPU meno potenti o per migliorare le prestazioni su dispositivi come Steam Deck e ROG Ally.",
+    "Tooltip": "Lossless Scaling Build 17646233",
+    "MRicerca": "giochi",
+    "Hash": "67f89a2f82371293",
+    "HashX32": null,
+    "UUID": "179"
   }
 ]
