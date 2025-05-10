@@ -2310,6 +2310,20 @@
     "UUID": "167"
   },
   {
+    "Nome": "USB Safely Remove",
+    "Link": "https://devuploads.com/1bsmjq0z4knp",
+    "Linkx32": null,
+    "LinkR": null,
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Utility%20di%20Sistema%20e%20Manutenzione/USB_Safely_Remove.png",
+    "Sezione": "Utility di Sistema e Manutenzione",
+    "Descrizione": null,
+    "Tooltip": "USB Safely Remove v7.1.1.1326",
+    "MRicerca": "usb",
+    "Hash": "488fb1f1c3db65d7",
+    "HashX32": null,
+    "UUID": "182"
+  },
+  {
     "Nome": "Wondershare Filmora",
     "Link": "https://devuploads.com/74538nrm9rf0",
     "Linkx32": null,
@@ -2560,19 +2574,5 @@
     "Hash": "380eb235290d95dc",
     "HashX32": null,
     "UUID": "175"
-  },
-  {
-    "Nome": "USB Safely Remove",
-    "Link": "https://devuploads.com/1bsmjq0z4knp",
-    "Linkx32": null,
-    "LinkR": null,
-    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Utility%20di%20Sistema%20e%20Manutenzione/USB_Safely_Remove.png",
-    "Sezione": "Utility di Sistema e Manutenzione",
-    "Descrizione": null,
-    "Tooltip": "USB Safely Remove v7.1.1.1326",
-    "MRicerca": "usb",
-    "Hash": "488fb1f1c3db65d7",
-    "HashX32": null,
-    "UUID": "182"
   }
 ]
