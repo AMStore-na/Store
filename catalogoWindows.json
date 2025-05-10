@@ -2546,5 +2546,19 @@
     "Hash": "380eb235290d95dc",
     "HashX32": null,
     "UUID": "175"
+  },
+  {
+    "Nome": "Age of Empires II - Definitive Edition",
+    "Link": "https://devuploads.com/9jm71ifyoe86",
+    "Linkx32": null,
+    "LinkR": null,
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Giochi/Age_of_Empires_II_Definitive_Edition.png",
+    "Sezione": "Giochi",
+    "Descrizione": "Age of Empires II: Definitive Edition è una versione rimasterizzata del classico gioco di strategia in tempo reale del 1999, sviluppata da World's Edge e Forgotten Empires e pubblicata da Xbox Game Studios. Questa edizione definitiva celebra il 20º anniversario del titolo originale, offrendo grafica migliorata con supporto per la risoluzione 4K, animazioni più fluide e un comparto audio ottimizzato. ",
+    "Tooltip": "Age of Empires 2 - Definitive Edition v101.103.12349.0",
+    "MRicerca": "Age",
+    "Hash": "9c862ba164ab3741",
+    "HashX32": null,
+    "UUID": "181"
   }
 ]
