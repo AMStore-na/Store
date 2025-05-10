@@ -2532,5 +2532,19 @@
     "Hash": "380eb235290d95dc",
     "HashX32": null,
     "UUID": "175"
+  },
+  {
+    "Nome": "The Last Of Us Pt 2 Remastered",
+    "Link": "https://devuploads.com/8vejsgud0zci",
+    "Linkx32": null,
+    "LinkR": null,
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Giochi/The_Last_of_Us_-_Parte_II_Remastered.png",
+    "Sezione": "Giochi",
+    "Descrizione": "The Last of Us Parte II Remastered è una versione migliorata del gioco originale, sviluppato da Naughty Dog, che porta con sé grafica potenziata, tempi di caricamento ridotti e nuove funzionalità. Il gioco segue la storia di Ellie, una giovane donna che intraprende una missione di vendetta in un mondo post-apocalittico.",
+    "Tooltip": "The Last Of Us PT2 Remastered",
+    "MRicerca": "The Last Of Us",
+    "Hash": "9d7ad06c77de2692",
+    "HashX32": null,
+    "UUID": "180"
   }
 ]
