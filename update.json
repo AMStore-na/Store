@@ -1,7 +1,8 @@
 { 
-    "version": "1.0.1.5", 
+    "version": "1.0.1.6", 
     "releaseNotes": [
-      "Fix Codice errore 4"
+      "Aggiunto nel menuù STORE, la voce 'Programmi Installati' per eseguire una disinstallazione pulita dei programmi",
+      "Cambiato visualizzazione ChangeLog ora mostra il passaggio della versione programmi"
      ],
     "updateUrl": "https://github.com/AMStore-na/Store/releases/download/Store/AIMODS-Store.exe" 
 }
