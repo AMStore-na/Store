@@ -2602,5 +2602,19 @@
     "Hash": "380eb235290d95dc",
     "HashX32": null,
     "UUID": "175"
+  },
+  {
+    "Nome": "Cleverget",
+    "Link": "https://devuploads.com/cttrvnx7tl96",
+    "Linkx32": null,
+    "LinkR": null,
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Downloader/Cleverget.png",
+    "Sezione": "Downloader",
+    "Descrizione": "CleverGet è un software per il download di video che consente di scaricare contenuti da numerose piattaforme di streaming e siti web, come YouTube, Netflix, Amazon Prime Video e molti altri. Supporta la registrazione e il salvataggio di video in alta qualità, fino a 8K, in vari formati come MP4, MKV e altri. È utile per chi desidera guardare contenuti offline in modo semplice e veloce.",
+    "Tooltip": "Cleverget v21.0.0.2",
+    "MRicerca": "Cleverget",
+    "Hash": "3234a714d4674bcb",
+    "HashX32": null,
+    "UUID": "185"
   }
 ]
