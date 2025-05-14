@@ -288,7 +288,7 @@
     "Sezione": "Downloader",
     "Descrizione": "Installa Internet Download Manager (IDM) per interrompere l'attesa per i download. Rimarrai davvero stupito dalla velocità con cui IDM scarica i tuoi file. IDM riparerà anche i download interrotti e riprenderà a causa di connessioni perse, problemi di rete, arresti del computer o interruzioni di corrente impreviste.",
     "Tooltip": "IDM v6.42 Build 36",
-    "MRicerca": "idm",
+    "MRicerca": "internet download manager",
     "Hash": "69eb8fbd55da6b8d",
     "HashX32": null,
     "UUID": "50"
