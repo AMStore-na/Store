@@ -1008,6 +1008,34 @@
     "UUID": "181"
   },
   {
+    "Nome": "Hogwarts Legacy",
+    "Link": "https://devuploads.com/bpzsm74x9ybj",
+    "Linkx32": null,
+    "LinkR": null,
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Giochi/Hogwarts_Legacy_Digital_Deluxe_Edition.png",
+    "Sezione": "Giochi",
+    "Descrizione": "Hogwarts Legacy è un gioco di ruolo d'azione open-world ambientato nell'universo di Harry Potter. Ambientato nel 1800, permette di esplorare Hogwarts e i suoi dintorni, frequentare lezioni, padroneggiare incantesimi, preparare pozioni e interagire con creature magiche. Il gioco offre un'ampia personalizzazione del personaggio e una trama originale, indipendente dai libri e film.",
+    "Tooltip": "Hogwarts Legacy: Digital Deluxe Edition Build 10461750",
+    "MRicerca": "legacy",
+    "Hash": "ad4abb182f0fca0d",
+    "HashX32": null,
+    "UUID": "189"
+  },
+  {
+    "Nome": "The Precinct",
+    "Link": "https://devuploads.com/o78bojdq5zhd",
+    "Linkx32": null,
+    "LinkR": null,
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Giochi/The_Precinct.png",
+    "Sezione": "Giochi",
+    "Descrizione": "The Precinct è un gioco d'azione sandbox con visuale dall'alto, ambientato ad Averno City nel 1983. Nei panni del giovane agente Nick Cordell Jr., i giocatori affrontano crimini generati proceduralmente, inseguimenti dinamici e ambienti distruttibili. Ispirato ai classici polizieschi, combina atmosfera noir e neon con meccaniche di pattugliamento, arresti e indagini. ",
+    "Tooltip": "The Precinct  v1.4.18135",
+    "MRicerca": "Precinct",
+    "Hash": "4c37172da2a92358",
+    "HashX32": null,
+    "UUID": "190"
+  },
+  {
     "Nome": "Rhinoceros",
     "Link": "https://devuploads.com/xr0cre61l52m",
     "Linkx32": null,
@@ -2644,33 +2672,5 @@
     "Hash": "b47296944658d932",
     "HashX32": null,
     "UUID": "187"
-  },
-  {
-    "Nome": "Hogwarts Legacy",
-    "Link": "https://devuploads.com/bpzsm74x9ybj",
-    "Linkx32": null,
-    "LinkR": null,
-    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Giochi/Hogwarts_Legacy_Digital_Deluxe_Edition.png",
-    "Sezione": "Giochi",
-    "Descrizione": "Hogwarts Legacy è un gioco di ruolo d'azione open-world ambientato nell'universo di Harry Potter. Ambientato nel 1800, permette di esplorare Hogwarts e i suoi dintorni, frequentare lezioni, padroneggiare incantesimi, preparare pozioni e interagire con creature magiche. Il gioco offre un'ampia personalizzazione del personaggio e una trama originale, indipendente dai libri e film.",
-    "Tooltip": "Hogwarts Legacy: Digital Deluxe Edition Build 10461750",
-    "MRicerca": "legacy",
-    "Hash": "ad4abb182f0fca0d",
-    "HashX32": null,
-    "UUID": "189"
-  },
-  {
-    "Nome": "The Precinct",
-    "Link": "https://devuploads.com/o78bojdq5zhd",
-    "Linkx32": null,
-    "LinkR": null,
-    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Giochi/The_Precinct.png",
-    "Sezione": "Giochi",
-    "Descrizione": "The Precinct è un gioco d'azione sandbox con visuale dall'alto, ambientato ad Averno City nel 1983. Nei panni del giovane agente Nick Cordell Jr., i giocatori affrontano crimini generati proceduralmente, inseguimenti dinamici e ambienti distruttibili. Ispirato ai classici polizieschi, combina atmosfera noir e neon con meccaniche di pattugliamento, arresti e indagini. ",
-    "Tooltip": "The Precinct  v1.4.18135",
-    "MRicerca": "Precinct",
-    "Hash": "4c37172da2a92358",
-    "HashX32": null,
-    "UUID": "190"
   }
 ]
