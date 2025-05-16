@@ -1,8 +1,7 @@
 { 
-    "version": "1.0.1.6", 
+    "version": "1.0.1.7", 
     "releaseNotes": [
-      "Aggiunto nel menuù STORE, la voce 'Programmi Installati' per eseguire una disinstallazione pulita dei programmi",
-      "Cambiato visualizzazione ChangeLog ora mostra il passaggio della versione programmi"
+      "Aggiunto pulsante per associare i file .aimods alo store"
      ],
     "updateUrl": "https://github.com/AMStore-na/Store/releases/download/Store/AIMODS-Store.exe" 
 }
