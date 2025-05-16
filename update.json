@@ -1,7 +1,7 @@
 { 
     "version": "1.0.1.7", 
     "releaseNotes": [
-      "Aggiunto pulsante per associare i file .aimods alo store"
+      "Aggiunto pulsante per associare i file .aimods allo store"
      ],
     "updateUrl": "https://github.com/AMStore-na/Store/releases/download/Store/AIMODS-Store.exe" 
 }
