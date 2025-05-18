@@ -1,13 +1,13 @@
 [
     {
         "Nome": "WinHubX",
-        "Link": "https://github.com/MrNico98/WinHubX/releases/download/WinHubX-v.2.4.2.4/WinHubX.exe",
+        "Link": "https://github.com/MrNico98/WinHubX/releases/download/WinHubX-v.2.4.2.5/WinHubX.exe",
         "Linkx32": null,
         "LinkR": "",
         "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Attivatori/WinHubX.png",
         "Sezione": "Attivatori",
         "Descrizione": "Con questo tool sarete in grado di scaricare file ISO per la maggior parte delle versioni ed edizioni di Windows comprese edizioni All in One e Lite. Inoltre potrete scaricare, installare ed attivare le ultime versioni di Office sia in setup online sia offline. Infine abbiamo inserito la sezione Tools che include scorciatoie ai nostri tool come WinCustomizer, WIMToolKit e altre piccole chicche che lasciamo scoprire a voi!",
-        "Tooltip": "WinHubX v.2.4.2.0",
+        "Tooltip": "WinHubX v.2.4.2.5",
         "MRicerca": "Tools AIMODS, Office",
         "Hash": "",
         "HashX32": null,
@@ -154,6 +154,20 @@
         "UUID": "173"
     },
     {
+        "Nome": "Multiecuscan",
+        "Link": "https://devuploads.com/6zs4bdr29azy",
+        "Linkx32": "https://devuploads.com/v7zmxuafjpma",
+        "LinkR": null,
+        "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Diagnostica%20auto/Multiecuscan.png",
+        "Sezione": "Diagnostica auto",
+        "Descrizione": null,
+        "Tooltip": "Multiecuscan",
+        "MRicerca": "multiecuscan",
+        "Hash": "f26fc081d20da6ff",
+        "HashX32": "15350650a322c22a",
+        "UUID": "184"
+    },
+    {
         "Nome": "IDM Portable",
         "Link": "https://devuploads.com/hw09x86wbw87",
         "Linkx32": null,
@@ -267,15 +281,15 @@
     },
     {
         "Nome": "IDM",
-        "Link": "https://devuploads.com/urvw6p8aec1b",
+        "Link": "https://devuploads.com/ei38am8sxtuh",
         "Linkx32": null,
         "LinkR": "",
         "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Downloader/IDM.png",
         "Sezione": "Downloader",
         "Descrizione": "Installa Internet Download Manager (IDM) per interrompere l'attesa per i download. Rimarrai davvero stupito dalla velocità con cui IDM scarica i tuoi file. IDM riparerà anche i download interrotti e riprenderà a causa di connessioni perse, problemi di rete, arresti del computer o interruzioni di corrente impreviste.",
         "Tooltip": "IDM v6.42 Build 36",
-        "MRicerca": "idm",
-        "Hash": "3ed0231518af9bea",
+        "MRicerca": "internet download manager",
+        "Hash": "69eb8fbd55da6b8d",
         "HashX32": null,
         "UUID": "50"
     },
@@ -292,6 +306,20 @@
         "Hash": "d9b685ebf6745339",
         "HashX32": null,
         "UUID": "33"
+    },
+    {
+        "Nome": "Cleverget",
+        "Link": "https://devuploads.com/cttrvnx7tl96",
+        "Linkx32": null,
+        "LinkR": null,
+        "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Downloader/Cleverget.png",
+        "Sezione": "Downloader",
+        "Descrizione": "CleverGet è un software per il download di video che consente di scaricare contenuti da numerose piattaforme di streaming e siti web, come YouTube, Netflix, Amazon Prime Video e molti altri. Supporta la registrazione e il salvataggio di video in alta qualità, fino a 8K, in vari formati come MP4, MKV e altri. È utile per chi desidera guardare contenuti offline in modo semplice e veloce.",
+        "Tooltip": "Cleverget v21.0.0.2",
+        "MRicerca": "Cleverget",
+        "Hash": "3234a714d4674bcb",
+        "HashX32": null,
+        "UUID": "185"
     },
     {
         "Nome": "Grand Theft Auto V",
@@ -980,6 +1008,34 @@
         "UUID": "181"
     },
     {
+        "Nome": "Hogwarts Legacy",
+        "Link": "https://devuploads.com/bpzsm74x9ybj",
+        "Linkx32": null,
+        "LinkR": null,
+        "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Giochi/Hogwarts_Legacy_Digital_Deluxe_Edition.png",
+        "Sezione": "Giochi",
+        "Descrizione": "Hogwarts Legacy è un gioco di ruolo d'azione open-world ambientato nell'universo di Harry Potter. Ambientato nel 1800, permette di esplorare Hogwarts e i suoi dintorni, frequentare lezioni, padroneggiare incantesimi, preparare pozioni e interagire con creature magiche. Il gioco offre un'ampia personalizzazione del personaggio e una trama originale, indipendente dai libri e film.",
+        "Tooltip": "Hogwarts Legacy: Digital Deluxe Edition Build 10461750",
+        "MRicerca": "legacy",
+        "Hash": "ad4abb182f0fca0d",
+        "HashX32": null,
+        "UUID": "189"
+    },
+    {
+        "Nome": "The Precinct",
+        "Link": "https://devuploads.com/o78bojdq5zhd",
+        "Linkx32": null,
+        "LinkR": null,
+        "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Giochi/The_Precinct.png",
+        "Sezione": "Giochi",
+        "Descrizione": "The Precinct è un gioco d'azione sandbox con visuale dall'alto, ambientato ad Averno City nel 1983. Nei panni del giovane agente Nick Cordell Jr., i giocatori affrontano crimini generati proceduralmente, inseguimenti dinamici e ambienti distruttibili. Ispirato ai classici polizieschi, combina atmosfera noir e neon con meccaniche di pattugliamento, arresti e indagini. ",
+        "Tooltip": "The Precinct  v1.4.18135",
+        "MRicerca": "Precinct",
+        "Hash": "4c37172da2a92358",
+        "HashX32": null,
+        "UUID": "190"
+    },
+    {
         "Nome": "Rhinoceros",
         "Link": "https://devuploads.com/xr0cre61l52m",
         "Linkx32": null,
@@ -1274,16 +1330,30 @@
         "UUID": "171"
     },
     {
+        "Nome": "AquaSoft Photo Vision",
+        "Link": "https://devuploads.com/61aortvvzszl",
+        "Linkx32": null,
+        "LinkR": null,
+        "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Grafica%20e%20Design/AquaSoft_Photo_Vision.png",
+        "Sezione": "Grafica e Design",
+        "Descrizione": null,
+        "Tooltip": "AquaSoft Photo Vision v16.2.04",
+        "MRicerca": "photo",
+        "Hash": "8f679ea30ce1bcb7",
+        "HashX32": null,
+        "UUID": "188"
+    },
+    {
         "Nome": "Spotify",
-        "Link": "https://devuploads.com/u4wat9uzcks1",
+        "Link": "https://devuploads.com/ehjwehr1odl8",
         "Linkx32": null,
         "LinkR": "",
         "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Musica%20e%20Audio/Spotify.png",
         "Sezione": "Musica e Audio",
         "Descrizione": "Spotify è un servizio musicale digitale che offre accesso a milioni di brani, podcast e playlist",
-        "Tooltip": "Spotify v1.2.60.564",
+        "Tooltip": "Spotify v1.2.63.394",
         "MRicerca": "Musica",
-        "Hash": "eb1a4d0bcc439c0b",
+        "Hash": "56cf6e33e3abe135",
         "HashX32": null,
         "UUID": "129"
     },
@@ -1398,6 +1468,20 @@
         "Hash": "66224fbcc922fda7",
         "HashX32": null,
         "UUID": "177"
+    },
+    {
+        "Nome": "Xfer Serum",
+        "Link": "https://devuploads.com/pt8kluypi7ve",
+        "Linkx32": null,
+        "LinkR": null,
+        "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Musica%20e%20Audio/Xfer_Serum.png",
+        "Sezione": "Musica e Audio",
+        "Descrizione": null,
+        "Tooltip": "Xfer Serum v1.36b8",
+        "MRicerca": "serum",
+        "Hash": "fc34b39ac7ffb14f",
+        "HashX32": null,
+        "UUID": "183"
     },
     {
         "Nome": "NetSpot",
@@ -1849,15 +1933,15 @@
     },
     {
         "Nome": "AdGuard",
-        "Link": "https://devuploads.com/tx9o4p750fo6",
+        "Link": "https://devuploads.com/3yqbnbiiq10p",
         "Linkx32": null,
         "LinkR": "",
         "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Sicurezza%20e%20Privacy/AdGuard.png",
         "Sezione": "Sicurezza e Privacy",
         "Descrizione": "AdGuard è un software progettato per bloccare annunci pubblicitari, tracker e siti web dannosi. È disponibile su diverse piattaforme, tra cui Windows, macOS, Android e iOS.",
-        "Tooltip": "AdGuard",
+        "Tooltip": "Adguard v7.20.3.49941",
         "MRicerca": "adguard",
-        "Hash": "",
+        "Hash": "27befad99fb3190c",
         "HashX32": "",
         "UUID": "30"
     },
@@ -2045,15 +2129,15 @@
     },
     {
         "Nome": "Assistente Aggiornamento Win11",
-        "Link": "https://devuploads.com/dilzl5glhtr3",
+        "Link": "https://devuploads.com/l9e2n6ub3ft4",
         "Linkx32": null,
         "LinkR": "",
         "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Utility%20di%20Sistema%20e%20Manutenzione/Assistente_Aggiornamento_Win11.png",
         "Sezione": "Utility di Sistema e Manutenzione",
         "Descrizione": " Lo strumento facilita l'aggiornamento rendendolo automatico e, quindi, semplice da effettuare anche per i meno esperti, mantenendo tutti i file personali.",
-        "Tooltip": "Assistente Aggiornamento v.0.0.0.2",
+        "Tooltip": "Assistente Aggiornamento v.0.0.0.3",
         "MRicerca": "Tools AIMODS",
-        "Hash": "",
+        "Hash": "d3a7927fa904f86e",
         "HashX32": null,
         "UUID": "145"
     },
@@ -2143,15 +2227,15 @@
     },
     {
         "Nome": "Tenorshare 4DDiG",
-        "Link": "https://devuploads.com/x125ppc6rxzf",
+        "Link": "https://devuploads.com/cho306vymgfd",
         "Linkx32": null,
         "LinkR": "",
         "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Utility%20di%20Sistema%20e%20Manutenzione/Tenorshare_4DDiG.png",
         "Sezione": "Utility di Sistema e Manutenzione",
         "Descrizione": "Tenorshare 4DDiG è un software di recupero dati avanzato progettato per recuperare file eliminati, formattati o persi da vari dispositivi e scenari",
-        "Tooltip": "Tenorshare 4DDiG v10.2.7.11",
+        "Tooltip": "Tenorshare 4DDiG v10.3.11",
         "MRicerca": "4ddig",
-        "Hash": "",
+        "Hash": "9a6528a06a7f32d9",
         "HashX32": null,
         "UUID": "77"
     },
@@ -2339,15 +2423,15 @@
     },
     {
         "Nome": "Freemake Video Converter",
-        "Link": "https://devuploads.com/2wf3pjhnng0u",
+        "Link": "https://devuploads.com/nsa26uiewcyw",
         "Linkx32": null,
         "LinkR": "",
         "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Video%20e%20Animazione/Freemake_Video_Converter.png",
         "Sezione": "Video e Animazione",
         "Descrizione": "Freemake Video Converter è un software freemium sviluppato da Ellora Assets Corporation. È progettato per convertire i file video in vari formati, masterizzare video su DVD e creare presentazioni fotografiche.",
-        "Tooltip": "Freemake Video Converter v4.1.13.187",
+        "Tooltip": "Freemake Video Converter v5.0.0.1",
         "MRicerca": "frremake",
-        "Hash": "",
+        "Hash": "b5b846fe03f7bb92",
         "HashX32": null,
         "UUID": "38"
     },
@@ -2420,20 +2504,6 @@
         "Hash": null,
         "HashX32": null,
         "UUID": "62"
-    },
-    {
-        "Nome": "AquaSoft Stages",
-        "Link": "https://devuploads.com/cuwffg230x6d",
-        "Linkx32": null,
-        "LinkR": "",
-        "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Video%20e%20Animazione/AquaSoft_Stages.png",
-        "Sezione": "Video e Animazione",
-        "Descrizione": "AquaSoft Stages è un software di creazione di presentazioni multimediali e slideshow, progettato per aiutare gli utenti a combinare immagini, video, musica e testi in maniera creativa e coinvolgente.",
-        "Tooltip": "AquaSoft Stages v15.2.05",
-        "MRicerca": "aqua",
-        "Hash": "",
-        "HashX32": null,
-        "UUID": "57"
     },
     {
         "Nome": "Face Rig",
@@ -2574,5 +2644,33 @@
         "Hash": "380eb235290d95dc",
         "HashX32": null,
         "UUID": "175"
+    },
+    {
+        "Nome": "AquaSoft Video Vision",
+        "Link": "https://devuploads.com/fqbmw8bj264d",
+        "Linkx32": null,
+        "LinkR": null,
+        "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Video%20e%20Animazione/AquaSoft_Video_Vision.png",
+        "Sezione": "Video e Animazione",
+        "Descrizione": null,
+        "Tooltip": "AquaSoft Video Vision v16.2.04",
+        "MRicerca": "vision",
+        "Hash": "6e6caa0a539084eb",
+        "HashX32": null,
+        "UUID": "186"
+    },
+    {
+        "Nome": "AquaSoft Stages",
+        "Link": "https://devuploads.com/8yhwrs6vrfi1",
+        "Linkx32": null,
+        "LinkR": null,
+        "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Video%20e%20Animazione/AquaSoft_Stages.png",
+        "Sezione": "Video e Animazione",
+        "Descrizione": null,
+        "Tooltip": "AquaSoft Stages v16.2.04",
+        "MRicerca": "stages",
+        "Hash": "b47296944658d932",
+        "HashX32": null,
+        "UUID": "187"
     }
 ]
