@@ -2686,5 +2686,33 @@
     "Hash": "b47296944658d932",
     "HashX32": null,
     "UUID": "187"
+  },
+  {
+    "Nome": "L.A. Noire",
+    "Link": "https://devuploads.com/3gih83fy5ps8",
+    "Linkx32": null,
+    "LinkR": null,
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Giochi/L.A._Noire_The_Complete_Edition.png",
+    "Sezione": "Giochi",
+    "Descrizione": "L.A. Noire è un videogioco investigativo ambientato nella Los Angeles del 1947, in cui il giocatore veste i panni del detective Cole Phelps del LAPD. Il titolo combina elementi di azione e indagine, con meccaniche di raccolta indizi, interrogatori e risoluzione di casi ispirati a crimini reali. Utilizza la tecnologia MotionScan per animazioni facciali realistiche. ",
+    "Tooltip": "L.A. Noire: The Complete Edition  v2675.1",
+    "MRicerca": "giochi",
+    "Hash": "dca0dd49e754e832",
+    "HashX32": null,
+    "UUID": "192"
+  },
+  {
+    "Nome": "Car Mechanic Simulator 2021",
+    "Link": "https://devuploads.com/anilxg7fdssu",
+    "Linkx32": null,
+    "LinkR": null,
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Giochi/Car_Mechanic_Simulator_2021_Gold_Bundle.png",
+    "Sezione": "Giochi",
+    "Descrizione": "Car Mechanic Simulator 2021 è un simulatore realistico per PC in cui gestisci un'officina meccanica, riparando e restaurando veicoli. Offre 72 auto da sistemare, oltre 4000 parti uniche, ordini generati casualmente, aste, ritrovamenti in fienili e missioni con trama. Espandi la tua officina, migliora le attrezzature e costruisci un impero nel settore delle riparazioni automobilistiche. ",
+    "Tooltip": "Car Mechanic Simulator 2021: Gold Bundle  v1.0.37",
+    "MRicerca": "giochi",
+    "Hash": "b0989de014bf45bb",
+    "HashX32": null,
+    "UUID": "193"
   }
 ]
