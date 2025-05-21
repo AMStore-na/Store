@@ -2714,5 +2714,19 @@
     "Hash": "b0989de014bf45bb",
     "HashX32": null,
     "UUID": "193"
+  },
+  {
+    "Nome": "Duplicate Cleaner Pro",
+    "Link": "https://devuploads.com/5bgf7i22jyxe",
+    "Linkx32": null,
+    "LinkR": null,
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Utility%20di%20Sistema%20e%20Manutenzione/Duplicate_Cleaner.png",
+    "Sezione": "Utility di Sistema e Manutenzione",
+    "Descrizione": "Duplicate Cleaner è un software progettato per trovare e rimuovere file duplicati dal tuo computer, come foto, musica, documenti e altri file, liberando spazio e migliorando l’organizzazione.",
+    "Tooltip": "Duplicate Cleaner Pro v5.25.0",
+    "MRicerca": "duplicate",
+    "Hash": "f5c0cdd101ab1980",
+    "HashX32": null,
+    "UUID": "194"
   }
 ]
