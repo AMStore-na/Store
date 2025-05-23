@@ -1064,6 +1064,20 @@
     "UUID": "193"
   },
   {
+    "Nome": "Call of Duty Modern Warfare II",
+    "Link": "https://devuploads.com/eznlscg16vxo",
+    "Linkx32": null,
+    "LinkR": null,
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Giochi/Call_of_Duty_Modern_Warfare_II.png",
+    "Sezione": "Giochi",
+    "Descrizione": "Call of Duty: Modern Warfare II è uno sparatutto in prima persona sviluppato da Infinity Ward e pubblicato da Activision. Uscito nel 2022, è il sequel diretto del reboot Modern Warfare del 2019. Il gioco segue la Task Force 141, guidata da personaggi iconici come il Capitano Price e Ghost, in una serie di missioni tattiche e adrenaliniche contro minacce globali. Offre una campagna cinematografica.",
+    "Tooltip": "Call of Duty Modern Warfare II",
+    "MRicerca": "cod",
+    "Hash": "4c762316bd4d3147",
+    "HashX32": null,
+    "UUID": "195"
+  },
+  {
     "Nome": "Rhinoceros",
     "Link": "https://devuploads.com/xr0cre61l52m",
     "Linkx32": null,
@@ -2714,19 +2728,5 @@
     "Hash": "b47296944658d932",
     "HashX32": null,
     "UUID": "187"
-  },
-  {
-    "Nome": "Call of Duty Modern Warfare II",
-    "Link": "https://devuploads.com/eznlscg16vxo",
-    "Linkx32": null,
-    "LinkR": null,
-    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Giochi/Call_of_Duty_Modern_Warfare_II.png",
-    "Sezione": "Giochi",
-    "Descrizione": "Call of Duty: Modern Warfare II è uno sparatutto in prima persona sviluppato da Infinity Ward e pubblicato da Activision. Uscito nel 2022, è il sequel diretto del reboot Modern Warfare del 2019. Il gioco segue la Task Force 141, guidata da personaggi iconici come il Capitano Price e Ghost, in una serie di missioni tattiche e adrenaliniche contro minacce globali. Offre una campagna cinematografica.",
-    "Tooltip": "Call of Duty Modern Warfare II",
-    "MRicerca": "cod",
-    "Hash": "4c762316bd4d3147",
-    "HashX32": null,
-    "UUID": "195"
   }
 ]
