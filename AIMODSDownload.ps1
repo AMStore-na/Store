@@ -100,3 +100,4 @@ $form.Controls.Add($btnWinHubX)
 $form.Controls.Add($btnExit)
 
 [void]$form.ShowDialog()
+
