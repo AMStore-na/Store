@@ -1372,16 +1372,16 @@
     "UUID": "171"
   },
   {
-    "Nome": "AquaSoft Photo Vision",
-    "Link": "https://devuploads.com/61aortvvzszl",
+    "Nome": "Ableton Live 12 Suite",
+    "Link": "https://devuploads.com/5o7iu4bej98k",
     "Linkx32": null,
     "LinkR": null,
-    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Grafica%20e%20Design/AquaSoft_Photo_Vision.png",
-    "Sezione": "Grafica e Design",
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Musica%20e%20Audio/Ableton_Live_12_Suite.png",
+    "Sezione": "Musica e Audio",
     "Descrizione": null,
-    "Tooltip": "AquaSoft Photo Vision v16.2.04",
-    "MRicerca": "photo",
-    "Hash": "8f679ea30ce1bcb7",
+    "Tooltip": "Ableton Live 12 Suite v12.1.11",
+    "MRicerca": "ableton",
+    "Hash": "760e9c2d822aa48c",
     "HashX32": null,
     "UUID": "188"
   },
