@@ -1372,20 +1372,6 @@
     "UUID": "171"
   },
   {
-    "Nome": "Ableton Live 12 Suite 2",
-    "Link": "https://devuploads.com/5o7iu4bej98k",
-    "Linkx32": null,
-    "LinkR": null,
-    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Musica%20e%20Audio/Ableton_Live_12_Suite.png",
-    "Sezione": "Musica e Audio",
-    "Descrizione": null,
-    "Tooltip": "Ableton Live 12 Suite v12.1.11",
-    "MRicerca": "ableton",
-    "Hash": "760e9c2d822aa48c",
-    "HashX32": null,
-    "UUID": "188"
-  },
-  {
     "Nome": "Spotify",
     "Link": "https://devuploads.com/ehjwehr1odl8",
     "Linkx32": null,
