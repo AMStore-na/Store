@@ -2728,5 +2728,19 @@
     "Hash": "b47296944658d932",
     "HashX32": null,
     "UUID": "187"
+  },
+  {
+    "Nome": "Vectric Aspire",
+    "Link": "https://devuploads.com/sj6p0ae4ncsd",
+    "Linkx32": null,
+    "LinkR": null,
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/CAD%2C%20Architettura%20e%20Ingegneria/Vectric_Aspire.png",
+    "Sezione": "CAD, Architettura e Ingegneria",
+    "Descrizione": null,
+    "Tooltip": "Vectric Aspire v12.014",
+    "MRicerca": "vectric",
+    "Hash": "4e415f098378c54a",
+    "HashX32": null,
+    "UUID": "196"
   }
 ]
