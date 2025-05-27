@@ -1,9 +1,8 @@
 {
-  "version": "1.0.1.9",
+  "version": "1.0.2.0",
   "releaseNotes": [
-    "Fix associazione .aimods tramite tasto store",
-    "Inserita possibilità di salvare le app preferite",
-    "Inserita logica di notifica cambio versione app preferita con possibilità di mettere lo store in Taskbar o in SystemTray, la verifica con il server avviene ogni 50sec"
+    "Fix visualizzazione changelog",
+    "Aggiunta spiegazione per alcuni codici errori",
   ],
   "updateUrl": "https://github.com/AMStore-na/Store/releases/download/Store/AIMODS-Store.exe",
   "lavori": "false"
