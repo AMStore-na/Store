@@ -2,8 +2,8 @@
   "version": "1.0.2.0",
   "releaseNotes": [
     "Fix visualizzazione changelog",
-    "Aggiunta spiegazione per alcuni codici errori",
+    "Aggiunta spiegazione per alcuni codici errori"
   ],
   "updateUrl": "https://github.com/AMStore-na/Store/releases/download/Store/AIMODS-Store.exe",
-  "lavori": "false"
+  "lavori": "true"
 }
