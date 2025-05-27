@@ -1,8 +1,7 @@
 {
-  "version": "1.0.2.0",
+  "version": "1.0.2.1",
   "releaseNotes": [
-    "Fix visualizzazione changelog",
-    "Aggiunta spiegazione per alcuni codici errori"
+    "Fix espansione sezione (con il nome troppo lungo oscurava il simbolo per espandere)"
   ],
   "updateUrl": "https://github.com/AMStore-na/Store/releases/download/Store/AIMODS-Store.exe",
   "lavori": "false"
