@@ -6,5 +6,5 @@
     "Inserita logica di notifica cambio versione app preferita con possibilità di mettere lo store in Taskbar o in SystemTray, la verifica con il server avviene ogni 50sec"
   ],
   "updateUrl": "https://github.com/AMStore-na/Store/releases/download/Store/AIMODS-Store.exe",
-  "lavori": "true"
+  "lavori": "false"
 }
