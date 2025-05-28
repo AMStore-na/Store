@@ -211,7 +211,7 @@
   },
   {
     "Nome": "4K Video Downloader Plus",
-    "Link": "https://devuploads.com/8g4hwh547fsa",
+    "Link": "https://devuploads.com/ko1k1s4ax7at",
     "Linkx32": "https://devuploads.com/97s2a0c8m8us",
     "LinkR": "",
     "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Downloader/4K_Video_Downloader_Plus.png",
@@ -219,7 +219,7 @@
     "Descrizione": "4K Video Downloader è un'applicazione multipiattaforma che consente di salvare video di alta qualità da YouTube e altri siti web in pochi secondi.",
     "Tooltip": "4K Video Downloader Plus v25.1.1",
     "MRicerca": "4K",
-    "Hash": "bd6494a56ac0f60a",
+    "Hash": "4722d607426dc79d",
     "HashX32": "4c37cf5047c52b90",
     "UUID": "42"
   },
@@ -2784,5 +2784,19 @@
     "Hash": "b47296944658d932",
     "HashX32": null,
     "UUID": "187"
+  },
+  {
+    "Nome": null,
+    "Link": null,
+    "Linkx32": null,
+    "LinkR": null,
+    "ImmagineUrl": null,
+    "Sezione": null,
+    "Descrizione": null,
+    "Tooltip": null,
+    "MRicerca": null,
+    "Hash": null,
+    "HashX32": null,
+    "UUID": "203"
   }
 ]
