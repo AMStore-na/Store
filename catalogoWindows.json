@@ -2770,5 +2770,19 @@
     "Hash": "bcec2eff82b9b0ae",
     "HashX32": null,
     "UUID": "201"
+  },
+  {
+    "Nome": "FileBot",
+    "Link": "https://devuploads.com/rik96ismzhvo",
+    "Linkx32": null,
+    "LinkR": null,
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Ricerca%20e%20Analisi%20Dati/FileBot.png",
+    "Sezione": "Ricerca e Analisi Dati",
+    "Descrizione": null,
+    "Tooltip": "FileBot v4.9.6",
+    "MRicerca": "filebot",
+    "Hash": "35368e0e6fe6edef",
+    "HashX32": null,
+    "UUID": "202"
   }
 ]
