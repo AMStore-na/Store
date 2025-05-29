@@ -1,7 +1,7 @@
 {
-  "version": "1.0.2.1",
+  "version": "1.0.2.2",
   "releaseNotes": [
-    "Fix espansione sezione (con il nome troppo lungo oscurava il simbolo per espandere)"
+    "Inserito simbolo (🔍) sui giochi per verificare i requisiti minimi + bottone Requisiti minimi giochi per ricerca globale"
   ],
   "updateUrl": "https://github.com/AMStore-na/Store/releases/download/Store/AIMODS-Store.exe",
   "lavori": "false"
