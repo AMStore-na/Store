@@ -2798,5 +2798,19 @@
     "Hash": "089bb5dd8957b78e",
     "HashX32": null,
     "UUID": "203"
+  },
+  {
+    "Nome": "Football Life Simulator",
+    "Link": "https://devuploads.com/w9u28l6y1ne1",
+    "Linkx32": null,
+    "LinkR": null,
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Giochi/FootBall_Life_Simulator.png",
+    "Sezione": "Giochi",
+    "Descrizione": "Football Life Simulator è un gioco di simulazione in cui vivi la carriera di un calciatore professionista, partendo dalle giovanili fino al successo mondiale. Gestisci allenamenti, trasferimenti, vita privata e decisioni fuori dal campo che influenzano la tua carriera, fama e fortuna. Ogni scelta può cambiare il tuo destino calcistico.",
+    "Tooltip": "Football Life Simulator v2022.3.22.31716",
+    "MRicerca": "Football",
+    "Hash": "71a26a59aa4f9fc4",
+    "HashX32": null,
+    "UUID": "204"
   }
 ]
