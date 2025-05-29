@@ -2812,5 +2812,19 @@
     "Hash": "71a26a59aa4f9fc4",
     "HashX32": null,
     "UUID": "204"
+  },
+  {
+    "Nome": "4K Stogram",
+    "Link": "https://devuploads.com/rcck9mzu97ux",
+    "Linkx32": null,
+    "LinkR": null,
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Downloader/4K_Stogram.png",
+    "Sezione": "Downloader",
+    "Descrizione": "4K Stogram è un'applicazione desktop per Windows, macOS e Linux che permette di scaricare foto, video, storie e Reels da Instagram in alta qualità, anche in 4K. Basta inserire un nome utente, hashtag o posizione per salvare automaticamente i contenuti sul tuo computer. È utile per backup, raccolta di contenuti o visualizzazione offline. L'app offre una versione gratuita con funzioni limitate e una versione premium con funzionalità avanzate come il download automatico continuo.",
+    "Tooltip": "4K Stogram v4.9.0",
+    "MRicerca": "4K Stogram",
+    "Hash": "1410f3e42c9bd7ff",
+    "HashX32": null,
+    "UUID": "205"
   }
 ]
