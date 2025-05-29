@@ -2840,5 +2840,19 @@
     "Hash": "281add8393ee4168",
     "HashX32": null,
     "UUID": "206"
+  },
+  {
+    "Nome": "4K YouTube to MP3",
+    "Link": "https://devuploads.com/ohfl2pl6hgif",
+    "Linkx32": null,
+    "LinkR": null,
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Downloader/4K_YouTube_to_MP3.png",
+    "Sezione": "Downloader",
+    "Descrizione": "4K YouTube to MP3 è un'applicazione desktop per Windows, macOS e Linux che consente di scaricare e convertire l'audio da video YouTube e altri siti in formato MP3, M4A o OGG. È ideale per salvare musica, podcast, audiolibri e altri contenuti audio per l'ascolto offline.",
+    "Tooltip": "4K YouTube to MP3 v25.1.1.0197",
+    "MRicerca": "4K YouTube to MP3",
+    "Hash": "4d820681528d4514",
+    "HashX32": null,
+    "UUID": "207"
   }
 ]
