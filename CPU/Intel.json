@@ -1,0 +1,236 @@
+{
+  "Intel Processors": {
+    "Celeron": {
+      "Desktop": {
+        "1st Gen (NetBurst)": ["Celeron D 315", "Celeron D 346"],
+        "2nd Gen (Conroe)": ["Celeron 420", "Celeron 430"],
+        "3rd Gen (Penryn)": ["Celeron E3200", "Celeron E3400"],
+        "4th Gen (Nehalem)": ["Celeron G1101", "Celeron G440"],
+        "5th Gen (Sandy Bridge)": ["Celeron G460", "Celeron G530"],
+        "6th Gen (Ivy Bridge)": ["Celeron G1610", "Celeron G1820"],
+        "7th Gen (Haswell)": ["Celeron G1840", "Celeron G1850"],
+        "8th Gen (Skylake)": ["Celeron G3900", "Celeron G3930"],
+        "9th Gen (Kaby Lake)": ["Celeron G3920", "Celeron G4900"],
+        "10th Gen (Coffee Lake)": ["Celeron G4900", "Celeron G4920"],
+        "11th Gen (Comet Lake)": ["Celeron G5900", "Celeron G5920"],
+        "12th Gen (Alder Lake)": ["Celeron G6900", "Celeron G6900T"],
+        "13th Gen (Raptor Lake)": ["Celeron G7400", "Celeron G7400T"]
+      },
+      "Mobile": {
+        "1st Gen (Banias)": ["Celeron M 310", "Celeron M 330"],
+        "2nd Gen (Yonah)": ["Celeron M 410", "Celeron M 430"],
+        "3rd Gen (Penryn)": ["Celeron T1400", "Celeron T1600"],
+        "4th Gen (Nehalem)": ["Celeron P4500", "Celeron P4600"],
+        "5th Gen (Sandy Bridge)": ["Celeron B710", "Celeron B720"],
+        "6th Gen (Ivy Bridge)": ["Celeron 1000M", "Celeron 1020M"],
+        "7th Gen (Haswell)": ["Celeron 2955U", "Celeron 2980U"],
+        "8th Gen (Skylake)": ["Celeron 3855U", "Celeron 3955U"],
+        "9th Gen (Kaby Lake)": ["Celeron 3965U", "Celeron 3865U"],
+        "10th Gen (Amber Lake)": ["Celeron 4205U", "Celeron 4305U"],
+        "11th Gen (Tiger Lake)": ["Celeron 6305", "Celeron 6405"],
+        "12th Gen (Alder Lake)": ["Celeron 7300", "Celeron 7305"]
+      }
+    },
+    "Pentium": {
+      "Desktop": {
+        "1st Gen (NetBurst)": ["Pentium 4 511", "Pentium 4 631"],
+        "2nd Gen (Conroe)": ["Pentium E2140", "Pentium E2160"],
+        "3rd Gen (Penryn)": ["Pentium E5200", "Pentium E5400"],
+        "4th Gen (Nehalem)": ["Pentium G6950", "Pentium G6960"],
+        "5th Gen (Sandy Bridge)": ["Pentium G620", "Pentium G840"],
+        "6th Gen (Ivy Bridge)": ["Pentium G2020", "Pentium G2120"],
+        "7th Gen (Haswell)": ["Pentium G3220", "Pentium G3420"],
+        "8th Gen (Skylake)": ["Pentium G4400", "Pentium G4560"],
+        "9th Gen (Kaby Lake)": ["Pentium G4600", "Pentium G4620"],
+        "10th Gen (Coffee Lake)": ["Pentium Gold G5400", "Pentium Gold G5600"],
+        "11th Gen (Comet Lake)": ["Pentium Gold G6400", "Pentium Gold G6600"],
+        "12th Gen (Alder Lake)": ["Pentium Gold G7400", "Pentium Gold G7500"],
+        "13th Gen (Raptor Lake)": ["Pentium Gold G8500", "Pentium Gold G8600"]
+      },
+      "Mobile": {
+        "1st Gen (Banias)": ["Pentium M 715", "Pentium M 735"],
+        "2nd Gen (Yonah)": ["Pentium T2060", "Pentium T2080"],
+        "3rd Gen (Penryn)": ["Pentium T3200", "Pentium T3400"],
+        "4th Gen (Nehalem)": ["Pentium P6000", "Pentium P6200"],
+        "5th Gen (Sandy Bridge)": ["Pentium B940", "Pentium B960"],
+        "6th Gen (Ivy Bridge)": ["Pentium 2020M", "Pentium 2030M"],
+        "7th Gen (Haswell)": ["Pentium 3550M", "Pentium 3560M"],
+        "8th Gen (Skylake)": ["Pentium 4405U", "Pentium 4415U"],
+        "9th Gen (Kaby Lake)": ["Pentium 4415Y", "Pentium 4425Y"],
+        "10th Gen (Amber Lake)": ["Pentium 5405U", "Pentium 6405U"],
+        "11th Gen (Tiger Lake)": ["Pentium Gold 7505", "Pentium Gold 8505"],
+        "12th Gen (Alder Lake)": ["Pentium Gold 8500", "Pentium Gold 8505"]
+      }
+    },
+    "Dual-Core": {
+      "Desktop": {
+        "1st Gen (Core 2 Duo)": ["E4300", "E6300", "E7400", "E8400"],
+        "2nd Gen (Pentium Dual-Core)": ["E5200", "E5400", "E6500"],
+        "3rd Gen (Nehalem)": ["Pentium G6950", "Celeron G1101"],
+        "4th Gen (Sandy Bridge)": ["Pentium G620", "Celeron G440"],
+        "5th Gen (Haswell)": ["Pentium G3220", "Celeron G1840"]
+      },
+      "Mobile": {
+        "1st Gen (Core 2 Duo)": ["T5250", "T5450", "T7250"],
+        "2nd Gen (Pentium Dual-Core)": ["T3200", "T3400"],
+        "3rd Gen (Nehalem)": ["P6000", "P6200"],
+        "4th Gen (Sandy Bridge)": ["B940", "B960"],
+        "5th Gen (Haswell)": ["2955U", "2980U"]
+      }
+    },
+    "i3": {
+      "Desktop": {
+        "1st Gen (Nehalem)": ["i3-530", "i3-540", "i3-550"],
+        "2nd Gen (Sandy Bridge)": ["i3-2100", "i3-2120", "i3-2130"],
+        "3rd Gen (Ivy Bridge)": ["i3-3220", "i3-3240", "i3-3250"],
+        "4th Gen (Haswell)": ["i3-4130", "i3-4150", "i3-4160","i3-4330"],
+        "5th Gen (Broadwell)": ["i3-5010U", "i3-5157U"],
+        "6th Gen (Skylake)": ["i3-6100", "i3-6300", "i3-6320"],
+        "7th Gen (Kaby Lake)": ["i3-7100", "i3-7300", "i3-7320"],
+        "8th Gen (Coffee Lake)": ["i3-8100", "i3-8300", "i3-8350K"],
+        "9th Gen (Coffee Lake Refresh)": ["i3-9100", "i3-9350K"],
+        "10th Gen (Comet Lake)": ["i3-10100", "i3-10300", "i3-10320"],
+        "11th Gen (Rocket Lake)": ["i3-11100", "i3-11300"],
+        "12th Gen (Alder Lake)": ["i3-12100", "i3-12300"],
+        "13th Gen (Raptor Lake)": ["i3-13100", "i3-13300"],
+        "14th Gen (Raptor Lake Refresh)": ["i3-14100"]
+      },
+      "Mobile": {
+        "1st Gen (Arrandale)": ["i3-330M", "i3-350M", "i3-370M"],
+        "2nd Gen (Sandy Bridge)": ["i3-2310M", "i3-2330M", "i3-2350M"],
+        "3rd Gen (Ivy Bridge)": ["i3-3110M", "i3-3120M", "i3-3130M"],
+        "4th Gen (Haswell)": ["i3-4000M", "i3-4010U", "i3-4030U"],
+        "5th Gen (Broadwell)": ["i3-5005U", "i3-5010U", "i3-5020U"],
+        "6th Gen (Skylake)": ["i3-6006U", "i3-6100U", "i3-6167U"],
+        "7th Gen (Kaby Lake)": ["i3-7100U", "i3-7130U", "i3-7167U"],
+        "8th Gen (Coffee Lake)": ["i3-8100H", "i3-8130U", "i3-8145U"],
+        "9th Gen (Coffee Lake Refresh)": ["i3-9100HL", "i3-9300H"],
+        "10th Gen (Comet Lake)": ["i3-10110U", "i3-10300H"],
+        "11th Gen (Tiger Lake)": ["i3-1110G4", "i3-1120G4"],
+        "12th Gen (Alder Lake)": ["i3-1210U", "i3-1215U"],
+        "13th Gen (Raptor Lake)": ["i3-1310U", "i3-1315U"],
+        "14th Gen (Meteor Lake)": ["i3-1410U", "i3-1415U"]
+      }
+    },
+    "i5": {
+      "Desktop": {
+        "1st Gen (Nehalem)": ["i5-650", "i5-750", "i5-760"],
+        "2nd Gen (Sandy Bridge)": ["i5-2400", "i5-2500", "i5-2500K"],
+        "3rd Gen (Ivy Bridge)": ["i5-3450", "i5-3570", "i5-3570K"],
+        "4th Gen (Haswell)": ["i5-4430", "i5-4590", "i5-4690K"],
+        "5th Gen (Broadwell)": ["i5-5250U", "i5-5675C"],
+        "6th Gen (Skylake)": ["i5-6400", "i5-6600", "i5-6600K"],
+        "7th Gen (Kaby Lake)": ["i5-7400", "i5-7600", "i5-7600K"],
+        "8th Gen (Coffee Lake)": ["i5-8400", "i5-8600", "i5-8600K"],
+        "9th Gen (Coffee Lake Refresh)": ["i5-9400", "i5-9600K"],
+        "10th Gen (Comet Lake)": ["i5-10400", "i5-10600K"],
+        "11th Gen (Rocket Lake)": ["i5-11400", "i5-11600K"],
+        "12th Gen (Alder Lake)": ["i5-12400", "i5-12600K"],
+        "13th Gen (Raptor Lake)": ["i5-13400", "i5-13600K"],
+        "14th Gen (Raptor Lake Refresh)": ["i5-14400", "i5-14600K"]
+      },
+      "Mobile": {
+        "1st Gen (Arrandale)": ["i5-430M", "i5-520M", "i5-540M"],
+        "2nd Gen (Sandy Bridge)": ["i5-2410M", "i5-2430M", "i5-2520M"],
+        "3rd Gen (Ivy Bridge)": ["i5-3210M", "i5-3230M", "i5-3360M"],
+        "4th Gen (Haswell)": ["i5-4200M", "i5-4210H", "i5-4288U"],
+        "5th Gen (Broadwell)": ["i5-5200U", "i5-5250U", "i5-5287U"],
+        "6th Gen (Skylake)": ["i5-6200U", "i5-6300HQ", "i5-6440HQ"],
+        "7th Gen (Kaby Lake)": ["i5-7200U", "i5-7300HQ", "i5-7440HQ"],
+        "8th Gen (Coffee Lake)": ["i5-8250U", "i5-8300H", "i5-8400H"],
+        "9th Gen (Coffee Lake Refresh)": ["i5-9300H", "i5-9400H"],
+        "10th Gen (Comet Lake)": ["i5-10210U", "i5-10300H"],
+        "11th Gen (Tiger Lake)": ["i5-11300H", "i5-1135G7"],
+        "12th Gen (Alder Lake)": ["i5-1230U", "i5-1240P"],
+        "13th Gen (Raptor Lake)": ["i5-1335U", "i5-1340P"],
+        "14th Gen (Meteor Lake)": ["i5-1440P", "i5-14500HX"]
+      }
+    },
+    "i7": {
+      "Desktop": {
+        "1st Gen (Nehalem)": ["i7-920", "i7-950", "i7-975 Extreme"],
+        "2nd Gen (Sandy Bridge)": ["i7-2600", "i7-2600K", "i7-2700K"],
+        "3rd Gen (Ivy Bridge)": ["i7-3770", "i7-3770K"],
+        "4th Gen (Haswell)": ["i7-4770", "i7-4770K", "i7-4790K"],
+        "5th Gen (Broadwell)": ["i7-5775C", "i7-5850HQ"],
+        "6th Gen (Skylake)": ["i7-6700", "i7-6700K"],
+        "7th Gen (Kaby Lake)": ["i7-7700", "i7-7700K"],
+        "8th Gen (Coffee Lake)": ["i7-8700", "i7-8700K", "i7-8086K"],
+        "9th Gen (Coffee Lake Refresh)": ["i7-9700", "i7-9700K"],
+        "10th Gen (Comet Lake)": ["i7-10700", "i7-10700K"],
+        "11th Gen (Rocket Lake)": ["i7-11700", "i7-11700K"],
+        "12th Gen (Alder Lake)": ["i7-12700", "i7-12700K"],
+        "13th Gen (Raptor Lake)": ["i7-13700", "i7-13700K"],
+        "14th Gen (Raptor Lake Refresh)": ["i7-14700", "i7-14700K"]
+      },
+      "Mobile": {
+        "1st Gen (Clarksfield)": ["i7-720QM", "i7-820QM", "i7-920XM"],
+        "2nd Gen (Sandy Bridge)": ["i7-2620M", "i7-2640M", "i7-2720QM"],
+        "3rd Gen (Ivy Bridge)": ["i7-3520M", "i7-3540M", "i7-3610QM"],
+        "4th Gen (Haswell)": ["i7-4700HQ", "i7-4710HQ", "i7-4860HQ"],
+        "5th Gen (Broadwell)": ["i7-5557U", "i7-5650U", "i7-5850HQ"],
+        "6th Gen (Skylake)": ["i7-6600U", "i7-6700HQ", "i7-6820HK"],
+        "7th Gen (Kaby Lake)": ["i7-7500U", "i7-7700HQ", "i7-7920HQ"],
+        "8th Gen (Coffee Lake)": ["i7-8550U", "i7-8750H", "i7-8850H"],
+        "9th Gen (Coffee Lake Refresh)": ["i7-9750H", "i7-9850H"],
+        "10th Gen (Comet Lake)": ["i7-10510U", "i7-10750H"],
+        "11th Gen (Tiger Lake)": ["i7-1165G7", "i7-1185G7"],
+        "12th Gen (Alder Lake)": ["i7-1260P", "i7-12700H", "i7-1255U"],
+        "13th Gen (Raptor Lake)": ["i7-1360P", "i7-13700H"],
+        "14th Gen (Meteor Lake)": ["i7-1460P", "i7-14700HX"]
+      }
+    },
+    "i9": {
+      "Desktop": {
+        "9th Gen (Coffee Lake Refresh)": ["i9-9900K", "i9-9900KS"],
+        "10th Gen (Comet Lake)": ["i9-10900", "i9-10900K"],
+        "11th Gen (Rocket Lake)": ["i9-11900", "i9-11900K"],
+        "12th Gen (Alder Lake)": ["i9-12900", "i9-12900K"],
+        "13th Gen (Raptor Lake)": ["i9-13900", "i9-13900K"],
+        "14th Gen (Raptor Lake Refresh)": ["i9-14900", "i9-14900K"]
+      },
+      "Mobile": {
+        "9th Gen (Coffee Lake Refresh)": ["i9-9880H", "i9-9980HK"],
+        "10th Gen (Comet Lake)": ["i9-10885H", "i9-10980HK"],
+        "11th Gen (Tiger Lake)": ["i9-11950H", "i9-11980HK"],
+        "12th Gen (Alder Lake)": ["i9-12900H", "i9-12950HX"],
+        "13th Gen (Raptor Lake)": ["i9-13900H", "i9-13950HX"],
+        "14th Gen (Meteor Lake)": ["i9-14900HX", "i9-14980HX"]
+      }
+    },
+    "Xeon": {
+      "Workstation/Desktop (HEDT)": {
+        "1st Gen (Nehalem)": ["Xeon W3520", "Xeon W3580"],
+        "2nd Gen (Sandy Bridge)": ["Xeon E5-1620", "Xeon E5-1650"],
+        "3rd Gen (Ivy Bridge)": ["Xeon E5-2620 v2", "Xeon E5-2687W v2"],
+        "4th Gen (Haswell)": ["Xeon E5-1620 v3", "Xeon E5-1680 v3"],
+        "5th Gen (Broadwell)": ["Xeon E5-1650 v4", "Xeon E5-1680 v4"],
+        "6th Gen (Skylake-X)": ["Xeon W-2123", "Xeon W-2175"],
+        "7th Gen (Cascade Lake-X)": ["Xeon W-2223", "Xeon W-2295"],
+        "8th Gen (Ice Lake-SP)": ["Xeon W-3323", "Xeon W-3375"],
+        "9th Gen (Sapphire Rapids)": ["Xeon w5-3423", "Xeon w9-3495X"]
+      },
+      "Server": {
+        "1st Gen (Nehalem)": ["Xeon E5520", "Xeon X5570"],
+        "2nd Gen (Sandy Bridge)": ["Xeon E5-2603", "Xeon E5-2690"],
+        "3rd Gen (Ivy Bridge)": ["Xeon E5-2609 v2", "Xeon E5-2697 v2"],
+        "4th Gen (Haswell)": ["Xeon E5-2603 v3", "Xeon E5-2699 v3"],
+        "5th Gen (Broadwell)": ["Xeon E5-2603 v4", "Xeon E5-2699 v4"],
+        "6th Gen (Skylake-SP)": ["Xeon Silver 4108", "Xeon Platinum 8180"],
+        "7th Gen (Cascade Lake-SP)": ["Xeon Silver 4208", "Xeon Platinum 8280"],
+        "8th Gen (Ice Lake-SP)": ["Xeon Silver 4309Y", "Xeon Platinum 8380"],
+        "9th Gen (Sapphire Rapids)": ["Xeon Silver 4410Y", "Xeon Platinum 8490H"]
+      },
+      "Mobile (Workstation Laptops)": {
+        "6th Gen (Skylake)": ["Xeon E3-1505M v5", "Xeon E3-1535M v5"],
+        "7th Gen (Kaby Lake)": ["Xeon E3-1505M v6", "Xeon E3-1535M v6"],
+        "8th Gen (Coffee Lake)": ["Xeon E-2176M", "Xeon E-2186M"],
+        "9th Gen (Coffee Lake Refresh)": ["Xeon E-2276M", "Xeon E-2286M"],
+        "10th Gen (Comet Lake)": ["Xeon W-10855M", "Xeon W-10885M"],
+        "11th Gen (Tiger Lake)": ["Xeon W-11855M", "Xeon W-11955M"],
+        "12th Gen (Alder Lake)": ["Xeon W-12555M", "Xeon W-12755M"],
+        "13th Gen (Raptor Lake)": ["Xeon W-13555M", "Xeon W-13755M"]
+      }
+    }
+  }
+}
