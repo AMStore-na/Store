@@ -1485,16 +1485,16 @@
   },
   {
     "Nome": "Spotify",
-    "Link": "https://devuploads.com/ehjwehr1odl8",
-    "Linkx32": null,
+    "Link": "https://devuploads.com/5xxoc38yb0tm",
+    "Linkx32": "https://devuploads.com/5xxoc38yb0tm",
     "LinkR": "",
     "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Musica%20e%20Audio/Spotify.png",
     "Sezione": "Musica e Audio",
     "Descrizione": "Spotify è un servizio musicale digitale che offre accesso a milioni di brani, podcast e playlist",
-    "Tooltip": "Spotify v1.2.63.394",
+    "Tooltip": "Spotify v1.2.65.255",
     "MRicerca": "Musica",
-    "Hash": "56cf6e33e3abe135",
-    "HashX32": null,
+    "Hash": "9bbbb1612e4f9e87",
+    "HashX32": "9bbbb1612e4f9e87",
     "UUID": "129"
   },
   {
