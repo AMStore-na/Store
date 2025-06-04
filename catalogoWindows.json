@@ -2882,5 +2882,19 @@
     "Hash": "b47296944658d932",
     "HashX32": null,
     "UUID": "187"
+  },
+  {
+    "Nome": "Cubic Odyssey",
+    "Link": "https://devuploads.com/7u3a7ma5tz0h",
+    "Linkx32": null,
+    "LinkR": null,
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Giochi/Cubic_Odyssey.png",
+    "Sezione": "Giochi",
+    "Descrizione": "Cubic Odyssey è un'avventura sandbox spaziale in stile voxel. Esplora un universo generato proceduralmente, costruisci veicoli e astronavi, affronta l'infezione Red Darkness e collabora in modalità cooperativa. Con tre modalità di gioco e una progressione in stile RPG, offre un'esperienza coinvolgente per gli amanti dell'esplorazione e della sopravvivenza.",
+    "Tooltip": "Cubic Odyssey v1.0.1.15",
+    "MRicerca": "Giochi",
+    "Hash": "9d8cf3370330f562",
+    "HashX32": null,
+    "UUID": "210"
   }
 ]
