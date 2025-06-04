@@ -1,7 +1,8 @@
 {
-  "version": "1.0.2.2",
+  "version": "1.0.2.3",
   "releaseNotes": [
-    "Inserito simbolo (🔍) sui giochi per verificare i requisiti minimi + bottone Requisiti minimi giochi per ricerca globale"
+    "Fix totale memoria ram calcolata",
+    "Fix rilevamento GPU"
   ],
   "updateUrl": "https://github.com/AMStore-na/Store/releases/download/Store/AIMODS-Store.exe",
   "lavori": "false"
