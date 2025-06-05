@@ -6,24 +6,10 @@
         "name": "64Gram",
         "imageUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Social%20Network/64Gram.png",
         "type": "64Gram",
-        "link": {
-          "macos-12-arm64": "https://example.com/macos-12-arm64.dmg",
-          "macos-12-x86_64": "https://example.com/macos-12-x86_64.dmg",
-          "macos-12-universal": "https://example.com/macos-12-universal.dmg",
-          "macos-13-arm64": "https://example.com/macos-13-arm64.dmg",
-          "macos-13-x86_64": "https://example.com/macos-13-x86_64.dmg",
-          "macos-13-universal": "https://example.com/macos-13-universal.dmg",
-          "macos-14-arm64": "https://example.com/macos-14-arm64.dmg",
-          "macos-14-x86_64": "https://example.com/macos-14-x86_64.dmg",
-          "macos-14-universal": "https://example.com/macos-14-universal.dmg",
-          "macos-15-arm64": "https://devuploads.com/jivki1fmf76e",
-          "macos-15-x86_64": "https://example.com/macos-15-x86_64.dmg",
-          "macos-15-universal": "https://devuploads.com/uqabfnbfnqkv"
-        }
+        "link": "https://devuploads.com/uqabfnbfnqkv"
       }
     ]
-  }
-],
+  },
   {
     "category": "Musica",
     "items": [
