@@ -4,7 +4,7 @@
     "items": [
       {
         "name": "64Gram",
-        "imageUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Social Network/64Gram.png",
+        "imageUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Social%20Network/64Gram.png",
         "type": "64Gram",
         "link": "https://devuploads.com/uqabfnbfnqkv"
       }
@@ -15,7 +15,7 @@
     "items": [
       {
         "name": "FL Studio",
-        "imageUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Musica e Audio/FL_Studio.png",
+        "imageUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Musica%20e%20Audio/FL_Studio.png",
         "type": "FLStudio",
         "link": "https://devuploads.com/jivki1fmf76e"
       },
@@ -27,7 +27,7 @@
       },
       {
         "name": "Spotify",
-        "imageUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Musica e Audio/Spotify.png",
+        "imageUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Musica%20e%20Audio/Spotify.png",
         "type": "Spotify",
         "link": "https://devuploads.com/rgt2c0203jzz"
       }
@@ -55,31 +55,31 @@
     "items": [
       {
         "name": "Cinema 4D",
-        "imageUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Video e Animazione/cinema4d.png",
+        "imageUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Video%20e%20Animazione/cinema4d.png",
         "type": "Cinema4D",
         "link": "https://devuploads.com/122e1vb4v9tx"
       },
       {
         "name": "Rhino 8",
-        "imageUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Grafica e Design/Rhinoceros.png",
+        "imageUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Grafica%20e%20Design/Rhinoceros.png",
         "type": "Rhino8",
         "link": "https://devuploads.com/yfkwvqlogpi3"
       },
       {
         "name": "Camtasia",
-        "imageUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Video e Animazione/camtasia.png",
+        "imageUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Video%20e%20Animazione/camtasia.png",
         "type": "Camtasia",
         "link": "https://devuploads.com/bwbybrb2qxz5"
       },
       {
         "name": "CameraBag Pro",
-        "imageUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Video e Animazione/camerabagpro.png",
+        "imageUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Video%20e%20Animazione/camerabagpro.png",
         "type": "CameraBagPro",
         "link": "https://devuploads.com/pfzwctne8ndo"
       },
       {
         "name": "Resolve Studio",
-        "imageUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Video e Animazione/DaVinci_Resolve.png",
+        "imageUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Video%20e%20Animazione/DaVinci_Resolve.png",
         "type": "ResolveStudio",
         "link": "https://devuploads.com/majzwcl3muuv"
       },
@@ -102,19 +102,19 @@
       },
       {
         "name": "Acrobat DC",
-        "imageUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/PDF e Office/Adobe_Acrobat_Pro.png",
+        "imageUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/PDF%20e%20Office/Adobe_Acrobat_Pro.png",
         "type": "AcrobatDC",
         "link": "https://devuploads.com/7y19e6pq1rqe"
       },
       {
         "name": "Photoshop",
-        "imageUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Grafica e Design/Adobe_Photoshop.png",
+        "imageUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Grafica%20e%20Design/Adobe_Photoshop.png",
         "type": "Photoshop",
         "link": "https://devuploads.com/jcrmgd7ki5z3"
       },
       {
         "name": "Illustrator",
-        "imageUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Grafica e Design/Adobe_Illustrator.png",
+        "imageUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Grafica%20e%20Design/Adobe_Illustrator.png",
         "type": "Illustrator",
         "link": "https://devuploads.com/igu0qobyogsy"
       }
