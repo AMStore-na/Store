@@ -1,7 +1,9 @@
-{ 
-    "version": "1.0.1.5", 
-    "releaseNotes": [
-      "Fix Codice errore 4"
-     ],
-    "updateUrl": "https://github.com/AMStore-na/Store/releases/download/Store/AIMODS-Store.exe" 
+{
+  "version": "1.0.2.3",
+  "releaseNotes": [
+    "Fix totale memoria ram calcolata",
+    "Fix rilevamento GPU"
+  ],
+  "updateUrl": "https://github.com/AMStore-na/Store/releases/download/Store/AIMODS-Store.exe",
+  "lavori": "false"
 }
