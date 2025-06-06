@@ -251,8 +251,8 @@
     "category": "Adobe",
     "items": [
       {
-        "name": "Adobe Cracker",
-        "imageUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Attivatori/acc.png",
+        "name": "Adobe Creative Cloud",
+        "imageUrl": "https://raw.githubusercontent.com/AMStore-na/Store/refs/heads/main/Immagini/Suite%20Creative%20-%20Tutto%20In%20Uno/ACC.png",
         "type": "AdobeCrack",
         "link": {
           "macos-12-arm64": "https://example.com/macos-12-arm64.dmg",
