@@ -438,7 +438,7 @@
     "items": [
       {
         "name": "CleanMyMac X",
-        "imageUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Altro/cleanmymacx.jpg",
+        "imageUrl": "https://raw.githubusercontent.com/AMStore-na/Store/db3cefccbc94c57a27a9a0a4757c167030e34e6b/Immagini/Utility%20di%20Sistema%20e%20Manutenzione/CleanMyMac_X.png",
         "type": "CleanMyMacX",
         "link": {
           "macos-12-arm64": "https://example.com/macos-12-arm64.dmg",
@@ -457,7 +457,7 @@
       },
       {
         "name": "Prism",
-        "imageUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Altro/prism.jpg",
+        "imageUrl": "https://raw.githubusercontent.com/AMStore-na/Store/refs/heads/main/Immagini/Grafica%20e%20Design/Prism.png",
         "type": "Prism",
         "link": {
           "macos-12-arm64": "https://example.com/macos-12-arm64.dmg",
@@ -476,7 +476,7 @@
       },
       {
         "name": "Bootstrap Studio",
-        "imageUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Altro/bootstrapstudio.jpg",
+        "imageUrl": "https://raw.githubusercontent.com/AMStore-na/Store/refs/heads/main/Immagini/Sviluppo%20Software%20e%20IDE/Bootstrap_Studio.png",
         "type": "BootstrapStudio",
         "link": {
           "macos-12-arm64": "https://example.com/macos-12-arm64.dmg",
@@ -495,7 +495,7 @@
       },
       {
         "name": "VMWare Fusion",
-        "imageUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Altro/wmwarefusion.jpg",
+        "imageUrl": "https://raw.githubusercontent.com/AMStore-na/Store/refs/heads/main/Immagini/Sviluppo%20Software%20e%20IDE/VMware_Fusion.png",
         "type": "VMWareFusion",
         "link": {
           "macos-12-arm64": "https://example.com/macos-12-arm64.dmg",
