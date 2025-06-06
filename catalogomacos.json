@@ -395,7 +395,7 @@
     "items": [
       {
         "name": "Sideloadly",
-        "imageUrl": "https://c10.patreonusercontent.com/4/patreon-media/p/campaign/9534729/d47e0ea9c295439da9fefa7503901bd3/eyJ3IjoyMDB9/1.png",
+        "imageUrl": "https://c10.patreonusercontent.com/4/patreon-media/p/campaign/9534729/d47e0ea9c295439da9fefa7503901bd3/eyJ3IjoyMDB9/1.png?token-hash=d0Qt07l38yjFVCuEfL2L680h0XnuiCKpOCK8ouPXtxA%3D",
         "type": "Sideloadly",
         "link": {
           "macos-12-arm64": "https://example.com/macos-12-arm64.dmg",
