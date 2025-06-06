@@ -333,7 +333,7 @@
     "items": [
       {
         "name": "Recoverit",
-        "imageUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/wondershare/recoverit.jpg",
+        "imageUrl": "https://raw.githubusercontent.com/AMStore-na/Store/refs/heads/main/Immagini/Recupero%20Dati/Wondershare_Recoverit.png",
         "type": "Recoverit",
         "link": {
           "macos-12-arm64": "https://example.com/macos-12-arm64.dmg",
@@ -352,7 +352,7 @@
       },
       {
         "name": "Filmora",
-        "imageUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/wondershare/filmora.jpg",
+        "imageUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Video%20e%20Animazione/Wondershare_Filmora.png",
         "type": "Filmora",
         "link": {
           "macos-12-arm64": "https://example.com/macos-12-arm64.dmg",
@@ -371,7 +371,7 @@
       },
       {
         "name": "PDF Element",
-        "imageUrl": "https://lctopc.com/storage/uploads/1652252764.png",
+        "imageUrl": "https://raw.githubusercontent.com/AMStore-na/Store/refs/heads/main/Immagini/PDF%20e%20Office/Wondershare_PDFelement.png",
         "type": "PDFElement",
         "link": {
           "macos-12-arm64": "https://example.com/macos-12-arm64.dmg",
@@ -395,7 +395,7 @@
     "items": [
       {
         "name": "Sideloadly",
-        "imageUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Metodi-PC/Sideloady.png",
+        "imageUrl": "https://c10.patreonusercontent.com/4/patreon-media/p/campaign/9534729/d47e0ea9c295439da9fefa7503901bd3/eyJ3IjoyMDB9/1.png",
         "type": "Sideloadly",
         "link": {
           "macos-12-arm64": "https://example.com/macos-12-arm64.dmg",
@@ -414,7 +414,7 @@
       },
       {
         "name": "Alt Store",
-        "imageUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Metodi-PC/Altstore.png",
+        "imageUrl": "https://koditips.com/wp-content/uploads/altstore-iphone.png",
         "type": "AltStore",
         "link": {
           "macos-12-arm64": "https://example.com/macos-12-arm64.dmg",
@@ -552,7 +552,7 @@
       },
       {
         "name": "Autocad 2025",
-        "imageUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Autodesk/Autocad.jpg",
+        "imageUrl": "https://raw.githubusercontent.com/AMStore-na/Store/refs/heads/main/Immagini/CAD%2C%20Architettura%20e%20Ingegneria/Autodesk_AutoCAD_2025.png",
         "type": "Autocad",
         "link": {
           "macos-12-arm64": "https://example.com/macos-12-arm64.dmg",
