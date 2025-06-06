@@ -47,7 +47,7 @@
       },
       {
         "name": "Logic Pro X",
-        "imageUrl": "https://upload.wikimedia.org/wikipedia/en/c/c7/Logic_Pro_icon.png",
+        "imageUrl": "https://raw.githubusercontent.com/AMStore-na/Store/refs/heads/main/Immagini/Musica%20e%20Audio/Logic_Pro.png",
         "type": "LogicProX",
         "link": {
           "macos-12-arm64": "https://example.com/macos-12-arm64.dmg",
@@ -90,7 +90,7 @@
     "items": [
       {
         "name": "Spotify music converter",
-        "imageUrl": "https://www.viwizard.com/images/v3/products/icons/spotify-music-converter.png",
+        "imageUrl": "https://raw.githubusercontent.com/AMStore-na/Store/refs/heads/main/Immagini/Musica%20e%20Audio/Spotify_Music_Converter.png",
         "type": "SpotiMusicConv",
         "link": {
           "macos-12-arm64": "https://example.com/macos-12-arm64.dmg",
