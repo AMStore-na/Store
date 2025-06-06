@@ -133,7 +133,7 @@
     "items": [
       {
         "name": "Cinema 4D",
-        "imageUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Video%20e%20Animazione/cinema4d.png",
+        "imageUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Video%20e%20Animazione/Cinema_4D.png",
         "type": "Cinema4D",
         "link": {
           "macos-12-arm64": "https://example.com/macos-12-arm64.dmg",
@@ -171,7 +171,7 @@
       },
       {
         "name": "Camtasia",
-        "imageUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Video%20e%20Animazione/camtasia.png",
+        "imageUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Video%20e%20Animazione/Camtasia.png",
         "type": "Camtasia",
         "link": {
           "macos-12-arm64": "https://example.com/macos-12-arm64.dmg",
@@ -190,7 +190,7 @@
       },
       {
         "name": "CameraBag Pro",
-        "imageUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Video%20e%20Animazione/camerabagpro.png",
+        "imageUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Video%20e%20Animazione/CameraBag.png",
         "type": "CameraBagPro",
         "link": {
           "macos-12-arm64": "https://example.com/macos-12-arm64.dmg",
