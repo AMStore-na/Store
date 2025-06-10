@@ -1218,6 +1218,34 @@
     "UUID": "211"
   },
   {
+    "Nome": "Jurassic World Evolution 2",
+    "Link": "https://devuploads.com/osrkj996opuq",
+    "Linkx32": null,
+    "LinkR": null,
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Giochi/Jurassic_World_Evolution _2_Premium_Edition.png",
+    "Sezione": "Giochi",
+    "Descrizione": "Jurassic World Evolution 2: Premium Edition  offre il gestionale completo con base, espansioni e pacchetti dinosauri inclusi a prezzo scontato. Costruisci parchi di dinosauri su vaste mappe, gestisci biomi, specie e visitatori, con IA evoluta e modalità Campagna, Caos e Sandbox. Ideale per chi ama strategia e simulazione: tutto il franchise in un'unica esperienza curata e appagante. ",
+    "Tooltip": "Jurassic World Evolution 2 – v1.3.1",
+    "MRicerca": "Giochi",
+    "Hash": "a94581dec473133f",
+    "HashX32": null,
+    "UUID": "212"
+  },
+  {
+    "Nome": "ELDEN RING NIGHTREIGN Deluxe Edition",
+    "Link": "https://devuploads.com/ry68a7nfav4f",
+    "Linkx32": null,
+    "LinkR": null,
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Giochi/Elden_Ring_Nightreign_Deluxe_Edition.png",
+    "Sezione": "Giochi",
+    "Descrizione": "Elden Ring Nightreign è un'avventura co‑op standalone ambientata nell'universo di Elden Ring. Scendi nella terra di Limveld con fino a tre giocatori, vivi tre intense giornate-notte, potenzia l’equipaggiamento e affronta i temibili Nightlords. Con otto classi uniche, sessioni roguelike rapide e un gameplay raffinato, è perfetto per chi cerca azione strategica intensa senza impegni a lungo termine. ",
+    "Tooltip": "ELDEN RING NIGHTREIGN Deluxe Edition v1.01",
+    "MRicerca": "Giochi",
+    "Hash": "7507ba0872e8567e",
+    "HashX32": null,
+    "UUID": "213"
+  },
+  {
     "Nome": "Rhinoceros",
     "Link": "https://devuploads.com/xr0cre61l52m",
     "Linkx32": null,
@@ -1958,6 +1986,20 @@
     "Hash": "57632eb3e1cb750f",
     "HashX32": null,
     "UUID": "164"
+  },
+  {
+    "Nome": "Ham Radio Deluxe",
+    "Link": "https://devuploads.com/bt9q0gey9rlh",
+    "Linkx32": null,
+    "LinkR": null,
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Radio/Ham_Radio_Deluxe.png",
+    "Sezione": "Radio",
+    "Descrizione": null,
+    "Tooltip": "Ham Radio Deluxe v6.8.0.372",
+    "MRicerca": "radio",
+    "Hash": "48663a4a21f31e43",
+    "HashX32": null,
+    "UUID": "214"
   },
   {
     "Nome": "Tenorshare 4DDiG",
@@ -2910,47 +2952,5 @@
     "Hash": "b47296944658d932",
     "HashX32": null,
     "UUID": "187"
-  },
-  {
-    "Nome": "Jurassic World Evolution 2",
-    "Link": "https://devuploads.com/osrkj996opuq",
-    "Linkx32": null,
-    "LinkR": null,
-    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Giochi/Jurassic_World_Evolution _2_Premium_Edition.png",
-    "Sezione": "Giochi",
-    "Descrizione": "Jurassic World Evolution 2: Premium Edition  offre il gestionale completo con base, espansioni e pacchetti dinosauri inclusi a prezzo scontato. Costruisci parchi di dinosauri su vaste mappe, gestisci biomi, specie e visitatori, con IA evoluta e modalità Campagna, Caos e Sandbox. Ideale per chi ama strategia e simulazione: tutto il franchise in un'unica esperienza curata e appagante. ",
-    "Tooltip": "Jurassic World Evolution 2 – v1.3.1",
-    "MRicerca": "Giochi",
-    "Hash": "a94581dec473133f",
-    "HashX32": null,
-    "UUID": "212"
-  },
-  {
-    "Nome": "ELDEN RING NIGHTREIGN Deluxe Edition",
-    "Link": "https://devuploads.com/ry68a7nfav4f",
-    "Linkx32": null,
-    "LinkR": null,
-    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Giochi/Elden_Ring_Nightreign_Deluxe_Edition.png",
-    "Sezione": "Giochi",
-    "Descrizione": "Elden Ring Nightreign è un'avventura co‑op standalone ambientata nell'universo di Elden Ring. Scendi nella terra di Limveld con fino a tre giocatori, vivi tre intense giornate-notte, potenzia l’equipaggiamento e affronta i temibili Nightlords. Con otto classi uniche, sessioni roguelike rapide e un gameplay raffinato, è perfetto per chi cerca azione strategica intensa senza impegni a lungo termine. ",
-    "Tooltip": "ELDEN RING NIGHTREIGN Deluxe Edition v1.01",
-    "MRicerca": "Giochi",
-    "Hash": "7507ba0872e8567e",
-    "HashX32": null,
-    "UUID": "213"
-  },
-  {
-    "Nome": "Ham Radio Deluxe",
-    "Link": "https://devuploads.com/bt9q0gey9rlh",
-    "Linkx32": null,
-    "LinkR": null,
-    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Radio/Ham_Radio_Deluxe.png",
-    "Sezione": "Radio",
-    "Descrizione": null,
-    "Tooltip": "Ham Radio Deluxe v6.8.0.372",
-    "MRicerca": "radio",
-    "Hash": "48663a4a21f31e43",
-    "HashX32": null,
-    "UUID": "214"
   }
 ]
