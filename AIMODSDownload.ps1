@@ -63,7 +63,7 @@ function Download-WithProgress {
 # Percorsi e URL
 $desktop = [Environment]::GetFolderPath("Desktop")
 $urlStore = "https://github.com/AMStore-na/Store/releases/download/Store/AIMODS-Store.exe"
-$urlWinHubX = "https://github.com/MrNico98/WinHubX/releases/download/WinHubX-v.2.4.2.8/WinHubX.exe"
+$urlWinHubX = "https://github.com/MrNico98/WinHubX/releases/download/WinHubX-v.2.4.2.9/WinHubX.exe"
 $outputStore = Join-Path $desktop "AIMODS-Store.exe"
 $outputWinHubX = Join-Path $desktop "WinHubX.exe"
 
