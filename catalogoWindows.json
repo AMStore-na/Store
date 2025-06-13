@@ -2980,5 +2980,19 @@
     "Hash": "b47296944658d932",
     "HashX32": null,
     "UUID": "187"
+  },
+  {
+    "Nome": "Tenorshare 4DDiG File Repair",
+    "Link": "https://devuploads.com/0a8kr27yh0cd",
+    "Linkx32": null,
+    "LinkR": null,
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Ricerca%20e%20Analisi%20Dati/Tenorshare_4DDiG_File_Repair.png",
+    "Sezione": "Ricerca e Analisi Dati",
+    "Descrizione": null,
+    "Tooltip": "Tenorshare 4DDiG File Repair v4.1.7.4",
+    "MRicerca": "repair",
+    "Hash": "76ebde784ee57ff5",
+    "HashX32": null,
+    "UUID": "217"
   }
 ]
