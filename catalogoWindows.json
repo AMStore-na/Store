@@ -2058,6 +2058,48 @@
     "UUID": "77"
   },
   {
+    "Nome": "Tenorshare 4DDiG Duplicate File Detector",
+    "Link": "https://devuploads.com/n073gasue5x2",
+    "Linkx32": null,
+    "LinkR": "",
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Recupero%20Dati/Tenorshare_4DDiG_Duplicate_File_Detector.png",
+    "Sezione": "Recupero Dati",
+    "Descrizione": "Tenorshare 4DDiG Duplicate File Deleter è uno strumento progettato per aiutare gli utenti a gestire e rimuovere i file duplicati presenti sui propri dispositivi. Il programma esegue la scansione del sistema alla ricerca di file duplicati, permettendo di risparmiare spazio di archiviazione e migliorare l'efficienza del dispositivo.",
+    "Tooltip": "Tenorshare 4DDIG Duplicate File Detector",
+    "MRicerca": "4ddig",
+    "Hash": "",
+    "HashX32": null,
+    "UUID": "78"
+  },
+  {
+    "Nome": "Recuva Business Edition",
+    "Link": "https://devuploads.com/79qqfzhga9xy",
+    "Linkx32": null,
+    "LinkR": "",
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Recupero%20Dati/Recuva_Business_Edition.png",
+    "Sezione": "Recupero Dati",
+    "Descrizione": "Recuva Business Edition è una versione avanzata del popolare strumento di recupero file Recuva, sviluppato da Piriform. Questa versione è progettata per le esigenze aziendali e offre funzionalità aggiuntive rispetto alla versione gratuita.",
+    "Tooltip": "Recuva Business Edition v1.53.2095",
+    "MRicerca": "recuva",
+    "Hash": "",
+    "HashX32": null,
+    "UUID": "68"
+  },
+  {
+    "Nome": "Tenorshare 4DDiG File Repair",
+    "Link": "https://devuploads.com/0a8kr27yh0cd",
+    "Linkx32": null,
+    "LinkR": null,
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Recupero%20Dati/Tenorshare_4DDiG_File_Repair.png",
+    "Sezione": "Recupero Dati",
+    "Descrizione": null,
+    "Tooltip": "Tenorshare 4DDiG File Repair v4.1.7.4",
+    "MRicerca": "repair",
+    "Hash": "76ebde784ee57ff5",
+    "HashX32": null,
+    "UUID": "217"
+  },
+  {
     "Nome": "Movavi Screen Recorder",
     "Link": "https://devuploads.com/klsx2cu9t20q",
     "Linkx32": null,
@@ -2114,34 +2156,6 @@
     "UUID": "165"
   },
   {
-    "Nome": "Tenorshare 4DDiG Duplicate File Detector",
-    "Link": "https://devuploads.com/n073gasue5x2",
-    "Linkx32": null,
-    "LinkR": "",
-    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Recupero%20Dati/Tenorshare_4DDiG_Duplicate_File_Detector.png",
-    "Sezione": "Recupero Dati",
-    "Descrizione": "Tenorshare 4DDiG Duplicate File Deleter è uno strumento progettato per aiutare gli utenti a gestire e rimuovere i file duplicati presenti sui propri dispositivi. Il programma esegue la scansione del sistema alla ricerca di file duplicati, permettendo di risparmiare spazio di archiviazione e migliorare l'efficienza del dispositivo.",
-    "Tooltip": "Tenorshare 4DDIG Duplicate File Detector",
-    "MRicerca": "4ddig",
-    "Hash": "",
-    "HashX32": null,
-    "UUID": "78"
-  },
-  {
-    "Nome": "Recuva Business Edition",
-    "Link": "https://devuploads.com/79qqfzhga9xy",
-    "Linkx32": null,
-    "LinkR": "",
-    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Recupero%20Dati/Recuva_Business_Edition.png",
-    "Sezione": "Recupero Dati",
-    "Descrizione": "Recuva Business Edition è una versione avanzata del popolare strumento di recupero file Recuva, sviluppato da Piriform. Questa versione è progettata per le esigenze aziendali e offre funzionalità aggiuntive rispetto alla versione gratuita.",
-    "Tooltip": "Recuva Business Edition v1.53.2095",
-    "MRicerca": "recuva",
-    "Hash": "",
-    "HashX32": null,
-    "UUID": "68"
-  },
-  {
     "Nome": "Copernic Desktop Search",
     "Link": "https://devuploads.com/c8yke8uupctj",
     "Linkx32": null,
@@ -2182,20 +2196,6 @@
     "Hash": "3b8a8f5e941598be",
     "HashX32": null,
     "UUID": "208"
-  },
-  {
-    "Nome": "Tenorshare 4DDiG File Repair",
-    "Link": "https://devuploads.com/0a8kr27yh0cd",
-    "Linkx32": null,
-    "LinkR": null,
-    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Recupero%20Dati/Tenorshare_4DDiG_File_Repair.png",
-    "Sezione": "Recupero Dati",
-    "Descrizione": null,
-    "Tooltip": "Tenorshare 4DDiG File Repair v4.1.7.4",
-    "MRicerca": "repair",
-    "Hash": "76ebde784ee57ff5",
-    "HashX32": null,
-    "UUID": "217"
   },
   {
     "Nome": "Malwarebytes",
