@@ -1,10 +1,10 @@
 {
-  "version": "1.0.2.3",
+  "version": "1.0.2.4",
   "releaseNotes": [
-    "Fix totale memoria ram calcolata",
-    "Fix rilevamento GPU"
+    "Fix crash app",
+    "Aggiunta possibilità di store light"
   ],
-  "updateUrl": "https://github.com/AMStore-na/Store/releases/download/Store/AIMODS-Store.exe",
-  "updateUrlLight": "",
+  "updateUrl": "https://github.com/AMStore-na/Store/releases/download/Store/AIMODS-Store.Full.exe",
+  "updateUrlLight": "https://github.com/AMStore-na/Store/releases/download/Store/AIMODS-Store.Light.exe",
   "lavori": "false"
 }
