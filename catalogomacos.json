@@ -371,7 +371,7 @@
     "items": [
       {
         "name": "Sideloadly",
-        "imageUrl": "https://raw.githubusercontent.com/AMStore-na/Store/refs/heads/main/Immagini/Altro/Sideloadly.png",
+        "imageUrl": "https://raw.githubusercontent.com/AMStore-na/Store/refs/heads/main/Immagini/NONELIMINAREDIOCANE/Sideloadly.png",
         "type": "Sideloadly",
         "link": {
           "macos-12-arm64": "https://example.com/macos-12-arm64.dmg",
@@ -390,7 +390,7 @@
       },
       {
         "name": "Alt Store",
-        "imageUrl": "https://raw.githubusercontent.com/AMStore-na/Store/refs/heads/main/Immagini/Altro/AltStore.png",
+        "imageUrl": "https://raw.githubusercontent.com/AMStore-na/Store/refs/heads/main/Immagini/NONELIMINAREDIOCANE/AltStore.png",
         "type": "AltStore",
         "link": {
           "macos-12-arm64": "https://example.com/macos-12-arm64.dmg",
