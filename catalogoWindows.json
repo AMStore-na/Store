@@ -3022,5 +3022,19 @@
     "Hash": "af87dcde5ba689a6",
     "HashX32": null,
     "UUID": "219"
+  },
+  {
+    "Nome": "TeraCopy Pro",
+    "Link": "https://devuploads.com/8k6ms7dhotn0",
+    "Linkx32": null,
+    "LinkR": null,
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Utility%20di%20Sistema%20e%20Manutenzione/TeraCopy_Pro.png",
+    "Sezione": "Utility di Sistema e Manutenzione",
+    "Descrizione": null,
+    "Tooltip": "TeraCopy Pro v3.17",
+    "MRicerca": "teracopy",
+    "Hash": "66df9835b5c04700",
+    "HashX32": null,
+    "UUID": "220"
   }
 ]
