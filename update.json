@@ -5,6 +5,5 @@
     "Aggiunta possibilità di store light"
   ],
   "updateUrl": "https://github.com/AMStore-na/Store/releases/download/Store/AIMODS-Store.Full.exe",
-  "updateUrlLight": "https://github.com/AMStore-na/Store/releases/download/Store/AIMODS-Store.Light.exe",
   "lavori": "false"
 }
