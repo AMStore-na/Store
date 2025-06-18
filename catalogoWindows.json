@@ -406,6 +406,20 @@
     "UUID": "207"
   },
   {
+    "Nome": "SongGet",
+    "Link": "https://devuploads.com/vhgdrb8924d8",
+    "Linkx32": null,
+    "LinkR": null,
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Downloader/SongGet.png",
+    "Sezione": "Downloader",
+    "Descrizione": "SongGet All‑in‑One è un potente downloader/converter di musica DRM‑protetta che consente di scaricare in blocco playlist, album, singoli, podcast e trasmissioni da piattaforme di streaming come Spotify, Apple Music, Amazon Music, YouTube Music e altre, convertendoli in formati MP3, WAV, M4A, FLAC o OPUS per l’ascolto offline.",
+    "Tooltip": "SongGet v6.0.0.1",
+    "MRicerca": "Song",
+    "Hash": "af87dcde5ba689a6",
+    "HashX32": null,
+    "UUID": "219"
+  },
+  {
     "Nome": "Grand Theft Auto V",
     "Link": "https://devuploads.com/7jsijapl15cu",
     "Linkx32": null,
@@ -2744,6 +2758,20 @@
     "UUID": "194"
   },
   {
+    "Nome": "TeraCopy Pro",
+    "Link": "https://devuploads.com/8k6ms7dhotn0",
+    "Linkx32": null,
+    "LinkR": null,
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Utility%20di%20Sistema%20e%20Manutenzione/TeraCopy_Pro.png",
+    "Sezione": "Utility di Sistema e Manutenzione",
+    "Descrizione": null,
+    "Tooltip": "TeraCopy Pro v3.17",
+    "MRicerca": "teracopy",
+    "Hash": "66df9835b5c04700",
+    "HashX32": null,
+    "UUID": "220"
+  },
+  {
     "Nome": "Wondershare Filmora",
     "Link": "https://devuploads.com/lvdhjwx63ogv",
     "Linkx32": null,
@@ -3008,33 +3036,5 @@
     "Hash": "b47296944658d932",
     "HashX32": null,
     "UUID": "187"
-  },
-  {
-    "Nome": "SongGet",
-    "Link": "https://devuploads.com/vhgdrb8924d8",
-    "Linkx32": null,
-    "LinkR": null,
-    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Downloader/SongGet.png",
-    "Sezione": "Downloader",
-    "Descrizione": "SongGet All‑in‑One è un potente downloader/converter di musica DRM‑protetta che consente di scaricare in blocco playlist, album, singoli, podcast e trasmissioni da piattaforme di streaming come Spotify, Apple Music, Amazon Music, YouTube Music e altre, convertendoli in formati MP3, WAV, M4A, FLAC o OPUS per l’ascolto offline.",
-    "Tooltip": "SongGet v6.0.0.1",
-    "MRicerca": "Song",
-    "Hash": "af87dcde5ba689a6",
-    "HashX32": null,
-    "UUID": "219"
-  },
-  {
-    "Nome": "TeraCopy Pro",
-    "Link": "https://devuploads.com/8k6ms7dhotn0",
-    "Linkx32": null,
-    "LinkR": null,
-    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Utility%20di%20Sistema%20e%20Manutenzione/TeraCopy_Pro.png",
-    "Sezione": "Utility di Sistema e Manutenzione",
-    "Descrizione": null,
-    "Tooltip": "TeraCopy Pro v3.17",
-    "MRicerca": "teracopy",
-    "Hash": "66df9835b5c04700",
-    "HashX32": null,
-    "UUID": "220"
   }
 ]
