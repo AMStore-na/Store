@@ -2772,6 +2772,20 @@
     "UUID": "220"
   },
   {
+    "Nome": "EaseUS Todo Backup Enterprise",
+    "Link": "https://devuploads.com/6gvdcn1tuapu",
+    "Linkx32": null,
+    "LinkR": null,
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Utility%20di%20Sistema%20e%20Manutenzione/EaseUS_Todo_Backup_Enterprise.png",
+    "Sezione": "Utility di Sistema e Manutenzione",
+    "Descrizione": null,
+    "Tooltip": "EaseUS Todo Backup Enterprise v16.3.0",
+    "MRicerca": "backup",
+    "Hash": "f8df4506c0216ab4",
+    "HashX32": null,
+    "UUID": "221"
+  },
+  {
     "Nome": "Wondershare Filmora",
     "Link": "https://devuploads.com/lvdhjwx63ogv",
     "Linkx32": null,
@@ -3036,19 +3050,5 @@
     "Hash": "b47296944658d932",
     "HashX32": null,
     "UUID": "187"
-  },
-  {
-    "Nome": "EaseUS Todo Backup Enterprise",
-    "Link": "https://devuploads.com/6gvdcn1tuapu",
-    "Linkx32": null,
-    "LinkR": null,
-    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Utility%20di%20Sistema%20e%20Manutenzione/EaseUS_Todo_Backup_Enterprise.png",
-    "Sezione": "Utility di Sistema e Manutenzione",
-    "Descrizione": null,
-    "Tooltip": "EaseUS Todo Backup Enterprise v16.3.0",
-    "MRicerca": "backup",
-    "Hash": "f8df4506c0216ab4",
-    "HashX32": null,
-    "UUID": "221"
   }
 ]
