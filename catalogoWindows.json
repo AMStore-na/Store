@@ -128,7 +128,7 @@
   {
     "Nome": "3DF Zephyr",
     "Link": "https://devuploads.com/42zt57ogl8pw",
-    "Linkx32": null,
+    "Linkx32": "TEST",
     "LinkR": null,
     "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/CAD%2C%20Architettura%20e%20Ingegneria/3DF_Zephyr.png",
     "Sezione": "CAD, Architettura e Ingegneria",
@@ -380,7 +380,7 @@
   {
     "Nome": "4K Tokkit",
     "Link": "https://devuploads.com/9cep6nkeuasx",
-    "Linkx32": null,
+    "Linkx32": "TEST",
     "LinkR": null,
     "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Downloader/4K_Tokkit.png",
     "Sezione": "Downloader",
@@ -1961,7 +1961,7 @@
   },
   {
     "Nome": "StartAllBack",
-    "Link": "https://devuploads.com/clyxvo1thj7q",
+    "Link": "https://devuploads.com/jnq4yev18j1d",
     "Linkx32": null,
     "LinkR": "",
     "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Personalizzazione%20e%20Interfaccia/StartAllBack.png",
@@ -1969,7 +1969,7 @@
     "Descrizione": "StartAllBack è un'applicazione progettata per migliorare e personalizzare l'interfaccia utente di Windows 11, permettendo agli utenti di ripristinare elementi familiari delle versioni precedenti di Windows, come Windows 10 e Windows 7",
     "Tooltip": "StartAllBack v3.9.7",
     "MRicerca": "start",
-    "Hash": "a2a1945e264afbcb",
+    "Hash": "ab4d1f00ae2d359a",
     "HashX32": null,
     "UUID": "74"
   },
@@ -2076,7 +2076,7 @@
     "Link": "https://devuploads.com/qqyhy45x00gv",
     "Linkx32": null,
     "LinkR": "",
-    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Recupero%20Dati/Tenorshare_4DDiG_Duplicate_File_Detector.png",
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Recupero%20Dati/Tenorshare_4DDiG_Duplicate_File_Deleter.png",
     "Sezione": "Recupero Dati",
     "Descrizione": "Tenorshare 4DDiG Duplicate File Deleter è uno strumento progettato per aiutare gli utenti a gestire e rimuovere i file duplicati presenti sui propri dispositivi. Il programma esegue la scansione del sistema alla ricerca di file duplicati, permettendo di risparmiare spazio di archiviazione e migliorare l'efficienza del dispositivo.",
     "Tooltip": "Tenorshare 4DDiG Duplicate File Deleter v3.0.13",
@@ -2772,6 +2772,20 @@
     "UUID": "220"
   },
   {
+    "Nome": "EaseUS Todo Backup Enterprise",
+    "Link": "https://devuploads.com/6gvdcn1tuapu",
+    "Linkx32": null,
+    "LinkR": null,
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Utility%20di%20Sistema%20e%20Manutenzione/EaseUS_Todo_Backup_Enterprise.png",
+    "Sezione": "Utility di Sistema e Manutenzione",
+    "Descrizione": null,
+    "Tooltip": "EaseUS Todo Backup Enterprise v16.3.0",
+    "MRicerca": "backup",
+    "Hash": "f8df4506c0216ab4",
+    "HashX32": null,
+    "UUID": "221"
+  },
+  {
     "Nome": "Wondershare Filmora",
     "Link": "https://devuploads.com/lvdhjwx63ogv",
     "Linkx32": null,
@@ -2787,15 +2801,15 @@
   },
   {
     "Nome": "Freemake Video Converter",
-    "Link": "https://devuploads.com/nsa26uiewcyw",
+    "Link": "https://devuploads.com/p0f7e8e29fpt",
     "Linkx32": null,
     "LinkR": "",
     "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Video%20e%20Animazione/Freemake_Video_Converter.png",
     "Sezione": "Video e Animazione",
     "Descrizione": "Freemake Video Converter è un software freemium sviluppato da Ellora Assets Corporation. È progettato per convertire i file video in vari formati, masterizzare video su DVD e creare presentazioni fotografiche.",
-    "Tooltip": "Freemake Video Converter v5.0.0.1",
+    "Tooltip": "Freemake Video Converter v5.0.0.6",
     "MRicerca": "frremake",
-    "Hash": "b5b846fe03f7bb92",
+    "Hash": "e4c28007d2568799",
     "HashX32": null,
     "UUID": "38"
   },
