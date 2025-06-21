@@ -531,18 +531,10 @@
         "imageUrl": "https://raw.githubusercontent.com/AMStore-na/Store/refs/heads/main/Immagini/CAD%2C%20Architettura%20e%20Ingegneria/Autodesk_AutoCAD_2025.png",
         "type": "Autocad",
         "link": {
-          "macos-12-arm64": "https://example.com/macos-12-arm64.dmg",
-          "macos-12-x86_64": "https://example.com/macos-12-x86_64.dmg",
-          "macos-12-universal": "https://example.com/macos-12-universal.dmg",
-          "macos-13-arm64": "https://example.com/macos-13-arm64.dmg",
-          "macos-13-x86_64": "https://example.com/macos-13-x86_64.dmg",
-          "macos-13-universal": "https://example.com/macos-13-universal.dmg",
-          "macos-14-arm64": "https://example.com/macos-14-arm64.dmg",
-          "macos-14-x86_64": "https://example.com/macos-14-x86_64.dmg",
-          "macos-14-universal": "https://example.com/macos-14-universal.dmg",
-          "macos-15-arm64": "https://devuploads.com/jivki1fmf76e",
-          "macos-15-x86_64": "https://example.com/macos-15-x86_64.dmg",
-          "macos-15-universal": "https://devuploads.com/uqabfnbfnqkv"
+          "macos-12-universal": "https://devuploads.com/qzr28qgix9u5",
+          "macos-13-universal": "https://devuploads.com/qzr28qgix9u5",
+          "macos-14-universal": "https://devuploads.com/qzr28qgix9u5",
+          "macos-15-universal": "https://devuploads.com/qzr28qgix9u5"
         }
       }
     ]
