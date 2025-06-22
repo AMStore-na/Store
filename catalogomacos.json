@@ -1,21 +1,21 @@
 [
-  {
-    "category": "Social",
-    "items": [
-      {
-        "name": "64Gram",
-        "imageUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Social%20Network/64Gram.png",
-        "type": "64Gram",
-        "link": {
-          "macos-12-universal": "https://devuploads.com/42nk6zgdsv9j",
-          "macos-13-universal": "https://devuploads.com/42nk6zgdsv9j",
-          "macos-14-universal": "https://devuploads.com/42nk6zgdsv9j",
-          "macos-15-universal": "https://devuploads.com/42nk6zgdsv9j"
-        },
-        "description": "Client Telegram open source per MacOS."
-      }
-    ]
-  },
+    {
+      "category": "Social",
+      "items": [
+        {
+          "name": "64Gram",
+          "imageUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Social%20Network/64Gram.png",
+          "type": "64Gram",
+          "link": {
+            "macos-12-universal": "https://devuploads.com/42nk6zgdsv9j",
+            "macos-13-universal": "https://devuploads.com/42nk6zgdsv9j",
+            "macos-14-universal": "https://devuploads.com/42nk6zgdsv9j",
+            "macos-15-universal": "https://devuploads.com/42nk6zgdsv9j"
+          },
+          "description": "Client Telegram open source per MacOS."
+        }
+      ]
+    },
   {
     "category": "Musica",
     "items": [
