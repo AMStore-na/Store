@@ -40,7 +40,8 @@
           "macos-13-universal": "https://devuploads.com/7oajg9foh3l6",
           "macos-14-universal": "https://devuploads.com/6khvb4u0jrt3",
           "macos-15-universal": "https://devuploads.com/6khvb4u0jrt3"
-        }
+        },
+        "description": "Logic Pro è un'applicazione DAW e sequencer MIDI per la piattaforma macOS.\nÈ stata creata nei primi anni '90 con il nome di Notator Logic (in seguito diventata Emagic).\nÈ diventato un prodotto Apple dal nome Logic Pro dopo che Apple ha acquistato Emagic.\n\n"
       },
       {
         "name": "Spotify",
@@ -84,7 +85,8 @@
           "macos-15-arm64": "https://devuploads.com/jivki1fmf76e",
           "macos-15-x86_64": "https://example.com/macos-15-x86_64.dmg",
           "macos-15-universal": "https://devuploads.com/uqabfnbfnqkv"
-        }
+        },
+        "description": "Un ottimo downloader musicale progettato per scaricare e convertire tutte le tracce musicali, le playlist, gli album e gli artisti in formati MP3, AAC, WAV, FLAC, M4A, M4B senza perdita,\noffrendoti un'eccellente esperienza di ascolto di musica offline su qualsiasi lettore e dispositivo.\n\n"
       },
       {
         "name": "4K Downloader",
@@ -103,7 +105,8 @@
           "macos-15-arm64": "https://devuploads.com/jivki1fmf76e",
           "macos-15-x86_64": "https://example.com/macos-15-x86_64.dmg",
           "macos-15-universal": "https://devuploads.com/uqabfnbfnqkv"
-        }
+        },
+        "description": "4K Video Downloader e 4K Video Downloader+ sono programmi che consentono di scaricare video e audio da tantissimi siti,\n come YouTube, Vimeo, TikTok, SoundCloud, Bilibili, Niconico, Flickr, Facebook, DailyMotion, Naver TV, Likee e Tumblr.\n\n"
       }
     ]
   },
@@ -127,7 +130,8 @@
           "macos-15-arm64": "https://devuploads.com/jivki1fmf76e",
           "macos-15-x86_64": "https://example.com/macos-15-x86_64.dmg",
           "macos-15-universal": "https://devuploads.com/uqabfnbfnqkv"
-        }
+        },
+        "description": "Cinema 4D è un software per la modellazione 3D, l'animazione, ed il rendering, prodotto dalla software house MAXON Computer GmbH.\nOffre nuove funzionalità che gli artisti VFX 3D e i motion designer possono utilizzare per creare scene complesse con facilità.\n\n"
       },
       {
         "name": "Rhino 8",
@@ -146,7 +150,8 @@
           "macos-15-arm64": "https://devuploads.com/jivki1fmf76e",
           "macos-15-x86_64": "https://example.com/macos-15-x86_64.dmg",
           "macos-15-universal": "https://devuploads.com/uqabfnbfnqkv"
-        }
+        },
+        "description": "Rhinoceros (comunemente abbreviato in Rhino o Rhino3D) è un software di modellazione tridimensionale di alta qualità utilizzato principalmente in campo architettonico, ingegneristico e della produzione di design.\nRhino è in grado di creare, modificare, analizzare, documentare, renderizzare, animare e tradurre curve, superfici e solidi NURBS di qualsiasi complessità, grado o dimensioni.\n\n"
       },
       {
         "name": "Camtasia",
@@ -165,7 +170,8 @@
           "macos-15-arm64": "https://devuploads.com/jivki1fmf76e",
           "macos-15-x86_64": "https://example.com/macos-15-x86_64.dmg",
           "macos-15-universal": "https://devuploads.com/uqabfnbfnqkv"
-        }
+        },
+        "description": "Camtasia è il tuo registratore dello schermo all-in-one e strumento di editing video.\nUnisciti ai milioni di creatori di contenuti, educatori, esperti di marketing, formatori e professionisti aziendali che si affidano a Camtasia per portare i loro progetti video al livello successivo.\n\n"
       },
       {
         "name": "CameraBag Pro",
@@ -184,7 +190,8 @@
           "macos-15-arm64": "https://devuploads.com/jivki1fmf76e",
           "macos-15-x86_64": "https://example.com/macos-15-x86_64.dmg",
           "macos-15-universal": "https://devuploads.com/uqabfnbfnqkv"
-        }
+        },
+        "description": "CameraBag ti consente di applicare istantaneamente uno dei centinaia di bellissimi preset alle tue foto (e ai tuoi video con CameraBag Pro),\nper poi immergerti più a fondo con regolazioni professionali ultra intuitive.\n\n"
       },
       {
         "name": "Resolve Studio",
@@ -203,7 +210,8 @@
           "macos-15-arm64": "https://devuploads.com/jivki1fmf76e",
           "macos-15-x86_64": "https://example.com/macos-15-x86_64.dmg",
           "macos-15-universal": "https://devuploads.com/uqabfnbfnqkv"
-        }
+        },
+        "description": "DaVinci Resolve è un'applicazione di classificazione del colore, correzione del colore, effetti visivi e editing video di post-produzione audio per macOS, Windows e Linux,\nsviluppata da Blackmagic Design.\n\n"
       },
       {
         "name": "Final Cut Pro",
@@ -222,7 +230,8 @@
           "macos-15-arm64": "https://devuploads.com/jivki1fmf76e",
           "macos-15-x86_64": "https://example.com/macos-15-x86_64.dmg",
           "macos-15-universal": "https://devuploads.com/uqabfnbfnqkv"
-        }
+        },
+        "description": "Final Cut Pro ti consente di modificare progetti più complessi e lavorare con dimensioni di fotogrammi più grandi, frame rate più elevati e più effetti, il tutto a velocità incredibili.\nEd è costruito per sfruttare l'estrema potenza di Mac Pro, Mac Studio o MacBook Pro per prestazioni di livello superiore.\n\n"
       }
     ]
   },
@@ -246,7 +255,8 @@
           "macos-15-arm64": "https://devuploads.com/jivki1fmf76e",
           "macos-15-x86_64": "https://example.com/macos-15-x86_64.dmg",
           "macos-15-universal": "https://devuploads.com/uqabfnbfnqkv"
-        }
+        },
+        "description": "Programma indispensabile per tutti i prodotti adobe.\nSenza di esso, nessun programma funzionerà e/o si installerà.\n\n"
       },
       {
         "name": "Acrobat DC",
@@ -265,7 +275,8 @@
           "macos-15-arm64": "https://devuploads.com/jivki1fmf76e",
           "macos-15-x86_64": "https://example.com/macos-15-x86_64.dmg",
           "macos-15-universal": "https://devuploads.com/uqabfnbfnqkv"
-        }
+        },
+        "description": "Crea e modifica file PDF. Collabora in tutta semplicità. Firma elettronicamente i documenti e raccogli le firme di altri utenti.\nCompleta tutte le attività con un’unica applicazione, ovunque lavori. Acrobat ha tutto quello di cui hai bisogno.\n\n"
       },
       {
         "name": "Photoshop",
@@ -284,7 +295,8 @@
           "macos-15-arm64": "https://devuploads.com/jivki1fmf76e",
           "macos-15-x86_64": "https://example.com/macos-15-x86_64.dmg",
           "macos-15-universal": "https://devuploads.com/uqabfnbfnqkv"
-        }
+        },
+        "description": "\nAdobe Photoshop è un software proprietario prodotto da Adobe specializzato nell'elaborazione di fotografie (fotoritocco) e, più in generale, di immagini digitali.\n\n"
       },
       {
         "name": "Illustrator",
@@ -303,7 +315,8 @@
           "macos-15-arm64": "https://devuploads.com/jivki1fmf76e",
           "macos-15-x86_64": "https://example.com/macos-15-x86_64.dmg",
           "macos-15-universal": "https://devuploads.com/uqabfnbfnqkv"
-        }
+        },
+        "description": "\nAdobe Illustrator è un software per l'elaborazione di immagini e per la grafica vettoriale prodotto da Adobe a partire dal 1987.\nIl programma è utilizzato da milioni di designer e artisti di tutto il mondo per progettare qualsiasi tipo di grafica destinata all'editoria, al web e per dispositivi mobili.\n\n"
       }
     ]
   },
@@ -327,7 +340,8 @@
           "macos-15-arm64": "https://devuploads.com/jivki1fmf76e",
           "macos-15-x86_64": "https://example.com/macos-15-x86_64.dmg",
           "macos-15-universal": "https://devuploads.com/uqabfnbfnqkv"
-        }
+        },
+        "description": "Specializzato nel Recupero di Documenti, Foto, Video, Musica e Archivio.\nRecupera da SD Card, Memory Card, PC/MAC, Disco Rigido, Fotocamera, Unità USB, Cestino ecc..\n\n"
       },
       {
         "name": "Filmora",
@@ -346,7 +360,8 @@
           "macos-15-arm64": "https://devuploads.com/jivki1fmf76e",
           "macos-15-x86_64": "https://example.com/macos-15-x86_64.dmg",
           "macos-15-universal": "https://devuploads.com/uqabfnbfnqkv"
-        }
+        },
+        "description": "Wondershare Filmora è una delle piattaforme di montaggio video più avanzate, grazie alla sua integrazione di funzionalità basate sull'intelligenza artificiale.\nTra queste, spiccano l'editing copilota AI, l'editing AI basato sul testo, la creazione di miniature AI e il generatore di musica AI.\n\n"
       },
       {
         "name": "PDF Element",
@@ -365,7 +380,8 @@
           "macos-15-arm64": "https://devuploads.com/jivki1fmf76e",
           "macos-15-x86_64": "https://example.com/macos-15-x86_64.dmg",
           "macos-15-universal": "https://devuploads.com/uqabfnbfnqkv"
-        }
+        },
+        "description": "Il più semplice editor PDF per creare, modificare, convertire e firmare documenti PDF su desktop, mobile e web.\n\n"
       }
     ]
   },
@@ -389,7 +405,8 @@
           "macos-15-arm64": "https://devuploads.com/jivki1fmf76e",
           "macos-15-x86_64": "https://example.com/macos-15-x86_64.dmg",
           "macos-15-universal": "https://devuploads.com/uqabfnbfnqkv"
-        }
+        },
+        "description": "Il nuovo e migliore modo per trasferire i tuoi giochi e le tue app preferite sul tuo dispositivo iOS, Apple Silicon Mac o Apple TV.\nNon è richiesto il jailbreak, Sideloadly è stato creato pensando ai dispositivi senza jailbreak.\n\n"
       },
       {
         "name": "Alt Store",
@@ -408,7 +425,8 @@
           "macos-15-arm64": "https://devuploads.com/jivki1fmf76e",
           "macos-15-x86_64": "https://example.com/macos-15-x86_64.dmg",
           "macos-15-universal": "https://devuploads.com/uqabfnbfnqkv"
-        }
+        },
+        "description": "Altstore è un negozio di app alternativo per dispositivi iOS non jailbreak.\nPuoi installare app di terze parti sui dispositivi Apple senza jailbreak e sideloading con facilità.\n\n"
       }
     ]
   },
@@ -432,7 +450,8 @@
           "macos-15-arm64": "https://devuploads.com/jivki1fmf76e",
           "macos-15-x86_64": "https://example.com/macos-15-x86_64.dmg",
           "macos-15-universal": "https://devuploads.com/uqabfnbfnqkv"
-        }
+        },
+        "description": "CleanMyMac X è un potente strumento di pulizia, accelerazione e protezione, progettato per consentire al tuo Mac di funzionare a pieno regime.\nRimuovi file grandi e vecchi, disinstalla app ed elimina dati inutili che sprecano spazio sul disco.\n\n"
       },
       {
         "name": "Prism",
@@ -451,7 +470,8 @@
           "macos-15-arm64": "https://devuploads.com/jivki1fmf76e",
           "macos-15-x86_64": "https://example.com/macos-15-x86_64.dmg",
           "macos-15-universal": "https://devuploads.com/uqabfnbfnqkv"
-        }
+        },
+        "description": "La soluzione preferita per l'analisi e la creazione di grafici, creata appositamente per la ricerca scientifica.\nUnisciti ai principali scienziati del mondo e scopri come puoi utilizzare Prism per risparmiare tempo, fare scelte di analisi più appropriate, rappresentare graficamente e presentare elegantemente la tua ricerca scientifica.\n\n"
       },
       {
         "name": "Bootstrap Studio",
@@ -470,7 +490,8 @@
           "macos-15-arm64": "https://devuploads.com/jivki1fmf76e",
           "macos-15-x86_64": "https://example.com/macos-15-x86_64.dmg",
           "macos-15-universal": "https://devuploads.com/uqabfnbfnqkv"
-        }
+        },
+        "description": "Bootstrap Studio è una potente app desktop per la creazione di siti Web reattivi utilizzando il framework Bootstrap.\nViene fornito con un gran numero di componenti integrati, che puoi trascinare e rilasciare per assemblare pagine Web reattive.\nL'app è costruita sul popolarissimo framework Bootstrap ed esporta HTML pulito e semantico.\n\n"
       },
       {
         "name": "VMWare Fusion",
@@ -489,7 +510,8 @@
           "macos-15-arm64": "https://devuploads.com/jivki1fmf76e",
           "macos-15-x86_64": "https://example.com/macos-15-x86_64.dmg",
           "macos-15-universal": "https://devuploads.com/uqabfnbfnqkv"
-        }
+        },
+        "description": "Sfrutta tutta la potenza del tuo Mac quando usi VMware Fusion per eseguire Windows, Linux, container, Kubernetes e altro ancora nelle macchine virtuali (VM).\nEsegui quasi tutti i sistemi operativi su un Mac.\nL'esecuzione di Windows su Mac è solo l'inizio.\nScegli tra centinaia di sistemi operativi supportati, dalle distribuzioni Linux pronte per il cloud all'ultimo Windows 11 su Mac Intel o Apple Silicon, il tutto senza riavviare.\n\n"
       },
       {
         "name": "Office 2024",
@@ -508,7 +530,8 @@
           "macos-15-arm64": "https://devuploads.com/jivki1fmf76e",
           "macos-15-x86_64": "https://example.com/macos-15-x86_64.dmg",
           "macos-15-universal": "https://devuploads.com/uqabfnbfnqkv"
-        }
+        },
+        "description": "Il tuo cloud, per la produttività al lavoro e nella vita privata.\nLe applicazioni comprese, a seconda delle versioni, sono le seguenti:\n- Excel\n- OneNote ; da non confondere questa versione con l'app gratuita UWP\n- Outlook\n- PowerPoint\n- Word\n\n"
       },
       {
         "name": "Riproduttore Video",
@@ -538,7 +561,8 @@
           "macos-13-universal": "https://devuploads.com/qzr28qgix9u5",
           "macos-14-universal": "https://devuploads.com/qzr28qgix9u5",
           "macos-15-universal": "https://devuploads.com/qzr28qgix9u5"
-        }
+        },
+        "description": "\nAutoCAD è un programma di disegno tecnico assistito dal computer ideato nel 1982 dalla software house statunitense Autodesk\ne trova la sua massima utilizzazione come supporto alla produzione di disegni bi- e tridimensionali in ambito ingegneristico, architettonico, meccanico ed elettrotecnico.\n\n"
       }
     ]
   }
