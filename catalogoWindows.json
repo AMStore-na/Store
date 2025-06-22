@@ -1331,15 +1331,15 @@
   },
   {
     "Nome": "SketchUp",
-    "Link": "https://devuploads.com/je103841mm6a",
+    "Link": "https://devuploads.com/dgvdik21msy9",
     "Linkx32": null,
     "LinkR": "",
     "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Grafica%20e%20Design/SketchUp.png",
     "Sezione": "Grafica e Design",
     "Descrizione": "SketchUp è un software di modellazione 3D molto popolare, utilizzato in vari settori come l'architettura, il design, l'ingegneria e altro ancora",
-    "Tooltip": "SketchUp",
+    "Tooltip": "SketchUp Pro 2025 v25.0.660",
     "MRicerca": "sketchUp",
-    "Hash": "",
+    "Hash": "0e4d893ce1902708",
     "HashX32": null,
     "UUID": "61"
   },
@@ -3050,5 +3050,19 @@
     "Hash": "b47296944658d932",
     "HashX32": null,
     "UUID": "187"
+  },
+  {
+    "Nome": null,
+    "Link": null,
+    "Linkx32": null,
+    "LinkR": null,
+    "ImmagineUrl": null,
+    "Sezione": null,
+    "Descrizione": null,
+    "Tooltip": null,
+    "MRicerca": null,
+    "Hash": null,
+    "HashX32": null,
+    "UUID": "222"
   }
 ]
