@@ -28,8 +28,7 @@
           "macos-13-universal": "https://devuploads.com/jivki1fmf76e",
           "macos-14-universal": "https://devuploads.com/jivki1fmf76e",
           "macos-15-universal": "https://devuploads.com/jivki1fmf76e"
-        },
-        "description": "Artisti, brani del momento e le tue canzoni preferite da ascoltare quando vuoi.\nAscoltare canzoni o i tuoi album preferiti è facile con Spotify, come anche creare playlist, scaricare brani e podcast!.\n\n"
+        }
       },
       {
         "name": "Logic Pro X",
@@ -59,7 +58,8 @@
           "macos-15-arm64": "https://devuploads.com/jivki1fmf76e",
           "macos-15-x86_64": "https://example.com/macos-15-x86_64.dmg",
           "macos-15-universal": "https://devuploads.com/uqabfnbfnqkv"
-        }
+        },
+        "description": "Artisti, brani del momento e le tue canzoni preferite da ascoltare quando vuoi.\nAscoltare canzoni o i tuoi album preferiti è facile con Spotify, come anche creare playlist, scaricare brani e podcast!.\n\n"
       }
     ]
   },
