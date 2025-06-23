@@ -318,6 +318,26 @@
           "macos-15-universal": "https://devuploads.com/uqabfnbfnqkv"
         },
         "description": "\nAdobe Illustrator è un software per l'elaborazione di immagini e per la grafica vettoriale prodotto da Adobe a partire dal 1987.\nIl programma è utilizzato da milioni di designer e artisti di tutto il mondo per progettare qualsiasi tipo di grafica destinata all'editoria, al web e per dispositivi mobili.\n\n"
+      },
+      {
+        "name": "Lightroom Classic",
+        "imageUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Grafica%20e%20Design/Adobe_Lightroom_Classic.png",
+        "type": "app",
+        "link": {
+          "macos-12-arm64": "https://example.com/macos-12-arm64.dmg",
+          "macos-12-x86_64": "https://example.com/macos-12-x86_64.dmg",
+          "macos-12-universal": "https://example.com/macos-12-universal.dmg",
+          "macos-13-arm64": "https://example.com/macos-13-arm64.dmg",
+          "macos-13-x86_64": "https://example.com/macos-13-x86_64.dmg",
+          "macos-13-universal": "https://example.com/macos-13-universal.dmg",
+          "macos-14-arm64": "https://example.com/macos-14-arm64.dmg",
+          "macos-14-x86_64": "https://example.com/macos-14-x86_64.dmg",
+          "macos-14-universal": "https://example.com/macos-14-universal.dmg",
+          "macos-15-arm64": "https://devuploads.com/jivki1fmf76e",
+          "macos-15-x86_64": "https://example.com/macos-15-x86_64.dmg",
+          "macos-15-universal": "https://devuploads.com/uqabfnbfnqkv"
+        },
+        "description": "\n Lightroom Classic è la versione ribattezzata dell'applicazione Lightroom ed è ottimizzata per i flussi di lavoro basati su desktop, compresa l'archiviazione locale delle foto in file e cartelle presenti sul tuo computer.\n\n"
       }
     ]
   },
