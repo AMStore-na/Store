@@ -5,7 +5,7 @@
         {
           "name": "64Gram",
           "imageUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Social%20Network/64Gram.png",
-          "type": "64Gram",
+          "type": "app",
           "link": {
             "macos-12-universal": "https://devuploads.com/42nk6zgdsv9j",
             "macos-13-universal": "https://devuploads.com/42nk6zgdsv9j",
@@ -23,7 +23,7 @@
       {
         "name": "FL Studio",
         "imageUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Musica%20e%20Audio/FL_Studio.png",
-        "type": "FLStudio",
+        "type": "app",
         "link": {
           "macos-12-universal": "https://devuploads.com/jivki1fmf76e",
           "macos-13-universal": "https://devuploads.com/jivki1fmf76e",
@@ -35,7 +35,7 @@
       {
         "name": "Logic Pro X",
         "imageUrl": "https://raw.githubusercontent.com/AMStore-na/Store/refs/heads/main/Immagini/Musica%20e%20Audio/Logic_Pro.png",
-        "type": "LogicProX",
+        "type": "app",
         "link": {
           "macos-12-universal": "https://devuploads.com/wp7hab7klzmf",
           "macos-13-universal": "https://devuploads.com/7oajg9foh3l6",
@@ -47,7 +47,7 @@
       {
         "name": "Spotify",
         "imageUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Musica%20e%20Audio/Spotify.png",
-        "type": "Spotify",
+        "type": "app",
         "link": {
           "macos-12-arm64": "https://example.com/macos-12-arm64.dmg",
           "macos-12-x86_64": "https://example.com/macos-12-x86_64.dmg",
@@ -72,7 +72,7 @@
       {
         "name": "Spotify music converter",
         "imageUrl": "https://raw.githubusercontent.com/AMStore-na/Store/refs/heads/main/Immagini/Musica%20e%20Audio/Spotify_Music_Converter.png",
-        "type": "SpotiMusicConv",
+        "type": "app",
         "link": {
           "macos-12-arm64": "https://example.com/macos-12-arm64.dmg",
           "macos-12-x86_64": "https://example.com/macos-12-x86_64.dmg",
@@ -92,7 +92,7 @@
       {
         "name": "4K Downloader",
         "imageUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Downloader/4K_Video_Downloader_Plus.png",
-        "type": "4KDownloader",
+        "type": "app",
         "link": {
           "macos-12-arm64": "https://example.com/macos-12-arm64.dmg",
           "macos-12-x86_64": "https://example.com/macos-12-x86_64.dmg",
@@ -117,7 +117,7 @@
       {
         "name": "Cinema 4D",
         "imageUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Video%20e%20Animazione/Cinema_4D.png",
-        "type": "Cinema4D",
+        "type": "app",
         "link": {
           "macos-12-arm64": "https://example.com/macos-12-arm64.dmg",
           "macos-12-x86_64": "https://example.com/macos-12-x86_64.dmg",
@@ -137,7 +137,7 @@
       {
         "name": "Rhino 8",
         "imageUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Grafica%20e%20Design/Rhinoceros.png",
-        "type": "Rhino8",
+        "type": "app",
         "link": {
           "macos-12-arm64": "https://example.com/macos-12-arm64.dmg",
           "macos-12-x86_64": "https://example.com/macos-12-x86_64.dmg",
@@ -157,7 +157,7 @@
       {
         "name": "Camtasia",
         "imageUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Video%20e%20Animazione/Camtasia.png",
-        "type": "Camtasia",
+        "type": "app",
         "link": {
           "macos-12-arm64": "https://example.com/macos-12-arm64.dmg",
           "macos-12-x86_64": "https://example.com/macos-12-x86_64.dmg",
@@ -177,7 +177,7 @@
       {
         "name": "CameraBag Pro",
         "imageUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Video%20e%20Animazione/CameraBag.png",
-        "type": "CameraBagPro",
+        "type": "app",
         "link": {
           "macos-12-arm64": "https://example.com/macos-12-arm64.dmg",
           "macos-12-x86_64": "https://example.com/macos-12-x86_64.dmg",
@@ -197,7 +197,7 @@
       {
         "name": "Resolve Studio",
         "imageUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Video%20e%20Animazione/DaVinci_Resolve.png",
-        "type": "ResolveStudio",
+        "type": "app",
         "link": {
           "macos-12-arm64": "https://example.com/macos-12-arm64.dmg",
           "macos-12-x86_64": "https://example.com/macos-12-x86_64.dmg",
@@ -217,7 +217,7 @@
       {
         "name": "Final Cut Pro",
         "imageUrl": "https://upload.wikimedia.org/wikipedia/it/a/a9/Final_Cut_Pro_10.5.png",
-        "type": "FinalCutPro",
+        "type": "app",
         "link": {
           "macos-12-arm64": "https://example.com/macos-12-arm64.dmg",
           "macos-12-x86_64": "https://example.com/macos-12-x86_64.dmg",
@@ -242,7 +242,7 @@
       {
         "name": "Adobe Creative Cloud",
         "imageUrl": "https://raw.githubusercontent.com/AMStore-na/Store/refs/heads/main/Immagini/Suite%20Creative%20-%20Tutto%20In%20Uno/ACC.png",
-        "type": "AdobeCrack",
+        "type": "app",
         "link": {
           "macos-12-arm64": "https://example.com/macos-12-arm64.dmg",
           "macos-12-x86_64": "https://example.com/macos-12-x86_64.dmg",
@@ -262,7 +262,7 @@
       {
         "name": "Acrobat DC",
         "imageUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/PDF%20e%20Office/Adobe_Acrobat_Pro.png",
-        "type": "AcrobatDC",
+        "type": "app",
         "link": {
           "macos-12-arm64": "https://example.com/macos-12-arm64.dmg",
           "macos-12-x86_64": "https://example.com/macos-12-x86_64.dmg",
@@ -282,7 +282,7 @@
       {
         "name": "Photoshop",
         "imageUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Grafica%20e%20Design/Adobe_Photoshop.png",
-        "type": "Photoshop",
+        "type": "app",
         "link": {
           "macos-12-arm64": "https://example.com/macos-12-arm64.dmg",
           "macos-12-x86_64": "https://example.com/macos-12-x86_64.dmg",
@@ -302,7 +302,7 @@
       {
         "name": "Illustrator",
         "imageUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Grafica%20e%20Design/Adobe_Illustrator.png",
-        "type": "Illustrator",
+        "type": "app",
         "link": {
           "macos-12-arm64": "https://example.com/macos-12-arm64.dmg",
           "macos-12-x86_64": "https://example.com/macos-12-x86_64.dmg",
@@ -327,7 +327,7 @@
       {
         "name": "Recoverit",
         "imageUrl": "https://raw.githubusercontent.com/AMStore-na/Store/refs/heads/main/Immagini/Recupero%20Dati/Wondershare_Recoverit.png",
-        "type": "Recoverit",
+        "type": "app",
         "link": {
           "macos-12-arm64": "https://example.com/macos-12-arm64.dmg",
           "macos-12-x86_64": "https://example.com/macos-12-x86_64.dmg",
@@ -347,7 +347,7 @@
       {
         "name": "Filmora",
         "imageUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Video%20e%20Animazione/Wondershare_Filmora.png",
-        "type": "Filmora",
+        "type": "app",
         "link": {
           "macos-12-arm64": "https://example.com/macos-12-arm64.dmg",
           "macos-12-x86_64": "https://example.com/macos-12-x86_64.dmg",
@@ -367,7 +367,7 @@
       {
         "name": "PDF Element",
         "imageUrl": "https://raw.githubusercontent.com/AMStore-na/Store/refs/heads/main/Immagini/PDF%20e%20Office/Wondershare_PDFelement.png",
-        "type": "PDFElement",
+        "type": "app",
         "link": {
           "macos-12-arm64": "https://example.com/macos-12-arm64.dmg",
           "macos-12-x86_64": "https://example.com/macos-12-x86_64.dmg",
@@ -392,7 +392,7 @@
       {
         "name": "Sideloadly",
         "imageUrl": "https://raw.githubusercontent.com/AMStore-na/Store/refs/heads/main/Immagini/NONELIMINAREDIOCANE/Sideloadly.png",
-        "type": "Sideloadly",
+        "type": "app",
         "link": {
           "macos-12-arm64": "https://example.com/macos-12-arm64.dmg",
           "macos-12-x86_64": "https://example.com/macos-12-x86_64.dmg",
@@ -412,7 +412,7 @@
       {
         "name": "Alt Store",
         "imageUrl": "https://raw.githubusercontent.com/AMStore-na/Store/refs/heads/main/Immagini/NONELIMINAREDIOCANE/AltStore.png",
-        "type": "AltStore",
+        "type": "app",
         "link": {
           "macos-12-arm64": "https://example.com/macos-12-arm64.dmg",
           "macos-12-x86_64": "https://example.com/macos-12-x86_64.dmg",
@@ -437,7 +437,7 @@
       {
         "name": "CleanMyMac X",
         "imageUrl": "https://raw.githubusercontent.com/AMStore-na/Store/db3cefccbc94c57a27a9a0a4757c167030e34e6b/Immagini/Utility%20di%20Sistema%20e%20Manutenzione/CleanMyMac_X.png",
-        "type": "CleanMyMacX",
+        "type": "app",
         "link": {
           "macos-12-arm64": "https://example.com/macos-12-arm64.dmg",
           "macos-12-x86_64": "https://example.com/macos-12-x86_64.dmg",
@@ -457,7 +457,7 @@
       {
         "name": "Prism",
         "imageUrl": "https://raw.githubusercontent.com/AMStore-na/Store/refs/heads/main/Immagini/Grafica%20e%20Design/Prism.png",
-        "type": "Prism",
+        "type": "app",
         "link": {
           "macos-12-arm64": "https://example.com/macos-12-arm64.dmg",
           "macos-12-x86_64": "https://example.com/macos-12-x86_64.dmg",
@@ -477,7 +477,7 @@
       {
         "name": "Bootstrap Studio",
         "imageUrl": "https://raw.githubusercontent.com/AMStore-na/Store/refs/heads/main/Immagini/Sviluppo%20Software%20e%20IDE/Bootstrap_Studio.png",
-        "type": "BootstrapStudio",
+        "type": "app",
         "link": {
           "macos-12-arm64": "https://example.com/macos-12-arm64.dmg",
           "macos-12-x86_64": "https://example.com/macos-12-x86_64.dmg",
@@ -497,7 +497,7 @@
       {
         "name": "VMWare Fusion",
         "imageUrl": "https://raw.githubusercontent.com/AMStore-na/Store/refs/heads/main/Immagini/Sviluppo%20Software%20e%20IDE/VMware_Fusion.png",
-        "type": "VMWareFusion",
+        "type": "app",
         "link": {
           "macos-12-arm64": "https://example.com/macos-12-arm64.dmg",
           "macos-12-x86_64": "https://example.com/macos-12-x86_64.dmg",
@@ -517,7 +517,7 @@
       {
         "name": "Office 2024",
         "imageUrl": "https://taiwebs.com/upload/icons/microsoft-office-2024-pro-plus-icon220-220.png",
-        "type": "Office24",
+        "type": "app",
         "link": {
           "macos-12-arm64": "https://example.com/macos-12-arm64.dmg",
           "macos-12-x86_64": "https://example.com/macos-12-x86_64.dmg",
@@ -537,7 +537,7 @@
       {
         "name": "Autocad 2025",
         "imageUrl": "https://raw.githubusercontent.com/AMStore-na/Store/refs/heads/main/Immagini/CAD%2C%20Architettura%20e%20Ingegneria/Autodesk_AutoCAD_2025.png",
-        "type": "Autocad",
+        "type": "app",
         "link": {
           "macos-12-universal": "https://devuploads.com/qzr28qgix9u5",
           "macos-13-universal": "https://devuploads.com/qzr28qgix9u5",
