@@ -196,6 +196,20 @@
     "UUID": "218"
   },
   {
+    "Nome": "SketchUp",
+    "Link": "https://devuploads.com/dgvdik21msy9",
+    "Linkx32": null,
+    "LinkR": "",
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/CAD%2C%20Architettura%20e%20Ingegneria/SketchUp_Pro_2025.png",
+    "Sezione": "CAD, Architettura e Ingegneria",
+    "Descrizione": "SketchUp è un software di modellazione 3D molto popolare, utilizzato in vari settori come l'architettura, il design, l'ingegneria e altro ancora",
+    "Tooltip": "SketchUp Pro 2025 v25.0.660",
+    "MRicerca": "sketcup",
+    "Hash": "0e4d893ce1902708",
+    "HashX32": null,
+    "UUID": "61"
+  },
+  {
     "Nome": "Multiecuscan",
     "Link": "https://devuploads.com/6zs4bdr29azy",
     "Linkx32": "https://devuploads.com/v7zmxuafjpma",
@@ -1328,20 +1342,6 @@
     "Hash": "",
     "HashX32": null,
     "UUID": "56"
-  },
-  {
-    "Nome": "SketchUp",
-    "Link": "https://devuploads.com/dgvdik21msy9",
-    "Linkx32": null,
-    "LinkR": "",
-    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/CAD%2C%20Architettura%20e%20Ingegneria/SketchUp_Pro_2025.png",
-    "Sezione": "CAD, Architettura e Ingegneria",
-    "Descrizione": "SketchUp è un software di modellazione 3D molto popolare, utilizzato in vari settori come l'architettura, il design, l'ingegneria e altro ancora",
-    "Tooltip": "SketchUp Pro 2025 v25.0.660",
-    "MRicerca": "sketcup",
-    "Hash": "0e4d893ce1902708",
-    "HashX32": null,
-    "UUID": "61"
   },
   {
     "Nome": "Capture One Enterprise",
