@@ -421,7 +421,7 @@
   },
   {
     "Nome": "SongGet",
-    "Link": "https://devuploads.com/vhgdrb8924d8",
+    "Link": "https://devuploads.com/3szq79wjwxc3",
     "Linkx32": null,
     "LinkR": null,
     "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Downloader/SongGet.png",
@@ -429,7 +429,7 @@
     "Descrizione": "SongGet All‑in‑One è un potente downloader/converter di musica DRM‑protetta che consente di scaricare in blocco playlist, album, singoli, podcast e trasmissioni da piattaforme di streaming come Spotify, Apple Music, Amazon Music, YouTube Music e altre, convertendoli in formati MP3, WAV, M4A, FLAC o OPUS per l’ascolto offline.",
     "Tooltip": "SongGet v6.0.0.1",
     "MRicerca": "Song",
-    "Hash": "af87dcde5ba689a6",
+    "Hash": "8e5a7a7284e75fe8",
     "HashX32": null,
     "UUID": "219"
   },
