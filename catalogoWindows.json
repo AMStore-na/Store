@@ -3078,19 +3078,5 @@
     "Hash": null,
     "HashX32": null,
     "UUID": "223"
-  },
-  {
-    "Nome": "Rematch",
-    "Link": null,
-    "Linkx32": null,
-    "LinkR": null,
-    "ImmagineUrl": null,
-    "Sezione": null,
-    "Descrizione": null,
-    "Tooltip": null,
-    "MRicerca": null,
-    "Hash": "32bd199655137e7c",
-    "HashX32": null,
-    "UUID": "224"
   }
 ]
