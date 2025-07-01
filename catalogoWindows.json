@@ -3078,5 +3078,19 @@
     "Hash": null,
     "HashX32": null,
     "UUID": "223"
+  },
+  {
+    "Nome": "Rematch",
+    "Link": "https://devuploads.com/kxf2hp6kl7e1",
+    "Linkx32": null,
+    "LinkR": null,
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Giochi/Rematch.png",
+    "Sezione": "Giochi",
+    "Descrizione": "Rematch è un’app pensata per chi ama le sfide online e vuole rivivere le partite migliori. Ti permette di registrare, rivedere e condividere facilmente i tuoi momenti di gioco più intensi, analizzare le performance e migliorare. Ideale per chi vuole crescere, confrontarsi e non perdere mai un’azione importante. Scaricala e domina le tue sfide.",
+    "Tooltip": "Rematch",
+    "MRicerca": "Giochi",
+    "Hash": "32bd199655137e7c",
+    "HashX32": null,
+    "UUID": "224"
   }
 ]
