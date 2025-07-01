@@ -3092,5 +3092,19 @@
     "Hash": "32bd199655137e7c",
     "HashX32": null,
     "UUID": "224"
+  },
+  {
+    "Nome": "Any Video Downloader Pro",
+    "Link": "https://devuploads.com/7i71b6jeed0c",
+    "Linkx32": null,
+    "LinkR": null,
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Downloader/Any_Video_Downloader_Pro.png",
+    "Sezione": "Downloader",
+    "Descrizione": null,
+    "Tooltip": "Any Video Downloader Pro v9.2.9",
+    "MRicerca": "any",
+    "Hash": "d7547f1f228f3077",
+    "HashX32": null,
+    "UUID": "225"
   }
 ]
