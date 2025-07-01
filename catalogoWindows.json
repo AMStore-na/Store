@@ -2381,15 +2381,15 @@
   },
   {
     "Nome": "Adobe Master Collection",
-    "Link": null,
+    "Link": "https://devuploads.com/hagdbz9bdoy6",
     "Linkx32": null,
     "LinkR": "",
     "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Suite%20Creative%20-%20Tutto%20In%20Uno/Adobe_Master_Collection.png",
     "Sezione": "Suite Creative / Tutto In Uno",
     "Descrizione": "Adobe Master Collection è un pacchetto software completo di Adobe Systems che comprende una serie di applicazioni professionali per la creazione, l'editing e la gestione di contenuti multimediali. È particolarmente apprezzato da professionisti del design, della fotografia, del video e del web.",
-    "Tooltip": "Adobe Master Collection 2025 v6",
+    "Tooltip": "Adobe Master Collection 2025 v7",
     "MRicerca": "master",
-    "Hash": "f96d2082824e0a69",
+    "Hash": "0cd739a37bd654ca",
     "HashX32": null,
     "UUID": "8"
   },
