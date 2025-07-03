@@ -2983,15 +2983,15 @@
   },
   {
     "Nome": "DaVinci Resolve Studio",
-    "Link": "https://devuploads.com/g6bcwha9l6hv",
+    "Link": "https://devuploads.com/3kpcjmw0u3li",
     "Linkx32": null,
     "LinkR": "",
     "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Video%20e%20Animazione/DaVinci_Resolve.png",
     "Sezione": "Video e Animazione",
     "Descrizione": "DaVinci Resolve è un software di editing video professionale sviluppato da Blackmagic Design. È noto per la sua capacità di integrare montaggio, correzione colore, effetti visivi e post produzione audio in un'unica applicazione. DaVinci Resolve è utilizzato da professionisti di Hollywood e offre una vasta gamma di strumenti avanzati per la creazione di contenuti video di alta qualità.",
-    "Tooltip": "DaVinci Resolve Studio v19.0.0.25",
+    "Tooltip": "DaVinci Resolve Studio 20 v20.0.0.49",
     "MRicerca": "davinci",
-    "Hash": "",
+    "Hash": "f81a6ccaf354e5d9",
     "HashX32": null,
     "UUID": "15"
   },
