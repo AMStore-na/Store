@@ -196,7 +196,7 @@
       },
       {
         "name": "Resolve Studio",
-        "imageUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Video%20e%20Animazione/DaVinci_Resolve.png",
+        "imageUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Video%20e%20Animazione/DaVinci_Resolve_Studio.png",
         "type": "app",
         "link": {
           "macos-12-arm64": "https://example.com/macos-12-arm64.dmg",
