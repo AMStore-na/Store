@@ -3134,5 +3134,19 @@
     "Hash": "ffdb8931ef30b9eb",
     "HashX32": null,
     "UUID": "227"
+  },
+  {
+    "Nome": "3dSen PC",
+    "Link": "https://devuploads.com/txbf7z8dvdru",
+    "Linkx32": null,
+    "LinkR": null,
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Giochi/3dSen_PC.png",
+    "Sezione": "Giochi",
+    "Descrizione": "3dSen PC trasforma i tuoi giochi NES preferiti in incredibili esperienze 3D, offrendo una nuova prospettiva ai classici che ami. Vivi un mix unico di nostalgia e innovazione, con effetti visivi sorprendenti e controlli fluidi. Se vuoi riscoprire titoli iconici in un modo totalmente nuovo, questa è l’applicazione perfetta per te.",
+    "Tooltip": "3dSen PC v.0.9.11",
+    "MRicerca": "Giochi",
+    "Hash": "580e051fb02a870a",
+    "HashX32": null,
+    "UUID": "228"
   }
 ]
