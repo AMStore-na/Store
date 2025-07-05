@@ -1820,20 +1820,6 @@
     "UUID": "183"
   },
   {
-    "Nome": "Nuance Dragon Professional",
-    "Link": "https://devuploads.com/85nqzy7019ud",
-    "Linkx32": null,
-    "LinkR": null,
-    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/PDF%20e%20Office/Nuance_Dragon_Professional.png",
-    "Sezione": "PDF e Office",
-    "Descrizione": null,
-    "Tooltip": "Nuance Dragon Professional v16.10.200.044",
-    "MRicerca": "nuance",
-    "Hash": "432a59dc76d155f7",
-    "HashX32": null,
-    "UUID": "188"
-  },
-  {
     "Nome": "NetSpot",
     "Link": "https://devuploads.com/vhk49q5bfmb2",
     "Linkx32": null,
@@ -1902,6 +1888,20 @@
     "Hash": "",
     "HashX32": null,
     "UUID": "20"
+  },
+  {
+    "Nome": "Nuance Dragon Professional",
+    "Link": "https://devuploads.com/85nqzy7019ud",
+    "Linkx32": null,
+    "LinkR": null,
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/PDF%20e%20Office/Nuance_Dragon_Professional.png",
+    "Sezione": "PDF e Office",
+    "Descrizione": null,
+    "Tooltip": "Nuance Dragon Professional v16.10.200.044",
+    "MRicerca": "nuance",
+    "Hash": "432a59dc76d155f7",
+    "HashX32": null,
+    "UUID": "188"
   },
   {
     "Nome": "Wondershare PDFelement",
