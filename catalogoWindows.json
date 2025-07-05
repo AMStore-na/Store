@@ -3162,5 +3162,19 @@
     "Hash": "432a59dc76d155f7",
     "HashX32": null,
     "UUID": "188"
+  },
+  {
+    "Nome": "Incomedia WebSite X5 Professional",
+    "Link": "https://devuploads.com/cm6vtslmg41o",
+    "Linkx32": null,
+    "LinkR": null,
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Sviluppo%20Software%2C%20Web%20e%20IDE/Incomedia_WebSite_X5.png",
+    "Sezione": "Sviluppo Software, Web e IDE",
+    "Descrizione": null,
+    "Tooltip": "Incomedia WebSite X5 Professional v17.1.2.0",
+    "MRicerca": "website",
+    "Hash": "148db633b006415b",
+    "HashX32": null,
+    "UUID": "229"
   }
 ]
