@@ -1820,16 +1820,16 @@
     "UUID": "183"
   },
   {
-    "Nome": "Ableton Live 12 Suite",
-    "Link": "https://devuploads.com/5o7iu4bej98k",
+    "Nome": "Nuance Dragon Professional",
+    "Link": "https://devuploads.com/85nqzy7019ud",
     "Linkx32": null,
     "LinkR": null,
-    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Musica%20e%20Audio/Ableton_Live_12_Suite.png",
-    "Sezione": "Musica e Audio",
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/PDF%20e%20Office/Nuance_Dragon_Professional.png",
+    "Sezione": "PDF e Office",
     "Descrizione": null,
-    "Tooltip": "Ableton Live 12 Suite v12.1.11",
-    "MRicerca": "ableton",
-    "Hash": "760e9c2d822aa48c",
+    "Tooltip": "Nuance Dragon Professional v16.10.200.044",
+    "MRicerca": "nuance",
+    "Hash": "432a59dc76d155f7",
     "HashX32": null,
     "UUID": "188"
   },
