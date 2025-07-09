@@ -3176,5 +3176,19 @@
     "Hash": "b47296944658d932",
     "HashX32": null,
     "UUID": "187"
+  },
+  {
+    "Nome": "Fifa 23",
+    "Link": "https://devuploads.com/2rmxtga4bjk5",
+    "Linkx32": null,
+    "LinkR": null,
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Giochi/FIFA 23.png",
+    "Sezione": "Giochi",
+    "Descrizione": "FIFA 23 è l’ultima uscita della celebre serie calcistica, con tecnologia HyperMotion 2 che riproduce oltre 6.000 animazioni realistiche da match reali . Include squadre femminili, cross‑play tra PC e console next‑gen, modalità Career migliorata con highlights giocabili, Pro Clubs, Volta e FIFA Ultimate Team. Se cerchi realismo e versatilità, è un acquisto valido",
+    "Tooltip": "Giochi",
+    "MRicerca": "Giochi",
+    "Hash": "862800a4698bc11e",
+    "HashX32": null,
+    "UUID": "230"
   }
 ]
