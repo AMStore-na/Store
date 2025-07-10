@@ -3190,5 +3190,19 @@
     "Hash": "862800a4698bc11e",
     "HashX32": null,
     "UUID": "230"
+  },
+  {
+    "Nome": "We Are Football",
+    "Link": "https://devuploads.com/u5fxy6a2sq7e",
+    "Linkx32": null,
+    "LinkR": null,
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Giochi/We_Are_Football 2024.png",
+    "Sezione": "Giochi",
+    "Descrizione": "We Are Football 2024 è un gestionale calcistico in 3D che ti mette nei panni del manager di un club maschile o femminile. Controlla trasferimenti, tattiche, stadi e finanze, con editor avanzato, multiplayer locale e Workshop. Le partite si possono seguire in tempo reale con replay e analisi tattiche. Se cerchi gestione profonda senza complicazioni e passione sportiva, è perfetto.",
+    "Tooltip": "We Are Football v3.30",
+    "MRicerca": "Giochi",
+    "Hash": "1ef25351e977becd",
+    "HashX32": null,
+    "UUID": "231"
   }
 ]
