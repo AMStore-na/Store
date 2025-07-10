@@ -3204,5 +3204,19 @@
     "Hash": "1ef25351e977becd",
     "HashX32": null,
     "UUID": "231"
+  },
+  {
+    "Nome": "Planet Zoo",
+    "Link": "https://devuploads.com/mug6y4iw5wnm",
+    "Linkx32": null,
+    "LinkR": null,
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Giochi/Planet_Zoo.png",
+    "Sezione": "Giochi",
+    "Descrizione": "Planet Zoo ti mette nei panni di un manager di zoo con strumenti di costruzione avanzati, habitat realistici e oltre 100 specie con comportamenti e bisogni autonomi . Disponibili modalità carriera, sandbox, sfide e gestione in rete, con obiettivi di conservazione e scambi con la community . Ideale per chi cerca creatività, strategia e cura degli animali in un’esperienza coinvolgente.",
+    "Tooltip": "Planet Zoo: Deluxe Edition – v1.2.5.63260",
+    "MRicerca": "Giochi",
+    "Hash": "94ac83151a2c320b",
+    "HashX32": null,
+    "UUID": "232"
   }
 ]
