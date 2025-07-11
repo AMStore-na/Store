@@ -1,8 +1,9 @@
 {
-  "version": "1.0.2.4",
+  "version": "1.0.2.5",
   "releaseNotes": [
-    "Fix crash app",
-    "Aggiunta possibilità di store light"
+    "Nuovo Metodo Rilevamento Connessione Internet",
+    "Fix Decompressione",
+    "Aggiunto Switch Tema Light/Dark",
   ],
   "updateUrl": "https://github.com/AMStore-na/Store/releases/download/Store/AIMODS-Store.exe",
   "lavori": "false"
