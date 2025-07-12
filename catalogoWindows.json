@@ -1386,6 +1386,48 @@
     "UUID": "228"
   },
   {
+    "Nome": "Fifa 23",
+    "Link": "https://devuploads.com/2rmxtga4bjk5",
+    "Linkx32": null,
+    "LinkR": null,
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Giochi/FIFA 23.png",
+    "Sezione": "Giochi",
+    "Descrizione": "FIFA 23 è l’ultima uscita della celebre serie calcistica, con tecnologia HyperMotion 2 che riproduce oltre 6.000 animazioni realistiche da match reali . Include squadre femminili, cross‑play tra PC e console next‑gen, modalità Career migliorata con highlights giocabili, Pro Clubs, Volta e FIFA Ultimate Team. Se cerchi realismo e versatilità, è un acquisto valido",
+    "Tooltip": "Giochi",
+    "MRicerca": "Giochi",
+    "Hash": "862800a4698bc11e",
+    "HashX32": null,
+    "UUID": "230"
+  },
+  {
+    "Nome": "We Are Football",
+    "Link": "https://devuploads.com/u5fxy6a2sq7e",
+    "Linkx32": null,
+    "LinkR": null,
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Giochi/We_Are_Football 2024.png",
+    "Sezione": "Giochi",
+    "Descrizione": "We Are Football 2024 è un gestionale calcistico in 3D che ti mette nei panni del manager di un club maschile o femminile. Controlla trasferimenti, tattiche, stadi e finanze, con editor avanzato, multiplayer locale e Workshop. Le partite si possono seguire in tempo reale con replay e analisi tattiche. Se cerchi gestione profonda senza complicazioni e passione sportiva, è perfetto.",
+    "Tooltip": "We Are Football v3.30",
+    "MRicerca": "Giochi",
+    "Hash": "1ef25351e977becd",
+    "HashX32": null,
+    "UUID": "231"
+  },
+  {
+    "Nome": "Planet Zoo",
+    "Link": "https://devuploads.com/mug6y4iw5wnm",
+    "Linkx32": null,
+    "LinkR": null,
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Giochi/Planet_Zoo.png",
+    "Sezione": "Giochi",
+    "Descrizione": "Planet Zoo ti mette nei panni di un manager di zoo con strumenti di costruzione avanzati, habitat realistici e oltre 100 specie con comportamenti e bisogni autonomi . Disponibili modalità carriera, sandbox, sfide e gestione in rete, con obiettivi di conservazione e scambi con la community . Ideale per chi cerca creatività, strategia e cura degli animali in un’esperienza coinvolgente.",
+    "Tooltip": "Planet Zoo: Deluxe Edition – v1.2.5.63260",
+    "MRicerca": "Giochi",
+    "Hash": "94ac83151a2c320b",
+    "HashX32": null,
+    "UUID": "232"
+  },
+  {
     "Nome": "Rhinoceros",
     "Link": "https://devuploads.com/xr0cre61l52m",
     "Linkx32": null,
@@ -3162,47 +3204,5 @@
     "Hash": "b47296944658d932",
     "HashX32": null,
     "UUID": "187"
-  },
-  {
-    "Nome": "Fifa 23",
-    "Link": "https://devuploads.com/2rmxtga4bjk5",
-    "Linkx32": null,
-    "LinkR": null,
-    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Giochi/FIFA 23.png",
-    "Sezione": "Giochi",
-    "Descrizione": "FIFA 23 è l’ultima uscita della celebre serie calcistica, con tecnologia HyperMotion 2 che riproduce oltre 6.000 animazioni realistiche da match reali . Include squadre femminili, cross‑play tra PC e console next‑gen, modalità Career migliorata con highlights giocabili, Pro Clubs, Volta e FIFA Ultimate Team. Se cerchi realismo e versatilità, è un acquisto valido",
-    "Tooltip": "Giochi",
-    "MRicerca": "Giochi",
-    "Hash": "862800a4698bc11e",
-    "HashX32": null,
-    "UUID": "230"
-  },
-  {
-    "Nome": "We Are Football",
-    "Link": "https://devuploads.com/u5fxy6a2sq7e",
-    "Linkx32": null,
-    "LinkR": null,
-    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Giochi/We_Are_Football 2024.png",
-    "Sezione": "Giochi",
-    "Descrizione": "We Are Football 2024 è un gestionale calcistico in 3D che ti mette nei panni del manager di un club maschile o femminile. Controlla trasferimenti, tattiche, stadi e finanze, con editor avanzato, multiplayer locale e Workshop. Le partite si possono seguire in tempo reale con replay e analisi tattiche. Se cerchi gestione profonda senza complicazioni e passione sportiva, è perfetto.",
-    "Tooltip": "We Are Football v3.30",
-    "MRicerca": "Giochi",
-    "Hash": "1ef25351e977becd",
-    "HashX32": null,
-    "UUID": "231"
-  },
-  {
-    "Nome": "Planet Zoo",
-    "Link": "https://devuploads.com/mug6y4iw5wnm",
-    "Linkx32": null,
-    "LinkR": null,
-    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Giochi/Planet_Zoo.png",
-    "Sezione": "Giochi",
-    "Descrizione": "Planet Zoo ti mette nei panni di un manager di zoo con strumenti di costruzione avanzati, habitat realistici e oltre 100 specie con comportamenti e bisogni autonomi . Disponibili modalità carriera, sandbox, sfide e gestione in rete, con obiettivi di conservazione e scambi con la community . Ideale per chi cerca creatività, strategia e cura degli animali in un’esperienza coinvolgente.",
-    "Tooltip": "Planet Zoo: Deluxe Edition – v1.2.5.63260",
-    "MRicerca": "Giochi",
-    "Hash": "94ac83151a2c320b",
-    "HashX32": null,
-    "UUID": "232"
   }
 ]
