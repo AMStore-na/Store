@@ -3218,5 +3218,19 @@
     "Hash": "8e4a0d51505278d8",
     "HashX32": null,
     "UUID": "233"
+  },
+  {
+    "Nome": "PEAK",
+    "Link": "https://devuploads.com/0qlajkxorpuu",
+    "Linkx32": null,
+    "LinkR": null,
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Giochi/PEAK.png",
+    "Sezione": "Giochi",
+    "Descrizione": "PEAK è un avvincente gioco di arrampicata co-op per Windows: fino a quattro scout su montagne generate proceduralmente, mappe nuove ogni 24 ore, gestione di resistenza e risorse. Con estetica leggera, meccaniche intelligenti e sfide da ridere, è perfetto in solitaria o con amici. Un’esperienza divertente e originale da provare.",
+    "Tooltip": "PEAK v1.7.a",
+    "MRicerca": "Giochi",
+    "Hash": "915c59b80b3ffa06",
+    "HashX32": null,
+    "UUID": "234"
   }
 ]
