@@ -3232,5 +3232,19 @@
     "Hash": "915c59b80b3ffa06",
     "HashX32": null,
     "UUID": "234"
+  },
+  {
+    "Nome": "Hollow Knight",
+    "Link": "https://devuploads.com/k3e7q25s5eln",
+    "Linkx32": null,
+    "LinkR": null,
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Giochi/Hollow_Knight.png",
+    "Sezione": "Giochi",
+    "Descrizione": "Hollow Knight è un avvincente Metroidvania 2D in cui esplori l’antico regno sotterraneo di Hallownest, affrontando creature ostili, ambienti intricati e boss impegnativi. Con uno stile grafico disegnato a mano, una colonna sonora evocativa e meccaniche di gioco precise e avvolgenti, offre decine di ore di esplorazione e crescita. Se ami le sfide e la scoperta, è un must assoluto.",
+    "Tooltip": "Hollow Knight",
+    "MRicerca": "Giochi",
+    "Hash": "9d99e3d88f438bc5",
+    "HashX32": null,
+    "UUID": "235"
   }
 ]
