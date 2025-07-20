@@ -3246,5 +3246,19 @@
     "Hash": "9d99e3d88f438bc5",
     "HashX32": null,
     "UUID": "235"
+  },
+  {
+    "Nome": "The Sims 4",
+    "Link": "https://devuploads.com/6uclofjh2o1k",
+    "Linkx32": null,
+    "LinkR": null,
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Giochi/The_Sims_4.png",
+    "Sezione": "Giochi",
+    "Descrizione": "The Sims 4 è un videogioco di simulazione di vita sviluppato da Maxis e pubblicato da Electronic Arts. Permette ai giocatori di creare e controllare personaggi virtuali (i \"Sims\"), gestendone la vita quotidiana, le relazioni, il lavoro, la casa e molto altro. Il gioco offre ampie possibilità di personalizzazione e numerose espansioni che aggiungono nuove funzionalità, ambientazioni e contenuti.",
+    "Tooltip": "The Sims 4",
+    "MRicerca": "sims",
+    "Hash": "d5a3331ef42125f2",
+    "HashX32": null,
+    "UUID": "236"
   }
 ]
