@@ -3260,5 +3260,19 @@
     "Hash": "d5a3331ef42125f2",
     "HashX32": null,
     "UUID": "236"
+  },
+  {
+    "Nome": "Kontakt 8",
+    "Link": "https://devuploads.com/e9tbfjoe67ci",
+    "Linkx32": null,
+    "LinkR": null,
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Musica%20e%20Audio/Kontakt_8.png",
+    "Sezione": "Musica e Audio",
+    "Descrizione": "Kontakt 8 è un campionatore avanzato sviluppato da Native Instruments, ideale per creare, riprodurre e gestire strumenti virtuali. Offre alta qualità sonora, compatibilità con VST3/AAX, e una gestione librerie ottimizzata. La versione Portable funziona senza installazione, perfetta per un workflow rapido, flessibile e professionale.",
+    "Tooltip": "Kontakt v8.5.1",
+    "MRicerca": "kontakt",
+    "Hash": "fd8e7debb9a4420b",
+    "HashX32": null,
+    "UUID": "237"
   }
 ]
