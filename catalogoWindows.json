@@ -3274,5 +3274,19 @@
     "Hash": "fd8e7debb9a4420b",
     "HashX32": null,
     "UUID": "237"
+  },
+  {
+    "Nome": "Stronghold Crusader",
+    "Link": "https://devuploads.com/brw2sun9rytp",
+    "Linkx32": null,
+    "LinkR": null,
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Giochi/Stronghold_Crusader_Definitive_Edition.png",
+    "Sezione": "Giochi",
+    "Descrizione": "Stronghold Crusader: Definitive Edition è una rivisitazione moderna del classico RTS medievale. Include grafica e audio rimasterizzati, nuove campagne, modalità cooperativa e multiplayer fino a 8 giocatori. Aggiunge otto unità giocabili e quattro lord IA innovativi su mappe più grandi. Ideale per chi ama strategia, gestione economica e battaglie storiche in un’esperienza raffinata. ",
+    "Tooltip": "Stronghold Crusader: Definitive Edition",
+    "MRicerca": "Giochi",
+    "Hash": "af4b66f45bb7c29c",
+    "HashX32": null,
+    "UUID": "238"
   }
 ]
