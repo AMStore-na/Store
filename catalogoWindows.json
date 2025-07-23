@@ -2381,15 +2381,15 @@
   },
   {
     "Nome": "Avast Premium Security",
-    "Link": "https://devuploads.com/0303n29teh7u",
+    "Link": null,
     "Linkx32": null,
     "LinkR": "",
     "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Sicurezza%20e%20Privacy/Avast_Premium_Security.png",
     "Sezione": "Sicurezza e Privacy",
     "Descrizione": "Avast Premium Security è un software di sicurezza informatica progettato per proteggere i dispositivi da vari tipi di minacce informatiche.",
-    "Tooltip": "Avast Premium Security v24.9.9452.875",
+    "Tooltip": "Avast Premium Security v25.7.10308",
     "MRicerca": "avast",
-    "Hash": "",
+    "Hash": "3e3559c90f146d9b",
     "HashX32": null,
     "UUID": "28"
   },
