@@ -342,18 +342,10 @@
         "imageUrl": "https://raw.githubusercontent.com/AMStore-na/Store/refs/heads/main/Immagini/Recupero%20Dati/Wondershare_Recoverit.png",
         "type": "app",
         "link": {
-          "macos-12-arm64": "https://example.com/macos-12-arm64.dmg",
-          "macos-12-x86_64": "https://example.com/macos-12-x86_64.dmg",
-          "macos-12-universal": "https://example.com/macos-12-universal.dmg",
-          "macos-13-arm64": "https://example.com/macos-13-arm64.dmg",
-          "macos-13-x86_64": "https://example.com/macos-13-x86_64.dmg",
-          "macos-13-universal": "https://example.com/macos-13-universal.dmg",
-          "macos-14-arm64": "https://example.com/macos-14-arm64.dmg",
-          "macos-14-x86_64": "https://example.com/macos-14-x86_64.dmg",
-          "macos-14-universal": "https://example.com/macos-14-universal.dmg",
-          "macos-15-arm64": "https://devuploads.com/jivki1fmf76e",
-          "macos-15-x86_64": "https://example.com/macos-15-x86_64.dmg",
-          "macos-15-universal": "https://devuploads.com/uqabfnbfnqkv"
+          "macos-12-universal": "https://devuploads.com/m13uv1ic4uvl",
+          "macos-13-universal": "https://devuploads.com/m13uv1ic4uvl",
+          "macos-14-universal": "https://devuploads.com/m13uv1ic4uvl",
+          "macos-15-universal": "https://devuploads.com/m13uv1ic4uvl"
         },
         "description": "Specializzato nel Recupero di Documenti, Foto, Video, Musica e Archivio.\nRecupera da SD Card, Memory Card, PC/MAC, Disco Rigido, Fotocamera, Unità USB, Cestino ecc..\n\n"
       },
@@ -363,17 +355,13 @@
         "type": "app",
         "link": {
           "macos-12-arm64": "https://example.com/macos-12-arm64.dmg",
-          "macos-12-x86_64": "https://example.com/macos-12-x86_64.dmg",
-          "macos-12-universal": "https://example.com/macos-12-universal.dmg",
+          "macos-12-x86_64": "https://devuploads.com/r7p6j7ooku82",
           "macos-13-arm64": "https://example.com/macos-13-arm64.dmg",
-          "macos-13-x86_64": "https://example.com/macos-13-x86_64.dmg",
-          "macos-13-universal": "https://example.com/macos-13-universal.dmg",
+          "macos-13-x86_64": "https://devuploads.com/r7p6j7ooku82",
           "macos-14-arm64": "https://example.com/macos-14-arm64.dmg",
-          "macos-14-x86_64": "https://example.com/macos-14-x86_64.dmg",
-          "macos-14-universal": "https://example.com/macos-14-universal.dmg",
+          "macos-14-x86_64": "https://devuploads.com/r7p6j7ooku82",
           "macos-15-arm64": "https://devuploads.com/jivki1fmf76e",
-          "macos-15-x86_64": "https://example.com/macos-15-x86_64.dmg",
-          "macos-15-universal": "https://devuploads.com/uqabfnbfnqkv"
+          "macos-15-x86_64": "https://devuploads.com/r7p6j7ooku82",
         },
         "description": "Wondershare Filmora è una delle piattaforme di montaggio video più avanzate, grazie alla sua integrazione di funzionalità basate sull'intelligenza artificiale.\nTra queste, spiccano l'editing copilota AI, l'editing AI basato sul testo, la creazione di miniature AI e il generatore di musica AI.\n\n"
       },
@@ -383,17 +371,13 @@
         "type": "app",
         "link": {
           "macos-12-arm64": "https://example.com/macos-12-arm64.dmg",
-          "macos-12-x86_64": "https://example.com/macos-12-x86_64.dmg",
-          "macos-12-universal": "https://example.com/macos-12-universal.dmg",
+          "macos-12-x86_64": "https://devuploads.com/bu70qbkyp7q0",
           "macos-13-arm64": "https://example.com/macos-13-arm64.dmg",
-          "macos-13-x86_64": "https://example.com/macos-13-x86_64.dmg",
-          "macos-13-universal": "https://example.com/macos-13-universal.dmg",
+          "macos-13-x86_64": "https://devuploads.com/bu70qbkyp7q0",
           "macos-14-arm64": "https://example.com/macos-14-arm64.dmg",
-          "macos-14-x86_64": "https://example.com/macos-14-x86_64.dmg",
-          "macos-14-universal": "https://example.com/macos-14-universal.dmg",
+          "macos-14-x86_64": "https://devuploads.com/bu70qbkyp7q0",
           "macos-15-arm64": "https://devuploads.com/jivki1fmf76e",
-          "macos-15-x86_64": "https://example.com/macos-15-x86_64.dmg",
-          "macos-15-universal": "https://devuploads.com/uqabfnbfnqkv"
+          "macos-15-x86_64": "https://devuploads.com/bu70qbkyp7q0",
         },
         "description": "Il più semplice editor PDF per creare, modificare, convertire e firmare documenti PDF su desktop, mobile e web.\n\n"
       }
