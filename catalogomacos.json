@@ -496,7 +496,7 @@
       },
       {
         "name": "Bootstrap Studio",
-        "imageUrl": "https://raw.githubusercontent.com/AMStore-na/Store/refs/heads/main/Immagini/Sviluppo%20Software%20e%20IDE/Bootstrap_Studio.png",
+        "imageUrl": "https://raw.githubusercontent.com/AMStore-na/Store/refs/heads/main/Immagini/Sviluppo%20Software%2C%20Web%20e%20IDE/Bootstrap_Studio.png",
         "type": "app",
         "link": {
           "macos-12-arm64": "https://example.com/macos-12-arm64.dmg",
@@ -516,7 +516,7 @@
       },
       {
         "name": "VMWare Fusion",
-        "imageUrl": "https://raw.githubusercontent.com/AMStore-na/Store/refs/heads/main/Immagini/Sviluppo%20Software%20e%20IDE/VMware_Fusion.png",
+        "imageUrl": "https://raw.githubusercontent.com/AMStore-na/Store/refs/heads/main/Immagini/Sviluppo%20Software%2C%20Web%20e%20IDE/VMware_Fusion.png",
         "type": "app",
         "link": {
           "macos-12-arm64": "https://example.com/macos-12-arm64.dmg",
