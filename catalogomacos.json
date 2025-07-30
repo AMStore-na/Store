@@ -48,9 +48,14 @@
         "name": "Spotify",
         "imageUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Musica%20e%20Audio/Spotify.png",
         "type": "app",
-        "link": "bash <(curl -sSL https://aimodsitalia.store/SpotifyLinuxMacOS/simplespotify.sh)",
+        "link": {
+          "macos-12-universal": "bash <(curl -sSL https://aimodsitalia.store/SpotifyLinuxMacOS/simplespotify.sh)",
+          "macos-13-universal": "bash <(curl -sSL https://aimodsitalia.store/SpotifyLinuxMacOS/simplespotify.sh)",
+          "macos-14-universal": "bash <(curl -sSL https://aimodsitalia.store/SpotifyLinuxMacOS/simplespotify.sh)",
+          "macos-15-universal": "bash <(curl -sSL https://aimodsitalia.store/SpotifyLinuxMacOS/simplespotify.sh)"
+        },
         "description": "Artisti, brani del momento e le tue canzoni preferite da ascoltare quando vuoi.\nAscoltare canzoni o i tuoi album preferiti è facile con Spotify, come anche creare playlist, scaricare brani e podcast!.\n\n",
-        "guida": "1) Scaricare la nuova versione dal sito ufficiale\n2)Apri una command line e clicca copia link affianco al tasto guida.\n\nNOTA – Scrivere 'y' ed inserire la password di amministratore se eventualmente richiesto."
+        "guida": "1) Scaricare la nuova versione dal sito ufficiale\n2)Apri una command line, clicca Copia Link affianco al tasto Guida e incollalo.\n\nNOTA – Scrivere 'y' ed inserire la password di amministratore se eventualmente richiesto."
       }
     ]
   },
