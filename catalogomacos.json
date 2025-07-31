@@ -152,18 +152,10 @@
         "imageUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Video%20e%20Animazione/Camtasia.png",
         "type": "app",
         "link": {
-          "macos-12-arm64": "https://example.com/macos-12-arm64.dmg",
-          "macos-12-x86_64": "https://example.com/macos-12-x86_64.dmg",
           "macos-12-universal": "https://example.com/macos-12-universal.dmg",
-          "macos-13-arm64": "https://example.com/macos-13-arm64.dmg",
-          "macos-13-x86_64": "https://example.com/macos-13-x86_64.dmg",
-          "macos-13-universal": "https://example.com/macos-13-universal.dmg",
-          "macos-14-arm64": "https://example.com/macos-14-arm64.dmg",
-          "macos-14-x86_64": "https://example.com/macos-14-x86_64.dmg",
-          "macos-14-universal": "https://example.com/macos-14-universal.dmg",
-          "macos-15-arm64": "https://devuploads.com/jivki1fmf76e",
-          "macos-15-x86_64": "https://example.com/macos-15-x86_64.dmg",
-          "macos-15-universal": "https://devuploads.com/uqabfnbfnqkv"
+          "macos-13-universal": "https://devuploads.com/ozvu6fushvcy",
+          "macos-14-universal": "https://devuploads.com/ozvu6fushvcy",
+          "macos-15-universal": "https://devuploads.com/ozvu6fushvcy"
         },
         "description": "Camtasia è il tuo registratore dello schermo all-in-one e strumento di editing video.\nUnisciti ai milioni di creatori di contenuti, educatori, esperti di marketing, formatori e professionisti aziendali che si affidano a Camtasia per portare i loro progetti video al livello successivo.\n\n"
       },
@@ -354,13 +346,13 @@
         "imageUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Video%20e%20Animazione/Wondershare_Filmora.png",
         "type": "app",
         "link": {
-          "macos-12-arm64": "https://example.com/macos-12-arm64.dmg",
+          "macos-12-arm64": "https://devuploads.com/r7p6j7ooku82",
           "macos-12-x86_64": "https://devuploads.com/r7p6j7ooku82",
-          "macos-13-arm64": "https://example.com/macos-13-arm64.dmg",
+          "macos-13-arm64": "https://devuploads.com/r7p6j7ooku82",
           "macos-13-x86_64": "https://devuploads.com/r7p6j7ooku82",
-          "macos-14-arm64": "https://example.com/macos-14-arm64.dmg",
+          "macos-14-arm64": "https://devuploads.com/r7p6j7ooku82",
           "macos-14-x86_64": "https://devuploads.com/r7p6j7ooku82",
-          "macos-15-arm64": "https://devuploads.com/jivki1fmf76e",
+          "macos-15-arm64": "https://devuploads.com/r7p6j7ooku82",
           "macos-15-x86_64": "https://devuploads.com/r7p6j7ooku82",
         },
         "description": "Wondershare Filmora è una delle piattaforme di montaggio video più avanzate, grazie alla sua integrazione di funzionalità basate sull'intelligenza artificiale.\nTra queste, spiccano l'editing copilota AI, l'editing AI basato sul testo, la creazione di miniature AI e il generatore di musica AI.\n\n"
@@ -387,13 +379,13 @@
         "type": "app",
         "link": {
           "macos-12-arm64": "https://example.com/macos-12-arm64.dmg",
-          "macos-12-x86_64": "https://devuploads.com/bu70qbkyp7q0",
+          "macos-12-x86_64": "https://devuploads.com/ynvod81idbyh",
           "macos-13-arm64": "https://example.com/macos-13-arm64.dmg",
-          "macos-13-x86_64": "https://devuploads.com/bu70qbkyp7q0",
+          "macos-13-x86_64": "https://devuploads.com/ynvod81idbyh",
           "macos-14-arm64": "https://example.com/macos-14-arm64.dmg",
-          "macos-14-x86_64": "https://devuploads.com/bu70qbkyp7q0",
+          "macos-14-x86_64": "https://devuploads.com/ynvod81idbyh",
           "macos-15-arm64": "https://devuploads.com/jivki1fmf76e",
-          "macos-15-x86_64": "https://devuploads.com/bu70qbkyp7q0",
+          "macos-15-x86_64": "https://devuploads.com/ynvod81idbyh",
         },
         "description": "Wondershare UniConverter è un software versatile per la conversione video, che supporta oltre 1000 formati.\nConsente anche compressione, editing, masterizzazione su DVD, download da web e registrazione dello schermo, offrendo un'interfaccia intuitiva e prestazioni rapide per utenti professionali e amatoriali."
       }
