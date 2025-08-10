@@ -197,15 +197,15 @@
     },
     {
         "Nome": "SketchUp",
-        "Link": "https://devuploads.com/dgvdik21msy9",
+        "Link": "https://devuploads.com/j04w98cyjrqt",
         "Linkx32": null,
-        "LinkR": "",
+        "LinkR": null,
         "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/CAD%2C%20Architettura%20e%20Ingegneria/SketchUp_Pro_2025.png",
         "Sezione": "CAD, Architettura e Ingegneria",
         "Descrizione": "SketchUp è un software di modellazione 3D molto popolare, utilizzato in vari settori come l'architettura, il design, l'ingegneria e altro ancora",
         "Tooltip": "SketchUp Pro 2025 v25.0.660",
-        "MRicerca": "sketcup",
-        "Hash": "0e4d893ce1902708",
+        "MRicerca": "sketchup",
+        "Hash": "6602ea59e97a916a",
         "HashX32": null,
         "UUID": "61"
     },
@@ -323,15 +323,15 @@
     },
     {
         "Nome": "YT Saver",
-        "Link": "https://devuploads.com/mo14m2deoe0g",
+        "Link": "https://devuploads.com/51eoco203am0",
         "Linkx32": null,
         "LinkR": "",
         "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Downloader/YT_Saver.png",
         "Sezione": "Downloader",
         "Descrizione": "YT Saver è un'applicazione per il download e la conversione di video da oltre 10.000 piattaforme, inclusi YouTube, Instagram e TikTok. Permette di scaricare video fino a risoluzioni 8K e convertirli in oltre 20 formati diversi, come MP4 e MP3. Offre anche funzionalità avanzate come il download di playlist da servizi come Spotify, Tidal, etc e la modalità privata.",
-        "Tooltip": "YT Saver v10.5.0",
+        "Tooltip": "YT Saver v10.7.0",
         "MRicerca": "yt",
-        "Hash": "a00c22cd757bc21b",
+        "Hash": "b6fc861757fec6e1",
         "HashX32": null,
         "UUID": "49"
     },
@@ -910,20 +910,6 @@
         "UUID": "113"
     },
     {
-        "Nome": "Age Of Mythology Retold",
-        "Link": "https://devuploads.com/gjwyna9l2n8k",
-        "Linkx32": null,
-        "LinkR": "",
-        "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Giochi/Age_Of_Mythology_Retold.png",
-        "Sezione": "Giochi",
-        "Descrizione": "Dai creatori dell'acclamata serie Age of Empires, Age of Mythology: Retold si spinge oltre la storia, trasportando i giocatori in un'età mitica in cui divinità, mostri ed esseri umani si incontrano e si scontrano.",
-        "Tooltip": "Age Of Mythology: Retold – v100.18.9036.0 + 4 DLCs/Bonuses",
-        "MRicerca": "Giochi",
-        "Hash": "b592627074fdacea",
-        "HashX32": null,
-        "UUID": "114"
-    },
-    {
         "Nome": "Bus Simulator 21 Next Stop",
         "Link": "https://devuploads.com/kc0343x7iwxg",
         "Linkx32": null,
@@ -992,20 +978,6 @@
         "Hash": "ebf1b71f3d76d0c6",
         "HashX32": null,
         "UUID": "154"
-    },
-    {
-        "Nome": "Schedule I",
-        "Link": "https://devuploads.com/lw4uaxyi8moj",
-        "Linkx32": null,
-        "LinkR": null,
-        "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Giochi/Schedule_I.png",
-        "Sezione": "Giochi",
-        "Descrizione": "Da piccolo spacciatore di droga a boss, produci e distribuisci una vasta gamma di droghe in tutta la città sgangherata di Hyland Point. Espandi il tuo impero con proprietà, aziende, dipendenti e altro ancora.",
-        "Tooltip": "Schedule I Build 17905661",
-        "MRicerca": "Giochi",
-        "Hash": "91a748674ba85820",
-        "HashX32": null,
-        "UUID": "155"
     },
     {
         "Nome": "Silent Hill 2 - Remake",
@@ -1118,20 +1090,6 @@
         "Hash": "cfce908ebc2000b1",
         "HashX32": null,
         "UUID": "180"
-    },
-    {
-        "Nome": "Age of Empires II - Definitive Edition",
-        "Link": "https://devuploads.com/9jm71ifyoe86",
-        "Linkx32": null,
-        "LinkR": null,
-        "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Giochi/Age_of_Empires_II_Definitive_Edition.png",
-        "Sezione": "Giochi",
-        "Descrizione": "Age of Empires II: Definitive Edition è una versione rimasterizzata del classico gioco di strategia in tempo reale del 1999, sviluppata da World's Edge e Forgotten Empires e pubblicata da Xbox Game Studios. Questa edizione definitiva celebra il 20º anniversario del titolo originale, offrendo grafica migliorata con supporto per la risoluzione 4K, animazioni più fluide e un comparto audio ottimizzato. ",
-        "Tooltip": "Age of Empires 2 - Definitive Edition v101.103.12349.0",
-        "MRicerca": "Age",
-        "Hash": "9c862ba164ab3741",
-        "HashX32": null,
-        "UUID": "181"
     },
     {
         "Nome": "Hogwarts Legacy",
@@ -1344,20 +1302,6 @@
         "UUID": "222"
     },
     {
-        "Nome": "Rematch",
-        "Link": "https://devuploads.com/kxf2hp6kl7e1",
-        "Linkx32": null,
-        "LinkR": null,
-        "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Giochi/Rematch.png",
-        "Sezione": "Giochi",
-        "Descrizione": "Rematch è un’app pensata per chi ama le sfide online e vuole rivivere le partite migliori. Ti permette di registrare, rivedere e condividere facilmente i tuoi momenti di gioco più intensi, analizzare le performance e migliorare. Ideale per chi vuole crescere, confrontarsi e non perdere mai un’azione importante. Scaricala e domina le tue sfide.",
-        "Tooltip": "Rematch",
-        "MRicerca": "Giochi",
-        "Hash": "32bd199655137e7c",
-        "HashX32": null,
-        "UUID": "224"
-    },
-    {
         "Nome": "Split Fiction",
         "Link": "https://devuploads.com/ijk5rqbe0w93",
         "Linkx32": null,
@@ -1370,20 +1314,6 @@
         "Hash": "ffdb8931ef30b9eb",
         "HashX32": null,
         "UUID": "227"
-    },
-    {
-        "Nome": "3dSen PC",
-        "Link": "https://devuploads.com/txbf7z8dvdru",
-        "Linkx32": null,
-        "LinkR": null,
-        "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Giochi/3dSen_PC.png",
-        "Sezione": "Giochi",
-        "Descrizione": "3dSen PC trasforma i tuoi giochi NES preferiti in incredibili esperienze 3D, offrendo una nuova prospettiva ai classici che ami. Vivi un mix unico di nostalgia e innovazione, con effetti visivi sorprendenti e controlli fluidi. Se vuoi riscoprire titoli iconici in un modo totalmente nuovo, questa è l’applicazione perfetta per te.",
-        "Tooltip": "3dSen PC v.0.9.11",
-        "MRicerca": "Giochi",
-        "Hash": "580e051fb02a870a",
-        "HashX32": null,
-        "UUID": "228"
     },
     {
         "Nome": "Fifa 23",
@@ -1440,20 +1370,6 @@
         "Hash": "8e4a0d51505278d8",
         "HashX32": null,
         "UUID": "233"
-    },
-    {
-        "Nome": "PEAK",
-        "Link": "https://devuploads.com/0qlajkxorpuu",
-        "Linkx32": null,
-        "LinkR": null,
-        "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Giochi/PEAK.png",
-        "Sezione": "Giochi",
-        "Descrizione": "PEAK è un avvincente gioco di arrampicata co-op per Windows: fino a quattro scout su montagne generate proceduralmente, mappe nuove ogni 24 ore, gestione di resistenza e risorse. Con estetica leggera, meccaniche intelligenti e sfide da ridere, è perfetto in solitaria o con amici. Un’esperienza divertente e originale da provare.",
-        "Tooltip": "PEAK v1.7.a",
-        "MRicerca": "Giochi",
-        "Hash": "915c59b80b3ffa06",
-        "HashX32": null,
-        "UUID": "234"
     },
     {
         "Nome": "Hollow Knight",
@@ -1538,6 +1454,20 @@
         "Hash": "2d41a3fdbe6ac807",
         "HashX32": null,
         "UUID": "242"
+    },
+    {
+        "Nome": "Phoenix Play",
+        "Link": "https://devuploads.com/ic2wpv5yssr2",
+        "Linkx32": "https://devuploads.com/ic2wpv5yssr2",
+        "LinkR": null,
+        "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Giochi/Phoenix_Play.png",
+        "Sezione": "Giochi",
+        "Descrizione": null,
+        "Tooltip": "Phoenix Play v.0.0.0.0",
+        "MRicerca": "Giochi",
+        "Hash": null,
+        "HashX32": null,
+        "UUID": "245"
     },
     {
         "Nome": "Rhinoceros",
@@ -1975,15 +1905,15 @@
     },
     {
         "Nome": "Kontakt 8",
-        "Link": "https://devuploads.com/e9tbfjoe67ci",
+        "Link": "https://devuploads.com/sav4mfh102a7",
         "Linkx32": null,
         "LinkR": null,
         "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Musica%20e%20Audio/Kontakt_8.png",
         "Sezione": "Musica e Audio",
         "Descrizione": "Kontakt 8 è un campionatore avanzato sviluppato da Native Instruments, ideale per creare, riprodurre e gestire strumenti virtuali. Offre alta qualità sonora, compatibilità con VST3/AAX, e una gestione librerie ottimizzata. La versione Portable funziona senza installazione, perfetta per un workflow rapido, flessibile e professionale.",
-        "Tooltip": "Kontakt v8.5.1",
+        "Tooltip": "Kontakt v8.0.1",
         "MRicerca": "kontakt",
-        "Hash": "fd8e7debb9a4420b",
+        "Hash": "0330e68ab4d228f0",
         "HashX32": null,
         "UUID": "237"
     },
@@ -2157,15 +2087,15 @@
     },
     {
         "Nome": "Foxit PDF Editor Pro",
-        "Link": "https://devuploads.com/068e5gdcd7tn",
+        "Link": "https://devuploads.com/642qvh0q459r",
         "Linkx32": null,
         "LinkR": "",
         "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/PDF%20e%20Office/Foxit_PDF_Editor_Pro.png",
         "Sezione": "PDF e Office",
         "Descrizione": "Foxit PDF Editor Pro è un software avanzato per la modifica di documenti PDF, sviluppato da Foxit Software. È progettato per offrire capacità di modifica PDF professionali, inclusa la possibilità di aggiungere testo, commenti, immagini, e di firmare elettronicamente i documenti.",
-        "Tooltip": "Foxit PDF Editor Pro",
+        "Tooltip": "Foxit PDF Editor Pro v13.1.7.23637",
         "MRicerca": "foxit",
-        "Hash": "",
+        "Hash": "04c0318d3211cccb",
         "HashX32": null,
         "UUID": "134"
     },
