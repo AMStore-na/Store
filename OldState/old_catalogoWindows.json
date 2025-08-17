@@ -210,6 +210,20 @@
         "UUID": "61"
     },
     {
+        "Nome": "Autodesk 3DS Max 2026",
+        "Link": "https://devuploads.com/aegmptt56fau",
+        "Linkx32": null,
+        "LinkR": null,
+        "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/CAD%2C%20Architettura%20e%20Ingegneria/Autodesk_3DS_Max_2026.png",
+        "Sezione": "CAD, Architettura e Ingegneria",
+        "Descrizione": null,
+        "Tooltip": "Autodesk 3DS Max 2026 v2026.2",
+        "MRicerca": "3ds",
+        "Hash": "3b32e2d1a73b45c6",
+        "HashX32": null,
+        "UUID": "246"
+    },
+    {
         "Nome": "Multiecuscan",
         "Link": "https://devuploads.com/6zs4bdr29azy",
         "Linkx32": "https://devuploads.com/v7zmxuafjpma",
@@ -2311,7 +2325,7 @@
     },
     {
         "Nome": "Movavi Screen Recorder",
-        "Link": "https://devuploads.com/klsx2cu9t20q",
+        "Link": "https://devuploads.com/lc2zvbcwp5er",
         "Linkx32": null,
         "LinkR": "",
         "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Registrazione%20Schermo/Movavi_Screen_Recorder.png",
@@ -3291,15 +3305,15 @@
     },
     {
         "Nome": "Movavi Video Editor 2025",
-        "Link": "https://devuploads.com/3pcsmtznfdp1",
+        "Link": "https://devuploads.com/lc2zvbcwp5er",
         "Linkx32": null,
         "LinkR": null,
         "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Video%20e%20Animazione/Movavi_Video_Editor_2025.png",
         "Sezione": "Video e Animazione",
         "Descrizione": null,
-        "Tooltip": "Movavi Video Editor 2025 v25.9.0",
+        "Tooltip": "Movavi Video Editor 2025 v25.3.0",
         "MRicerca": "movavi",
-        "Hash": "e9b4b0da995aa096",
+        "Hash": "cc554b23dd8a3c6c",
         "HashX32": null,
         "UUID": "244"
     }
