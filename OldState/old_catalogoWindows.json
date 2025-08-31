@@ -28,11 +28,11 @@
         "UUID": "209"
     },
     {
-        "Nome": "Autodesk Revit",
+        "Nome": "Autodesk Revit 2025",
         "Link": "https://devuploads.com/1sukco621r70",
         "Linkx32": null,
         "LinkR": "",
-        "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/CAD,%20Architettura%20e%20Ingegneria/Autodesk_Revit.png",
+        "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/CAD%2C%20Architettura%20e%20Ingegneria/Autodesk_Revit_2025.png",
         "Sezione": "CAD, Architettura e Ingegneria",
         "Descrizione": "Autodesk Revit è un software di progettazione e modellazione per l'architettura, l'ingegneria e le costruzioni, sviluppato da Autodesk. È ampiamente utilizzato nel settore delle costruzioni per il Building Information Modeling (BIM).",
         "Tooltip": "Autodesk Revit 2025",
@@ -351,16 +351,16 @@
     },
     {
         "Nome": "IDM",
-        "Link": "https://devuploads.com/yu19ze4oamad",
-        "Linkx32": "https://devuploads.com/yu19ze4oamad",
+        "Link": "https://devuploads.com/2hw3o32d3w9e",
+        "Linkx32": "https://devuploads.com/2hw3o32d3w9e",
         "LinkR": "",
         "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Downloader/IDM.png",
         "Sezione": "Downloader",
         "Descrizione": "Installa Internet Download Manager (IDM) per interrompere l'attesa per i download. Rimarrai davvero stupito dalla velocità con cui IDM scarica i tuoi file. IDM riparerà anche i download interrotti e riprenderà a causa di connessioni perse, problemi di rete, arresti del computer o interruzioni di corrente impreviste.",
         "Tooltip": "IDM v6.42 Build 42",
         "MRicerca": "internet download manager",
-        "Hash": "a96351119d87b6f0",
-        "HashX32": "a96351119d87b6f0",
+        "Hash": "4700b9d85be44461",
+        "HashX32": "4700b9d85be44461",
         "UUID": "50"
     },
     {
@@ -644,20 +644,6 @@
         "UUID": "92"
     },
     {
-        "Nome": "Enotria",
-        "Link": "https://devuploads.com/7sgzren8qaju",
-        "Linkx32": null,
-        "LinkR": "",
-        "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Giochi/Enotria.png",
-        "Sezione": "Giochi",
-        "Descrizione": "Enotria: The Last Song è un videogioco action RPG in stile Souls sviluppato da Jyamma Games. È ambientato in un mondo ispirato dal folklore italiano, dove il sole più luminoso proietta l'ombra più oscura. Il giocatore assume il ruolo di un personaggio senza maschera, libero dal destino predeterminato, e deve liberare il mondo dalla stagnazione usando il potere dell'Ardore.",
-        "Tooltip": "Enotria",
-        "MRicerca": "enotria",
-        "Hash": "",
-        "HashX32": null,
-        "UUID": "93"
-    },
-    {
         "Nome": "DRAGON BALL Sparking ZERO",
         "Link": "https://devuploads.com/scm25orkavdf",
         "Linkx32": null,
@@ -852,20 +838,6 @@
         "Hash": "",
         "HashX32": null,
         "UUID": "108"
-    },
-    {
-        "Nome": "Elden Ring",
-        "Link": "https://devuploads.com/cd0fm61ga7zb",
-        "Linkx32": null,
-        "LinkR": "",
-        "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Giochi/Elden_Ring_Shadow_Of_The_Erdtree_Deluxe_Edition.png",
-        "Sezione": "Giochi",
-        "Descrizione": "Elden Ring è un action RPG sviluppato da FromSoftware, diretto da Hidetaka Miyazaki con la collaborazione di George R.R. Martin per la costruzione del mondo. Ambientato nell'Interregno, i giocatori esplorano un vasto open world, affrontando nemici e boss impegnativi, con l'obiettivo di ricostruire l'Elden Ring e diventare il nuovo Lord ancestrale.",
-        "Tooltip": "Elden Ring Shadow Of The Erdtree (Deluxe Edition) v1.12.1",
-        "MRicerca": "elden",
-        "Hash": "",
-        "HashX32": null,
-        "UUID": "109"
     },
     {
         "Nome": "Tavern Master",
@@ -1268,7 +1240,7 @@
         "Sezione": "Giochi",
         "Descrizione": "Elden Ring Nightreign è un'avventura co‑op standalone ambientata nell'universo di Elden Ring. Scendi nella terra di Limveld con fino a tre giocatori, vivi tre intense giornate-notte, potenzia l’equipaggiamento e affronta i temibili Nightlords. Con otto classi uniche, sessioni roguelike rapide e un gameplay raffinato, è perfetto per chi cerca azione strategica intensa senza impegni a lungo termine. ",
         "Tooltip": "Elden Ring Nightreign Deluxe Edition v1.01",
-        "MRicerca": "Giochi",
+        "MRicerca": "elden",
         "Hash": "7507ba0872e8567e",
         "HashX32": null,
         "UUID": "213"
@@ -1412,20 +1384,6 @@
         "Hash": "d5a3331ef42125f2",
         "HashX32": null,
         "UUID": "236"
-    },
-    {
-        "Nome": "Stronghold Crusader",
-        "Link": "https://devuploads.com/brw2sun9rytp",
-        "Linkx32": null,
-        "LinkR": null,
-        "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Giochi/Stronghold_Crusader_Definitive_Edition.png",
-        "Sezione": "Giochi",
-        "Descrizione": "Stronghold Crusader: Definitive Edition è una rivisitazione moderna del classico RTS medievale. Include grafica e audio rimasterizzati, nuove campagne, modalità cooperativa e multiplayer fino a 8 giocatori. Aggiunge otto unità giocabili e quattro lord IA innovativi su mappe più grandi. Ideale per chi ama strategia, gestione economica e battaglie storiche in un’esperienza raffinata. ",
-        "Tooltip": "Stronghold Crusader: Definitive Edition",
-        "MRicerca": "Giochi",
-        "Hash": "af4b66f45bb7c29c",
-        "HashX32": null,
-        "UUID": "238"
     },
     {
         "Nome": "WUCHANG: Fallen Feathers",
@@ -2003,7 +1961,7 @@
     },
     {
         "Nome": "Avira Phantom",
-        "Link": "https://devuploads.com/yqb8gsqhyniz",
+        "Link": "https://devuploads.com/bqy8k7loa8q5",
         "Linkx32": null,
         "LinkR": "",
         "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Networking%20e%20Wi-Fi/Avira_Phantom.png",
@@ -2011,7 +1969,7 @@
         "Descrizione": "Avira Phantom è un servizio di VPN (Virtual Private Network) offerto da Avira, una nota azienda di sicurezza informatica.",
         "Tooltip": "Avira Phantom VPN Pro v2.44.1.19908",
         "MRicerca": "avira",
-        "Hash": "",
+        "Hash": "cdc7aaa065950896",
         "HashX32": null,
         "UUID": "20"
     },
@@ -2507,15 +2465,15 @@
     },
     {
         "Nome": "AdGuard",
-        "Link": "https://devuploads.com/3yqbnbiiq10p",
+        "Link": "https://devuploads.com/p02soeen018j",
         "Linkx32": null,
         "LinkR": "",
         "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Sicurezza%20e%20Privacy/AdGuard.png",
         "Sezione": "Sicurezza e Privacy",
         "Descrizione": "AdGuard è un software progettato per bloccare annunci pubblicitari, tracker e siti web dannosi. È disponibile su diverse piattaforme, tra cui Windows, macOS, Android e iOS.",
-        "Tooltip": "Adguard v7.20.3.49941",
+        "Tooltip": "Adguard v7.21.2.5086",
         "MRicerca": "adguard",
-        "Hash": "27befad99fb3190c",
+        "Hash": "18846a2fdc9c3b8f",
         "HashX32": "",
         "UUID": "30"
     },
