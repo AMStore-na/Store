@@ -3190,5 +3190,19 @@
     "Hash": "cc554b23dd8a3c6c",
     "HashX32": null,
     "UUID": "244"
+  },
+  {
+    "Nome": "Spectratronics Omnisphere",
+    "Link": "https://devuploads.com/fw36wjv2fyq5",
+    "Linkx32": null,
+    "LinkR": null,
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Musica%20e%20Audio/Spectratronics_Omnisphere.png",
+    "Sezione": "Musica e Audio",
+    "Descrizione": "Spectratronics Omnisphere è un potente software di sintesi sonora sviluppato da Spectrasonics, considerato uno degli strumenti virtuali più completi per musicisti e produttori. Combina sintesi avanzata e una vasta libreria di suoni, spaziando da timbri realistici a texture futuristiche. Offre un’interfaccia intuitiva, integrazione MIDI e continua espansione di preset, ideale per ogni genere musicale.",
+    "Tooltip": "Spectratronics Omnisphere v2.8.1c",
+    "MRicerca": "Omni",
+    "Hash": "811a61b2896e9aa8",
+    "HashX32": null,
+    "UUID": "249"
   }
 ]
