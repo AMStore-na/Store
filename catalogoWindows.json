@@ -1162,20 +1162,6 @@
     "UUID": "195"
   },
   {
-    "Nome": "Balatro",
-    "Link": "https://devuploads.com/sh4t3ffkpnv9",
-    "Linkx32": null,
-    "LinkR": null,
-    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Giochi/Balatro.png",
-    "Sezione": "Giochi",
-    "Descrizione": "In Balatro, il giocatore affronta sfide a turni utilizzando mani di poker per accumulare fiches e superare vari livelli chiamati \"ante\". Il gameplay si basa sulla combinazione di mani di poker valide con carte Jolly uniche, ciascuna con abilità o modificatori differenti, per creare sinergie potenti e strategie vincenti .\nIl gioco presenta una grafica minimalista ma offre una profondità strategica notevole, con oltre 150 Jolly disponibili e vari consumabili come Tarocchi, Carte Pianeta e Carte Spettrali, che influenzano il mazzo e le partite in modi diversi.",
-    "Tooltip": "Balatro v1.0.1.c",
-    "MRicerca": "Balatro",
-    "Hash": "bcec2eff82b9b0ae",
-    "HashX32": null,
-    "UUID": "201"
-  },
-  {
     "Nome": "Stardew Valley",
     "Link": "https://devuploads.com/l7gz4uitibaf",
     "Linkx32": null,
