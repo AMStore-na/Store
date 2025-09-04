@@ -602,20 +602,6 @@
     "UUID": "91"
   },
   {
-    "Nome": "Palworld",
-    "Link": "https://telegra.ph/Palworld-v03657672-09-17",
-    "Linkx32": null,
-    "LinkR": "",
-    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Giochi/Palworld.png",
-    "Sezione": "Giochi",
-    "Descrizione": "Palworld è un gioco di sopravvivenza e crafting sviluppato da Pocketpair. In questo gioco, i giocatori possono esplorare un mondo aperto, combattere, catturare creature chiamate Pals, costruire basi e svolgere varie attività.",
-    "Tooltip": "Palworld v0.3.6.57672",
-    "MRicerca": "palworld",
-    "Hash": "",
-    "HashX32": null,
-    "UUID": "92"
-  },
-  {
     "Nome": "TCG Card Shop Simulator",
     "Link": "https://devuploads.com/ro1m6pgrk8wr",
     "Linkx32": null,
