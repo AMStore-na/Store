@@ -2227,15 +2227,15 @@
   },
   {
     "Nome": "AdGuard",
-    "Link": "https://devuploads.com/p02soeen018j",
+    "Link": "https://devuploads.com/8pn4amdtofvf",
     "Linkx32": null,
     "LinkR": "",
     "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Sicurezza%20e%20Privacy/AdGuard.png",
     "Sezione": "Sicurezza e Privacy",
     "Descrizione": "AdGuard è un software progettato per bloccare annunci pubblicitari, tracker e siti web dannosi. È disponibile su diverse piattaforme, tra cui Windows, macOS, Android e iOS.",
-    "Tooltip": "Adguard v7.21.2.5086",
+    "Tooltip": "Adguard v7.21.3.5089",
     "MRicerca": "adguard",
-    "Hash": "18846a2fdc9c3b8f",
+    "Hash": "ddc8e74816ec409b",
     "HashX32": "",
     "UUID": "30"
   },
