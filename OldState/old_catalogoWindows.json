@@ -224,6 +224,20 @@
         "UUID": "246"
     },
     {
+        "Nome": "Autodesk Revit 2026",
+        "Link": "https://devuploads.com/80ak85rmqdma",
+        "Linkx32": null,
+        "LinkR": null,
+        "ImmagineUrl": null,
+        "Sezione": "CAD, Architettura e Ingegneria",
+        "Descrizione": "Autodesk Revit è un software di progettazione e modellazione per l'architettura, l'ingegneria e le costruzioni, sviluppato da Autodesk. È ampiamente utilizzato nel settore delle costruzioni per il Building Information Modeling (BIM).",
+        "Tooltip": "Autodesk Revit 2026 v2026.2",
+        "MRicerca": "revit",
+        "Hash": "a2935bf569a48a9e",
+        "HashX32": null,
+        "UUID": "248"
+    },
+    {
         "Nome": "Multiecuscan",
         "Link": "https://devuploads.com/6zs4bdr29azy",
         "Linkx32": "https://devuploads.com/v7zmxuafjpma",
@@ -337,15 +351,15 @@
     },
     {
         "Nome": "YT Saver",
-        "Link": "https://devuploads.com/gnwgtj2a3kns",
+        "Link": "https://devuploads.com/7tgwc8z6rame",
         "Linkx32": null,
         "LinkR": "",
         "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Downloader/YT_Saver.png",
         "Sezione": "Downloader",
         "Descrizione": "YT Saver è un'applicazione per il download e la conversione di video da oltre 10.000 piattaforme, inclusi YouTube, Instagram e TikTok. Permette di scaricare video fino a risoluzioni 8K e convertirli in oltre 20 formati diversi, come MP4 e MP3. Offre anche funzionalità avanzate come il download di playlist da servizi come Spotify, Tidal, etc e la modalità privata.",
-        "Tooltip": "YT Saver v10.7.1",
+        "Tooltip": "YT Saver v10.8.0",
         "MRicerca": "yt",
-        "Hash": "7eb0aeb2973c14c1",
+        "Hash": "93755173942c1400",
         "HashX32": null,
         "UUID": "49"
     },
@@ -476,20 +490,6 @@
         "UUID": "80"
     },
     {
-        "Nome": "Marvels Spider-Man Remastered",
-        "Link": "https://telegra.ph/Marvels-Spider-Man-Remastered-V181210--DLC--Correzione-SSE-06-11",
-        "Linkx32": null,
-        "LinkR": "",
-        "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Giochi/Marvels_Spider-Man_Remastered.png",
-        "Sezione": "Giochi",
-        "Descrizione": "Marvel's Spider-Man Remastered è una versione migliorata del gioco originale sviluppato da Insomniac Games e pubblicato da Sony Interactive Entertainment. Questa versione è stata ottimizzata per le console PS5 e PC, offrendo grafica migliorata, nuove funzionalità immersive e un'esperienza di gioco più fluida.",
-        "Tooltip": "Marvels Spider-Man Remastered V1.812.1.0 + DLC + Correzione SSE",
-        "MRicerca": "spider",
-        "Hash": "",
-        "HashX32": null,
-        "UUID": "81"
-    },
-    {
         "Nome": "Life is Strange Before The Storm",
         "Link": "https://telegra.ph/Life-Is-Strange-Before-The-Storm-06-14",
         "Linkx32": null,
@@ -532,20 +532,6 @@
         "UUID": "84"
     },
     {
-        "Nome": "Hearts Of Iron IV",
-        "Link": "https://telegra.ph/Hearts-Of-Iron-IV-v1146--all-DLC-06-18",
-        "Linkx32": null,
-        "LinkR": "",
-        "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Giochi/Hearts_Of_Iron_IV.png",
-        "Sezione": "Giochi",
-        "Descrizione": "Hearts of Iron IV è un videogioco di strategia in tempo reale ambientato durante la Seconda Guerra Mondiale, sviluppato da Paradox Interactive. Il gioco permette ai giocatori di assumere il controllo di qualsiasi nazione indipendente del mondo negli anni 1936 o 1939 e guidarla attraverso la guerra.",
-        "Tooltip": "Hearts Of Iron IV v1.14.6 + all DLC",
-        "MRicerca": "hearts",
-        "Hash": "",
-        "HashX32": null,
-        "UUID": "85"
-    },
-    {
         "Nome": "Supermarket Simulator",
         "Link": "https://devuploads.com/4k2oim3t08c4",
         "Linkx32": null,
@@ -572,20 +558,6 @@
         "Hash": "",
         "HashX32": null,
         "UUID": "87"
-    },
-    {
-        "Nome": "Far Cry 5",
-        "Link": "https://devuploads.com/pjz1k3kpgsjv",
-        "Linkx32": null,
-        "LinkR": "",
-        "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Giochi/Far_Cry_5.png",
-        "Sezione": "Giochi",
-        "Descrizione": "Far Cry 5 è un videogioco d'azione-avventura sviluppato da Ubisoft Montreal e pubblicato da Ubisoft. È il quinto capitolo principale della serie Far Cry e è ambientato nella fittizia contea di Hope County, Montana1. Il gioco ruota attorno alla lotta contro una setta religiosa estremista chiamata Eden's Gate, guidata da Joseph Seed, che si è insediata abusivamente nella regione.",
-        "Tooltip": "Far Cry 5 v1.011 + 5 DLCs",
-        "MRicerca": "far",
-        "Hash": "",
-        "HashX32": null,
-        "UUID": "88"
     },
     {
         "Nome": "DIRT 5 Year One Edition",
@@ -630,34 +602,6 @@
         "UUID": "91"
     },
     {
-        "Nome": "Palworld",
-        "Link": "https://telegra.ph/Palworld-v03657672-09-17",
-        "Linkx32": null,
-        "LinkR": "",
-        "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Giochi/Palworld.png",
-        "Sezione": "Giochi",
-        "Descrizione": "Palworld è un gioco di sopravvivenza e crafting sviluppato da Pocketpair. In questo gioco, i giocatori possono esplorare un mondo aperto, combattere, catturare creature chiamate Pals, costruire basi e svolgere varie attività.",
-        "Tooltip": "Palworld v0.3.6.57672",
-        "MRicerca": "palworld",
-        "Hash": "",
-        "HashX32": null,
-        "UUID": "92"
-    },
-    {
-        "Nome": "DRAGON BALL Sparking ZERO",
-        "Link": "https://devuploads.com/scm25orkavdf",
-        "Linkx32": null,
-        "LinkR": "",
-        "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Giochi/DRAGON_BALL_Sparking_ZERO.png",
-        "Sezione": "Giochi",
-        "Descrizione": "Dragon Ball Sparking! Zero è un videogioco di combattimento 3D sviluppato da Spike Chunsoft e pubblicato da Bandai Namco Entertainment. È il sequel di Dragon Ball Z: Budokai Tenkaichi 3 e fa parte della serie Budokai Tenkaichi.",
-        "Tooltip": "DRAGON BALL: Sparking! ZERO, v1003.003.003.003.002 + 5 DLCs + Windows 7 Fix",
-        "MRicerca": "dragon",
-        "Hash": "",
-        "HashX32": null,
-        "UUID": "95"
-    },
-    {
         "Nome": "TCG Card Shop Simulator",
         "Link": "https://devuploads.com/ro1m6pgrk8wr",
         "Linkx32": null,
@@ -684,20 +628,6 @@
         "Hash": "",
         "HashX32": null,
         "UUID": "97"
-    },
-    {
-        "Nome": "Assassin's Creed Syndacate",
-        "Link": "https://devuploads.com/he7ub8115o7i",
-        "Linkx32": null,
-        "LinkR": "",
-        "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Giochi/Assassins_Creed_Syndacate.png",
-        "Sezione": "Giochi",
-        "Descrizione": "Assassin's Creed Syndicate è un videogioco d'azione-avventura sviluppato da Ubisoft e pubblicato nel 2015. Fa parte della famosa serie Assassin's Creed e si distingue per le sue ambientazioni storiche, la narrativa avvincente e il gameplay dinamico.",
-        "Tooltip": "Assassin's Creed Syndacate",
-        "MRicerca": "assassins",
-        "Hash": "",
-        "HashX32": null,
-        "UUID": "98"
     },
     {
         "Nome": "Assassin's Creed Mirage",
@@ -826,20 +756,6 @@
         "UUID": "107"
     },
     {
-        "Nome": "Forza Horizon 5",
-        "Link": "https://devuploads.com/4jwzg7x6mlqp",
-        "Linkx32": null,
-        "LinkR": "",
-        "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Giochi/Forza_Horizon_5.png",
-        "Sezione": "Giochi",
-        "Descrizione": "La tua avventura Horizon definitiva ti aspetta! Esplora vivaci paesaggi open world del Messico in continua evoluzione. Divertimento al volante illimitato con centinaia tra le migliori auto al mondo.",
-        "Tooltip": "Forza Horizon 5: Premium Edition  v1.656.386.0",
-        "MRicerca": "horizon",
-        "Hash": "",
-        "HashX32": null,
-        "UUID": "108"
-    },
-    {
         "Nome": "Tavern Master",
         "Link": "https://devuploads.com/yvh90b77friw",
         "Linkx32": null,
@@ -882,20 +798,6 @@
         "UUID": "112"
     },
     {
-        "Nome": "Arma Reforger",
-        "Link": "https://devuploads.com/h000vc8ie6fn",
-        "Linkx32": null,
-        "LinkR": "",
-        "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Giochi/Arma_Reforger.png",
-        "Sezione": "Giochi",
-        "Descrizione": "Vivi realistici combattimenti sullo sfondo della guerra fredda e prendi parte alla lotta per la vasta isola atlantica di Everon e il suo territorio offshore più circoscritto, Arland. Oppure, vesti i panni del game master e plasma esclusivi scenari per gli altri giocatori.",
-        "Tooltip": "Arma Reforger (v1.0.0.47 – Final Release + Bonus Content",
-        "MRicerca": "arma",
-        "Hash": "",
-        "HashX32": null,
-        "UUID": "113"
-    },
-    {
         "Nome": "Bus Simulator 21 Next Stop",
         "Link": "https://devuploads.com/kc0343x7iwxg",
         "Linkx32": null,
@@ -922,20 +824,6 @@
         "Hash": "a6932453a2b93536",
         "HashX32": null,
         "UUID": "116"
-    },
-    {
-        "Nome": "inZOI",
-        "Link": "https://devuploads.com/wsowkb7ze2de",
-        "Linkx32": null,
-        "LinkR": null,
-        "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Giochi/inZOI.png",
-        "Sezione": "Giochi",
-        "Descrizione": " inZOI è un gioco di simulazione dove i giocatori assumono il ruolo di Designer, plasmando il mondo secondo le loro preferenze e assistendo alle varie storie che si susseguono. Attraverso questa esperienza immersiva, vogliamo ispirare i giocatori ad apprezzare il dono prezioso che è la vita, vedendola come un viaggio ricco di significato. Entra in storie uniche, portate in vita da una grafica realistica!",
-        "Tooltip": "inZOI v20250327.1308.W",
-        "MRicerca": "inzoi",
-        "Hash": "de5d51d83c2d09df",
-        "HashX32": null,
-        "UUID": "141"
     },
     {
         "Nome": "That's Not My Neighbor",
@@ -966,34 +854,6 @@
         "UUID": "154"
     },
     {
-        "Nome": "Silent Hill 2 - Remake",
-        "Link": "https://devuploads.com/356i80tnpnis",
-        "Linkx32": null,
-        "LinkR": null,
-        "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Giochi/Silent_Hill_2_-_Remake.png",
-        "Sezione": "Giochi",
-        "Descrizione": "Dopo aver ricevuto una lettera dalla moglie defunta, James si dirige dove un tempo avevano condiviso tanti ricordi,nella speranza di rivederla un'ultima volta: Silent Hill.Giunto nei pressi del lago, James incontra una donna stranamente simile a lei... \"Il mio nome... è Maria\", dice la donna con un sorriso. Il suo viso, la sua voce... È identica a lei.Tuffati nel psicologico horror più acclamato su hardware di ultima generazione. Vivi un'esperienza psicologica unica grazie a immagini da brivido ed effetti sonori agghiaccianti. ",
-        "Tooltip": "Silent Hill 2: Digital Deluxe Edition – v1.1.236.114 + 4 DLCs/Bonuses",
-        "MRicerca": "silent",
-        "Hash": "eee3365a63ed72ed",
-        "HashX32": null,
-        "UUID": "156"
-    },
-    {
-        "Nome": "Clair Obscur: Expedition 33 – Deluxe Edition",
-        "Link": "https://devuploads.com/f8t28yfxyu7f",
-        "Linkx32": null,
-        "LinkR": null,
-        "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Giochi/Clair_Obscur_Expedition_33.png",
-        "Sezione": "Giochi",
-        "Descrizione": "Il gioco segue le vicende di Gustave e Maelle, membri dell'Expedition 33, incaricati di fermare una misteriosa figura nota come \"La Pittrice\", che ogni anno decreta la morte di una persona in base al numero dipinto su un monolito. I protagonisti devono affrontare nemici devastanti e risolvere enigmi in un mondo ricco di mistero e bellezza.",
-        "Tooltip": "Clair Obscur: Expedition 33 – Deluxe Edition, v56190",
-        "MRicerca": "clar",
-        "Hash": "b110598f56cd10c4",
-        "HashX32": null,
-        "UUID": "157"
-    },
-    {
         "Nome": "Indiana Jones e L'Antico Cerchio",
         "Link": "https://devuploads.com/bw69p3wwqcdw",
         "Linkx32": null,
@@ -1020,20 +880,6 @@
         "Hash": "2be8c536e9c65740",
         "HashX32": null,
         "UUID": "174"
-    },
-    {
-        "Nome": "Drive Beyond Horizons",
-        "Link": "https://devuploads.com/4zidltxrktz3",
-        "Linkx32": null,
-        "LinkR": null,
-        "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Giochi/Drive%20Beyond%20Horizons.png",
-        "Sezione": "Giochi",
-        "Descrizione": "Drive Beyond Horizons è un videogioco d'avventura e guida open-world. Sviluppato da Tacty Studio e Santor Games, offre paesaggi dinamici da esplorare, veicoli personalizzabili e la scoperta di tesori nascosti. Con sfide emozionanti e ambientazioni coinvolgenti, è ideale per gli amanti dell'esplorazione e dell'avventura su quattro ruote.",
-        "Tooltip": "Drive Beyond Horizons Build 911",
-        "MRicerca": "Giochi",
-        "Hash": "4a7d45ce691d5f5a",
-        "HashX32": null,
-        "UUID": "176"
     },
     {
         "Nome": "Among Us",
@@ -1092,34 +938,6 @@
         "UUID": "189"
     },
     {
-        "Nome": "The Precinct",
-        "Link": "https://devuploads.com/o78bojdq5zhd",
-        "Linkx32": null,
-        "LinkR": null,
-        "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Giochi/The_Precinct.png",
-        "Sezione": "Giochi",
-        "Descrizione": "The Precinct è un gioco d'azione sandbox con visuale dall'alto, ambientato ad Averno City nel 1983. Nei panni del giovane agente Nick Cordell Jr., i giocatori affrontano crimini generati proceduralmente, inseguimenti dinamici e ambienti distruttibili. Ispirato ai classici polizieschi, combina atmosfera noir e neon con meccaniche di pattugliamento, arresti e indagini. ",
-        "Tooltip": "The Precinct  v1.4.18135",
-        "MRicerca": "Precinct",
-        "Hash": "4c37172da2a92358",
-        "HashX32": null,
-        "UUID": "190"
-    },
-    {
-        "Nome": "L.A. Noire",
-        "Link": "https://devuploads.com/3gih83fy5ps8",
-        "Linkx32": null,
-        "LinkR": null,
-        "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Giochi/L.A._Noire_The_Complete_Edition.png",
-        "Sezione": "Giochi",
-        "Descrizione": "L.A. Noire è un videogioco investigativo ambientato nella Los Angeles del 1947, in cui il giocatore veste i panni del detective Cole Phelps del LAPD. Il titolo combina elementi di azione e indagine, con meccaniche di raccolta indizi, interrogatori e risoluzione di casi ispirati a crimini reali. Utilizza la tecnologia MotionScan per animazioni facciali realistiche. ",
-        "Tooltip": "L.A. Noire: The Complete Edition  v2675.1",
-        "MRicerca": "giochi",
-        "Hash": "dca0dd49e754e832",
-        "HashX32": null,
-        "UUID": "192"
-    },
-    {
         "Nome": "Car Mechanic Simulator 2021",
         "Link": "https://devuploads.com/anilxg7fdssu",
         "Linkx32": null,
@@ -1146,20 +964,6 @@
         "Hash": "4c762316bd4d3147",
         "HashX32": null,
         "UUID": "195"
-    },
-    {
-        "Nome": "Balatro",
-        "Link": "https://devuploads.com/sh4t3ffkpnv9",
-        "Linkx32": null,
-        "LinkR": null,
-        "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Giochi/Balatro.png",
-        "Sezione": "Giochi",
-        "Descrizione": "In Balatro, il giocatore affronta sfide a turni utilizzando mani di poker per accumulare fiches e superare vari livelli chiamati \"ante\". Il gameplay si basa sulla combinazione di mani di poker valide con carte Jolly uniche, ciascuna con abilità o modificatori differenti, per creare sinergie potenti e strategie vincenti .\nIl gioco presenta una grafica minimalista ma offre una profondità strategica notevole, con oltre 150 Jolly disponibili e vari consumabili come Tarocchi, Carte Pianeta e Carte Spettrali, che influenzano il mazzo e le partite in modi diversi.",
-        "Tooltip": "Balatro v1.0.1.c",
-        "MRicerca": "Balatro",
-        "Hash": "bcec2eff82b9b0ae",
-        "HashX32": null,
-        "UUID": "201"
     },
     {
         "Nome": "Stardew Valley",
@@ -1230,20 +1034,6 @@
         "Hash": "a94581dec473133f",
         "HashX32": null,
         "UUID": "212"
-    },
-    {
-        "Nome": "Elden Ring Nightreign",
-        "Link": "https://devuploads.com/ry68a7nfav4f",
-        "Linkx32": null,
-        "LinkR": null,
-        "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Giochi/Elden_Ring_Nightreign_Deluxe_Edition.png",
-        "Sezione": "Giochi",
-        "Descrizione": "Elden Ring Nightreign è un'avventura co‑op standalone ambientata nell'universo di Elden Ring. Scendi nella terra di Limveld con fino a tre giocatori, vivi tre intense giornate-notte, potenzia l’equipaggiamento e affronta i temibili Nightlords. Con otto classi uniche, sessioni roguelike rapide e un gameplay raffinato, è perfetto per chi cerca azione strategica intensa senza impegni a lungo termine. ",
-        "Tooltip": "Elden Ring Nightreign Deluxe Edition v1.01",
-        "MRicerca": "elden",
-        "Hash": "7507ba0872e8567e",
-        "HashX32": null,
-        "UUID": "213"
     },
     {
         "Nome": "MindsEye",
@@ -1358,20 +1148,6 @@
         "UUID": "233"
     },
     {
-        "Nome": "Hollow Knight",
-        "Link": "https://devuploads.com/k3e7q25s5eln",
-        "Linkx32": null,
-        "LinkR": null,
-        "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Giochi/Hollow_Knight.png",
-        "Sezione": "Giochi",
-        "Descrizione": "Hollow Knight è un avvincente Metroidvania 2D in cui esplori l’antico regno sotterraneo di Hallownest, affrontando creature ostili, ambienti intricati e boss impegnativi. Con uno stile grafico disegnato a mano, una colonna sonora evocativa e meccaniche di gioco precise e avvolgenti, offre decine di ore di esplorazione e crescita. Se ami le sfide e la scoperta, è un must assoluto.",
-        "Tooltip": "Hollow Knight",
-        "MRicerca": "Giochi",
-        "Hash": "9d99e3d88f438bc5",
-        "HashX32": null,
-        "UUID": "235"
-    },
-    {
         "Nome": "The Sims 4",
         "Link": "https://devuploads.com/6uclofjh2o1k",
         "Linkx32": null,
@@ -1386,20 +1162,6 @@
         "UUID": "236"
     },
     {
-        "Nome": "WUCHANG: Fallen Feathers",
-        "Link": "https://devuploads.com/lt1vrjvdkchd",
-        "Linkx32": null,
-        "LinkR": null,
-        "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Giochi/WUCHANG_Fallen_Feathers_–_Deluxe_Edition.png",
-        "Sezione": "Giochi",
-        "Descrizione": "Wuchang: Fallen Feathers è un soulslike d’azione ambientato nella provincia di Shu, durante la tarda Dinastia Ming. Vestirai i panni di Bai Wuchang, una piratessa affetta da una maledizione chiamata Feathering che trasforma gli umani in creature demoniache. Il gameplay combina combattimenti punitivi, magie anti-tempo, 25 armi e decine di incantesimi per diversi stili. Mondo vasto, estetica suggestiva e sfide intense: perfetto se cerchi profondità strategica e ambientazioni orientali ricche di atmosfera.",
-        "Tooltip": "WUCHANG: Fallen Feathers – Deluxe Edition v178067",
-        "MRicerca": "Giochi",
-        "Hash": "68cfdf270b3f328a",
-        "HashX32": null,
-        "UUID": "239"
-    },
-    {
         "Nome": "Metal Slug Attack Reloaded",
         "Link": "https://devuploads.com/tiar5xbfk3mx",
         "Linkx32": null,
@@ -1412,20 +1174,6 @@
         "Hash": "97c531c125f3a4d3",
         "HashX32": null,
         "UUID": "240"
-    },
-    {
-        "Nome": "Killing Floor 3",
-        "Link": "https://devuploads.com/g8una9nxb91v",
-        "Linkx32": null,
-        "LinkR": null,
-        "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Giochi/Killing_Floor_3.png",
-        "Sezione": "Giochi",
-        "Descrizione": "Killing Floor 3 è uno sparatutto cooperativo frenetico, ambientato in un futuro distopico invaso da creature bioingegnerizzate. Azione intensa, armi personalizzabili e combattimenti strategici lo rendono ideale per chi cerca un’esperienza adrenalinica da vivere in squadra. Perfetto per sessioni di gioco coinvolgenti, senza troppi fronzoli.",
-        "Tooltip": "Killing Floor 3",
-        "MRicerca": "Giochi",
-        "Hash": "2d41a3fdbe6ac807",
-        "HashX32": null,
-        "UUID": "242"
     },
     {
         "Nome": "Phoenix Play",
@@ -1485,15 +1233,15 @@
     },
     {
         "Nome": "Adobe Photoshop",
-        "Link": "https://devuploads.com/pikksc62ngg0",
+        "Link": "https://devuploads.com/5u2bdn6366vt",
         "Linkx32": null,
         "LinkR": "",
         "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Grafica%20e%20Design/Adobe_Photoshop.png",
         "Sezione": "Grafica e Design",
         "Descrizione": "Adobe Photoshop è un software potente e versatile per l’editing digitale delle immagini e la progettazione grafica.",
-        "Tooltip": "Adobe Photoshop 2025 v26.6",
+        "Tooltip": "Adobe Photoshop 2025 v26.10.0.7",
         "MRicerca": "photoshop",
-        "Hash": "fe89e0188df70fb3",
+        "Hash": "49b70f469455d0c3",
         "HashX32": "",
         "UUID": "2"
     },
@@ -1568,16 +1316,16 @@
         "UUID": "24"
     },
     {
-        "Nome": "CorelDraw Technical Suite",
-        "Link": "https://devuploads.com/jc60551uvyff",
+        "Nome": "CorelDRAW Technical Suite",
+        "Link": "https://devuploads.com/r1oz1ve5omdj",
         "Linkx32": null,
         "LinkR": "",
-        "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Grafica%20e%20Design/CorelDraw_Technical_Suite.png",
+        "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Grafica%20e%20Design/CorelDRAW_Technical_Suite.png",
         "Sezione": "Grafica e Design",
         "Descrizione": "La CorelDRAW Technical Suite è una collezione completa di applicazioni professionali per la progettazione tecnica e la documentazione di alto impatto. È progettata per soddisfare le esigenze di vari settori, come la manifattura, l'ingegneria, l'architettura e l'alta tecnologia.",
-        "Tooltip": "CorelDraw Technical Suite 2024 v25.0.0.230",
+        "Tooltip": "CorelDRAW Technical Suite 2025 v26.2.0.170",
         "MRicerca": "corel",
-        "Hash": "",
+        "Hash": "101013d670a1d354",
         "HashX32": null,
         "UUID": "54"
     },
@@ -1737,16 +1485,16 @@
     },
     {
         "Nome": "Spotify",
-        "Link": "https://devuploads.com/6eayg3omaemt",
-        "Linkx32": "https://devuploads.com/6eayg3omaemt",
+        "Link": "https://devuploads.com/0tmcwptmzlud",
+        "Linkx32": "https://devuploads.com/0tmcwptmzlud",
         "LinkR": "",
         "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Musica%20e%20Audio/Spotify.png",
         "Sezione": "Musica e Audio",
         "Descrizione": "Spotify è un servizio musicale digitale che offre accesso a milioni di brani, podcast e playlist",
-        "Tooltip": "Spotify v1.2.67.557",
+        "Tooltip": "Spotify v.1.2.68.528",
         "MRicerca": "Musica",
-        "Hash": "957916f7b6f8bdf7",
-        "HashX32": "957916f7b6f8bdf7",
+        "Hash": "c984281645ff8989",
+        "HashX32": "c984281645ff8989",
         "UUID": "129"
     },
     {
@@ -1765,15 +1513,15 @@
     },
     {
         "Nome": "FL Studio",
-        "Link": "https://devuploads.com/a76ssqvybk7g",
+        "Link": "https://devuploads.com/ylnw9ljgetxw",
         "Linkx32": null,
         "LinkR": "",
         "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Musica%20e%20Audio/FL_Studio.png",
         "Sezione": "Musica e Audio",
         "Descrizione": "FL Studio è una delle stazioni di lavoro audio digitali (DAW) più popolari, usata per la produzione musicale, la composizione, l'arrangiamento e il mixaggio. È conosciuta per la sua interfaccia intuitiva, che offre una vasta gamma di strumenti per musicisti, produttori e ingegneri del suono.",
-        "Tooltip": "FL Studio v24.2.2.4597",
+        "Tooltip": "FL Studio v25.1.4.4951",
         "MRicerca": "fl",
-        "Hash": "569b70af08839d89",
+        "Hash": "512c7b35ff45d978",
         "HashX32": null,
         "UUID": "127"
     },
@@ -1904,6 +1652,20 @@
         "UUID": "241"
     },
     {
+        "Nome": "Spectratronics Omnisphere",
+        "Link": "https://devuploads.com/fw36wjv2fyq5",
+        "Linkx32": null,
+        "LinkR": null,
+        "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Musica%20e%20Audio/Spectratronics_Omnisphere.png",
+        "Sezione": "Musica e Audio",
+        "Descrizione": "Spectratronics Omnisphere è un potente software di sintesi sonora sviluppato da Spectrasonics, considerato uno degli strumenti virtuali più completi per musicisti e produttori. Combina sintesi avanzata e una vasta libreria di suoni, spaziando da timbri realistici a texture futuristiche. Offre un’interfaccia intuitiva, integrazione MIDI e continua espansione di preset, ideale per ogni genere musicale.",
+        "Tooltip": "Spectratronics Omnisphere v2.8.1c",
+        "MRicerca": "Omni",
+        "Hash": "811a61b2896e9aa8",
+        "HashX32": null,
+        "UUID": "249"
+    },
+    {
         "Nome": "NetSpot",
         "Link": "https://devuploads.com/vhk49q5bfmb2",
         "Linkx32": null,
@@ -2003,15 +1765,15 @@
     },
     {
         "Nome": "Adobe Acrobat Pro",
-        "Link": "https://devuploads.com/xg8oej0jyojz",
+        "Link": "https://devuploads.com/hnevn7grajv0",
         "Linkx32": "https://devuploads.com/c2gs8lp9s8xe",
         "LinkR": "",
         "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/PDF%20e%20Office/Adobe_Acrobat_Pro.png",
         "Sezione": "PDF e Office",
         "Descrizione": "Adobe Acrobat Pro è un software potente e versatile sviluppato da Adobe Systems per la creazione, modifica e gestione di file PDF (Portable Document Format). è ampiamente utilizzato in ambito professionale per la sua capacità di manipolare documenti in modo efficiente.",
-        "Tooltip": "Adobe Acrobat Pro 2025 v25.1.20428",
+        "Tooltip": "Adobe Acrobat Pro 2025 v25.1.20672",
         "MRicerca": "acrobat",
-        "Hash": "58fcff10e3622603",
+        "Hash": "59e955d8019982ab",
         "HashX32": null,
         "UUID": "1"
     },
@@ -2465,15 +2227,15 @@
     },
     {
         "Nome": "AdGuard",
-        "Link": "https://devuploads.com/p02soeen018j",
+        "Link": "https://devuploads.com/8pn4amdtofvf",
         "Linkx32": null,
         "LinkR": "",
         "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Sicurezza%20e%20Privacy/AdGuard.png",
         "Sezione": "Sicurezza e Privacy",
         "Descrizione": "AdGuard è un software progettato per bloccare annunci pubblicitari, tracker e siti web dannosi. È disponibile su diverse piattaforme, tra cui Windows, macOS, Android e iOS.",
-        "Tooltip": "Adguard v7.21.2.5086",
+        "Tooltip": "Adguard v7.21.3.5089",
         "MRicerca": "adguard",
-        "Hash": "18846a2fdc9c3b8f",
+        "Hash": "ddc8e74816ec409b",
         "HashX32": "",
         "UUID": "30"
     },
@@ -2927,15 +2689,15 @@
     },
     {
         "Nome": "USB Safely Remove",
-        "Link": "https://devuploads.com/1bsmjq0z4knp",
+        "Link": "https://devuploads.com/ek9hypbe11ns",
         "Linkx32": null,
         "LinkR": null,
         "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Utility%20di%20Sistema%20e%20Manutenzione/USB_Safely_Remove.png",
         "Sezione": "Utility di Sistema e Manutenzione",
         "Descrizione": null,
-        "Tooltip": "USB Safely Remove v7.1.1.1326",
+        "Tooltip": "USB Safely Remove v7.1.2.1328",
         "MRicerca": "usb",
-        "Hash": "488fb1f1c3db65d7",
+        "Hash": "30592d8aa26f1ba7",
         "HashX32": null,
         "UUID": "182"
     },
@@ -2994,20 +2756,6 @@
         "Hash": null,
         "HashX32": null,
         "UUID": "223"
-    },
-    {
-        "Nome": "AnyViewer Pro",
-        "Link": "https://devuploads.com/xd3jy0umgv7c",
-        "Linkx32": null,
-        "LinkR": null,
-        "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Utility%20di%20Sistema%20e%20Manutenzione/AnyViewer_Pro.png",
-        "Sezione": "Utility di Sistema e Manutenzione",
-        "Descrizione": null,
-        "Tooltip": "AnyViewer Pro v5.2.0",
-        "MRicerca": "any",
-        "Hash": "3373de4fc2f4bfc4",
-        "HashX32": null,
-        "UUID": "247"
     },
     {
         "Nome": "Wondershare Filmora",
