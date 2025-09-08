@@ -513,9 +513,9 @@
           "macos-14-arm64": "https://example.com/macos-14-arm64.dmg",
           "macos-14-x86_64": "https://example.com/macos-14-x86_64.dmg",
           "macos-14-universal": "https://example.com/macos-14-universal.dmg",
-          "macos-15-arm64": "",
+          "macos-15-arm64": "https://example.com",
           "macos-15-x86_64": "https://example.com/macos-15-x86_64.dmg",
-          "macos-15-universal": ""
+          "macos-15-universal": "https://example.com"
         },
         "description": "Il tuo cloud, per la produttività al lavoro e nella vita privata.\nLe applicazioni comprese, a seconda delle versioni, sono le seguenti:\n- Excel\n- OneNote ; da non confondere questa versione con l'app gratuita UWP\n- Outlook\n- PowerPoint\n- Word\n\n"
       },
@@ -533,9 +533,9 @@
           "macos-14-arm64": "https://example.com/macos-14-arm64.dmg",
           "macos-14-x86_64": "https://example.com/macos-14-x86_64.dmg",
           "macos-14-universal": "https://example.com/macos-14-universal.dmg",
-          "macos-15-arm64": "",
+          "macos-15-arm64": "https://example.com",
           "macos-15-x86_64": "https://example.com/macos-15-x86_64.dmg",
-          "macos-15-universal": ""
+          "macos-15-universal": "https://example.com"
         },
         "description": "Il tuo cloud, per la produttività al lavoro e nella vita privata.\nLe applicazioni comprese, a seconda delle versioni, sono le seguenti:\n- Excel\n- OneNote ; da non confondere questa versione con l'app gratuita UWP\n- Outlook\n- PowerPoint\n- Word\n\n"
       },
