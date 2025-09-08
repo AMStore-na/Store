@@ -76,9 +76,9 @@
           "macos-14-arm64": "https://example.com/macos-14-arm64.dmg",
           "macos-14-x86_64": "https://example.com/macos-14-x86_64.dmg",
           "macos-14-universal": "https://example.com/macos-14-universal.dmg",
-          "macos-15-arm64": "",
+          "macos-15-arm64": "https://example.com",
           "macos-15-x86_64": "https://example.com/macos-15-x86_64.dmg",
-          "macos-15-universal": ""
+          "macos-15-universal": "https://example.com"
         },
         "description": "Un ottimo downloader musicale progettato per scaricare e convertire tutte le tracce musicali, le playlist, gli album e gli artisti in formati MP3, AAC, WAV, FLAC, M4A, M4B senza perdita,\noffrendoti un'eccellente esperienza di ascolto di musica offline su qualsiasi lettore e dispositivo.\n\n"
       },
@@ -96,9 +96,9 @@
           "macos-14-arm64": "https://example.com/macos-14-arm64.dmg",
           "macos-14-x86_64": "https://example.com/macos-14-x86_64.dmg",
           "macos-14-universal": "https://example.com/macos-14-universal.dmg",
-          "macos-15-arm64": "",
+          "macos-15-arm64": "https://example.com",
           "macos-15-x86_64": "https://example.com/macos-15-x86_64.dmg",
-          "macos-15-universal": ""
+          "macos-15-universal": "https://example.com"
         },
         "description": "4K Video Downloader e 4K Video Downloader+ sono programmi che consentono di scaricare video e audio da tantissimi siti,\n come YouTube, Vimeo, TikTok, SoundCloud, Bilibili, Niconico, Flickr, Facebook, DailyMotion, Naver TV, Likee e Tumblr.\n\n"
       }
@@ -121,9 +121,9 @@
           "macos-14-arm64": "https://example.com/macos-14-arm64.dmg",
           "macos-14-x86_64": "https://example.com/macos-14-x86_64.dmg",
           "macos-14-universal": "https://example.com/macos-14-universal.dmg",
-          "macos-15-arm64": "",
+          "macos-15-arm64": "https://example.com",
           "macos-15-x86_64": "https://example.com/macos-15-x86_64.dmg",
-          "macos-15-universal": ""
+          "macos-15-universal": "https://example.com"
         },
         "description": "Cinema 4D è un software per la modellazione 3D, l'animazione, ed il rendering, prodotto dalla software house MAXON Computer GmbH.\nOffre nuove funzionalità che gli artisti VFX 3D e i motion designer possono utilizzare per creare scene complesse con facilità.\n\n"
       },
@@ -141,9 +141,9 @@
           "macos-14-arm64": "https://example.com/macos-14-arm64.dmg",
           "macos-14-x86_64": "https://example.com/macos-14-x86_64.dmg",
           "macos-14-universal": "https://example.com/macos-14-universal.dmg",
-          "macos-15-arm64": "",
+          "macos-15-arm64": "https://example.com",
           "macos-15-x86_64": "https://example.com/macos-15-x86_64.dmg",
-          "macos-15-universal": ""
+          "macos-15-universal": "https://example.com"
         },
         "description": "Rhinoceros (comunemente abbreviato in Rhino o Rhino3D) è un software di modellazione tridimensionale di alta qualità utilizzato principalmente in campo architettonico, ingegneristico e della produzione di design.\nRhino è in grado di creare, modificare, analizzare, documentare, renderizzare, animare e tradurre curve, superfici e solidi NURBS di qualsiasi complessità, grado o dimensioni.\n\n"
       },
@@ -185,9 +185,9 @@
           "macos-14-arm64": "https://example.com/macos-14-arm64.dmg",
           "macos-14-x86_64": "https://example.com/macos-14-x86_64.dmg",
           "macos-14-universal": "https://example.com/macos-14-universal.dmg",
-          "macos-15-arm64": "",
+          "macos-15-arm64": "https://example.com",
           "macos-15-x86_64": "https://example.com/macos-15-x86_64.dmg",
-          "macos-15-universal": ""
+          "macos-15-universal": "https://example.com"
         },
         "description": "DaVinci Resolve è un'applicazione di classificazione del colore, correzione del colore, effetti visivi e editing video di post-produzione audio per macOS, Windows e Linux,\nsviluppata da Blackmagic Design.\n\n"
       },
@@ -205,9 +205,9 @@
           "macos-14-arm64": "https://example.com/macos-14-arm64.dmg",
           "macos-14-x86_64": "https://example.com/macos-14-x86_64.dmg",
           "macos-14-universal": "https://example.com/macos-14-universal.dmg",
-          "macos-15-arm64": "",
+          "macos-15-arm64": "https://example.com",
           "macos-15-x86_64": "https://example.com/macos-15-x86_64.dmg",
-          "macos-15-universal": ""
+          "macos-15-universal": "https://example.com"
         },
         "description": "Final Cut Pro ti consente di modificare progetti più complessi e lavorare con dimensioni di fotogrammi più grandi, frame rate più elevati e più effetti, il tutto a velocità incredibili.\nEd è costruito per sfruttare l'estrema potenza di Mac Pro, Mac Studio o MacBook Pro per prestazioni di livello superiore.\n\n"
       }
@@ -230,9 +230,9 @@
           "macos-14-arm64": "https://example.com/macos-14-arm64.dmg",
           "macos-14-x86_64": "https://example.com/macos-14-x86_64.dmg",
           "macos-14-universal": "https://example.com/macos-14-universal.dmg",
-          "macos-15-arm64": "",
+          "macos-15-arm64": "https://example.com",
           "macos-15-x86_64": "https://example.com/macos-15-x86_64.dmg",
-          "macos-15-universal": ""
+          "macos-15-universal": "https://example.com"
         },
         "description": "Programma indispensabile per tutti i prodotti adobe.\nSenza di esso, nessun programma funzionerà e/o si installerà.\n\n"
       },
@@ -250,9 +250,9 @@
           "macos-14-arm64": "https://example.com/macos-14-arm64.dmg",
           "macos-14-x86_64": "https://example.com/macos-14-x86_64.dmg",
           "macos-14-universal": "https://example.com/macos-14-universal.dmg",
-          "macos-15-arm64": "",
+          "macos-15-arm64": "https://example.com",
           "macos-15-x86_64": "https://example.com/macos-15-x86_64.dmg",
-          "macos-15-universal": ""
+          "macos-15-universal": "https://example.com"
         },
         "description": "Crea e modifica file PDF. Collabora in tutta semplicità. Firma elettronicamente i documenti e raccogli le firme di altri utenti.\nCompleta tutte le attività con un’unica applicazione, ovunque lavori. Acrobat ha tutto quello di cui hai bisogno.\n\n"
       },
@@ -270,9 +270,9 @@
           "macos-14-arm64": "https://example.com/macos-14-arm64.dmg",
           "macos-14-x86_64": "https://example.com/macos-14-x86_64.dmg",
           "macos-14-universal": "https://example.com/macos-14-universal.dmg",
-          "macos-15-arm64": "",
+          "macos-15-arm64": "https://example.com",
           "macos-15-x86_64": "https://example.com/macos-15-x86_64.dmg",
-          "macos-15-universal": ""
+          "macos-15-universal": "https://example.com"
         },
         "description": "\nAdobe Photoshop è un software proprietario prodotto da Adobe specializzato nell'elaborazione di fotografie (fotoritocco) e, più in generale, di immagini digitali.\n\n"
       },
@@ -290,9 +290,9 @@
           "macos-14-arm64": "https://example.com/macos-14-arm64.dmg",
           "macos-14-x86_64": "https://example.com/macos-14-x86_64.dmg",
           "macos-14-universal": "https://example.com/macos-14-universal.dmg",
-          "macos-15-arm64": "",
+          "macos-15-arm64": "https://example.com",
           "macos-15-x86_64": "https://example.com/macos-15-x86_64.dmg",
-          "macos-15-universal": ""
+          "macos-15-universal": "https://example.com"
         },
         "description": "\nAdobe Illustrator è un software per l'elaborazione di immagini e per la grafica vettoriale prodotto da Adobe a partire dal 1987.\nIl programma è utilizzato da milioni di designer e artisti di tutto il mondo per progettare qualsiasi tipo di grafica destinata all'editoria, al web e per dispositivi mobili.\n\n"
       },
@@ -310,9 +310,9 @@
           "macos-14-arm64": "https://example.com/macos-14-arm64.dmg",
           "macos-14-x86_64": "https://example.com/macos-14-x86_64.dmg",
           "macos-14-universal": "https://example.com/macos-14-universal.dmg",
-          "macos-15-arm64": "",
+          "macos-15-arm64": "https://example.com",
           "macos-15-x86_64": "https://example.com/macos-15-x86_64.dmg",
-          "macos-15-universal": ""
+          "macos-15-universal": "https://example.com"
         },
         "description": "\n Lightroom Classic è la versione ribattezzata dell'applicazione Lightroom ed è ottimizzata per i flussi di lavoro basati su desktop, compresa l'archiviazione locale delle foto in file e cartelle presenti sul tuo computer.\n\n"
       }
@@ -360,7 +360,7 @@
           "macos-13-x86_64": "https://devuploads.com/bu70qbkyp7q0",
           "macos-14-arm64": "https://example.com/macos-14-arm64.dmg",
           "macos-14-x86_64": "https://devuploads.com/bu70qbkyp7q0",
-          "macos-15-arm64": "",
+          "macos-15-arm64": "https://example.com",
           "macos-15-x86_64": "https://devuploads.com/bu70qbkyp7q0",
         },
         "description": "Il più semplice editor PDF per creare, modificare, convertire e firmare documenti PDF su desktop, mobile e web.\n\n"
@@ -376,7 +376,7 @@
           "macos-13-x86_64": "https://devuploads.com/ynvod81idbyh",
           "macos-14-arm64": "https://example.com/macos-14-arm64.dmg",
           "macos-14-x86_64": "https://devuploads.com/ynvod81idbyh",
-          "macos-15-arm64": "",
+          "macos-15-arm64": "https://example.com",
           "macos-15-x86_64": "https://devuploads.com/ynvod81idbyh",
         },
         "description": "Wondershare UniConverter è un software versatile per la conversione video, che supporta oltre 1000 formati.\nConsente anche compressione, editing, masterizzazione su DVD, download da web e registrazione dello schermo, offrendo un'interfaccia intuitiva e prestazioni rapide per utenti professionali e amatoriali."
@@ -400,9 +400,9 @@
           "macos-14-arm64": "https://example.com/macos-14-arm64.dmg",
           "macos-14-x86_64": "https://example.com/macos-14-x86_64.dmg",
           "macos-14-universal": "https://example.com/macos-14-universal.dmg",
-          "macos-15-arm64": "",
+          "macos-15-arm64": "https://example.com",
           "macos-15-x86_64": "https://example.com/macos-15-x86_64.dmg",
-          "macos-15-universal": ""
+          "macos-15-universal": "https://example.com"
         },
         "description": "Il nuovo e migliore modo per trasferire i tuoi giochi e le tue app preferite sul tuo dispositivo iOS, Apple Silicon Mac o Apple TV.\nNon è richiesto il jailbreak, Sideloadly è stato creato pensando ai dispositivi senza jailbreak.\n\n"
       },
@@ -420,9 +420,9 @@
           "macos-14-arm64": "https://example.com/macos-14-arm64.dmg",
           "macos-14-x86_64": "https://example.com/macos-14-x86_64.dmg",
           "macos-14-universal": "https://example.com/macos-14-universal.dmg",
-          "macos-15-arm64": "",
+          "macos-15-arm64": "https://example.com",
           "macos-15-x86_64": "https://example.com/macos-15-x86_64.dmg",
-          "macos-15-universal": ""
+          "macos-15-universal": "https://example.com"
         },
         "description": "Altstore è un negozio di app alternativo per dispositivi iOS non jailbreak.\nPuoi installare app di terze parti sui dispositivi Apple senza jailbreak e sideloading con facilità.\n\n"
       }
@@ -445,9 +445,9 @@
           "macos-14-arm64": "https://example.com/macos-14-arm64.dmg",
           "macos-14-x86_64": "https://example.com/macos-14-x86_64.dmg",
           "macos-14-universal": "https://example.com/macos-14-universal.dmg",
-          "macos-15-arm64": "",
+          "macos-15-arm64": "https://example.com",
           "macos-15-x86_64": "https://example.com/macos-15-x86_64.dmg",
-          "macos-15-universal": ""
+          "macos-15-universal": "https://example.com"
         },
         "description": "CleanMyMac X è un potente strumento di pulizia, accelerazione e protezione, progettato per consentire al tuo Mac di funzionare a pieno regime.\nRimuovi file grandi e vecchi, disinstalla app ed elimina dati inutili che sprecano spazio sul disco.\n\n"
       },
@@ -493,9 +493,9 @@
           "macos-14-arm64": "https://example.com/macos-14-arm64.dmg",
           "macos-14-x86_64": "https://example.com/macos-14-x86_64.dmg",
           "macos-14-universal": "https://example.com/macos-14-universal.dmg",
-          "macos-15-arm64": "",
+          "macos-15-arm64": "https://example.com",
           "macos-15-x86_64": "https://example.com/macos-15-x86_64.dmg",
-          "macos-15-universal": ""
+          "macos-15-universal": "https://example.com"
         },
         "description": "Sfrutta tutta la potenza del tuo Mac quando usi VMware Fusion per eseguire Windows, Linux, container, Kubernetes e altro ancora nelle macchine virtuali (VM).\nEsegui quasi tutti i sistemi operativi su un Mac.\nL'esecuzione di Windows su Mac è solo l'inizio.\nScegli tra centinaia di sistemi operativi supportati, dalle distribuzioni Linux pronte per il cloud all'ultimo Windows 11 su Mac Intel o Apple Silicon, il tutto senza riavviare.\n\n"
       },
