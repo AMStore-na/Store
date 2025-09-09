@@ -500,42 +500,14 @@
         "description": "Sfrutta tutta la potenza del tuo Mac quando usi VMware Fusion per eseguire Windows, Linux, container, Kubernetes e altro ancora nelle macchine virtuali (VM).\nEsegui quasi tutti i sistemi operativi su un Mac.\nL'esecuzione di Windows su Mac è solo l'inizio.\nScegli tra centinaia di sistemi operativi supportati, dalle distribuzioni Linux pronte per il cloud all'ultimo Windows 11 su Mac Intel o Apple Silicon, il tutto senza riavviare.\n\n"
       },
       {
-        "name": "Office 2021",
+        "name": "Office",
         "imageUrl": "https://taiwebs.com/upload/icons/microsoft-office-2024-pro-plus-icon220-220.png",
         "type": "app",
         "link": {
-          "macos-12-arm64": "https://example.com/macos-12-arm64.dmg",
-          "macos-12-x86_64": "https://example.com/macos-12-x86_64.dmg",
-          "macos-12-universal": "https://example.com/macos-12-universal.dmg",
-          "macos-13-arm64": "https://example.com/macos-13-arm64.dmg",
-          "macos-13-x86_64": "https://example.com/macos-13-x86_64.dmg",
-          "macos-13-universal": "https://example.com/macos-13-universal.dmg",
-          "macos-14-arm64": "https://example.com/macos-14-arm64.dmg",
-          "macos-14-x86_64": "https://example.com/macos-14-x86_64.dmg",
-          "macos-14-universal": "https://example.com/macos-14-universal.dmg",
-          "macos-15-arm64": "https://example.com",
-          "macos-15-x86_64": "https://example.com/macos-15-x86_64.dmg",
-          "macos-15-universal": "https://example.com"
-        },
-        "description": "Il tuo cloud, per la produttività al lavoro e nella vita privata.\nLe applicazioni comprese, a seconda delle versioni, sono le seguenti:\n- Excel\n- OneNote ; da non confondere questa versione con l'app gratuita UWP\n- Outlook\n- PowerPoint\n- Word\n\n"
-      },
-      {
-        "name": "Office 2024",
-        "imageUrl": "https://taiwebs.com/upload/icons/microsoft-office-2024-pro-plus-icon220-220.png",
-        "type": "app",
-        "link": {
-          "macos-12-arm64": "https://example.com/macos-12-arm64.dmg",
-          "macos-12-x86_64": "https://example.com/macos-12-x86_64.dmg",
-          "macos-12-universal": "https://example.com/macos-12-universal.dmg",
-          "macos-13-arm64": "https://example.com/macos-13-arm64.dmg",
-          "macos-13-x86_64": "https://example.com/macos-13-x86_64.dmg",
-          "macos-13-universal": "https://example.com/macos-13-universal.dmg",
-          "macos-14-arm64": "https://example.com/macos-14-arm64.dmg",
-          "macos-14-x86_64": "https://example.com/macos-14-x86_64.dmg",
-          "macos-14-universal": "https://example.com/macos-14-universal.dmg",
-          "macos-15-arm64": "https://example.com",
-          "macos-15-x86_64": "https://example.com/macos-15-x86_64.dmg",
-          "macos-15-universal": "https://example.com"
+          "macos-12-universal": "https://devuploads.com/lrwsomzlrz27",
+          "macos-13-universal": "https://devuploads.com/qwnkz3arojqu",
+          "macos-14-universal": "https://devuploads.com/qwnkz3arojqu",
+          "macos-15-universal": "https://devuploads.com/qwnkz3arojqu"
         },
         "description": "Il tuo cloud, per la produttività al lavoro e nella vita privata.\nLe applicazioni comprese, a seconda delle versioni, sono le seguenti:\n- Excel\n- OneNote ; da non confondere questa versione con l'app gratuita UWP\n- Outlook\n- PowerPoint\n- Word\n\n"
       },
