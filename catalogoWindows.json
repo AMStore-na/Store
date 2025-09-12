@@ -27,7 +27,7 @@
     "HashX32": "0a1e2a08e8ef0b78",
     "UUID": "209"
   },
-    {
+  {
     "Nome": "Phoenix Play",
     "Link": "https://devuploads.com/ic2wpv5yssr2",
     "Linkx32": "https://devuploads.com/ic2wpv5yssr2",
@@ -575,15 +575,15 @@
   },
   {
     "Nome": "Adobe Lightroom Classic",
-    "Link": "https://devuploads.com/ks3wi0jakdhw",
+    "Link": "https://devuploads.com/6he2woxqetx0",
     "Linkx32": null,
     "LinkR": "",
-    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Grafica%20e%20Design/Adobe_Lightroom_Classic.png",
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Grafica e Design/Adobe_Lightroom_Classic.png",
     "Sezione": "Grafica e Design",
     "Descrizione": "Adobe Lightroom Classic è un software di editing e gestione fotografica sviluppato da Adobe Systems, particolarmente apprezzato dai fotografi professionisti e dagli appassionati.",
-    "Tooltip": "Adobe Lightroom Classic v14.3",
+    "Tooltip": "Adobe Lightroom Classic v14.5",
     "MRicerca": "lightroom",
-    "Hash": "63a841f9cbd92372",
+    "Hash": "d5add7d9f0e44df0",
     "HashX32": null,
     "UUID": "7"
   },
@@ -2337,6 +2337,4 @@
     "HashX32": null,
     "UUID": "244"
   }
-
 ]
-
