@@ -78,7 +78,7 @@
           "macos-14-universal": "https://example.com/macos-14-universal.dmg",
           "macos-15-arm64": "",
           "macos-15-x86_64": "https://example.com/macos-15-x86_64.dmg",
-          "macos-15-universal": "https://example.com/macos-15-universal.dmg",
+          "macos-15-universal": "",
           "universal": "https://aimodsitalia.store/comingsoon.html"
         },
         "description": "Un ottimo downloader musicale progettato per scaricare e convertire tutte le tracce musicali, le playlist, gli album e gli artisti in formati MP3, AAC, WAV, FLAC, M4A, M4B senza perdita,\noffrendoti un'eccellente esperienza di ascolto di musica offline su qualsiasi lettore e dispositivo.\n\n"
