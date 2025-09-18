@@ -2364,5 +2364,19 @@
     "Hash": "78626fae84aa3e56",
     "HashX32": null,
     "UUID": "251"
+  },
+  {
+    "Nome": "MAGIX Movie Studio 2025 Platinum",
+    "Link": "https://devuploads.com/noo5s5vuvo4r",
+    "Linkx32": null,
+    "LinkR": null,
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Musica%20e%20Audio/MAGIX_Movie_Studio_2025_Windows.png",
+    "Sezione": "Musica e Audio",
+    "Descrizione": "MAGIX Movie Studio 2025 Platinum è un software di editing video avanzato che offre strumenti professionali per creare filmati di alta qualità. Include effetti speciali, transizioni, correzione colore e supporto per risoluzioni fino al 4K. Ideale per videomaker e creatori di contenuti, combina potenza e facilità d’uso, permettendo montaggi precisi e risultati sorprendenti in modo intuitivo.",
+    "Tooltip": "MAGIX Movie Studio 2025 Platinum v24.0.1.239",
+    "MRicerca": "magix",
+    "Hash": "329271edaaeff057",
+    "HashX32": null,
+    "UUID": "252"
   }
 ]
