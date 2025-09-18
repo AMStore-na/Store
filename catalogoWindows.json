@@ -2350,5 +2350,19 @@
     "Hash": "2d7b2eed10251405",
     "HashX32": null,
     "UUID": "250"
+  },
+  {
+    "Nome": "Wondershare Recoverit",
+    "Link": "https://devuploads.com/fz0q3pchu53h",
+    "Linkx32": null,
+    "LinkR": null,
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Recupero%20Dati/Wondershare_Recoverit.png",
+    "Sezione": "Recupero Dati",
+    "Descrizione": "Wondershare Recoverit è un software potente e intuitivo per il recupero dati da vari dispositivi, inclusi hard disk, USB, schede SD e dispositivi mobili. Supporta il recupero di file cancellati, formattati o persi a causa di errori di sistema. Con un’interfaccia user-friendly e un alto tasso di successo, è ideale per utenti e professionisti che necessitano di recuperare dati in modo rapido e sicuro.",
+    "Tooltip": "Wondershare Recoverit v13.6.3.6",
+    "MRicerca": "recove",
+    "Hash": "78626fae84aa3e56",
+    "HashX32": null,
+    "UUID": "251"
   }
 ]
