@@ -225,15 +225,15 @@
   },
   {
     "Nome": "Autodesk Revit 2026",
-    "Link": "https://devuploads.com/80ak85rmqdma",
+    "Link": "https://devuploads.com/3ns43aseyvxh",
     "Linkx32": null,
     "LinkR": null,
-    "ImmagineUrl": null,
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/CAD%2C%20Architettura%20e%20Ingegneria/Autodesk_Revit_2026.png",
     "Sezione": "CAD, Architettura e Ingegneria",
     "Descrizione": "Autodesk Revit è un software di progettazione e modellazione per l'architettura, l'ingegneria e le costruzioni, sviluppato da Autodesk. È ampiamente utilizzato nel settore delle costruzioni per il Building Information Modeling (BIM).",
     "Tooltip": "Autodesk Revit 2026 v2026.2",
     "MRicerca": "revit",
-    "Hash": "a2935bf569a48a9e",
+    "Hash": "26702a7a5803f7a7",
     "HashX32": null,
     "UUID": "248"
   },
