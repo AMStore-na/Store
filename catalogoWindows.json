@@ -1737,15 +1737,15 @@
   },
   {
     "Nome": "Assistente Aggiornamento Win11",
-    "Link": "https://devuploads.com/l9e2n6ub3ft4",
+    "Link": "https://devuploads.com/7ob4ihdrk7vr",
     "Linkx32": null,
     "LinkR": "",
     "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Utility%20di%20Sistema%20e%20Manutenzione/Assistente_Aggiornamento_Win11.png",
     "Sezione": "Utility di Sistema e Manutenzione",
     "Descrizione": " Lo strumento facilita l'aggiornamento rendendolo automatico e, quindi, semplice da effettuare anche per i meno esperti, mantenendo tutti i file personali.",
-    "Tooltip": "Assistente Aggiornamento v.0.0.0.3",
+    "Tooltip": "Assistente Aggiornamento v.0.0.0.5",
     "MRicerca": "Tools AIMODS",
-    "Hash": "d3a7927fa904f86e",
+    "Hash": "3957cf80aadb744b",
     "HashX32": null,
     "UUID": "145"
   },
@@ -2378,5 +2378,19 @@
     "Hash": "329271edaaeff057",
     "HashX32": null,
     "UUID": "252"
+  },
+  {
+    "Nome": null,
+    "Link": null,
+    "Linkx32": null,
+    "LinkR": null,
+    "ImmagineUrl": null,
+    "Sezione": null,
+    "Descrizione": null,
+    "Tooltip": null,
+    "MRicerca": null,
+    "Hash": null,
+    "HashX32": null,
+    "UUID": "253"
   }
 ]
