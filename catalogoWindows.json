@@ -28,6 +28,20 @@
     "UUID": "209"
   },
   {
+    "Nome": "XMind 2021",
+    "Link": "https://devuploads.com/fe97qfsp9rgk",
+    "Linkx32": null,
+    "LinkR": null,
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Brainstorming/XMind_2021.png",
+    "Sezione": "Brainstorming",
+    "Descrizione": null,
+    "Tooltip": "XMind 2021 v11.0.2",
+    "MRicerca": "xmind",
+    "Hash": "1f88756f514a623c",
+    "HashX32": null,
+    "UUID": "255"
+  },
+  {
     "Nome": "Autodesk Revit 2025",
     "Link": "https://devuploads.com/1sukco621r70",
     "Linkx32": null,
@@ -2406,19 +2420,5 @@
     "Hash": "53124b8a89c572bd",
     "HashX32": null,
     "UUID": "254"
-  },
-  {
-    "Nome": "XMind 2021",
-    "Link": "https://devuploads.com/fe97qfsp9rgk",
-    "Linkx32": null,
-    "LinkR": null,
-    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Brainstorming/XMind_2021.png",
-    "Sezione": "Brainstorming",
-    "Descrizione": null,
-    "Tooltip": "XMind 2021 v11.0.2",
-    "MRicerca": "xmind",
-    "Hash": "1f88756f514a623c",
-    "HashX32": null,
-    "UUID": "255"
   }
 ]
