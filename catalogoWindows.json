@@ -2420,5 +2420,19 @@
     "Hash": "53124b8a89c572bd",
     "HashX32": null,
     "UUID": "254"
+  },
+  {
+    "Nome": "WSA AUTORUN",
+    "Link": "https://devuploads.com/gw75nky2g6qm",
+    "Linkx32": null,
+    "LinkR": null,
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Utility%20di%20Sistema%20e%20Manutenzione/WSA.png",
+    "Sezione": "Utility di Sistema e Manutenzione",
+    "Descrizione": "Attiva il Sottosistema Andorid per Windows",
+    "Tooltip": "WSA AUTORUN v.1.0.0.0",
+    "MRicerca": "Windows Subsystem Android",
+    "Hash": "f2c0809a0920841f",
+    "HashX32": null,
+    "UUID": "256"
   }
 ]
