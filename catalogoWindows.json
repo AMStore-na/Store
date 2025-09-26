@@ -2128,6 +2128,34 @@
     "UUID": "223"
   },
   {
+    "Nome": "WSA AUTORUN",
+    "Link": "https://devuploads.com/gw75nky2g6qm",
+    "Linkx32": null,
+    "LinkR": null,
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Utility%20di%20Sistema%20e%20Manutenzione/WSA.png",
+    "Sezione": "Utility di Sistema e Manutenzione",
+    "Descrizione": "Attiva il Sottosistema Andorid per Windows",
+    "Tooltip": "WSA AUTORUN v.1.0.0.0",
+    "MRicerca": "Windows Subsystem Android",
+    "Hash": "f2c0809a0920841f",
+    "HashX32": null,
+    "UUID": "256"
+  },
+  {
+    "Nome": "AOMEI Partition Assistant Technician",
+    "Link": "https://devuploads.com/489k9bzz5t4t",
+    "Linkx32": null,
+    "LinkR": null,
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Utility%20di%20Sistema%20e%20Manutenzione/AOMEI_Partition_Assistant.png",
+    "Sezione": "Utility di Sistema e Manutenzione",
+    "Descrizione": null,
+    "Tooltip": "AOMEI Partition Assistant Technician v10.9.0",
+    "MRicerca": "partition",
+    "Hash": "a2871dab8c919f33",
+    "HashX32": null,
+    "UUID": "257"
+  },
+  {
     "Nome": "Wondershare Filmora",
     "Link": "https://devuploads.com/j6vl55bpo9wv",
     "Linkx32": null,
@@ -2420,33 +2448,5 @@
     "Hash": "53124b8a89c572bd",
     "HashX32": null,
     "UUID": "254"
-  },
-  {
-    "Nome": "WSA AUTORUN",
-    "Link": "https://devuploads.com/gw75nky2g6qm",
-    "Linkx32": null,
-    "LinkR": null,
-    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Utility%20di%20Sistema%20e%20Manutenzione/WSA.png",
-    "Sezione": "Utility di Sistema e Manutenzione",
-    "Descrizione": "Attiva il Sottosistema Andorid per Windows",
-    "Tooltip": "WSA AUTORUN v.1.0.0.0",
-    "MRicerca": "Windows Subsystem Android",
-    "Hash": "f2c0809a0920841f",
-    "HashX32": null,
-    "UUID": "256"
-  },
-  {
-    "Nome": "AOMEI Partition Assistant Technician",
-    "Link": "https://devuploads.com/489k9bzz5t4t",
-    "Linkx32": null,
-    "LinkR": null,
-    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Utility%20di%20Sistema%20e%20Manutenzione/AOMEI_Partition_Assistant.png",
-    "Sezione": "Utility di Sistema e Manutenzione",
-    "Descrizione": null,
-    "Tooltip": "AOMEI Partition Assistant Technician v10.9.0",
-    "MRicerca": "partition",
-    "Hash": "a2871dab8c919f33",
-    "HashX32": null,
-    "UUID": "257"
   }
 ]
