@@ -15,16 +15,16 @@
   },
   {
     "Nome": "Adobe Patch Suite",
-    "Link": "https://devuploads.com/biw9zwkikeel",
-    "Linkx32": "https://devuploads.com/biw9zwkikeel",
+    "Link": "https://devuploads.com/bw4nkk436w9d",
+    "Linkx32": "https://devuploads.com/bw4nkk436w9d",
     "LinkR": null,
     "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Attivatori/Patch_Suite_Adobe.png",
     "Sezione": "Attivatori",
     "Descrizione": "La patch universale per la suite Adobe by @mrnico98 rimuove le notifiche di licenza non genuina per consentire l’uso completo dei programmi Adobe senza interruzioni. Permette di eludere i controlli di attivazione, consentendo il mantenimento delle funzionalità sbloccate a lungo termine. ",
-    "Tooltip": "Patch Suite Adobe v0.0.0.1",
+    "Tooltip": "Patch Suite Adobe v0.0.0.2",
     "MRicerca": "Attivatori",
-    "Hash": "0a1e2a08e8ef0b78",
-    "HashX32": "0a1e2a08e8ef0b78",
+    "Hash": "481039cd7b211a7c",
+    "HashX32": "481039cd7b211a7c",
     "UUID": "209"
   },
   {
