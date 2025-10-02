@@ -393,16 +393,16 @@
   },
   {
     "Nome": "IDM",
-    "Link": "https://devuploads.com/7wdgwof9edly",
-    "Linkx32": "https://devuploads.com/2hw3o32d3w9e",
+    "Link": "https://devuploads.com/kyx8a1il6c7c",
+    "Linkx32": "https://devuploads.com/kyx8a1il6c7c",
     "LinkR": "",
     "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Downloader/IDM.png",
     "Sezione": "Downloader",
     "Descrizione": "Installa Internet Download Manager (IDM) per interrompere l'attesa per i download. Rimarrai davvero stupito dalla velocità con cui IDM scarica i tuoi file. IDM riparerà anche i download interrotti e riprenderà a causa di connessioni perse, problemi di rete, arresti del computer o interruzioni di corrente impreviste.",
-    "Tooltip": "IDM v6.42 Build 45",
+    "Tooltip": "IDM v6.42 Build 48",
     "MRicerca": "internet download manager",
-    "Hash": "51ecaee2142f19ad",
-    "HashX32": "4700b9d85be44461",
+    "Hash": "bd462aeac6ccf06e",
+    "HashX32": "bd462aeac6ccf06e",
     "UUID": "50"
   },
   {
