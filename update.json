@@ -1,10 +1,11 @@
 {
-  "version": "1.0.2.5",
+  "version": "1.0.2.6",
   "releaseNotes": [
-    "Nuovo Metodo Rilevamento Connessione Internet",
-    "Fix Decompressione",
-    "Aggiunto Switch Tema Light/Dark"
+    "Fix anchor frecce destra/sinistra (se ingrandito lo store rimanevano fisse)",
+    "Rimosso requisiti giochi",
+    "Rimosso programmi installati"
   ],
   "updateUrl": "https://github.com/AMStore-na/Store/releases/download/Store/AIMODS-Store.exe",
   "lavori": "false"
+
 }
