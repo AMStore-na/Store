@@ -1932,17 +1932,17 @@
     "UUID": "140"
   },
   {
-    "Nome": "Fix Licenza",
-    "Link": "https://devuploads.com/tnxey5xkoxiv",
-    "Linkx32": null,
+    "Nome": "FirewallManager",
+    "Link": "https://devuploads.com/9fwsq8d0e1ec",
+    "Linkx32": "https://devuploads.com/9fwsq8d0e1ec",
     "LinkR": "",
     "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Utility%20di%20Sistema%20e%20Manutenzione/Fix_Licenza.png",
     "Sezione": "Utility di Sistema e Manutenzione",
-    "Descrizione": "",
-    "Tooltip": "Fix Licenza",
-    "MRicerca": "licenza",
-    "Hash": "",
-    "HashX32": null,
+    "Descrizione": "Helper per gestire il Firewall",
+    "Tooltip": "FirewallManager v.0.0",
+    "MRicerca": "licenza, firewall",
+    "Hash": "87c4a2ee18c9af5c",
+    "HashX32": "87c4a2ee18c9af5c",
     "UUID": "142"
   },
   {
