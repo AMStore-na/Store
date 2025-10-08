@@ -1639,15 +1639,15 @@
   },
   {
     "Nome": "64Gram",
-    "Link": "https://devuploads.com/9fx5afm6lg7g",
+    "Link": "https://devuploads.com/vr441ig7g6m7",
     "Linkx32": null,
     "LinkR": "",
     "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Social%20Network/64Gram.png",
     "Sezione": "Social Network",
     "Descrizione": "64Gram è un'applicazione non ufficiale di Telegram Desktop, progettata per offrire un'esperienza migliorata rispetto alla versione standard di Telegram con funzionalità aggiuntive e una maggiore personalizzazione.",
-    "Tooltip": "64Gram v1.1.58",
+    "Tooltip": "64Gram v1.1.79",
     "MRicerca": "64gram",
-    "Hash": "",
+    "Hash": "04baa8120d6ea204",
     "HashX32": "",
     "UUID": "16"
   },
