@@ -407,15 +407,15 @@
   },
   {
     "Nome": "Pazu StreamGet",
-    "Link": "https://devuploads.com/0mu2p8baig3v",
+    "Link": "https://devuploads.com/qx69o31zdefj",
     "Linkx32": null,
     "LinkR": null,
     "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Downloader/Pazu_StreamGet.png",
     "Sezione": "Downloader",
     "Descrizione": "Pazu StreamGet è un potente strumento di download video che consente di scaricare film e programmi da varie piattaforme di streaming direttamente sul tuo dispositivo Windows. Permette il download da Amazon Prime  Video, Netflix, Disney Plus, Hulu e molti altri.",
-    "Tooltip": "Pazu StreamGet v2.6.4",
+    "Tooltip": "Pazu StreamGet v2.8.0.0",
     "MRicerca": "Pazu",
-    "Hash": "d9b685ebf6745339",
+    "Hash": "a88bd8b1b195e1c6",
     "HashX32": null,
     "UUID": "33"
   },
@@ -2476,5 +2476,19 @@
     "Hash": "d6bb2c1bcbf68b7e",
     "HashX32": null,
     "UUID": "259"
+  },
+  {
+    "Nome": "HitPaw",
+    "Link": "https://devuploads.com/ar3a61mhfsc7",
+    "Linkx32": null,
+    "LinkR": null,
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Downloader/HitPaw.png",
+    "Sezione": "Downloader",
+    "Descrizione": "HitPaw è un software specializzato nel download e nella conversione di video da piattaforme come YouTube, TikTok e Instagram. Supporta diversi formati audio e video, offrendo conversioni rapide, alta qualità e un'interfaccia semplice per ogni tipo di utente.",
+    "Tooltip": "HitPaw Video Converter v5.0.0",
+    "MRicerca": "hitpaw",
+    "Hash": "e19234f31c244db9",
+    "HashX32": null,
+    "UUID": "260"
   }
 ]
