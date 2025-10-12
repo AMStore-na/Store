@@ -266,6 +266,20 @@
     "UUID": "253"
   },
   {
+    "Nome": "Chitubox",
+    "Link": "https://devuploads.com/ydwoep967uln",
+    "Linkx32": null,
+    "LinkR": null,
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/CAD%2C%20Architettura%20e%20Ingegneria/Chitubox.png",
+    "Sezione": "CAD, Architettura e Ingegneria",
+    "Descrizione": "Chitubox è un software di slicing utilizzato principalmente per la preparazione di modelli 3D da stampare con stampanti 3D a resina. Questo programma permette di \"trasformare\" un modello 3D in un insieme di istruzioni comprensibili per la stampante, suddividendo il modello in strati sottilissimi (da qui il termine \"slicing\") e ottimizzando le impostazioni per ottenere una stampa di alta qualità.",
+    "Tooltip": "Chitubox Pro v2.0.8",
+    "MRicerca": "chitubox",
+    "Hash": "53d0cd77e04d3b0d",
+    "HashX32": null,
+    "UUID": "261"
+  },
+  {
     "Nome": "Multiecuscan",
     "Link": "https://devuploads.com/6zs4bdr29azy",
     "Linkx32": "https://devuploads.com/v7zmxuafjpma",
@@ -502,6 +516,20 @@
     "Hash": "d7547f1f228f3077",
     "HashX32": null,
     "UUID": "225"
+  },
+  {
+    "Nome": "HitPaw",
+    "Link": "https://devuploads.com/ar3a61mhfsc7",
+    "Linkx32": null,
+    "LinkR": null,
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Downloader/HitPaw.png",
+    "Sezione": "Downloader",
+    "Descrizione": "HitPaw è un software specializzato nel download e nella conversione di video da piattaforme come YouTube, TikTok e Instagram. Supporta diversi formati audio e video, offrendo conversioni rapide, alta qualità e un'interfaccia semplice per ogni tipo di utente.",
+    "Tooltip": "HitPaw Video Converter v5.0.0",
+    "MRicerca": "hitpaw",
+    "Hash": "e19234f31c244db9",
+    "HashX32": null,
+    "UUID": "260"
   },
   {
     "Nome": "Phoenix Play",
@@ -1638,6 +1666,20 @@
     "UUID": "126"
   },
   {
+    "Nome": "iObit Advanced SystemCare Ultimate",
+    "Link": "https://devuploads.com/8acq5d13lmgu",
+    "Linkx32": null,
+    "LinkR": null,
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Sicurezza%20e%20Privacy/iObit_Advanced_SystemCare_Ultimate.png",
+    "Sezione": "Sicurezza e Privacy",
+    "Descrizione": " IObit Advanced SystemCare Ultimate è un software completo per la pulizia, l'ottimizzazione e la protezione del tuo PC. Migliora le prestazioni, rimuove malware e protegge la privacy online, il tutto con un'interfaccia facile da usare.",
+    "Tooltip": "iObit Advanced SystemCare Ultimate v17.6.0.134",
+    "MRicerca": "iobit",
+    "Hash": "d6bb2c1bcbf68b7e",
+    "HashX32": null,
+    "UUID": "259"
+  },
+  {
     "Nome": "64Gram",
     "Link": "https://devuploads.com/vr441ig7g6m7",
     "Linkx32": null,
@@ -2462,47 +2504,5 @@
     "Hash": "53124b8a89c572bd",
     "HashX32": null,
     "UUID": "254"
-  },
-  {
-    "Nome": "iObit Advanced SystemCare Ultimate",
-    "Link": "https://devuploads.com/8acq5d13lmgu",
-    "Linkx32": null,
-    "LinkR": null,
-    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Sicurezza%20e%20Privacy/iObit_Advanced_SystemCare_Ultimate.png",
-    "Sezione": "Sicurezza e Privacy",
-    "Descrizione": " IObit Advanced SystemCare Ultimate è un software completo per la pulizia, l'ottimizzazione e la protezione del tuo PC. Migliora le prestazioni, rimuove malware e protegge la privacy online, il tutto con un'interfaccia facile da usare.",
-    "Tooltip": "iObit Advanced SystemCare Ultimate v17.6.0.134",
-    "MRicerca": "iobit",
-    "Hash": "d6bb2c1bcbf68b7e",
-    "HashX32": null,
-    "UUID": "259"
-  },
-  {
-    "Nome": "HitPaw",
-    "Link": "https://devuploads.com/ar3a61mhfsc7",
-    "Linkx32": null,
-    "LinkR": null,
-    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Downloader/HitPaw.png",
-    "Sezione": "Downloader",
-    "Descrizione": "HitPaw è un software specializzato nel download e nella conversione di video da piattaforme come YouTube, TikTok e Instagram. Supporta diversi formati audio e video, offrendo conversioni rapide, alta qualità e un'interfaccia semplice per ogni tipo di utente.",
-    "Tooltip": "HitPaw Video Converter v5.0.0",
-    "MRicerca": "hitpaw",
-    "Hash": "e19234f31c244db9",
-    "HashX32": null,
-    "UUID": "260"
-  },
-  {
-    "Nome": "Chitubox",
-    "Link": "https://devuploads.com/ydwoep967uln",
-    "Linkx32": null,
-    "LinkR": null,
-    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/CAD%2C%20Architettura%20e%20Ingegneria/Chitubox.png",
-    "Sezione": "CAD, Architettura e Ingegneria",
-    "Descrizione": "Chitubox è un software di slicing utilizzato principalmente per la preparazione di modelli 3D da stampare con stampanti 3D a resina. Questo programma permette di \"trasformare\" un modello 3D in un insieme di istruzioni comprensibili per la stampante, suddividendo il modello in strati sottilissimi (da qui il termine \"slicing\") e ottimizzando le impostazioni per ottenere una stampa di alta qualità.",
-    "Tooltip": "Chitubox Pro v2.0.8",
-    "MRicerca": "chitubox",
-    "Hash": "53d0cd77e04d3b0d",
-    "HashX32": null,
-    "UUID": "261"
   }
 ]
