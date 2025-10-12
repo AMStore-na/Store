@@ -2490,5 +2490,19 @@
     "Hash": "e19234f31c244db9",
     "HashX32": null,
     "UUID": "260"
+  },
+  {
+    "Nome": "Chitubox",
+    "Link": "https://devuploads.com/ydwoep967uln",
+    "Linkx32": null,
+    "LinkR": null,
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/CAD%2C%20Architettura%20e%20Ingegneria/Chitubox.png",
+    "Sezione": "CAD, Architettura e Ingegneria",
+    "Descrizione": "Chitubox è un software di slicing utilizzato principalmente per la preparazione di modelli 3D da stampare con stampanti 3D a resina. Questo programma permette di \"trasformare\" un modello 3D in un insieme di istruzioni comprensibili per la stampante, suddividendo il modello in strati sottilissimi (da qui il termine \"slicing\") e ottimizzando le impostazioni per ottenere una stampa di alta qualità.",
+    "Tooltip": "Chitubox Pro v2.0.8",
+    "MRicerca": "chitubox",
+    "Hash": "53d0cd77e04d3b0d",
+    "HashX32": null,
+    "UUID": "261"
   }
 ]
