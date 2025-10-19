@@ -2504,5 +2504,19 @@
     "Hash": "53124b8a89c572bd",
     "HashX32": null,
     "UUID": "254"
+  },
+  {
+    "Nome": "ZWCAD Architecture",
+    "Link": "https://devuploads.com/0k9nourwdx2x",
+    "Linkx32": null,
+    "LinkR": null,
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/CAD%2C%20Architettura%20e%20Ingegneria/ZWCAD_Architecture_2025.png",
+    "Sezione": "CAD, Architettura e Ingegneria",
+    "Descrizione": "ZWCAD Architecture è un programma sviluppato da ZWSOFT, pensato per velocizzare e semplificare la progettazione architettonica grazie a strumenti intelligenti e librerie dedicate",
+    "Tooltip": "ZWCAD Architecture v2025",
+    "MRicerca": "zvcad",
+    "Hash": "9a09eccb3c1b0dd9",
+    "HashX32": null,
+    "UUID": "262"
   }
 ]
