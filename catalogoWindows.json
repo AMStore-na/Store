@@ -2518,5 +2518,19 @@
     "Hash": "53124b8a89c572bd",
     "HashX32": null,
     "UUID": "254"
+  },
+  {
+    "Nome": "Adobe Bridge",
+    "Link": "https://devuploads.com/rfxg68e0mnih",
+    "Linkx32": null,
+    "LinkR": null,
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Grafica%20e%20Design/Adobe_Bridge.png",
+    "Sezione": "Grafica e Design",
+    "Descrizione": "Adobe Bridge è un potente gestore di risorse digitali che ti aiuta a visualizzare, catalogare e preparare immagini e file multimediali con efficienza. Permette di applicare metadati, etichette, eseguire operazioni batch e integrare vari software Adobe. Se cerchi ordine e rapidità nella gestione dei tuoi asset creativi, vale davvero la pena provarlo.",
+    "Tooltip": "Adobe Bridge 2025 v.15.1.2 ",
+    "MRicerca": "bridge",
+    "Hash": "dbab979642cdce2e",
+    "HashX32": null,
+    "UUID": "263"
   }
 ]
