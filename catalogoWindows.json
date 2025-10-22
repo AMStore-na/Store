@@ -2546,5 +2546,33 @@
     "Hash": "dab87b28fa9af304",
     "HashX32": null,
     "UUID": "264"
+  },
+  {
+    "Nome": "Adobe Premiere Elements",
+    "Link": "https://devuploads.com/ma3xupqr2noa",
+    "Linkx32": null,
+    "LinkR": null,
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Grafica e Design/Adobe_Premiere_Elements.png",
+    "Sezione": "Grafica e Design",
+    "Descrizione": "Adobe Premiere Elements semplifica il montaggio video con strumenti intelligenti e un’interfaccia chiara. Permette di creare filmati di qualità, aggiungere effetti, musica e transizioni in pochi passaggi. Ideale per chi vuole trasformare i propri video in storie coinvolgenti senza esperienza tecnica, offrendo controllo e creatività in ogni progetto.",
+    "Tooltip": "Adobe Premiere Elements 2026 v.26.0",
+    "MRicerca": "elements",
+    "Hash": "5665f64868d46d0f",
+    "HashX32": null,
+    "UUID": "265"
+  },
+  {
+    "Nome": "Adobe Substance 3D Stager",
+    "Link": "https://devuploads.com/cd5ufykh51w8",
+    "Linkx32": null,
+    "LinkR": null,
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Grafica e Design/Adobe_Substance_3D_Stager.png",
+    "Sezione": "Grafica e Design",
+    "Descrizione": "Adobe Substance 3D Stager consente di creare e presentare scene 3D realistiche con facilità. Offre strumenti intuitivi per posizionare oggetti, gestire luci e materiali e ottenere rendering di alta qualità. Ideale per designer e creativi che vogliono visualizzare prodotti o concept in modo professionale e convincente.",
+    "Tooltip": "Adobe Substance 3D Stager v.3.1.5",
+    "MRicerca": "3d",
+    "Hash": "df0a46f97dd0a13d",
+    "HashX32": null,
+    "UUID": "266"
   }
 ]
