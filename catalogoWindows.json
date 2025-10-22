@@ -2574,5 +2574,19 @@
     "Hash": "53124b8a89c572bd",
     "HashX32": null,
     "UUID": "254"
+  },
+  {
+    "Nome": "Adobe Dreamweaver",
+    "Link": "https://devuploads.com/kg9278kvaip4",
+    "Linkx32": null,
+    "LinkR": null,
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Grafica%20e%20Design/Adobe_Dreamweaver.png",
+    "Sezione": "Grafica e Design",
+    "Descrizione": "Adobe Dreamweaver offre un ambiente intuitivo per progettare e sviluppare siti web moderni. Combina strumenti visivi e codice per creare pagine responsive e ottimizzate su ogni dispositivo. Ideale per designer e sviluppatori, permette di lavorare in modo fluido, con anteprime in tempo reale e integrazione con le principali tecnologie web.",
+    "Tooltip": "Adobe Dreamweaver 2021 v.21.6",
+    "MRicerca": null,
+    "Hash": "3943fa37a4018c31",
+    "HashX32": null,
+    "UUID": "267"
   }
 ]
