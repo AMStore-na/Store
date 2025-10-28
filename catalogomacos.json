@@ -88,22 +88,18 @@
         "description": "Un ottimo downloader musicale progettato per scaricare e convertire tutte le tracce musicali, le playlist, gli album e gli artisti in formati MP3, AAC, WAV, FLAC, M4A, M4B senza perdita,\noffrendoti un'eccellente esperienza di ascolto di musica offline su qualsiasi lettore e dispositivo.\n\n"
       },
       {
-        "name": "4K Downloader",
+        "name": "4K Downloader+",
         "imageUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Downloader/4K_Video_Downloader_Plus.png",
         "type": "app",
         "link": {
-          "macos-12-arm64": "https://example.com/macos-12-arm64.dmg",
-          "macos-12-x86_64": "https://example.com/macos-12-x86_64.dmg",
-          "macos-12-universal": "https://example.com/macos-12-universal.dmg",
-          "macos-13-arm64": "https://example.com/macos-13-arm64.dmg",
-          "macos-13-x86_64": "https://example.com/macos-13-x86_64.dmg",
-          "macos-13-universal": "https://example.com/macos-13-universal.dmg",
-          "macos-14-arm64": "https://example.com/macos-14-arm64.dmg",
-          "macos-14-x86_64": "https://example.com/macos-14-x86_64.dmg",
-          "macos-14-universal": "https://example.com/macos-14-universal.dmg",
-          "macos-15-arm64": "",
-          "macos-15-x86_64": "https://example.com/macos-15-x86_64.dmg",
-          "macos-15-universal": "",
+          "macos-12-arm64": "https://devuploads.com/d4bch7597q1m",
+          "macos-12-x86_64": "https://devuploads.com/hskqk7vdspcs",
+          "macos-13-arm64": "https://devuploads.com/d4bch7597q1m",
+          "macos-13-x86_64": "https://devuploads.com/hskqk7vdspcs",
+          "macos-14-arm64": "https://devuploads.com/d4bch7597q1m",
+          "macos-14-x86_64": "https://devuploads.com/hskqk7vdspcs",
+          "macos-15-arm64": "https://devuploads.com/d4bch7597q1m",
+          "macos-15-x86_64": "https://devuploads.com/hskqk7vdspcs",
           "universal": "https://aimodsitalia.store/comingsoon.html"
         },
         "description": "4K Video Downloader e 4K Video Downloader+ sono programmi che consentono di scaricare video e audio da tantissimi siti,\n come YouTube, Vimeo, TikTok, SoundCloud, Bilibili, Niconico, Flickr, Facebook, DailyMotion, Naver TV, Likee e Tumblr.\n\n"
