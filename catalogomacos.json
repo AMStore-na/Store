@@ -107,6 +107,21 @@
           "universal": "https://aimodsitalia.store/comingsoon.html"
         },
         "description": "4K Video Downloader e 4K Video Downloader+ sono programmi che consentono di scaricare video e audio da tantissimi siti,\n come YouTube, Vimeo, TikTok, SoundCloud, Bilibili, Niconico, Flickr, Facebook, DailyMotion, Naver TV, Likee e Tumblr.\n\n"
+      },
+      {
+        "category": "Downloader",
+        "name": "Cazzi",
+        "type": "Cazzi",
+        "link": {
+          "macos-12-universal": "https://devuploads.com/jivki1fmf76e",
+          "macos-13-universal": "https://devuploads.com/jivki1fmf76e",
+          "macos-14-universal": "https://devuploads.com/jivki1fmf76e",
+          "macos-15-universal": "https://devuploads.com/jivki1fmf76e",
+          "universal": "https://aimodsitalia.store/comingsoon.html"
+        },
+        "imageUrl": "https://raw.githubusercontent.com/AMStore-na/Store/testing_tool/images/Downloader/3d-coding-icon-symbol-programming-software-web-development-concept_1045752-394.png",
+        "description": "cazzienormi",
+        "guida": ""
       }
     ]
   },
