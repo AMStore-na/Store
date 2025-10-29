@@ -237,6 +237,20 @@
           "universal": "https://aimodsitalia.store/comingsoon.html"
         },
         "description": "Final Cut Pro ti consente di modificare progetti pi\u00f9 complessi e lavorare con dimensioni di fotogrammi pi\u00f9 grandi, frame rate pi\u00f9 elevati e pi\u00f9 effetti, il tutto a velocit\u00e0 incredibili.\nEd \u00e8 costruito per sfruttare l'estrema potenza di Mac Pro, Mac Studio o MacBook Pro per prestazioni di livello superiore.\n\n"
+      },
+      {
+        "name": "Cazzi",
+        "type": "Cazzi",
+        "link": {
+          "macos-12-universal": "https://devuploads.com/jivki1fmf76e",
+          "macos-13-universal": "https://devuploads.com/jivki1fmf76e",
+          "macos-14-universal": "https://devuploads.com/jivki1fmf76e",
+          "macos-15-universal": "https://devuploads.com/jivki1fmf76e",
+          "universal": "https://aimodsitalia.store/comingsoon.html"
+        },
+        "imageUrl": "https://raw.githubusercontent.com/AMStore-na/Store/testing_tool/images/Editing/3d-coding-icon-symbol-programming-software-web-development-concept_1045752-394.png",
+        "description": "Wadbb gay",
+        "guida": "certifi==2025.10.5\ncharset-normalizer==3.4.4\nidna==3.11\nPyQt6==6.10.0\nPyQt6-Qt6==6.10.0\nPyQt6_sip==13.10.2\npython-dotenv==1.2.1\nrequests==2.32.5\nurllib3==2.5.0"
       }
     ]
   },
