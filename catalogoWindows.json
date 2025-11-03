@@ -1162,6 +1162,20 @@
     "UUID": "258"
   },
   {
+    "Nome": "REPEAR",
+    "Link": "https://devuploads.com/6w2yyrusn24z",
+    "Linkx32": null,
+    "LinkR": null,
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Musica%20e%20Audio/REAPER.png",
+    "Sezione": "Musica e Audio",
+    "Descrizione": null,
+    "Tooltip": "REAPER v7.49",
+    "MRicerca": "repear",
+    "Hash": "d9c66884e5e95f08",
+    "HashX32": null,
+    "UUID": "273"
+  },
+  {
     "Nome": "NetSpot",
     "Link": "https://devuploads.com/vhk49q5bfmb2",
     "Linkx32": null,
@@ -1568,6 +1582,20 @@
     "UUID": "251"
   },
   {
+    "Nome": "EaseUS Data Recovery Wizard",
+    "Link": "https://devuploads.com/9tj53lt7qjfg",
+    "Linkx32": null,
+    "LinkR": null,
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Recupero%20Dati/EaseUS_Data_Recovery_Wizard.png",
+    "Sezione": "Recupero Dati",
+    "Descrizione": null,
+    "Tooltip": "EaseUS Data Recovery Wizard Pro v19.6.5",
+    "MRicerca": "easeus",
+    "Hash": "af9136c807601b34",
+    "HashX32": null,
+    "UUID": "270"
+  },
+  {
     "Nome": "Movavi Screen Recorder",
     "Link": "https://devuploads.com/lc2zvbcwp5er",
     "Linkx32": null,
@@ -1622,6 +1650,20 @@
     "Hash": "5cb24a8f7865f047",
     "HashX32": null,
     "UUID": "165"
+  },
+  {
+    "Nome": "EaseUS RecExperts",
+    "Link": "https://devuploads.com/l9xf7eq99ept",
+    "Linkx32": null,
+    "LinkR": null,
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Registrazione%20Schermo/EaseUS_RecExperts.png",
+    "Sezione": "Registrazione Schermo",
+    "Descrizione": null,
+    "Tooltip": "EaseUS RecExperts Pro v4.0.4",
+    "MRicerca": "recexperts",
+    "Hash": "3bcff64346bb1e78",
+    "HashX32": null,
+    "UUID": "274"
   },
   {
     "Nome": "Copernic Desktop Search",
@@ -2324,6 +2366,34 @@
     "UUID": "257"
   },
   {
+    "Nome": "Winzip",
+    "Link": "https://devuploads.com/znry6qq96tif",
+    "Linkx32": null,
+    "LinkR": null,
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Utility%20di%20Sistema%20e%20Manutenzione/WinZip.png",
+    "Sezione": "Utility di Sistema e Manutenzione",
+    "Descrizione": null,
+    "Tooltip": "WinZip Pro v29.0.16416",
+    "MRicerca": "winzip",
+    "Hash": "7bd0419d7f7c05c3",
+    "HashX32": null,
+    "UUID": "271"
+  },
+  {
+    "Nome": "AnyDVD",
+    "Link": "https://devuploads.com/zg7erthw0lia",
+    "Linkx32": null,
+    "LinkR": null,
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Utility%20di%20Sistema%20e%20Manutenzione/AnyDVD.png",
+    "Sezione": "Utility di Sistema e Manutenzione",
+    "Descrizione": null,
+    "Tooltip": "AnyDVD v8.1.4.0",
+    "MRicerca": "anydvd",
+    "Hash": "c622acd9d7d73768",
+    "HashX32": null,
+    "UUID": "272"
+  },
+  {
     "Nome": "Wondershare Filmora",
     "Link": "https://devuploads.com/j6vl55bpo9wv",
     "Linkx32": null,
@@ -2616,75 +2686,5 @@
     "Hash": "53124b8a89c572bd",
     "HashX32": null,
     "UUID": "254"
-  },
-  {
-    "Nome": "EaseUS Data Recovery Wizard",
-    "Link": "https://devuploads.com/9tj53lt7qjfg",
-    "Linkx32": null,
-    "LinkR": null,
-    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Recupero%20Dati/EaseUS_Data_Recovery_Wizard.png",
-    "Sezione": "Recupero Dati",
-    "Descrizione": null,
-    "Tooltip": "EaseUS Data Recovery Wizard Pro v19.6.5",
-    "MRicerca": "easeus",
-    "Hash": "af9136c807601b34",
-    "HashX32": null,
-    "UUID": "270"
-  },
-  {
-    "Nome": "Winzip",
-    "Link": "https://devuploads.com/znry6qq96tif",
-    "Linkx32": null,
-    "LinkR": null,
-    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Utility%20di%20Sistema%20e%20Manutenzione/WinZip.png",
-    "Sezione": "Utility di Sistema e Manutenzione",
-    "Descrizione": null,
-    "Tooltip": "WinZip Pro v29.0.16416",
-    "MRicerca": "winzip",
-    "Hash": "7bd0419d7f7c05c3",
-    "HashX32": null,
-    "UUID": "271"
-  },
-  {
-    "Nome": "AnyDVD",
-    "Link": "https://devuploads.com/zg7erthw0lia",
-    "Linkx32": null,
-    "LinkR": null,
-    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Utility%20di%20Sistema%20e%20Manutenzione/AnyDVD.png",
-    "Sezione": "Utility di Sistema e Manutenzione",
-    "Descrizione": null,
-    "Tooltip": "AnyDVD v8.1.4.0",
-    "MRicerca": "anydvd",
-    "Hash": "c622acd9d7d73768",
-    "HashX32": null,
-    "UUID": "272"
-  },
-  {
-    "Nome": "REPEAR",
-    "Link": "https://devuploads.com/6w2yyrusn24z",
-    "Linkx32": null,
-    "LinkR": null,
-    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Musica%20e%20Audio/REAPER.png",
-    "Sezione": "Musica e Audio",
-    "Descrizione": null,
-    "Tooltip": "REAPER v7.49",
-    "MRicerca": "repear",
-    "Hash": "d9c66884e5e95f08",
-    "HashX32": null,
-    "UUID": "273"
-  },
-  {
-    "Nome": "EaseUS RecExperts",
-    "Link": "https://devuploads.com/l9xf7eq99ept",
-    "Linkx32": null,
-    "LinkR": null,
-    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Registrazione%20Schermo/EaseUS_RecExperts.png",
-    "Sezione": "Registrazione Schermo",
-    "Descrizione": null,
-    "Tooltip": "EaseUS RecExperts Pro v4.0.4",
-    "MRicerca": "recexperts",
-    "Hash": "3bcff64346bb1e78",
-    "HashX32": null,
-    "UUID": "274"
   }
 ]
