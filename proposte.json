@@ -1,1 +1,30 @@
-[]
+[
+  {
+    "category": "Adobe",
+    "name": "Adobe InDesign",
+    "type": "app",
+    "link": {
+      "macos-12-arm64": "https://aimodsitalia.store/comingsoon.html",
+      "macos-12-x86_64": "https://aimodsitalia.store/comingsoon.html",
+      "macos-12-universal": "https://aimodsitalia.store/comingsoon.html",
+      "macos-13-arm64": "https://aimodsitalia.store/comingsoon.html",
+      "macos-13-x86_64": "https://devuploads.com/dxf9cus0mbkn",
+      "macos-13-universal": "https://aimodsitalia.store/comingsoon.html",
+      "macos-14-arm64": "https://aimodsitalia.store/comingsoon.html",
+      "macos-14-x86_64": "https://devuploads.com/dxf9cus0mbkn",
+      "macos-14-universal": "https://aimodsitalia.store/comingsoon.html",
+      "macos-15-arm64": "https://aimodsitalia.store/comingsoon.html",
+      "macos-15-x86_64": "https://devuploads.com/dxf9cus0mbkn",
+      "macos-15-universal": "https://aimodsitalia.store/comingsoon.html",
+      "macos-26-arm64": "https://aimodsitalia.store/comingsoon.html",
+      "macos-26-x86_64": "https://devuploads.com/dxf9cus0mbkn",
+      "macos-26-universal": "https://aimodsitalia.store/comingsoon.html",
+      "universal": "https://aimodsitalia.store/comingsoon.html"
+    },
+    "imageUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/images/Adobe/Adobe_InDesign.png",
+    "description": "Adobe InDesign \u00e8 il software professionale di riferimento per il desktop publishing e l'impaginazione. \u00c8 lo strumento ideale per creare layout destinati alla stampa o al digitale, gestendo con precisione tipografia ed elementi grafici. Perfetto per realizzare riviste, libri, brochure, eBook e PDF interattivi dall'aspetto curato e professionale.",
+    "guida": "0. Disinstalla eventuali versioni precedentemente installate di Adobe InDesign.\\n\n1. Se non lo possiedi, installa Adobe Creative Cloud da https://devuploads.com/6uv13c9nv3n9\\n\n2. Dall'omonima cartella nel .dmg, usa l'installer per installare Adobe InDesign.\\n\\t\nNOTA - Se Mac dice che il file \u00e8 danneggiato e dovrebbe essere spostato nel cestino\\n\\t\\t\n1. Fai tasto destro sul file \u201cInstall\u201d, quindi scegli \u201cCopia\u201d.\\n\\t\\t\n2. Apri un terminale.\\n\\t\\t\n3. Digita sudo xattr -dr com.apple.quarantine incolla_qui, quindi premi Invio (inserisci la password di Mac quando richiesto; i caratteri non si vedono per sicurezza).\\n\\t\\t\n4. Riesegui il file \u201cInstall\u201d\\n\\t\nNOTA - Se Mac mostra un messaggio di errore con un simbolo rosso\\n\\t\\t\n1. Fai tasto destro sul file \u201cInstall\u201d, quindi scegli \u201cMostra contenuto pacchetto\u201d\\n\\t\\t\n2. Naviga in \"Contents\" > \"MacOS\", quindi avvia il file \"install\"\\n\n3. Terminata l'installazione, sostituisci l'applicazione di Adobe Indesign all'interno della relativa cartella dentro la cartella Applicazioni.",
+    "testLink": "https://www.swisstransfer.com/d/26a712d4-a7cf-497e-a030-a6432d79950a",
+    "proposal_id": "Adobe InDesign_1762283607"
+  }
+]
