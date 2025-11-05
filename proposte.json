@@ -26,5 +26,16 @@
     "guida": "0. Disinstalla eventuali versioni precedentemente installate di Adobe InDesign.\\n\n1. Se non lo possiedi, installa Adobe Creative Cloud da https://devuploads.com/6uv13c9nv3n9\\n\n2. Dall'omonima cartella nel .dmg, usa l'installer per installare Adobe InDesign.\\n\\t\nNOTA - Se Mac dice che il file \u00e8 danneggiato e dovrebbe essere spostato nel cestino\\n\\t\\t\n1. Fai tasto destro sul file \u201cInstall\u201d, quindi scegli \u201cCopia\u201d.\\n\\t\\t\n2. Apri un terminale.\\n\\t\\t\n3. Digita sudo xattr -dr com.apple.quarantine incolla_qui, quindi premi Invio (inserisci la password di Mac quando richiesto; i caratteri non si vedono per sicurezza).\\n\\t\\t\n4. Riesegui il file \u201cInstall\u201d\\n\\t\nNOTA - Se Mac mostra un messaggio di errore con un simbolo rosso\\n\\t\\t\n1. Fai tasto destro sul file \u201cInstall\u201d, quindi scegli \u201cMostra contenuto pacchetto\u201d\\n\\t\\t\n2. Naviga in \"Contents\" > \"MacOS\", quindi avvia il file \"install\"\\n\n3. Terminata l'installazione, sostituisci l'applicazione di Adobe Indesign all'interno della relativa cartella dentro la cartella Applicazioni.",
     "testLink": "https://www.swisstransfer.com/d/26a712d4-a7cf-497e-a030-a6432d79950a",
     "proposal_id": "Adobe InDesign_1762283607"
+  },
+  {
+    "category": "Adobe",
+    "name": "Adobe Photoshop",
+    "type": "app",
+    "link": "https://devuploads.com/vaubok7yawzw",
+    "imageUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/images/Adobe/Adobe_Photoshop.png",
+    "description": "Adobe Photoshop \u00e8 il software standard del settore per l'editing di immagini e la progettazione grafica. Permette di ritoccare, manipolare e comporre fotografie a livelli avanzati, creare grafiche complesse e illustrazioni digitali. \u00c8 lo strumento essenziale per fotografi, designer e artisti digitali per la modifica e la creazione di immagini raster.",
+    "guida": "0. Disinstalla eventuali versioni precedentemente installate di Adobe Photoshop.\\n\n1. Se non lo possiedi, installa Adobe Creative Cloud da https://devuploads.com/6uv13c9nv3n9\\n\n2. Dall'omonima cartella nel .dmg, usa l'installer per installare Adobe Photoshop.\\n\\t\nNOTA - Se Mac dice che il file \u00e8 danneggiato e dovrebbe essere spostato nel cestino\\n\\t\\t\n1. Fai tasto destro sul file \u201cInstall\u201d, quindi scegli \u201cCopia\u201d.\\n\\t\\t\n2. Apri un terminale.\\n\\t\\t\n3. Digita sudo xattr -dr com.apple.quarantine incolla_qui, quindi premi Invio (inserisci la password di Mac quando richiesto; i caratteri non si vedono per sicurezza).\\n\\t\\t\n4. Riesegui il file \u201cInstall\u201d\\n\\t\nNOTA - Se Mac mostra un messaggio di errore con un simbolo rosso\\n\\t\\t\n1. Fai tasto destro sul file \u201cInstall\u201d, quindi scegli \u201cMostra contenuto pacchetto\u201d\\n\\t\\t\n2. Naviga in \"Contents\" > \"MacOS\", quindi avvia il file \"install\"\\n\n3. Terminata l'installazione, sostituisci l'applicazione di Adobe Photoshop all'interno della relativa cartella dentro la cartella Applicazioni.",
+    "testLink": "https://www.swisstransfer.com/d/887ae1dd-d2df-487f-9881-b3e9a96647c9",
+    "proposal_id": "Adobe Photoshop_1762302281"
   }
 ]
