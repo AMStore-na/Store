@@ -1,34 +1,6 @@
 [
   {
     "category": "Adobe",
-    "name": "Adobe Illustrator",
-    "type": "app",
-    "link": {
-      "macos-12-arm64": "",
-      "macos-12-x86_64": "",
-      "macos-12-universal": "",
-      "macos-13-arm64": "",
-      "macos-13-x86_64": "https://devuploads.com/jav4c7dv0cru",
-      "macos-13-universal": "",
-      "macos-14-arm64": "",
-      "macos-14-x86_64": "https://devuploads.com/jav4c7dv0cru",
-      "macos-14-universal": "",
-      "macos-15-arm64": "",
-      "macos-15-x86_64": "https://devuploads.com/jav4c7dv0cru",
-      "macos-15-universal": "",
-      "macos-26-arm64": "",
-      "macos-26-x86_64": "https://devuploads.com/jav4c7dv0cru",
-      "macos-26-universal": "",
-      "universal": "https://aimodsitalia.store/comingsoon.html"
-    },
-    "imageUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/images/Adobe/Adobe_Illustrator.png",
-    "description": "Con Adobe Illustrator puoi disegnare grafica vettoriale di alta precisione. \u00c8 lo strumento essenziale per creare loghi, icone e illustrazioni complesse che rimangono perfetti a qualsiasi dimensione. Se vuoi portare i tuoi progetti di design a un livello professionale, Illustrator \u00e8 la scelta giusta.",
-    "guida": "0. Disinstalla eventuali versioni precedentemente installate di Adobe Illustrator.\\n\n1. Se non lo possiedi, installa Adobe Creative Cloud da https://devuploads.com/6uv13c9nv3n9\\n\n2. Dall'omonima cartella nel .dmg, usa l'installer per installare Adobe Illustrator.\\n\\t\nNOTA - Se Mac dice che il file \u00e8 danneggiato e dovrebbe essere spostato nel cestino\\n\\t\\t\n1. Fai tasto destro sul file \u201cInstall\u201d, quindi scegli \u201cCopia\u201d.\\n\\t\\t\n2. Apri un terminale.\\n\\t\\t\n3. Digita sudo xattr -dr com.apple.quarantine incolla_qui, quindi premi Invio (inserisci la password di Mac quando richiesto; i caratteri non si vedono per sicurezza).\\n\\t\\t\n4. Riesegui il file \u201cInstall\u201d\\n\\t\nNOTA - Se Mac mostra un messaggio di errore con un simbolo rosso\\n\\t\\t\n1. Fai tasto destro sul file \u201cInstall\u201d, quindi scegli \u201cMostra contenuto pacchetto\u201d\\n\\t\\t\n2. Naviga in \"Contents\" > \"MacOS\", quindi avvia il file \"install\"\\n\n3. Terminata l'installazione, sostituisci l'applicazione di Adobe Illustrator all'interno della relativa cartella dentro la cartella Applicazioni.",
-    "testLink": "https://www.swisstransfer.com/d/a638a7c5-9195-43c1-845f-39c522f7e269",
-    "proposal_id": "Adobe Illustrator_1762365713"
-  },
-  {
-    "category": "Adobe",
     "name": "Adobe Lightroom CC",
     "type": "app",
     "link": {
