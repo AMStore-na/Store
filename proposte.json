@@ -110,5 +110,33 @@
     "guida": "0. Disinstalla eventuali versioni precedentemente installate di Adobe Lightroom CC.\\n\n1. Se non lo possiedi, installa Adobe Creative Cloud da https://devuploads.com/6uv13c9nv3n9\\n\n2. Dall'omonima cartella nel .dmg, usa l'installer per installare Adobe Lightroom CC.\\n\\t\nNOTA - Se Mac dice che il file \u00e8 danneggiato e dovrebbe essere spostato nel cestino\\n\\t\\t\n1. Fai tasto destro sul file \u201cInstall\u201d, quindi scegli \u201cCopia\u201d.\\n\\t\\t\n2. Apri un terminale.\\n\\t\\t\n3. Digita sudo xattr -dr com.apple.quarantine incolla_qui, quindi premi Invio (inserisci la password di Mac quando richiesto; i caratteri non si vedono per sicurezza).\\n\\t\\t\n4. Riesegui il file \u201cInstall\u201d\\n\\t\nNOTA - Se Mac mostra un messaggio di errore con un simbolo rosso\\n\\t\\t\n1. Fai tasto destro sul file \u201cInstall\u201d, quindi scegli \u201cMostra contenuto pacchetto\u201d\\n\\t\\t\n2. Naviga in \"Contents\" > \"MacOS\", quindi avvia il file \"install\"\\n\n3. Terminata l'installazione, sostituisci l'applicazione di Adobe Lightroom CC all'interno della relativa cartella dentro la cartella Applicazioni.",
     "testLink": "https://www.swisstransfer.com/d/617fac4e-c241-4f8b-aee5-8b92410d44fb",
     "proposal_id": "Adobe Lightroom CC_1762380778"
+  },
+  {
+    "category": "Adobe",
+    "name": "Adobe Lightroom Classic",
+    "type": "app",
+    "link": {
+      "macos-12-arm64": "https://aimodsitalia.store/comingsoon.html",
+      "macos-12-x86_64": "https://aimodsitalia.store/comingsoon.html",
+      "macos-12-universal": "https://aimodsitalia.store/comingsoon.html",
+      "macos-13-arm64": "https://aimodsitalia.store/comingsoon.html",
+      "macos-13-x86_64": "https://devuploads.com/sv1n2u3utpji",
+      "macos-13-universal": "https://aimodsitalia.store/comingsoon.html",
+      "macos-14-arm64": "https://aimodsitalia.store/comingsoon.html",
+      "macos-14-x86_64": "https://devuploads.com/sv1n2u3utpji",
+      "macos-14-universal": "https://aimodsitalia.store/comingsoon.html",
+      "macos-15-arm64": "https://aimodsitalia.store/comingsoon.html",
+      "macos-15-x86_64": "https://devuploads.com/sv1n2u3utpji",
+      "macos-15-universal": "https://aimodsitalia.store/comingsoon.html",
+      "macos-26-arm64": "https://aimodsitalia.store/comingsoon.html",
+      "macos-26-x86_64": "https://devuploads.com/sv1n2u3utpji",
+      "macos-26-universal": "https://aimodsitalia.store/comingsoon.html",
+      "universal": "https://aimodsitalia.store/comingsoon.html"
+    },
+    "imageUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/images/Adobe/Adobe_Lightroom_Classic.png",
+    "description": "Se cerchi il massimo controllo sulla tua libreria fotografica e sull'editing RAW, Adobe Lightroom Classic \u00e8 la scelta. \u00c8 lo standard professionale per organizzare e perfezionare le immagini direttamente sul tuo computer, gestendo l'intero flusso di lavoro in un unico posto.",
+    "guida": "0. Disinstalla eventuali versioni precedentemente installate di Adobe Lightroom Classic.\\n\n1. Se non lo possiedi, installa Adobe Creative Cloud da https://devuploads.com/6uv13c9nv3n9\\n\n2. Dall'omonima cartella nel .dmg, usa l'installer per installare Adobe Lightroom Classic.\\n\\t\nNOTA - Se Mac dice che il file \u00e8 danneggiato e dovrebbe essere spostato nel cestino\\n\\t\\t\n1. Fai tasto destro sul file \u201cInstall\u201d, quindi scegli \u201cCopia\u201d.\\n\\t\\t\n2. Apri un terminale.\\n\\t\\t\n3. Digita sudo xattr -dr com.apple.quarantine incolla_qui, quindi premi Invio (inserisci la password di Mac quando richiesto; i caratteri non si vedono per sicurezza).\\n\\t\\t\n4. Riesegui il file \u201cInstall\u201d\\n\\t\nNOTA - Se Mac mostra un messaggio di errore con un simbolo rosso\\n\\t\\t\n1. Fai tasto destro sul file \u201cInstall\u201d, quindi scegli \u201cMostra contenuto pacchetto\u201d\\n\\t\\t\n2. Naviga in \"Contents\" > \"MacOS\", quindi avvia il file \"install\"\\n\n3. Terminata l'installazione, sostituisci l'applicazione di Adobe Lightroom Classic all'interno della relativa cartella dentro la cartella Applicazioni.",
+    "testLink": "https://www.swisstransfer.com/d/857718cf-9264-41ae-a8a3-347385ec09e0",
+    "proposal_id": "Adobe Lightroom Classic_1762426400"
   }
 ]
