@@ -1,34 +1,6 @@
 [
   {
     "category": "Adobe",
-    "name": "Adobe Lightroom CC",
-    "type": "app",
-    "link": {
-      "macos-12-arm64": "",
-      "macos-12-x86_64": "",
-      "macos-12-universal": "",
-      "macos-13-arm64": "",
-      "macos-13-x86_64": "https://devuploads.com/lxdv9szhoze8",
-      "macos-13-universal": "",
-      "macos-14-arm64": "",
-      "macos-14-x86_64": "https://devuploads.com/lxdv9szhoze8",
-      "macos-14-universal": "",
-      "macos-15-arm64": "",
-      "macos-15-x86_64": "https://devuploads.com/lxdv9szhoze8",
-      "macos-15-universal": "",
-      "macos-26-arm64": "",
-      "macos-26-x86_64": "https://devuploads.com/lxdv9szhoze8",
-      "macos-26-universal": "",
-      "universal": "https://aimodsitalia.store/comingsoon.html"
-    },
-    "imageUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/images/Adobe/Adobe_Lightroom_CC.png",
-    "description": "Adobe Lightroom CC \u00e8 lo strumento essenziale per la fotografia digitale. Ti permette di organizzare, modificare e perfezionare le tue immagini, specialmente i file RAW, con controlli potenti e intuitivi. Se cerchi un flusso di lavoro completo per migliorare la qualit\u00e0 delle tue foto, Lightroom \u00e8 la soluzione.",
-    "guida": "0. Disinstalla eventuali versioni precedentemente installate di Adobe Lightroom CC.\\n\n1. Se non lo possiedi, installa Adobe Creative Cloud da https://devuploads.com/6uv13c9nv3n9\\n\n2. Dall'omonima cartella nel .dmg, usa l'installer per installare Adobe Lightroom CC.\\n\\t\nNOTA - Se Mac dice che il file \u00e8 danneggiato e dovrebbe essere spostato nel cestino\\n\\t\\t\n1. Fai tasto destro sul file \u201cInstall\u201d, quindi scegli \u201cCopia\u201d.\\n\\t\\t\n2. Apri un terminale.\\n\\t\\t\n3. Digita sudo xattr -dr com.apple.quarantine incolla_qui, quindi premi Invio (inserisci la password di Mac quando richiesto; i caratteri non si vedono per sicurezza).\\n\\t\\t\n4. Riesegui il file \u201cInstall\u201d\\n\\t\nNOTA - Se Mac mostra un messaggio di errore con un simbolo rosso\\n\\t\\t\n1. Fai tasto destro sul file \u201cInstall\u201d, quindi scegli \u201cMostra contenuto pacchetto\u201d\\n\\t\\t\n2. Naviga in \"Contents\" > \"MacOS\", quindi avvia il file \"install\"\\n\n3. Terminata l'installazione, sostituisci l'applicazione di Adobe Lightroom CC all'interno della relativa cartella dentro la cartella Applicazioni.",
-    "testLink": "https://www.swisstransfer.com/d/617fac4e-c241-4f8b-aee5-8b92410d44fb",
-    "proposal_id": "Adobe Lightroom CC_1762380778"
-  },
-  {
-    "category": "Adobe",
     "name": "Adobe Lightroom Classic",
     "type": "app",
     "link": {
