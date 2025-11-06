@@ -1358,6 +1358,20 @@
         "UUID": "148"
     },
     {
+        "Nome": "Microsoft Office",
+        "Link": "https://devuploads.com/r4ikbqpldgmy",
+        "Linkx32": "https://devuploads.com/r4ikbqpldgmy",
+        "LinkR": null,
+        "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/PDF%20e%20Office/Microsoft_Office.png",
+        "Sezione": "PDF e Office",
+        "Descrizione": "Da qui accederete al download di WinHubX attraverso cui potrete scaricare, installare ed attivare le ultime versioni di Office sia in setup online sia offline.",
+        "Tooltip": "Microsoft Office",
+        "MRicerca": "office",
+        "Hash": null,
+        "HashX32": null,
+        "UUID": "269"
+    },
+    {
         "Nome": "Wallpaper Engine",
         "Link": "https://devuploads.com/2sv8yd3goke1",
         "Linkx32": null,
@@ -1526,7 +1540,7 @@
         "UUID": "217"
     },
     {
-        "Nome": "Wondershare Dr.Fone",
+        "Nome": "Wondershare Dr.Fone – Data Recovery",
         "Link": "https://devuploads.com/pky2bxe0b3w5",
         "Linkx32": null,
         "LinkR": null,

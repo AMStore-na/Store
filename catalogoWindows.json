@@ -1162,6 +1162,20 @@
     "UUID": "258"
   },
   {
+    "Nome": "REPEAR",
+    "Link": "https://devuploads.com/6w2yyrusn24z",
+    "Linkx32": null,
+    "LinkR": null,
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Musica%20e%20Audio/REAPER.png",
+    "Sezione": "Musica e Audio",
+    "Descrizione": null,
+    "Tooltip": "REAPER v7.49",
+    "MRicerca": "repear",
+    "Hash": "d9c66884e5e95f08",
+    "HashX32": null,
+    "UUID": "273"
+  },
+  {
     "Nome": "NetSpot",
     "Link": "https://devuploads.com/vhk49q5bfmb2",
     "Linkx32": null,
@@ -1317,15 +1331,15 @@
   },
   {
     "Nome": "Foxit PDF Editor Pro",
-    "Link": "https://devuploads.com/642qvh0q459r",
+    "Link": "https://devuploads.com/84s7p49gpbxc",
     "Linkx32": null,
     "LinkR": "",
     "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/PDF%20e%20Office/Foxit_PDF_Editor_Pro.png",
     "Sezione": "PDF e Office",
     "Descrizione": "Foxit PDF Editor Pro è un software avanzato per la modifica di documenti PDF, sviluppato da Foxit Software. È progettato per offrire capacità di modifica PDF professionali, inclusa la possibilità di aggiungere testo, commenti, immagini, e di firmare elettronicamente i documenti.",
-    "Tooltip": "Foxit PDF Editor Pro v13.1.7.23637",
+    "Tooltip": "Foxit PDF Editor Pro v14.0.1.33197",
     "MRicerca": "foxit",
-    "Hash": "04c0318d3211cccb",
+    "Hash": "aa3fbfa42aa1e02d",
     "HashX32": null,
     "UUID": "134"
   },
@@ -1356,6 +1370,20 @@
     "Hash": "",
     "HashX32": null,
     "UUID": "148"
+  },
+  {
+    "Nome": "Microsoft Office",
+    "Link": "https://devuploads.com/r4ikbqpldgmy",
+    "Linkx32": "https://devuploads.com/r4ikbqpldgmy",
+    "LinkR": null,
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/PDF%20e%20Office/Microsoft_Office.png",
+    "Sezione": "PDF e Office",
+    "Descrizione": "Da qui accederete al download di WinHubX attraverso cui potrete scaricare, installare ed attivare le ultime versioni di Office sia in setup online sia offline.",
+    "Tooltip": "Microsoft Office",
+    "MRicerca": "office",
+    "Hash": null,
+    "HashX32": null,
+    "UUID": "269"
   },
   {
     "Nome": "Wallpaper Engine",
@@ -1541,17 +1569,31 @@
   },
   {
     "Nome": "Wondershare Recoverit",
-    "Link": "https://devuploads.com/fz0q3pchu53h",
+    "Link": "https://devuploads.com/ghqgg69uwkpj",
     "Linkx32": null,
     "LinkR": null,
     "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Recupero%20Dati/Wondershare_Recoverit.png",
     "Sezione": "Recupero Dati",
     "Descrizione": "Wondershare Recoverit è un software potente e intuitivo per il recupero dati da vari dispositivi, inclusi hard disk, USB, schede SD e dispositivi mobili. Supporta il recupero di file cancellati, formattati o persi a causa di errori di sistema. Con un’interfaccia user-friendly e un alto tasso di successo, è ideale per utenti e professionisti che necessitano di recuperare dati in modo rapido e sicuro.",
-    "Tooltip": "Wondershare Recoverit v13.6.3.6",
+    "Tooltip": "Wondershare Recoverit v14.0.2.2",
     "MRicerca": "recove",
-    "Hash": "78626fae84aa3e56",
+    "Hash": "66e000af7a27e8d8",
     "HashX32": null,
     "UUID": "251"
+  },
+  {
+    "Nome": "EaseUS Data Recovery Wizard",
+    "Link": "https://devuploads.com/9tj53lt7qjfg",
+    "Linkx32": null,
+    "LinkR": null,
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Recupero%20Dati/EaseUS_Data_Recovery_Wizard.png",
+    "Sezione": "Recupero Dati",
+    "Descrizione": null,
+    "Tooltip": "EaseUS Data Recovery Wizard Pro v19.6.5",
+    "MRicerca": "easeus",
+    "Hash": "af9136c807601b34",
+    "HashX32": null,
+    "UUID": "270"
   },
   {
     "Nome": "Movavi Screen Recorder",
@@ -1608,6 +1650,20 @@
     "Hash": "5cb24a8f7865f047",
     "HashX32": null,
     "UUID": "165"
+  },
+  {
+    "Nome": "EaseUS RecExperts",
+    "Link": "https://devuploads.com/l9xf7eq99ept",
+    "Linkx32": null,
+    "LinkR": null,
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Registrazione%20Schermo/EaseUS_RecExperts.png",
+    "Sezione": "Registrazione Schermo",
+    "Descrizione": null,
+    "Tooltip": "EaseUS RecExperts Pro v4.0.4",
+    "MRicerca": "recexperts",
+    "Hash": "3bcff64346bb1e78",
+    "HashX32": null,
+    "UUID": "274"
   },
   {
     "Nome": "Copernic Desktop Search",
@@ -2308,6 +2364,34 @@
     "Hash": "a2871dab8c919f33",
     "HashX32": null,
     "UUID": "257"
+  },
+  {
+    "Nome": "Winzip",
+    "Link": "https://devuploads.com/znry6qq96tif",
+    "Linkx32": null,
+    "LinkR": null,
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Utility%20di%20Sistema%20e%20Manutenzione/WinZip.png",
+    "Sezione": "Utility di Sistema e Manutenzione",
+    "Descrizione": null,
+    "Tooltip": "WinZip Pro v29.0.16416",
+    "MRicerca": "winzip",
+    "Hash": "7bd0419d7f7c05c3",
+    "HashX32": null,
+    "UUID": "271"
+  },
+  {
+    "Nome": "AnyDVD",
+    "Link": "https://devuploads.com/zg7erthw0lia",
+    "Linkx32": null,
+    "LinkR": null,
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Utility%20di%20Sistema%20e%20Manutenzione/AnyDVD.png",
+    "Sezione": "Utility di Sistema e Manutenzione",
+    "Descrizione": null,
+    "Tooltip": "AnyDVD v8.1.4.0",
+    "MRicerca": "anydvd",
+    "Hash": "c622acd9d7d73768",
+    "HashX32": null,
+    "UUID": "272"
   },
   {
     "Nome": "Wondershare Filmora",
