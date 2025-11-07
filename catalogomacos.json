@@ -23,16 +23,11 @@
     "items": [
       {
         "name": "FL Studio",
-        "imageUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Musica%20e%20Audio/FL_Studio.png",
         "type": "app",
-        "link": {
-          "macos-12-universal": "https://devuploads.com/jivki1fmf76e",
-          "macos-13-universal": "https://devuploads.com/jivki1fmf76e",
-          "macos-14-universal": "https://devuploads.com/jivki1fmf76e",
-          "macos-15-universal": "https://devuploads.com/jivki1fmf76e",
-          "universal": "https://aimodsitalia.store/comingsoon.html"
-        },
-        "description": "FL Studio \u00e8 la DAW desktop che i musicisti di tutto il mondo utilizzano per trasformare le idee in realt\u00e0.\nChe tu abbia appena iniziato o che tu sia un produttore esperto, FL Studio include tutto ci\u00f2 di cui hai bisogno per creare musica.\n\n"
+        "link": "https://cazzi.org",
+        "imageUrl": "https://raw.githubusercontent.com/AMStore-na/Store/testing_tool/images/Musica/3d-coding-icon-symbol-programming-software-web-development-concept_1045752-394.png",
+        "description": "Cazzi",
+        "guida": "Cazzi\n"
       },
       {
         "name": "Logic Pro X",
