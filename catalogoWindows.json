@@ -2073,15 +2073,15 @@
   },
   {
     "Nome": "EaseUS Partition Master",
-    "Link": "https://devuploads.com/e1x7gkigjdka",
+    "Link": "https://devuploads.com/h9avcpfqoki2",
     "Linkx32": null,
     "LinkR": "",
     "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Utility%20di%20Sistema%20e%20Manutenzione/EaseUS_Partition_Master.png",
     "Sezione": "Utility di Sistema e Manutenzione",
     "Descrizione": "EaseUS Partition Master è un software di gestione delle partizioni per Windows. È progettato per aiutare gli utenti a creare, ridimensionare, eliminare e combinare partizioni in modo semplice e sicuro.",
-    "Tooltip": "EaseUS Partition Master v19.5.0 ",
+    "Tooltip": "EaseUS Partition Master v19.15.0.202510091552",
     "MRicerca": "partition",
-    "Hash": "",
+    "Hash": "f478d7a083533489",
     "HashX32": null,
     "UUID": "67"
   },
