@@ -280,12 +280,12 @@
         "imageUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Grafica%20e%20Design/Adobe_Photoshop.png",
         "type": "app",
         "link": {
-            "macos-12-universal": "",
-            "macos-13-universal": "https://devuploads.com/vaubok7yawzw",
-            "macos-14-universal": "https://devuploads.com/vaubok7yawzw",
-            "macos-15-universal": "https://devuploads.com/vaubok7yawzw",
-            "macos-26-universal": "https://devuploads.com/vaubok7yawzw",
-            "universal": "https://aimodsitalia.store/comingsoon.html"
+          "macos-12-universal": "",
+          "macos-13-universal": "https://devuploads.com/vaubok7yawzw",
+          "macos-14-universal": "https://devuploads.com/vaubok7yawzw",
+          "macos-15-universal": "https://devuploads.com/vaubok7yawzw",
+          "macos-26-universal": "https://devuploads.com/vaubok7yawzw",
+          "universal": "https://aimodsitalia.store/comingsoon.html"
         },
         "description": "\nAdobe Photoshop \u00e8 un software proprietario prodotto da Adobe specializzato nell'elaborazione di fotografie (fotoritocco) e, pi\u00f9 in generale, di immagini digitali.\n",
         "guida": "0. Disinstalla eventuali versioni precedentemente installate di Adobe Photoshop.\n\n1. Se non lo possiedi, installa Adobe Creative Cloud dallo store.\n\n2. Dall'omonima cartella nel .dmg, usa l'installer per installare Adobe Photoshop.\n\tNOTA - Se Mac dice che il file \u00e8 danneggiato e dovrebbe essere spostato nel cestino\n\t\t1. Fai tasto destro sul file \u201cInstall\u201d, quindi scegli \u201cCopia\u201d.\n\t\t2. Apri un terminale.\n\t\t3. Digita sudo xattr -dr com.apple.quarantine incolla_qui, quindi premi Invio (inserisci la password di Mac quando richiesto; i caratteri non si vedono per sicurezza).\n\t\t4. Riesegui il file \u201cInstall\u201d\n\tNOTA - Se Mac mostra un messaggio di errore con un simbolo rosso\n\t\t1. Fai tasto destro sul file \u201cInstall\u201d, quindi scegli \u201cMostra contenuto pacchetto\u201d\n\t\t2. Naviga in \"Contents\" > \"MacOS\", quindi avvia il file \"install\"\n\n3. Terminata l'installazione, sostituisci l'applicazione di Adobe Photoshop all'interno della relativa cartella dentro la cartella Applicazioni."
@@ -295,12 +295,12 @@
         "imageUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Grafica%20e%20Design/Adobe_Illustrator.png",
         "type": "app",
         "link": {
-            "macos-12-universal": "",
-            "macos-13-universal": "https://devuploads.com/jav4c7dv0cru",
-            "macos-14-universal": "https://devuploads.com/jav4c7dv0cru",
-            "macos-15-universal": "https://devuploads.com/jav4c7dv0cru",
-            "macos-26-universal": "https://devuploads.com/jav4c7dv0cru",
-            "universal": "https://aimodsitalia.store/comingsoon.html"
+          "macos-12-universal": "",
+          "macos-13-universal": "https://devuploads.com/jav4c7dv0cru",
+          "macos-14-universal": "https://devuploads.com/jav4c7dv0cru",
+          "macos-15-universal": "https://devuploads.com/jav4c7dv0cru",
+          "macos-26-universal": "https://devuploads.com/jav4c7dv0cru",
+          "universal": "https://aimodsitalia.store/comingsoon.html"
         },
         "description": "\nAdobe Illustrator \u00e8 un software per l'elaborazione di immagini e per la grafica vettoriale prodotto da Adobe a partire dal 1987.\nIl programma \u00e8 utilizzato da milioni di designer e artisti di tutto il mondo per progettare qualsiasi tipo di grafica destinata all'editoria, al web e per dispositivi mobili.\n\n",
         "guida": "0. Disinstalla eventuali versioni precedentemente installate di Adobe Illustrator.\n\n1. Se non lo possiedi, installa Adobe Creative Cloud dallo store.\n\n2. Dall'omonima cartella nel .dmg, usa l'installer per installare Adobe Illustrator.\n\tNOTA - Se Mac dice che il file \u00e8 danneggiato e dovrebbe essere spostato nel cestino\n\t\t1. Fai tasto destro sul file \u201cInstall\u201d, quindi scegli \u201cCopia\u201d.\n\t\t2. Apri un terminale.\n\t\t3. Digita sudo xattr -dr com.apple.quarantine incolla_qui, quindi premi Invio (inserisci la password di Mac quando richiesto; i caratteri non si vedono per sicurezza).\n\t\t4. Riesegui il file \u201cInstall\u201d\n\tNOTA - Se Mac mostra un messaggio di errore con un simbolo rosso\n\t\t1. Fai tasto destro sul file \u201cInstall\u201d, quindi scegli \u201cMostra contenuto pacchetto\u201d\n\t\t2. Naviga in \"Contents\" > \"MacOS\", quindi avvia il file \"install\"\n\n3. Terminata l'installazione, sostituisci l'applicazione di Adobe Illustrator all'interno della relativa cartella dentro la cartella Applicazioni."
@@ -310,12 +310,12 @@
         "imageUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Grafica%20e%20Design/Adobe_Lightroom_Classic.png",
         "type": "app",
         "link": {
-            "macos-12-universal": "",
-            "macos-13-universal": "https://devuploads.com/sv1n2u3utpji",
-            "macos-14-universal": "https://devuploads.com/sv1n2u3utpji",
-            "macos-15-universal": "https://devuploads.com/sv1n2u3utpji",
-            "macos-26-universal": "https://devuploads.com/sv1n2u3utpji",
-            "universal": "https://aimodsitalia.store/comingsoon.html"
+          "macos-12-universal": "",
+          "macos-13-universal": "https://devuploads.com/sv1n2u3utpji",
+          "macos-14-universal": "https://devuploads.com/sv1n2u3utpji",
+          "macos-15-universal": "https://devuploads.com/sv1n2u3utpji",
+          "macos-26-universal": "https://devuploads.com/sv1n2u3utpji",
+          "universal": "https://aimodsitalia.store/comingsoon.html"
         },
         "description": "\n Lightroom Classic \u00e8 la versione ribattezzata dell'applicazione Lightroom ed \u00e8 ottimizzata per i flussi di lavoro basati su desktop, compresa l'archiviazione locale delle foto in file e cartelle presenti sul tuo computer.\n\n",
         "guida": "0. Disinstalla eventuali versioni precedentemente installate di Adobe Lightroom Classic.\n\n1. Se non lo possiedi, installa Adobe Creative Cloud dallo store.\n\n2. Dall'omonima cartella nel .dmg, usa l'installer per installare Adobe Lightroom Classic.\n\tNOTA - Se Mac dice che il file \u00e8 danneggiato e dovrebbe essere spostato nel cestino\n\t\t1. Fai tasto destro sul file \u201cInstall\u201d, quindi scegli \u201cCopia\u201d.\n\t\t2. Apri un terminale.\n\t\t3. Digita sudo xattr -dr com.apple.quarantine incolla_qui, quindi premi Invio (inserisci la password di Mac quando richiesto; i caratteri non si vedono per sicurezza).\n\t\t4. Riesegui il file \u201cInstall\u201d\n\tNOTA - Se Mac mostra un messaggio di errore con un simbolo rosso\n\t\t1. Fai tasto destro sul file \u201cInstall\u201d, quindi scegli \u201cMostra contenuto pacchetto\u201d\n\t\t2. Naviga in \"Contents\" > \"MacOS\", quindi avvia il file \"install\"\n\n3. Terminata l'installazione, sostituisci l'applicazione di Adobe Lightroom Classic all'interno della relativa cartella dentro la cartella Applicazioni."
@@ -349,6 +349,21 @@
         },
         "description": "Adobe InDesign \u00e8 il software professionale di riferimento per il desktop publishing e l'impaginazione. \u00c8 lo strumento ideale per creare layout destinati alla stampa o al digitale, gestendo con precisione tipografia ed elementi grafici. Perfetto per realizzare riviste, libri, brochure, eBook e PDF interattivi dall'aspetto curato e professionale.",
         "guida": "0. Disinstalla eventuali versioni precedentemente installate di Adobe InDesign.\n\n1. Se non lo possiedi, installa Adobe Creative Cloud dallo store.\n\n2. Dall'omonima cartella nel .dmg, usa l'installer per installare Adobe InDesign.\n\tNOTA - Se Mac dice che il file \u00e8 danneggiato e dovrebbe essere spostato nel cestino\n\t\t1. Fai tasto destro sul file \u201cInstall\u201d, quindi scegli \u201cCopia\u201d.\n\t\t2. Apri un terminale.\n\t\t3. Digita sudo xattr -dr com.apple.quarantine incolla_qui, quindi premi Invio (inserisci la password di Mac quando richiesto; i caratteri non si vedono per sicurezza).\n\t\t4. Riesegui il file \u201cInstall\u201d\n\tNOTA - Se Mac mostra un messaggio di errore con un simbolo rosso\n\t\t1. Fai tasto destro sul file \u201cInstall\u201d, quindi scegli \u201cMostra contenuto pacchetto\u201d\n\t\t2. Naviga in \"Contents\" > \"MacOS\", quindi avvia il file \"install\"\n\n3. Terminata l'installazione, sostituisci l'applicazione di Adobe Indesign all'interno della relativa cartella dentro la cartella Applicazioni."
+      },
+      {
+        "name": "InCopy",
+        "type": "app",
+        "link": {
+          "macos-12-universal": "",
+          "macos-13-universal": "https://devuploads.com/gzh1hf2j1hsx",
+          "macos-14-universal": "https://devuploads.com/gzh1hf2j1hsx",
+          "macos-15-universal": "https://devuploads.com/gzh1hf2j1hsx",
+          "macos-26-universal": "https://devuploads.com/gzh1hf2j1hsx",
+          "universal": "https://aimodsitalia.store/comingsoon.html"
+        },
+        "imageUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/images/Adobe/Adobe_InCopy.png",
+        "description": "Adobe InCopy \u00e8 lo strumento per copywriter ed editor che lavorano con InDesign. Permette di scrivere e revisionare testi mentre i designer impaginano, tutto sullo stesso file. \u00c8 la soluzione professionale per un flusso di lavoro editoriale parallelo, efficiente e senza conflitti.",
+        "guida": "0. Disinstalla eventuali versioni precedentemente installate di Adobe InCopy.\n1. Se non lo possiedi, installa Adobe Creative Cloud dallo Store.\n2. Dall'omonima cartella nel .dmg, usa l'installer per installare Adobe InCopy.\n\tNOTA - Se Mac dice che il file \u00e8 danneggiato e dovrebbe essere spostato nel cestino\n\t\t1. Fai tasto destro sul file \u201cInstall\u201d, quindi scegli \u201cCopia\u201d.\n\t\t2. Apri un terminale.\n\t\t3. Digita sudo xattr -dr com.apple.quarantine incolla_qui, quindi premi Invio (inserisci la password di Mac quando richiesto; i caratteri non si vedono per sicurezza).\n\t\t4. Riesegui il file \u201cInstall\u201d\n\tNOTA - Se Mac mostra un messaggio di errore con un simbolo rosso\n\t\t1. Fai tasto destro sul file \u201cInstall\u201d, quindi scegli \u201cMostra contenuto pacchetto\u201d\n\t\t2. Naviga in \"Contents\" > \"MacOS\", quindi avvia il file \"install\"\n3. Terminata l'installazione, sostituisci l'applicazione di Adobe InCopy all'interno della relativa cartella dentro la cartella Applicazioni."
       }
     ]
   },
