@@ -1737,15 +1737,15 @@
   },
   {
     "Nome": "Kaspersky",
-    "Link": "https://devuploads.com/io1rr5jbsvjv",
+    "Link": "https://devuploads.com/00qt1sa8eczz",
     "Linkx32": null,
     "LinkR": "",
     "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Sicurezza%20e%20Privacy/Kaspersky.png",
     "Sezione": "Sicurezza e Privacy",
     "Descrizione": "Kaspersky è un'azienda russa di sicurezza informatica nota per i suoi software antivirus e suite di sicurezza.",
-    "Tooltip": "Kaspersky",
+    "Tooltip": "Kaspersky v23.1",
     "MRicerca": "kaspersy",
-    "Hash": "",
+    "Hash": "5cc55412cde9e61f",
     "HashX32": null,
     "UUID": "26"
   },
