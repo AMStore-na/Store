@@ -771,7 +771,7 @@
     },
     {
         "Nome": "Generatore Immagini",
-        "Link": "https://devuploads.com/c8j0jajfy7tt",
+        "Link": "https://devuploads.com/cxdjbw0pl9l6",
         "Linkx32": null,
         "LinkR": "",
         "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Grafica%20e%20Design/Generatore_Immagini.png",
@@ -779,7 +779,7 @@
         "Descrizione": "",
         "Tooltip": "Generatore Immagini AIMODS",
         "MRicerca": "generatore",
-        "Hash": "",
+        "Hash": "6b64f4a115a40459",
         "HashX32": null,
         "UUID": "119"
     },
@@ -953,16 +953,16 @@
     },
     {
         "Nome": "Spotube",
-        "Link": "https://devuploads.com/q26t05d5kggs",
-        "Linkx32": null,
+        "Link": "https://devuploads.com/q0rpjgq5qqbw",
+        "Linkx32": "https://devuploads.com/q0rpjgq5qqbw",
         "LinkR": "",
         "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Musica%20e%20Audio/Spotube.png",
         "Sezione": "Musica e Audio",
         "Descrizione": "Spotube è un'app open source che combina Spotify e YouTube Music per offrire un'esperienza musicale gratuita, senza pubblicità",
-        "Tooltip": "Spotube v5.0.0",
+        "Tooltip": "Spotube v5.1.0",
         "MRicerca": "spotube",
-        "Hash": "4df1b116cffd8f44",
-        "HashX32": null,
+        "Hash": "cc72a66eeb42fa97",
+        "HashX32": "cc72a66eeb42fa97",
         "UUID": "130"
     },
     {
@@ -1737,15 +1737,15 @@
     },
     {
         "Nome": "Kaspersky",
-        "Link": "https://devuploads.com/io1rr5jbsvjv",
+        "Link": "https://devuploads.com/00qt1sa8eczz",
         "Linkx32": null,
         "LinkR": "",
         "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Sicurezza%20e%20Privacy/Kaspersky.png",
         "Sezione": "Sicurezza e Privacy",
         "Descrizione": "Kaspersky è un'azienda russa di sicurezza informatica nota per i suoi software antivirus e suite di sicurezza.",
-        "Tooltip": "Kaspersky",
+        "Tooltip": "Kaspersky v23.1",
         "MRicerca": "kaspersy",
-        "Hash": "",
+        "Hash": "5cc55412cde9e61f",
         "HashX32": null,
         "UUID": "26"
     },
@@ -2535,7 +2535,7 @@
     },
     {
         "Nome": "DaVinci Resolve Studio",
-        "Link": "https://devuploads.com/le5k9rx579eu",
+        "Link": "https://devuploads.com/ots4e3ou4inx",
         "Linkx32": null,
         "LinkR": "",
         "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Video%20e%20Animazione/DaVinci_Resolve_Studio.png",
@@ -2543,7 +2543,7 @@
         "Descrizione": "DaVinci Resolve è un software di editing video professionale sviluppato da Blackmagic Design. È noto per la sua capacità di integrare montaggio, correzione colore, effetti visivi e post produzione audio in un'unica applicazione. DaVinci Resolve è utilizzato da professionisti di Hollywood e offre una vasta gamma di strumenti avanzati per la creazione di contenuti video di alta qualità.",
         "Tooltip": "DaVinci Resolve Studio 20 v20.0.0.49",
         "MRicerca": "davinci",
-        "Hash": "ff0a14588e0c123c",
+        "Hash": "f81a6ccaf354e5d9",
         "HashX32": null,
         "UUID": "15"
     },
@@ -2686,5 +2686,19 @@
         "Hash": "53124b8a89c572bd",
         "HashX32": null,
         "UUID": "254"
+    },
+    {
+        "Nome": "GetFLV",
+        "Link": "https://devuploads.com/b50uus4gzwl9",
+        "Linkx32": null,
+        "LinkR": null,
+        "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Downloader/GetFLV.png",
+        "Sezione": "Downloader",
+        "Descrizione": "GetFLV è un programma dedicato al download, conversione e gestione di video online, offrendo strumenti semplici e funzioni multimediali complete.",
+        "Tooltip": "GetFLV",
+        "MRicerca": "Get",
+        "Hash": "a7acf031e5a3bf7e",
+        "HashX32": null,
+        "UUID": "275"
     }
 ]
