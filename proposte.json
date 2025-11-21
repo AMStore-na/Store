@@ -1,1 +1,20 @@
-[]
+[
+  {
+    "category": "Adobe",
+    "name": "Premiere",
+    "type": "app",
+    "link": {
+      "macos-12-universal": "",
+      "macos-13-universal": "https://devuploads.com/vaubok7yawzw",
+      "macos-14-universal": "https://devuploads.com/vaubok7yawzw",
+      "macos-15-universal": "https://devuploads.com/vaubok7yawzw",
+      "macos-26-universal": "https://devuploads.com/vaubok7yawzw",
+      "universal": "https://aimodsitalia.store/comingsoon.html"
+    },
+    "imageUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/images/Adobe/Adobe_Premiere.png",
+    "description": "Scegli lo standard del settore. Premiere Pro offre la precisione e gli strumenti necessari per trasformare le riprese in prodotti professionali. \u00c8 l\u2019investimento definitivo per la qualit\u00e0 dei tuoi video.",
+    "guida": "0. Disinstalla eventuali versioni precedentemente installate di Adobe Premiere.\n\n1. Se non lo possiedi, installa Adobe Creative Cloud dallo store.\n\n2. Dall'omonima cartella nel .dmg, usa l'installer per installare Adobe Premiere.\n\tNOTA - Se Mac dice che il file \u00e8 danneggiato e dovrebbe essere spostato nel cestino\n\t\t1. Fai tasto destro sul file \u201cInstall\u201d, quindi scegli \u201cCopia\u201d.\n\t\t2. Apri un terminale.\n\t\t3. Digita sudo xattr -dr com.apple.quarantine incolla_qui, quindi premi Invio (inserisci la password di Mac quando richiesto; i caratteri non si vedono per sicurezza).\n\t\t4. Riesegui il file \u201cInstall\u201d\n\tNOTA - Se Mac mostra un messaggio di errore con un simbolo rosso\n\t\t1. Fai tasto destro sul file \u201cInstall\u201d, quindi scegli \u201cMostra contenuto pacchetto\u201d\n\t\t2. Naviga in \"Contents\" > \"MacOS\", quindi avvia il file \"install\"\n\n3. Terminata l'installazione, sostituisci l'applicazione di Adobe Premiere all'interno della relativa cartella dentro la cartella Applicazioni.",
+    "testLink": "https://www.swisstransfer.com/d/e83af378-f178-43fd-8d51-1ff1c70aa68c",
+    "proposal_id": "Premiere_1763747593"
+  }
+]
