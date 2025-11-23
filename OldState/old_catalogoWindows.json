@@ -1,13 +1,13 @@
 [
     {
         "Nome": "WinHubX",
-        "Link": "https://devuploads.com/r4ikbqpldgmy",
-        "Linkx32": "https://devuploads.com/r4ikbqpldgmy",
+        "Link": "https://devuploads.com/1lk144j7l2fn",
+        "Linkx32": "https://devuploads.com/1lk144j7l2fn",
         "LinkR": "",
         "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Attivatori/WinHubX.png",
         "Sezione": "Attivatori",
         "Descrizione": "Con questo tool sarete in grado di scaricare file ISO per la maggior parte delle versioni ed edizioni di Windows comprese edizioni All in One e Lite. Inoltre potrete scaricare, installare ed attivare le ultime versioni di Office sia in setup online sia offline. Infine abbiamo inserito la sezione Tools che include scorciatoie ai nostri tool come WinCustomizer, WIMToolKit e altre piccole chicche che lasciamo scoprire a voi!",
-        "Tooltip": "WinHubX v.2.4.3.6",
+        "Tooltip": "WinHubX v.2.5.0.0",
         "MRicerca": "Tools AIMODS, Office",
         "Hash": "",
         "HashX32": null,
@@ -546,6 +546,20 @@
         "UUID": "260"
     },
     {
+        "Nome": "GetFLV",
+        "Link": "https://devuploads.com/b50uus4gzwl9",
+        "Linkx32": null,
+        "LinkR": null,
+        "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Downloader/GetFLV.png",
+        "Sezione": "Downloader",
+        "Descrizione": "GetFLV è un programma dedicato al download, conversione e gestione di video online, offrendo strumenti semplici e funzioni multimediali complete.",
+        "Tooltip": "GetFLV",
+        "MRicerca": "Get",
+        "Hash": "a7acf031e5a3bf7e",
+        "HashX32": null,
+        "UUID": "275"
+    },
+    {
         "Nome": "Phoenix Play",
         "Link": "https://devuploads.com/zmy93fiqczu4",
         "Linkx32": "https://devuploads.com/zmy93fiqczu4",
@@ -967,15 +981,15 @@
     },
     {
         "Nome": "FL Studio",
-        "Link": "https://devuploads.com/8oilui9a253g",
+        "Link": "https://devuploads.com/db868nn3cvjb",
         "Linkx32": null,
         "LinkR": "",
         "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Musica%20e%20Audio/FL_Studio.png",
         "Sezione": "Musica e Audio",
         "Descrizione": "FL Studio è una delle stazioni di lavoro audio digitali (DAW) più popolari, usata per la produzione musicale, la composizione, l'arrangiamento e il mixaggio. È conosciuta per la sua interfaccia intuitiva, che offre una vasta gamma di strumenti per musicisti, produttori e ingegneri del suono.",
-        "Tooltip": "FL Studio v25.1.5.4976",
+        "Tooltip": "FL Studio v25.1.6.4997",
         "MRicerca": "fl",
-        "Hash": "531cf361336b372a",
+        "Hash": "b289a54c4f18b00c",
         "HashX32": null,
         "UUID": "127"
     },
@@ -1373,8 +1387,8 @@
     },
     {
         "Nome": "Microsoft Office",
-        "Link": "https://devuploads.com/r4ikbqpldgmy",
-        "Linkx32": "https://devuploads.com/r4ikbqpldgmy",
+        "Link": "https://devuploads.com/1lk144j7l2fn",
+        "Linkx32": "https://devuploads.com/1lk144j7l2fn",
         "LinkR": null,
         "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/PDF%20e%20Office/Microsoft_Office.png",
         "Sezione": "PDF e Office",
@@ -2686,19 +2700,5 @@
         "Hash": "53124b8a89c572bd",
         "HashX32": null,
         "UUID": "254"
-    },
-    {
-        "Nome": "GetFLV",
-        "Link": "https://devuploads.com/b50uus4gzwl9",
-        "Linkx32": null,
-        "LinkR": null,
-        "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Downloader/GetFLV.png",
-        "Sezione": "Downloader",
-        "Descrizione": "GetFLV è un programma dedicato al download, conversione e gestione di video online, offrendo strumenti semplici e funzioni multimediali complete.",
-        "Tooltip": "GetFLV",
-        "MRicerca": "Get",
-        "Hash": "a7acf031e5a3bf7e",
-        "HashX32": null,
-        "UUID": "275"
     }
 ]
