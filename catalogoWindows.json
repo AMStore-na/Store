@@ -2731,7 +2731,7 @@
   },
   {
     "Nome": "Tekla Structures",
-    "Link": null,
+    "Link": "https://devuploads.com/mib1cnme3hl6",
     "Linkx32": null,
     "LinkR": null,
     "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/CAD%2C%20Architettura%20e%20Ingegneria/Tekla_Structures.png",
@@ -2739,7 +2739,7 @@
     "Descrizione": "Tekla Structures 2025 è un software BIM per la modellazione strutturale che integra intelligenza artificiale per migliorare l'efficienza e la collaborazione.",
     "Tooltip": "Tekla Structures 2025",
     "MRicerca": "Tekla",
-    "Hash": null,
+    "Hash": "823a9493c2bb7921",
     "HashX32": null,
     "UUID": "278"
   }
