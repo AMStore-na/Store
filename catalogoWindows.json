@@ -2577,15 +2577,15 @@
   },
   {
     "Nome": "Adobe Premiere Pro",
-    "Link": "https://devuploads.com/61h4xhgo06nv",
+    "Link": "https://devuploads.com/oikvo9fhjahp",
     "Linkx32": null,
     "LinkR": "",
     "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Video%20e%20Animazione/Adobe_Premiere_Pro.png",
     "Sezione": "Video e Animazione",
     "Descrizione": "Adobe Premiere Pro è un software di montaggio video professionale sviluppato da Adobe Systems. È ampiamente utilizzato nell'industria cinematografica e televisiva per la sua potenza e versatilità.",
-    "Tooltip": "Adobe Premiere Pro 2024 v25.1",
+    "Tooltip": "Adobe Premiere Pro 2024 v25.6.3",
     "MRicerca": "premiere",
-    "Hash": "",
+    "Hash": "8d5624d0c6c53be4",
     "HashX32": null,
     "UUID": "5"
   },
