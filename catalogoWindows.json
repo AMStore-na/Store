@@ -2742,5 +2742,19 @@
     "Hash": "823a9493c2bb7921",
     "HashX32": null,
     "UUID": "278"
+  },
+  {
+    "Nome": "MindMapper",
+    "Link": "https://devuploads.com/qv2mooakktmu",
+    "Linkx32": null,
+    "LinkR": null,
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Ricerca%20e%20Analisi%20Dati/MindMapper_Pro.png",
+    "Sezione": "Ricerca e Analisi Dati",
+    "Descrizione": "MindMapper è un software di mind mapping e gestione mentale/organizzativa che permette di creare mappe concettuali, organizzare idee, pianificare attività, convertire le mappe in documenti (Word, PowerPoint, ecc.).",
+    "Tooltip": "MindMapper Pro v21.9203p",
+    "MRicerca": "mappe",
+    "Hash": "942d2c20f2899d15",
+    "HashX32": null,
+    "UUID": "279"
   }
 ]
