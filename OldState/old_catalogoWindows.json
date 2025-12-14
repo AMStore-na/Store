@@ -1,13 +1,13 @@
 [
     {
         "Nome": "WinHubX",
-        "Link": "https://devuploads.com/1lk144j7l2fn",
-        "Linkx32": "https://devuploads.com/1lk144j7l2fn",
+        "Link": "https://devuploads.com/jvj9n75c66m1",
+        "Linkx32": "https://devuploads.com/jvj9n75c66m1",
         "LinkR": "",
         "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Attivatori/WinHubX.png",
         "Sezione": "Attivatori",
         "Descrizione": "Con questo tool sarete in grado di scaricare file ISO per la maggior parte delle versioni ed edizioni di Windows comprese edizioni All in One e Lite. Inoltre potrete scaricare, installare ed attivare le ultime versioni di Office sia in setup online sia offline. Infine abbiamo inserito la sezione Tools che include scorciatoie ai nostri tool come WinCustomizer, WIMToolKit e altre piccole chicche che lasciamo scoprire a voi!",
-        "Tooltip": "WinHubX v.2.5.0.0",
+        "Tooltip": "WinHubX v.2.5.0.1",
         "MRicerca": "Tools AIMODS, Office",
         "Hash": "",
         "HashX32": null,
@@ -292,6 +292,20 @@
         "Hash": "9a09eccb3c1b0dd9",
         "HashX32": null,
         "UUID": "262"
+    },
+    {
+        "Nome": "Tekla Structures",
+        "Link": "https://devuploads.com/mib1cnme3hl6",
+        "Linkx32": null,
+        "LinkR": null,
+        "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/CAD%2C%20Architettura%20e%20Ingegneria/Tekla_Structures.png",
+        "Sezione": "CAD, Architettura e Ingegneria",
+        "Descrizione": "Tekla Structures 2025 è un software BIM per la modellazione strutturale che integra intelligenza artificiale per migliorare l'efficienza e la collaborazione.",
+        "Tooltip": "Tekla Structures 2025",
+        "MRicerca": "Tekla",
+        "Hash": "823a9493c2bb7921",
+        "HashX32": null,
+        "UUID": "278"
     },
     {
         "Nome": "Multiecuscan",
@@ -950,6 +964,20 @@
         "Hash": "3428fe0f66b50fc0",
         "HashX32": null,
         "UUID": "268"
+    },
+    {
+        "Nome": "Affinity Photo",
+        "Link": "https://devuploads.com/pd907e6lwv8y",
+        "Linkx32": null,
+        "LinkR": null,
+        "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Grafica%20e%20Design/Affinity_Photo_2.png",
+        "Sezione": "Grafica e Design",
+        "Descrizione": "Affinity Photo è un software professionale per l'editing delle immagini. Offre fotoritocco, composizione, unione HDR e sviluppo RAW.",
+        "Tooltip": "Affinity Photo 2.6.5.3782",
+        "MRicerca": "photo",
+        "Hash": "749b1bf667d211c7",
+        "HashX32": null,
+        "UUID": "277"
     },
     {
         "Nome": "Spotify",
@@ -1734,6 +1762,34 @@
         "Hash": "5f840e656305d5d3",
         "HashX32": null,
         "UUID": "243"
+    },
+    {
+        "Nome": "MindMapper",
+        "Link": "https://devuploads.com/qv2mooakktmu",
+        "Linkx32": null,
+        "LinkR": null,
+        "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Ricerca%20e%20Analisi%20Dati/MindMapper.png",
+        "Sezione": "Ricerca e Analisi Dati",
+        "Descrizione": "MindMapper è un software di mind mapping e gestione mentale/organizzativa che permette di creare mappe concettuali, organizzare idee, pianificare attività, convertire le mappe in documenti (Word, PowerPoint, ecc.).",
+        "Tooltip": "MindMapper Pro v21.9203p",
+        "MRicerca": "mappe",
+        "Hash": "942d2c20f2899d15",
+        "HashX32": null,
+        "UUID": "279"
+    },
+    {
+        "Nome": "MindMapper Arena",
+        "Link": "https://devuploads.com/9k2e2duglb8b",
+        "Linkx32": null,
+        "LinkR": null,
+        "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Ricerca%20e%20Analisi%20Dati/MindMapper_Arena.png",
+        "Sezione": "Ricerca e Analisi Dati",
+        "Descrizione": "MindMapper Arena è la versione “potenziata” di MindMapper con strumenti pensati per team, gruppi e collaborazione.",
+        "Tooltip": "MindMapper Arena v24.9302a",
+        "MRicerca": "Mappe",
+        "Hash": "c71a9c804c02e3cb",
+        "HashX32": null,
+        "UUID": "280"
     },
     {
         "Nome": "Malwarebytes",
@@ -2700,75 +2756,5 @@
         "Hash": "53124b8a89c572bd",
         "HashX32": null,
         "UUID": "254"
-    },
-    {
-        "Nome": "Affinity Photo",
-        "Link": "https://devuploads.com/pd907e6lwv8y",
-        "Linkx32": null,
-        "LinkR": null,
-        "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Grafica%20e%20Design/Affinity_Photo_2.png",
-        "Sezione": "Grafica e Design",
-        "Descrizione": "Affinity Photo è un software professionale per l'editing delle immagini. Offre fotoritocco, composizione, unione HDR e sviluppo RAW.",
-        "Tooltip": "Affinity Photo 2.6.5.3782",
-        "MRicerca": "photo",
-        "Hash": "749b1bf667d211c7",
-        "HashX32": null,
-        "UUID": "276"
-    },
-    {
-        "Nome": "Affinity Photo",
-        "Link": "https://devuploads.com/pd907e6lwv8y",
-        "Linkx32": null,
-        "LinkR": null,
-        "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Grafica%20e%20Design/Affinity_Photo_2.png",
-        "Sezione": "Grafica e Design",
-        "Descrizione": "Affinity Photo è un software professionale per l'editing delle immagini. Offre fotoritocco, composizione, unione HDR e sviluppo RAW.",
-        "Tooltip": "Affinity Photo 2.6.5.3782",
-        "MRicerca": "photo",
-        "Hash": "749b1bf667d211c7",
-        "HashX32": null,
-        "UUID": "277"
-    },
-    {
-        "Nome": "Tekla Structures",
-        "Link": "https://devuploads.com/mib1cnme3hl6",
-        "Linkx32": null,
-        "LinkR": null,
-        "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/CAD%2C%20Architettura%20e%20Ingegneria/Tekla_Structures.png",
-        "Sezione": "CAD, Architettura e Ingegneria",
-        "Descrizione": "Tekla Structures 2025 è un software BIM per la modellazione strutturale che integra intelligenza artificiale per migliorare l'efficienza e la collaborazione.",
-        "Tooltip": "Tekla Structures 2025",
-        "MRicerca": "Tekla",
-        "Hash": "823a9493c2bb7921",
-        "HashX32": null,
-        "UUID": "278"
-    },
-    {
-        "Nome": "MindMapper",
-        "Link": "https://devuploads.com/qv2mooakktmu",
-        "Linkx32": null,
-        "LinkR": null,
-        "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Ricerca%20e%20Analisi%20Dati/MindMapper_Pro.png",
-        "Sezione": "Ricerca e Analisi Dati",
-        "Descrizione": "MindMapper è un software di mind mapping e gestione mentale/organizzativa che permette di creare mappe concettuali, organizzare idee, pianificare attività, convertire le mappe in documenti (Word, PowerPoint, ecc.).",
-        "Tooltip": "MindMapper Pro v21.9203p",
-        "MRicerca": "mappe",
-        "Hash": "942d2c20f2899d15",
-        "HashX32": null,
-        "UUID": "279"
-    },
-    {
-        "Nome": "MindMapper Arena",
-        "Link": "https://devuploads.com/9k2e2duglb8b",
-        "Linkx32": null,
-        "LinkR": null,
-        "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Ricerca%20e%20Analisi%20Dati/MindMapper_Pro.png",
-        "Sezione": "Ricerca e Analisi Dati",
-        "Descrizione": "MindMapper Arena è la versione “potenziata” di MindMapper con strumenti pensati per team, gruppi e collaborazione.",
-        "Tooltip": "MindMapper Arena v24.9302a",
-        "MRicerca": "Mappe",
-        "Hash": "c71a9c804c02e3cb",
-        "HashX32": null,
-        "UUID": "280"
     }
 ]
