@@ -2770,5 +2770,20 @@
     "Hash": "53124b8a89c572bd",
     "HashX32": null,
     "UUID": "254"
+  },
+{
+    "Nome": "TESTLINK",
+    "Link": "https://devuploads.com/yh9cmlg8xo05",
+    "Linkx32": null,
+    "LinkR": null,
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Video%20e%20Animazione/HeavyM_Pro+.png",
+    "Sezione": "Video e Animazione",
+    "Descrizione": "HeavyM Pro+ è un software avanzato di video mapping, ideale per professionisti dell'arte digitale e dello spettacolo. Offre strumenti potenti per proiezioni 3D, sincronizzazione audio-video, effetti visivi dinamici e supporto multi-proiettore, facilitando creazioni immersive e coinvolgenti.",
+    "Tooltip": "HeavyM Pro+ v2.14.1",
+    "MRicerca": "heavym",
+    "Hash": "53124b8a89c572bd",
+    "HashX32": null,
+    "UUID": "254"
   }
+
 ]
