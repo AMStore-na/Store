@@ -589,16 +589,16 @@
   },
   {
     "Nome": "Phoenix Play",
-    "Link": "https://devuploads.com/zmy93fiqczu4",
-    "Linkx32": "https://devuploads.com/zmy93fiqczu4",
+    "Link": "https://devuploads.com/nm2ab14klor8",
+    "Linkx32": "https://devuploads.com/nm2ab14klor8",
     "LinkR": null,
     "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Giochi/Phoenix_Play.png",
     "Sezione": "Giochi",
     "Descrizione": "Launcher di giochi",
-    "Tooltip": "Phoenix Play v.0.0.0.9",
+    "Tooltip": "Phoenix Play v.0.0.1.0",
     "MRicerca": "Giochi",
-    "Hash": null,
-    "HashX32": null,
+    "Hash": "7b2c24fb9f75d3a5",
+    "HashX32": "7b2c24fb9f75d3a5",
     "UUID": "245"
   },
   {
