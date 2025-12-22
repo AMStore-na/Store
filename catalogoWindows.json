@@ -645,15 +645,15 @@
   },
   {
     "Nome": "Adobe Photoshop",
-    "Link": "https://devuploads.com/tob39amewkvz",
+    "Link": "https://devuploads.com/c7z0b6b89dwc",
     "Linkx32": null,
     "LinkR": "",
     "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Grafica%20e%20Design/Adobe_Photoshop.png",
     "Sezione": "Grafica e Design",
     "Descrizione": "Adobe Photoshop è un software potente e versatile per l’editing digitale delle immagini e la progettazione grafica.",
-    "Tooltip": "Adobe Photoshop 2025 v26.11",
+    "Tooltip": "Adobe Photoshop 2026 v27.2",
     "MRicerca": "photoshop",
-    "Hash": "4b457c89c249970e",
+    "Hash": "3301d7117a4e244c",
     "HashX32": "",
     "UUID": "2"
   },
@@ -2784,5 +2784,19 @@
     "Hash": "53124b8a89c572bd",
     "HashX32": null,
     "UUID": "254"
+  },
+  {
+    "Nome": "Adobe Audition",
+    "Link": "https://devuploads.com/p5g9rgrggx28",
+    "Linkx32": null,
+    "LinkR": null,
+    "ImmagineUrl": null,
+    "Sezione": null,
+    "Descrizione": null,
+    "Tooltip": "Adobe Audition 2026 v.27.2",
+    "MRicerca": null,
+    "Hash": "e1f4c9abc859340f",
+    "HashX32": null,
+    "UUID": "282"
   }
 ]
