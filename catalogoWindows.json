@@ -2776,13 +2776,14 @@
     "Link": "https://devuploads.com/p5g9rgrggx28",
     "Linkx32": null,
     "LinkR": null,
-    "ImmagineUrl": null,
-    "Sezione": null,
-    "Descrizione": null,
+    "ImmagineUrl": "https://test.com",
+    "Sezione": "Musica e Audio",
+    "Descrizione": "Adobe",
     "Tooltip": "Adobe Audition 2026 v.27.2",
     "MRicerca": null,
     "Hash": "e1f4c9abc859340f",
     "HashX32": null,
     "UUID": "282"
   }
+
 ]
