@@ -2774,16 +2774,15 @@
   {
     "Nome": "Adobe Audition",
     "Link": "https://devuploads.com/p5g9rgrggx28",
-    "Linkx32": null,
+    "Linkx32": "",
     "LinkR": null,
-    "ImmagineUrl": "https://test.com",
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Musica%20e%20Audio/Adobe_Audiotions.png",
     "Sezione": "Musica e Audio",
-    "Descrizione": "Adobe",
+    "Descrizione": "Adobe Audition è un kit di strumenti completo che include la visualizzazione multitraccia, della forma d'onda e spettrale per la creazione, il mixing, l'editing e l’ottimizzazione di contenuti audio.",
     "Tooltip": "Adobe Audition 2026 v.27.2",
-    "MRicerca": null,
+    "MRicerca": "",
     "Hash": "e1f4c9abc859340f",
-    "HashX32": null,
+    "HashX32": "",
     "UUID": "282"
   }
-
 ]
