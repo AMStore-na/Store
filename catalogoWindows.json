@@ -142,7 +142,7 @@
   {
     "Nome": "3DF Zephyr",
     "Link": "https://devuploads.com/42zt57ogl8pw",
-    "Linkx32": "TEST",
+    "Linkx32": null,
     "LinkR": null,
     "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/CAD%2C%20Architettura%20e%20Ingegneria/3DF_Zephyr.png",
     "Sezione": "CAD, Architettura e Ingegneria",
@@ -2771,7 +2771,7 @@
     "HashX32": null,
     "UUID": "254"
   },
-{
+  {
     "Nome": "TESTLINK",
     "Link": "https://devuploads.com/yh9cmlg8xo05",
     "Linkx32": null,
@@ -2785,5 +2785,4 @@
     "HashX32": null,
     "UUID": "254"
   }
-
 ]
