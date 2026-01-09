@@ -2798,5 +2798,19 @@
     "Hash": "1ec905d450f2c50d",
     "HashX32": null,
     "UUID": "283"
+  },
+  {
+    "Nome": "reaConverter",
+    "Link": "https://devuploads.com/sloaxjgz0s8m",
+    "Linkx32": null,
+    "LinkR": null,
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Grafica%20e%20Design/reaConverter_Pro.png",
+    "Sezione": "Grafica e Design",
+    "Descrizione": "reaConverter è un software per Windows progettato per convertire, modificare e gestire grandi quantità di file (specialmente immagini) in modo rapido e automatizzato.",
+    "Tooltip": "reaConverter Pro v8.0.177",
+    "MRicerca": "immagin",
+    "Hash": "b60ff71ffec4712d",
+    "HashX32": null,
+    "UUID": "284"
   }
 ]
