@@ -1975,16 +1975,16 @@
   },
   {
     "Nome": "JetBrains IntelliJ IDEA",
-    "Link": "https://devuploads.com/72gfpmryh0eq",
+    "Link": "https://devuploads.com/0jnkm7rihvvg",
     "Linkx32": null,
     "LinkR": "",
     "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Sviluppo%20Software,%20Web%20e%20IDE/JetBrains_IntelliJ_IDEA.png",
     "Sezione": "Sviluppo Software, Web e IDE",
     "Descrizione": "IntelliJ IDEA è un Integrated Development Environment (IDE) sviluppato da JetBrains, progettato principalmente per lo sviluppo in Java e Kotlin. È noto per la sua potenza, flessibilità e strumenti avanzati che migliorano la produttività dei programmatori.",
-    "Tooltip": "JetBrains Intellij IDEA Ultimate v2024.3.5",
+    "Tooltip": "JetBrains Intellij IDEA Ultimate v2025.2.3",
     "MRicerca": "intellij",
-    "Hash": "16f7deb571c7f659",
-    "HashX32": "16f7deb571c7f659",
+    "Hash": "2d667461bf951e0b",
+    "HashX32": null,
     "UUID": "13"
   },
   {
