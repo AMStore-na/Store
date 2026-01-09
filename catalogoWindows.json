@@ -2784,5 +2784,19 @@
     "Hash": "53124b8a89c572bd",
     "HashX32": null,
     "UUID": "254"
+  },
+  {
+    "Nome": "Musify",
+    "Link": "https://devuploads.com/g5vrcd6p0wuo",
+    "Linkx32": null,
+    "LinkR": null,
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Downloader/Musify_Windows.png",
+    "Sezione": "Downloader",
+    "Descrizione": "Musify è un software per Windows che permette di scaricare e convertire musica da Internet da moltissimi siti di condivisione audio/video e di salvare i brani offline sul tuo PC.",
+    "Tooltip": "Musify v5.1.1",
+    "MRicerca": "musify",
+    "Hash": "1ec905d450f2c50d",
+    "HashX32": null,
+    "UUID": "283"
   }
 ]
