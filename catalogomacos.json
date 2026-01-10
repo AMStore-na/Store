@@ -64,6 +64,31 @@
         },
         "description": "Artisti, brani del momento e le tue canzoni preferite da ascoltare quando vuoi.\nAscoltare canzoni o i tuoi album preferiti \u00e8 facile con Spotify, come anche creare playlist, scaricare brani e podcast!.\n\n",
         "guida": "1) Scaricare e installare la nuova versione dal sito ufficiale\n2)Eseguire il download nello store e seguire i passaggi nel file di testo."
+      },
+      {
+        "name": "Serato DJ Pro Suite",
+        "type": "app",
+        "link": {
+          "macos-12-arm64": "https://aimodsitalia.store/comingsoon.html",
+          "macos-12-x86_64": "https://aimodsitalia.store/comingsoon.html",
+          "macos-12-universal": "https://aimodsitalia.store/comingsoon.html",
+          "macos-13-arm64": "https://aimodsitalia.store/comingsoon.html",
+          "macos-13-x86_64": "https://aimodsitalia.store/comingsoon.html",
+          "macos-13-universal": "https://aimodsitalia.store/comingsoon.html",
+          "macos-14-arm64": "https://aimodsitalia.store/comingsoon.html",
+          "macos-14-x86_64": "https://aimodsitalia.store/comingsoon.html",
+          "macos-14-universal": "https://aimodsitalia.store/comingsoon.html",
+          "macos-15-arm64": "https://aimodsitalia.store/comingsoon.html",
+          "macos-15-x86_64": "https://aimodsitalia.store/comingsoon.html",
+          "macos-15-universal": "https://aimodsitalia.store/comingsoon.html",
+          "macos-26-arm64": "https://aimodsitalia.store/comingsoon.html",
+          "macos-26-x86_64": "https://aimodsitalia.store/comingsoon.html",
+          "macos-26-universal": "https://aimodsitalia.store/comingsoon.html",
+          "universal": "https://devuploads.com/7fqwschcrrw0"
+        },
+        "imageUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/images/Musica/Serato_DJ_Pro_Suite.png",
+        "description": "Software professionale per DJ che offre mixaggio audio avanzato, scratching digitale, gestione libreria musicale e controllo hardware integrato.",
+        "guida": "0. Disinstalla eventuali versioni di Serato DJ Pro Suite che possiedi.\n\n1. Estrai il file .aimods e monta il .dmg\n\n2. Trascina Serato DJ Pro Suite nella cartella Applicazioni col mouse\n\n3. A questo punto, Serato dovrebbe essere operativo.\n\nNOTA \u2013 Se la Libreria non si apre, elimina la cartella di Serato in /Library/Application Support/ (il software la creer\u00e0 in automatico all'avvio). Se lo fai, apri Serato (per creare la cartella) e installa la Patch v4.0.1 presente all'interno del dmg.\n\nNOTA \u2013 Se ad ogni riavvio Serato richiede il login, installa la Patch v3.2.2 presente nel .dmg. Se hai installato la Patch v4.0.1, puoi installare la v3.2.2 sopra alla v4.0.1 senza problemi."
       }
     ]
   },
@@ -250,7 +275,7 @@
           "universal": "https://aimodsitalia.store/comingsoon.html"
         },
         "description": "Programma indispensabile per tutti i prodotti adobe.\nSenza di esso, nessun programma funzioner\u00e0 e/o si installer\u00e0.\n\n",
-        "guida": "Questa versione di Adobe Creative Cloud è a solo supporto degli altri software Adobe presenti sullo Store, che richiedono Adobe Creative Cloud per essere eseguiti correttamente, come specificato all'interno delle guide."
+        "guida": "Questa versione di Adobe Creative Cloud \u00e8 a solo supporto degli altri software Adobe presenti sullo Store, che richiedono Adobe Creative Cloud per essere eseguiti correttamente, come specificato all'interno delle guide."
       },
       {
         "name": "Acrobat DC",
