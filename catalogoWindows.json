@@ -2826,5 +2826,19 @@
     "Hash": "a2d95bcaafb9e7ee",
     "HashX32": "",
     "UUID": "285"
+  },
+  {
+    "Nome": "Stellarium v25.4",
+    "Link": "https://devuploads.com/q7vp9uz2xwp5",
+    "Linkx32": null,
+    "LinkR": null,
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Planetario%20virtuale/Stellarium.png",
+    "Sezione": "Planetario virtuale",
+    "Descrizione": null,
+    "Tooltip": "Stellarium",
+    "MRicerca": "stellarium",
+    "Hash": "be5394d0bd85cd1c",
+    "HashX32": null,
+    "UUID": "286"
   }
 ]
