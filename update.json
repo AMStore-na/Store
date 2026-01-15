@@ -1,12 +1,11 @@
 {
-  "version": "1.0.2.7",
+  "version": "1.0.2.8",
   "releaseNotes": [
-"Aggiunta console log per gestione errori (F5)",
-"Fix errore 4",
-"Hash viene ricercato in automatico (nel caso non corrisponda cancellerà la cartella estratta)"
+"Fix errore download"
   ],
   "updateUrl": "https://github.com/AMStore-na/Store/releases/download/Store/AIMODS-Store.exe",
   "lavori": "false"
 
 }
+
 
