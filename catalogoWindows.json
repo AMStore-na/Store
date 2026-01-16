@@ -729,15 +729,15 @@
   },
   {
     "Nome": "Lightburn",
-    "Link": "https://devuploads.com/7douc627d9je",
+    "Link": "https://devuploads.com/0degqnbkneim",
     "Linkx32": null,
     "LinkR": "",
     "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Grafica%20e%20Design/Lightburn.png",
     "Sezione": "Grafica e Design",
     "Descrizione": "LightBurn è un software di progettazione e controllo per laser cutter e engravers",
-    "Tooltip": "LightBurn v2.0.0.3",
+    "Tooltip": "LightBurn v2.0.0.4",
     "MRicerca": "lightburn",
-    "Hash": "4532e795533c84f2",
+    "Hash": "e280c82e490c708f",
     "HashX32": null,
     "UUID": "24"
   },
