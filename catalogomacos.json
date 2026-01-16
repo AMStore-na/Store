@@ -107,11 +107,11 @@
           "macos-26-universal": "",
           "universal": "https://devuploads.com/nitl33h44v7h"
         },
-        "description": "Client Telegram open source per MacOS.",
-        "guida": ""
+        "description": "AlDente gestisce le prestazioni e ottimizza l'autonomia della batteria del tuo Mac.",
+        "guida": "Apri il .dmg e rascina l'applicazione nella cartella Applicazioni."
       }
     ]
-  }
+  },
   {
     "category": "Downloader",
     "items": [
