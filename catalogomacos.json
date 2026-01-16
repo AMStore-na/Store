@@ -93,6 +93,26 @@
     ]
   },
   {
+    "category": "Utility",
+    "items": [
+      {
+        "name": "Aldente",
+        "imageUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/images/Utility/AlDente.png",
+        "type": "app",
+        "link": {
+          "macos-12-universal": "",
+          "macos-13-universal": "",
+          "macos-14-universal": "",
+          "macos-15-universal": "",
+          "macos-26-universal": "",
+          "universal": "https://devuploads.com/nitl33h44v7h"
+        },
+        "description": "Client Telegram open source per MacOS.",
+        "guida": ""
+      }
+    ]
+  }
+  {
     "category": "Downloader",
     "items": [
       {
