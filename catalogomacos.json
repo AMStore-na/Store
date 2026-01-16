@@ -12,7 +12,7 @@
           "macos-14-universal": "https://devuploads.com/42nk6zgdsv9j",
           "macos-15-universal": "https://devuploads.com/42nk6zgdsv9j",
           "macos-26-universal": "",
-          "universal": "https://aimodsitalia.store/comingsoon.html"
+          "comingsoon": "https://aimodsitalia.store/comingsoon.html"
         },
         "description": "Client Telegram open source per MacOS.",
         "guida": ""
@@ -32,7 +32,7 @@
           "macos-14-universal": "https://devuploads.com/jivki1fmf76e",
           "macos-15-universal": "https://devuploads.com/jivki1fmf76e",
           "macos-26-universal": "",
-          "universal": "https://aimodsitalia.store/comingsoon.html"
+          "comingsoon": "https://aimodsitalia.store/comingsoon.html"
         },
         "description": "FL Studio \u00e8 la DAW desktop che i musicisti di tutto il mondo utilizzano per trasformare le idee in realt\u00e0.\nChe tu abbia appena iniziato o che tu sia un produttore esperto, FL Studio include tutto ci\u00f2 di cui hai bisogno per creare musica.\n\n"
       },
@@ -46,7 +46,7 @@
           "macos-14-universal": "https://devuploads.com/6khvb4u0jrt3",
           "macos-15-universal": "https://devuploads.com/6khvb4u0jrt3",
           "macos-26-universal": "",
-          "universal": "https://aimodsitalia.store/comingsoon.html"
+          "comingsoon": "https://aimodsitalia.store/comingsoon.html"
         },
         "description": "Logic Pro \u00e8 un'applicazione DAW e sequencer MIDI per la piattaforma macOS.\n\u00c8 stata creata nei primi anni '90 con il nome di Notator Logic (in seguito diventata Emagic).\n\u00c8 diventato un prodotto Apple dal nome Logic Pro dopo che Apple ha acquistato Emagic.\n\n"
       },
@@ -60,7 +60,7 @@
           "macos-14-universal": "https://devuploads.com/m90c8962692u",
           "macos-15-universal": "https://devuploads.com/m90c8962692u",
           "macos-26-universal": "",
-          "universal": "https://aimodsitalia.store/comingsoon.html"
+          "comingsoon": "https://aimodsitalia.store/comingsoon.html"
         },
         "description": "Artisti, brani del momento e le tue canzoni preferite da ascoltare quando vuoi.\nAscoltare canzoni o i tuoi album preferiti \u00e8 facile con Spotify, come anche creare playlist, scaricare brani e podcast!.\n\n",
         "guida": "1) Scaricare e installare la nuova versione dal sito ufficiale\n2)Eseguire il download nello store e seguire i passaggi nel file di testo."
@@ -69,22 +69,12 @@
         "name": "Serato DJ Pro Suite",
         "type": "app",
         "link": {
-          "macos-12-arm64": "https://aimodsitalia.store/comingsoon.html",
-          "macos-12-x86_64": "https://aimodsitalia.store/comingsoon.html",
-          "macos-12-universal": "https://aimodsitalia.store/comingsoon.html",
-          "macos-13-arm64": "https://aimodsitalia.store/comingsoon.html",
-          "macos-13-x86_64": "https://aimodsitalia.store/comingsoon.html",
-          "macos-13-universal": "https://aimodsitalia.store/comingsoon.html",
-          "macos-14-arm64": "https://aimodsitalia.store/comingsoon.html",
-          "macos-14-x86_64": "https://aimodsitalia.store/comingsoon.html",
-          "macos-14-universal": "https://aimodsitalia.store/comingsoon.html",
-          "macos-15-arm64": "https://aimodsitalia.store/comingsoon.html",
-          "macos-15-x86_64": "https://aimodsitalia.store/comingsoon.html",
-          "macos-15-universal": "https://aimodsitalia.store/comingsoon.html",
-          "macos-26-arm64": "https://aimodsitalia.store/comingsoon.html",
-          "macos-26-x86_64": "https://aimodsitalia.store/comingsoon.html",
-          "macos-26-universal": "https://aimodsitalia.store/comingsoon.html",
-          "universal": "https://devuploads.com/7fqwschcrrw0"
+          "macos-12-universal": "https://devuploads.com/7fqwschcrrw0",
+          "macos-13-universal": "https://devuploads.com/7fqwschcrrw0",
+          "macos-14-universal": "https://devuploads.com/7fqwschcrrw0",
+          "macos-15-universal": "https://devuploads.com/7fqwschcrrw0",
+          "macos-26-universal": "https://devuploads.com/7fqwschcrrw0",
+          "comingsoon": "https://aimodsitalia.store/comingsoon.html"
         },
         "imageUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/images/Musica/Serato_DJ_Pro_Suite.png",
         "description": "Software professionale per DJ che offre mixaggio audio avanzato, scratching digitale, gestione libreria musicale e controllo hardware integrato.",
@@ -100,12 +90,12 @@
         "imageUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/images/Utility/AlDente.png",
         "type": "app",
         "link": {
-          "macos-12-universal": "",
-          "macos-13-universal": "",
-          "macos-14-universal": "",
-          "macos-15-universal": "",
-          "macos-26-universal": "",
-          "universal": "https://devuploads.com/nitl33h44v7h"
+          "macos-12-universal": "https://devuploads.com/nitl33h44v7h",
+          "macos-13-universal": "https://devuploads.com/nitl33h44v7h",
+          "macos-14-universal": "https://devuploads.com/nitl33h44v7h",
+          "macos-15-universal": "https://devuploads.com/nitl33h44v7h",
+          "macos-26-universal": "https://devuploads.com/nitl33h44v7h",
+          "comingsoon": "https://aimodsitalia.store/comingsoon.html"
         },
         "description": "AlDente gestisce le prestazioni e ottimizza l'autonomia della batteria del tuo Mac.",
         "guida": "Apri il .dmg e rascina l'applicazione nella cartella Applicazioni."
@@ -135,7 +125,7 @@
           "macos-26-arm64": "",
           "macos-26-x86_64": "",
           "macos-26-universal": "",
-          "universal": "https://aimodsitalia.store/comingsoon.html"
+          "comingsoon": "https://aimodsitalia.store/comingsoon.html"
         },
         "description": "Un ottimo downloader musicale progettato per scaricare e convertire tutte le tracce musicali, le playlist, gli album e gli artisti in formati MP3, AAC, WAV, FLAC, M4A, M4B senza perdita,\noffrendoti un'eccellente esperienza di ascolto di musica offline su qualsiasi lettore e dispositivo.\n\n"
       },
@@ -154,7 +144,7 @@
           "macos-15-x86_64": "https://devuploads.com/hskqk7vdspcs",
           "macos-26-arm64": "",
           "macos-26-x86_64": "",
-          "universal": "https://aimodsitalia.store/comingsoon.html"
+          "comingsoon": "https://aimodsitalia.store/comingsoon.html"
         },
         "description": "4K Video Downloader e 4K Video Downloader+ sono programmi che consentono di scaricare video e audio da tantissimi siti,\n come YouTube, Vimeo, TikTok, SoundCloud, Bilibili, Niconico, Flickr, Facebook, DailyMotion, Naver TV, Likee e Tumblr.\n\n"
       }
@@ -173,7 +163,7 @@
           "macos-14-universal": "https://devuploads.com/6tokehdiugax",
           "macos-15-universal": "https://devuploads.com/6tokehdiugax",
           "macos-26-universal": "https://devuploads.com/6tokehdiugax",
-          "universal": "https://aimodsitalia.store/comingsoon.html"
+          "comingsoon": "https://aimodsitalia.store/comingsoon.html"
         },
         "description": "Cinema 4D \u00e8 un software per la modellazione 3D, l'animazione, ed il rendering, prodotto dalla software house MAXON Computer GmbH.\nOffre nuove funzionalit\u00e0 che gli artisti VFX 3D e i motion designer possono utilizzare per creare scene complesse con facilit\u00e0.\n\n"
       },
@@ -197,7 +187,7 @@
           "macos-26-arm64": "",
           "macos-26-x86_64": "",
           "macos-26-universal": "",
-          "universal": "https://aimodsitalia.store/comingsoon.html"
+          "comingsoon": "https://aimodsitalia.store/comingsoon.html"
         },
         "description": "Rhinoceros (comunemente abbreviato in Rhino o Rhino3D) \u00e8 un software di modellazione tridimensionale di alta qualit\u00e0 utilizzato principalmente in campo architettonico, ingegneristico e della produzione di design.\nRhino \u00e8 in grado di creare, modificare, analizzare, documentare, renderizzare, animare e tradurre curve, superfici e solidi NURBS di qualsiasi complessit\u00e0, grado o dimensioni.\n\n"
       },
@@ -211,7 +201,7 @@
           "macos-14-universal": "https://devuploads.com/ozvu6fushvcy",
           "macos-15-universal": "https://devuploads.com/ozvu6fushvcy",
           "macos-26-universal": "",
-          "universal": "https://aimodsitalia.store/comingsoon.html"
+          "comingsoon": "https://aimodsitalia.store/comingsoon.html"
         },
         "description": "Camtasia \u00e8 il tuo registratore dello schermo all-in-one e strumento di editing video.\nUnisciti ai milioni di creatori di contenuti, educatori, esperti di marketing, formatori e professionisti aziendali che si affidano a Camtasia per portare i loro progetti video al livello successivo.\n\n"
       },
@@ -225,7 +215,7 @@
           "macos-14-universal": "https://devuploads.com/dw15a5b9fcrb",
           "macos-15-universal": "https://devuploads.com/dw15a5b9fcrb",
           "macos-26-universal": "",
-          "universal": "https://aimodsitalia.store/comingsoon.html"
+          "comingsoon": "https://aimodsitalia.store/comingsoon.html"
         },
         "description": "CameraBag ti consente di applicare istantaneamente uno dei centinaia di bellissimi preset alle tue foto (e ai tuoi video con CameraBag Pro),\nper poi immergerti pi\u00f9 a fondo con regolazioni professionali ultra intuitive.\n\n"
       },
@@ -249,7 +239,7 @@
           "macos-26-arm64": "",
           "macos-26-x86_64": "",
           "macos-26-universal": "",
-          "universal": "https://aimodsitalia.store/comingsoon.html"
+          "comingsoon": "https://aimodsitalia.store/comingsoon.html"
         },
         "description": "DaVinci Resolve \u00e8 un'applicazione di classificazione del colore, correzione del colore, effetti visivi e editing video di post-produzione audio per macOS, Windows e Linux,\nsviluppata da Blackmagic Design.\n\n"
       },
@@ -273,7 +263,7 @@
           "macos-26-arm64": "",
           "macos-26-x86_64": "",
           "macos-26-universal": "",
-          "universal": "https://aimodsitalia.store/comingsoon.html"
+          "comingsoon": "https://aimodsitalia.store/comingsoon.html"
         },
         "description": "Final Cut Pro ti consente di modificare progetti pi\u00f9 complessi e lavorare con dimensioni di fotogrammi pi\u00f9 grandi, frame rate pi\u00f9 elevati e pi\u00f9 effetti, il tutto a velocit\u00e0 incredibili.\nEd \u00e8 costruito per sfruttare l'estrema potenza di Mac Pro, Mac Studio o MacBook Pro per prestazioni di livello superiore.\n\n"
       }
@@ -292,7 +282,7 @@
           "macos-14-universal": "https://devuploads.com/6uv13c9nv3n9",
           "macos-15-universal": "https://devuploads.com/6uv13c9nv3n9",
           "macos-26-universal": "https://devuploads.com/6uv13c9nv3n9",
-          "universal": "https://aimodsitalia.store/comingsoon.html"
+          "comingsoon": "https://aimodsitalia.store/comingsoon.html"
         },
         "description": "Programma indispensabile per tutti i prodotti adobe.\nSenza di esso, nessun programma funzioner\u00e0 e/o si installer\u00e0.\n\n",
         "guida": "Questa versione di Adobe Creative Cloud \u00e8 a solo supporto degli altri software Adobe presenti sullo Store, che richiedono Adobe Creative Cloud per essere eseguiti correttamente, come specificato all'interno delle guide."
@@ -317,7 +307,7 @@
           "macos-26-arm64": "",
           "macos-26-x86_64": "",
           "macos-26-universal": "",
-          "universal": "https://aimodsitalia.store/comingsoon.html"
+          "comingsoon": "https://aimodsitalia.store/comingsoon.html"
         },
         "description": "Crea e modifica file PDF. Collabora in tutta semplicit\u00e0. Firma elettronicamente i documenti e raccogli le firme di altri utenti.\nCompleta tutte le attivit\u00e0 con un\u2019unica applicazione, ovunque lavori. Acrobat ha tutto quello di cui hai bisogno.\n\n"
       },
@@ -331,7 +321,7 @@
           "macos-14-universal": "https://devuploads.com/vaubok7yawzw",
           "macos-15-universal": "https://devuploads.com/vaubok7yawzw",
           "macos-26-universal": "https://devuploads.com/vaubok7yawzw",
-          "universal": "https://aimodsitalia.store/comingsoon.html"
+          "comingsoon": "https://aimodsitalia.store/comingsoon.html"
         },
         "description": "\nAdobe Photoshop \u00e8 un software proprietario prodotto da Adobe specializzato nell'elaborazione di fotografie (fotoritocco) e, pi\u00f9 in generale, di immagini digitali.\n",
         "guida": "0. Disinstalla eventuali versioni precedentemente installate di Adobe Photoshop.\n\n1. Se non lo possiedi, installa Adobe Creative Cloud dallo store.\n\n2. Dall'omonima cartella nel .dmg, usa l'installer per installare Adobe Photoshop.\n\tNOTA - Se Mac dice che il file \u00e8 danneggiato e dovrebbe essere spostato nel cestino\n\t\t1. Fai tasto destro sul file \u201cInstall\u201d, quindi scegli \u201cCopia\u201d.\n\t\t2. Apri un terminale.\n\t\t3. Digita sudo xattr -dr com.apple.quarantine incolla_qui, quindi premi Invio (inserisci la password di Mac quando richiesto; i caratteri non si vedono per sicurezza).\n\t\t4. Riesegui il file \u201cInstall\u201d\n\tNOTA - Se Mac mostra un messaggio di errore con un simbolo rosso\n\t\t1. Fai tasto destro sul file \u201cInstall\u201d, quindi scegli \u201cMostra contenuto pacchetto\u201d\n\t\t2. Naviga in \"Contents\" > \"MacOS\", quindi avvia il file \"install\"\n\n3. Terminata l'installazione, sostituisci l'applicazione di Adobe Photoshop all'interno della relativa cartella dentro la cartella Applicazioni."
@@ -346,7 +336,7 @@
           "macos-14-universal": "https://devuploads.com/jav4c7dv0cru",
           "macos-15-universal": "https://devuploads.com/jav4c7dv0cru",
           "macos-26-universal": "https://devuploads.com/jav4c7dv0cru",
-          "universal": "https://aimodsitalia.store/comingsoon.html"
+          "comingsoon": "https://aimodsitalia.store/comingsoon.html"
         },
         "description": "\nAdobe Illustrator \u00e8 un software per l'elaborazione di immagini e per la grafica vettoriale prodotto da Adobe a partire dal 1987.\nIl programma \u00e8 utilizzato da milioni di designer e artisti di tutto il mondo per progettare qualsiasi tipo di grafica destinata all'editoria, al web e per dispositivi mobili.\n\n",
         "guida": "0. Disinstalla eventuali versioni precedentemente installate di Adobe Illustrator.\n\n1. Se non lo possiedi, installa Adobe Creative Cloud dallo store.\n\n2. Dall'omonima cartella nel .dmg, usa l'installer per installare Adobe Illustrator.\n\tNOTA - Se Mac dice che il file \u00e8 danneggiato e dovrebbe essere spostato nel cestino\n\t\t1. Fai tasto destro sul file \u201cInstall\u201d, quindi scegli \u201cCopia\u201d.\n\t\t2. Apri un terminale.\n\t\t3. Digita sudo xattr -dr com.apple.quarantine incolla_qui, quindi premi Invio (inserisci la password di Mac quando richiesto; i caratteri non si vedono per sicurezza).\n\t\t4. Riesegui il file \u201cInstall\u201d\n\tNOTA - Se Mac mostra un messaggio di errore con un simbolo rosso\n\t\t1. Fai tasto destro sul file \u201cInstall\u201d, quindi scegli \u201cMostra contenuto pacchetto\u201d\n\t\t2. Naviga in \"Contents\" > \"MacOS\", quindi avvia il file \"install\"\n\n3. Terminata l'installazione, sostituisci l'applicazione di Adobe Illustrator all'interno della relativa cartella dentro la cartella Applicazioni."
@@ -361,7 +351,7 @@
           "macos-14-universal": "https://devuploads.com/sv1n2u3utpji",
           "macos-15-universal": "https://devuploads.com/sv1n2u3utpji",
           "macos-26-universal": "https://devuploads.com/sv1n2u3utpji",
-          "universal": "https://aimodsitalia.store/comingsoon.html"
+          "comingsoon": "https://aimodsitalia.store/comingsoon.html"
         },
         "description": "\n Lightroom Classic \u00e8 la versione ribattezzata dell'applicazione Lightroom ed \u00e8 ottimizzata per i flussi di lavoro basati su desktop, compresa l'archiviazione locale delle foto in file e cartelle presenti sul tuo computer.\n\n",
         "guida": "0. Disinstalla eventuali versioni precedentemente installate di Adobe Lightroom Classic.\n\n1. Se non lo possiedi, installa Adobe Creative Cloud dallo store.\n\n2. Dall'omonima cartella nel .dmg, usa l'installer per installare Adobe Lightroom Classic.\n\tNOTA - Se Mac dice che il file \u00e8 danneggiato e dovrebbe essere spostato nel cestino\n\t\t1. Fai tasto destro sul file \u201cInstall\u201d, quindi scegli \u201cCopia\u201d.\n\t\t2. Apri un terminale.\n\t\t3. Digita sudo xattr -dr com.apple.quarantine incolla_qui, quindi premi Invio (inserisci la password di Mac quando richiesto; i caratteri non si vedono per sicurezza).\n\t\t4. Riesegui il file \u201cInstall\u201d\n\tNOTA - Se Mac mostra un messaggio di errore con un simbolo rosso\n\t\t1. Fai tasto destro sul file \u201cInstall\u201d, quindi scegli \u201cMostra contenuto pacchetto\u201d\n\t\t2. Naviga in \"Contents\" > \"MacOS\", quindi avvia il file \"install\"\n\n3. Terminata l'installazione, sostituisci l'applicazione di Adobe Lightroom Classic all'interno della relativa cartella dentro la cartella Applicazioni."
@@ -376,7 +366,7 @@
           "macos-14-universal": "https://devuploads.com/lxdv9szhoze8",
           "macos-15-universal": "https://devuploads.com/lxdv9szhoze8",
           "macos-26-universal": "https://devuploads.com/lxdv9szhoze8",
-          "universal": "https://aimodsitalia.store/comingsoon.html"
+          "comingsoon": "https://aimodsitalia.store/comingsoon.html"
         },
         "description": "Adobe Lightroom CC \u00e8 lo strumento essenziale per la fotografia digitale. Ti permette di organizzare, modificare e perfezionare le tue immagini, specialmente i file RAW, con controlli potenti e intuitivi. Se cerchi un flusso di lavoro completo per migliorare la qualit\u00e0 delle tue foto, Lightroom \u00e8 la soluzione.",
         "guida": "0. Disinstalla eventuali versioni precedentemente installate di Adobe Lightroom CC.\n\n1. Se non lo possiedi, installa Adobe Creative Cloud dallo store.\n\n2. Dall'omonima cartella nel .dmg, usa l'installer per installare Adobe Lightroom CC.\n\tNOTA - Se Mac dice che il file \u00e8 danneggiato e dovrebbe essere spostato nel cestino\n\t\t1. Fai tasto destro sul file \u201cInstall\u201d, quindi scegli \u201cCopia\u201d.\n\t\t2. Apri un terminale.\n\t\t3. Digita sudo xattr -dr com.apple.quarantine incolla_qui, quindi premi Invio (inserisci la password di Mac quando richiesto; i caratteri non si vedono per sicurezza).\n\t\t4. Riesegui il file \u201cInstall\u201d\n\tNOTA - Se Mac mostra un messaggio di errore con un simbolo rosso\n\t\t1. Fai tasto destro sul file \u201cInstall\u201d, quindi scegli \u201cMostra contenuto pacchetto\u201d\n\t\t2. Naviga in \"Contents\" > \"MacOS\", quindi avvia il file \"install\"\n\n3. Terminata l'installazione, sostituisci l'applicazione di Adobe Lightroom CC all'interno della relativa cartella dentro la cartella Applicazioni."
@@ -391,7 +381,7 @@
           "macos-14-universal": "https://devuploads.com/dxf9cus0mbkn",
           "macos-15-universal": "https://devuploads.com/dxf9cus0mbkn",
           "macos-26-universal": "https://devuploads.com/dxf9cus0mbkn",
-          "universal": "https://aimodsitalia.store/comingsoon.html"
+          "comingsoon": "https://aimodsitalia.store/comingsoon.html"
         },
         "description": "Adobe InDesign \u00e8 il software professionale di riferimento per il desktop publishing e l'impaginazione. \u00c8 lo strumento ideale per creare layout destinati alla stampa o al digitale, gestendo con precisione tipografia ed elementi grafici. Perfetto per realizzare riviste, libri, brochure, eBook e PDF interattivi dall'aspetto curato e professionale.",
         "guida": "0. Disinstalla eventuali versioni precedentemente installate di Adobe InDesign.\n\n1. Se non lo possiedi, installa Adobe Creative Cloud dallo store.\n\n2. Dall'omonima cartella nel .dmg, usa l'installer per installare Adobe InDesign.\n\tNOTA - Se Mac dice che il file \u00e8 danneggiato e dovrebbe essere spostato nel cestino\n\t\t1. Fai tasto destro sul file \u201cInstall\u201d, quindi scegli \u201cCopia\u201d.\n\t\t2. Apri un terminale.\n\t\t3. Digita sudo xattr -dr com.apple.quarantine incolla_qui, quindi premi Invio (inserisci la password di Mac quando richiesto; i caratteri non si vedono per sicurezza).\n\t\t4. Riesegui il file \u201cInstall\u201d\n\tNOTA - Se Mac mostra un messaggio di errore con un simbolo rosso\n\t\t1. Fai tasto destro sul file \u201cInstall\u201d, quindi scegli \u201cMostra contenuto pacchetto\u201d\n\t\t2. Naviga in \"Contents\" > \"MacOS\", quindi avvia il file \"install\"\n\n3. Terminata l'installazione, sostituisci l'applicazione di Adobe Indesign all'interno della relativa cartella dentro la cartella Applicazioni."
@@ -405,7 +395,7 @@
           "macos-14-universal": "https://devuploads.com/gzh1hf2j1hsx",
           "macos-15-universal": "https://devuploads.com/gzh1hf2j1hsx",
           "macos-26-universal": "https://devuploads.com/gzh1hf2j1hsx",
-          "universal": "https://aimodsitalia.store/comingsoon.html"
+          "comingsoon": "https://aimodsitalia.store/comingsoon.html"
         },
         "imageUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/images/Adobe/Adobe_InCopy.png",
         "description": "Adobe InCopy \u00e8 lo strumento per copywriter ed editor che lavorano con InDesign. Permette di scrivere e revisionare testi mentre i designer impaginano, tutto sullo stesso file. \u00c8 la soluzione professionale per un flusso di lavoro editoriale parallelo, efficiente e senza conflitti.",
@@ -430,7 +420,7 @@
           "macos-26-arm64": "https://aimodsitalia.store/comingsoon.html",
           "macos-26-x86_64": "https://devuploads.com/t7qc38jl4wo7",
           "macos-26-universal": "https://aimodsitalia.store/comingsoon.html",
-          "universal": "https://aimodsitalia.store/comingsoon.html"
+          "comingsoon": "https://aimodsitalia.store/comingsoon.html"
         },
         "imageUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/images/Adobe/Adobe_Premiere.png",
         "description": "Scegli lo standard del settore. Premiere Pro offre la precisione e gli strumenti necessari per trasformare le riprese in prodotti professionali. \u00c8 l\u2019investimento definitivo per la qualit\u00e0 dei tuoi video.",
@@ -451,7 +441,7 @@
           "macos-14-universal": "https://devuploads.com/m13uv1ic4uvl",
           "macos-15-universal": "https://devuploads.com/m13uv1ic4uvl",
           "macos-26-universal": "",
-          "universal": "https://aimodsitalia.store/comingsoon.html"
+          "comingsoon": "https://aimodsitalia.store/comingsoon.html"
         },
         "description": "Specializzato nel Recupero di Documenti, Foto, Video, Musica e Archivio.\nRecupera da SD Card, Memory Card, PC/MAC, Disco Rigido, Fotocamera, Unit\u00e0 USB, Cestino ecc..\n\n"
       },
@@ -470,7 +460,7 @@
           "macos-15-x86_64": "https://devuploads.com/r7p6j7ooku82",
           "macos-26-arm64": "",
           "macos-26-x86_64": "",
-          "universal": "https://aimodsitalia.store/comingsoon.html"
+          "comingsoon": "https://aimodsitalia.store/comingsoon.html"
         },
         "description": "Wondershare Filmora \u00e8 una delle piattaforme di montaggio video pi\u00f9 avanzate, grazie alla sua integrazione di funzionalit\u00e0 basate sull'intelligenza artificiale.\nTra queste, spiccano l'editing copilota AI, l'editing AI basato sul testo, la creazione di miniature AI e il generatore di musica AI.\n\n"
       },
@@ -489,7 +479,7 @@
           "macos-15-x86_64": "https://devuploads.com/bu70qbkyp7q0",
           "macos-26-arm64": "",
           "macos-26-x86_64": "",
-          "universal": "https://aimodsitalia.store/comingsoon.html"
+          "comingsoon": "https://aimodsitalia.store/comingsoon.html"
         },
         "description": "Il pi\u00f9 semplice editor PDF per creare, modificare, convertire e firmare documenti PDF su desktop, mobile e web.\n\n"
       },
@@ -508,7 +498,7 @@
           "macos-15-x86_64": "https://devuploads.com/ynvod81idbyh",
           "macos-26-arm64": "",
           "macos-26-x86_64": "",
-          "universal": "https://aimodsitalia.store/comingsoon.html"
+          "comingsoon": "https://aimodsitalia.store/comingsoon.html"
         },
         "description": "Wondershare UniConverter \u00e8 un software versatile per la conversione video, che supporta oltre 1000 formati.\nConsente anche compressione, editing, masterizzazione su DVD, download da web e registrazione dello schermo, offrendo un'interfaccia intuitiva e prestazioni rapide per utenti professionali e amatoriali."
       }
@@ -537,7 +527,7 @@
           "macos-26-arm64": "",
           "macos-26-x86_64": "",
           "macos-26-universal": "",
-          "universal": "https://aimodsitalia.store/comingsoon.html"
+          "comingsoon": "https://aimodsitalia.store/comingsoon.html"
         },
         "description": "Il nuovo e migliore modo per trasferire i tuoi giochi e le tue app preferite sul tuo dispositivo iOS, Apple Silicon Mac o Apple TV.\nNon \u00e8 richiesto il jailbreak, Sideloadly \u00e8 stato creato pensando ai dispositivi senza jailbreak.\n\n"
       },
@@ -561,7 +551,7 @@
           "macos-26-arm64": "",
           "macos-26-x86_64": "",
           "macos-26-universal": "",
-          "universal": "https://aimodsitalia.store/comingsoon.html"
+          "comingsoon": "https://aimodsitalia.store/comingsoon.html"
         },
         "description": "Altstore \u00e8 un negozio di app alternativo per dispositivi iOS non jailbreak.\nPuoi installare app di terze parti sui dispositivi Apple senza jailbreak e sideloading con facilit\u00e0.\n\n"
       }
@@ -590,7 +580,7 @@
           "macos-26-arm64": "",
           "macos-26-x86_64": "",
           "macos-26-universal": "",
-          "universal": "https://aimodsitalia.store/comingsoon.html"
+          "comingsoon": "https://aimodsitalia.store/comingsoon.html"
         },
         "description": "CleanMyMac X \u00e8 un potente strumento di pulizia, accelerazione e protezione, progettato per consentire al tuo Mac di funzionare a pieno regime.\nRimuovi file grandi e vecchi, disinstalla app ed elimina dati inutili che sprecano spazio sul disco.\n\n"
       },
@@ -604,7 +594,7 @@
           "macos-14-universal": "https://devuploads.com/nj76141qyv5k",
           "macos-15-universal": "https://devuploads.com/nj76141qyv5k",
           "macos-26-universal": "",
-          "universal": "https://aimodsitalia.store/comingsoon.html"
+          "comingsoon": "https://aimodsitalia.store/comingsoon.html"
         },
         "description": "La soluzione preferita per l'analisi e la creazione di grafici, creata appositamente per la ricerca scientifica.\nUnisciti ai principali scienziati del mondo e scopri come puoi utilizzare Prism per risparmiare tempo, fare scelte di analisi pi\u00f9 appropriate, rappresentare graficamente e presentare elegantemente la tua ricerca scientifica.\n\n"
       },
@@ -623,7 +613,7 @@
           "macos-15-x86_64": "https://devuploads.com/er6tdfoyl1u3",
           "macos-26-arm64": "",
           "macos-26-x86_64": "",
-          "universal": "https://aimodsitalia.store/comingsoon.html"
+          "comingsoon": "https://aimodsitalia.store/comingsoon.html"
         },
         "description": "Bootstrap Studio \u00e8 una potente app desktop per la creazione di siti Web reattivi utilizzando il framework Bootstrap.\nViene fornito con un gran numero di componenti integrati, che puoi trascinare e rilasciare per assemblare pagine Web reattive.\nL'app \u00e8 costruita sul popolarissimo framework Bootstrap ed esporta HTML pulito e semantico.\n\n"
       },
@@ -647,7 +637,7 @@
           "macos-26-arm64": "",
           "macos-26-x86_64": "",
           "macos-26-universal": "",
-          "universal": "https://aimodsitalia.store/comingsoon.html"
+          "comingsoon": "https://aimodsitalia.store/comingsoon.html"
         },
         "description": "Sfrutta tutta la potenza del tuo Mac quando usi VMware Fusion per eseguire Windows, Linux, container, Kubernetes e altro ancora nelle macchine virtuali (VM).\nEsegui quasi tutti i sistemi operativi su un Mac.\nL'esecuzione di Windows su Mac \u00e8 solo l'inizio.\nScegli tra centinaia di sistemi operativi supportati, dalle distribuzioni Linux pronte per il cloud all'ultimo Windows 11 su Mac Intel o Apple Silicon, il tutto senza riavviare.\n\n"
       },
@@ -661,7 +651,7 @@
           "macos-14-universal": "https://devuploads.com/qwnkz3arojqu",
           "macos-15-universal": "https://devuploads.com/qwnkz3arojqu",
           "macos-26-universal": "",
-          "universal": "https://aimodsitalia.store/comingsoon.html"
+          "comingsoon": "https://aimodsitalia.store/comingsoon.html"
         },
         "description": "Il tuo cloud, per la produttivit\u00e0 al lavoro e nella vita privata.\nLe applicazioni comprese, a seconda delle versioni, sono le seguenti:\n- Excel\n- OneNote ; da non confondere questa versione con l'app gratuita UWP\n- Outlook\n- PowerPoint\n- Word\n\n"
       },
@@ -675,7 +665,7 @@
           "macos-14-universal": "https://devuploads.com/qzr28qgix9u5",
           "macos-15-universal": "https://devuploads.com/qzr28qgix9u5",
           "macos-26-universal": "",
-          "universal": "https://aimodsitalia.store/comingsoon.html"
+          "comingsoon": "https://aimodsitalia.store/comingsoon.html"
         },
         "description": "\nAutoCAD \u00e8 un programma di disegno tecnico assistito dal computer ideato nel 1982 dalla software house statunitense Autodesk\ne trova la sua massima utilizzazione come supporto alla produzione di disegni bi- e tridimensionali in ambito ingegneristico, architettonico, meccanico ed elettrotecnico.\n\n"
       }
