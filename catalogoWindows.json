@@ -350,20 +350,6 @@
     "UUID": "40"
   },
   {
-    "Nome": "iTubeGo Musify",
-    "Link": "https://devuploads.com/mymzeoplsshx",
-    "Linkx32": null,
-    "LinkR": "",
-    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Downloader/iTubeGo_Musify.png",
-    "Sezione": "Downloader",
-    "Descrizione": "iTubeGo Musify è un software sviluppato da iTubeGo per scaricare e convertire musica da varie piattaforme online.",
-    "Tooltip": "iTubeGo Musify v3.6.0",
-    "MRicerca": "itubego",
-    "Hash": "",
-    "HashX32": null,
-    "UUID": "41"
-  },
-  {
     "Nome": "4K Video Downloader Plus",
     "Link": "https://devuploads.com/rn9qvmmx32c5",
     "Linkx32": null,
@@ -2883,6 +2869,4 @@
     "HashX32": null,
     "UUID": "254"
   }
-
 ]
-
