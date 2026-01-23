@@ -1,11 +1,12 @@
 {
-  "version": "1.0.2.8",
+  "version": "1.0.2.9",
   "releaseNotes": [
-"Fix errore download"
+"Rimozione visualizzazione hash"
   ],
   "updateUrl": "https://github.com/AMStore-na/Store/releases/download/Store/AIMODS-Store.exe",
   "lavori": "false"
 
 }
+
 
 
