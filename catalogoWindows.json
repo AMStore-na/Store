@@ -23,7 +23,7 @@
     "Descrizione": "La patch universale per la suite Adobe by @mrnico98 rimuove le notifiche di licenza non genuina per consentire l’uso completo dei programmi Adobe senza interruzioni. Permette di eludere i controlli di attivazione, consentendo il mantenimento delle funzionalità sbloccate a lungo termine. ",
     "Tooltip": "Patch Suite Adobe v.0.0.0.4",
     "MRicerca": "Attivatori",
-    "Hash": "da9c4f10ea6c6210",
+    "Hash": "da9c4f10ea6c621",
     "HashX32": "da9c4f10ea6c6210",
     "UUID": "209"
   },
@@ -2883,4 +2883,5 @@
     "HashX32": null,
     "UUID": "254"
   }
+
 ]
