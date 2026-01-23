@@ -1723,15 +1723,15 @@
   },
   {
     "Nome": "Movavi Screen Recorder",
-    "Link": "https://devuploads.com/lc2zvbcwp5er",
+    "Link": "https://devuploads.com/cavkvymgv7w1",
     "Linkx32": null,
     "LinkR": "",
     "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Registrazione%20Schermo/Movavi_Screen_Recorder.png",
     "Sezione": "Registrazione Schermo",
     "Descrizione": "Movavi Screen Recorder è un software di registrazione dello schermo progettato per catturare video e audio dal tuo schermo PC o Mac.",
-    "Tooltip": "Movavi Screen Recorder",
+    "Tooltip": "Movavi Screen Recorder v24.6.1",
     "MRicerca": "movavi",
-    "Hash": "",
+    "Hash": "34964b63408be08f",
     "HashX32": null,
     "UUID": "137"
   },
@@ -2869,5 +2869,4 @@
     "HashX32": null,
     "UUID": "254"
   }
-
 ]
