@@ -1352,7 +1352,7 @@
     "Sezione": "Networking e Wi-Fi",
     "Descrizione": "Avira Phantom è un servizio di VPN (Virtual Private Network) offerto da Avira, una nota azienda di sicurezza informatica.",
     "Tooltip": "Avira Phantom VPN Pro v2.44.1.19908",
-    "MRicerca": "avira",
+    "MRicerca": "vpn",
     "Hash": "cdc7aaa065950896",
     "HashX32": null,
     "UUID": "20"
