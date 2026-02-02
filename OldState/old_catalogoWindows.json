@@ -602,6 +602,20 @@
         "UUID": "290"
     },
     {
+        "Nome": "Leawo Prof. Media",
+        "Link": "https://devuploads.com/bjyutlmuzx2p",
+        "Linkx32": "",
+        "LinkR": null,
+        "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Downloader/Leawo_Prof._Media.png",
+        "Sezione": "Downloader",
+        "Descrizione": "",
+        "Tooltip": "Leawo Prof. Media v13.0.0.7",
+        "MRicerca": "leavo",
+        "Hash": "ee605a47c7a28918",
+        "HashX32": "",
+        "UUID": "291"
+    },
+    {
         "Nome": "Phoenix Play",
         "Link": "",
         "Linkx32": "",
@@ -1373,16 +1387,16 @@
     },
     {
         "Nome": "Wondershare PDFelement",
-        "Link": "https://devuploads.com/gk2j4u7paj35",
-        "Linkx32": null,
+        "Link": "https://devuploads.com/ib0hmsv8jajp",
+        "Linkx32": "",
         "LinkR": null,
         "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/PDF%20e%20Office/Wondershare_PDFelement.png",
         "Sezione": "PDF e Office",
         "Descrizione": "Wondershare PDFelement è un software completo per la gestione e la modifica di documenti PDF, progettato per offrire funzionalità professionali con un’interfaccia semplice e intuitiva.",
-        "Tooltip": "Wondershare PDFelement v12.0.2.3719",
+        "Tooltip": "Wondershare PDFelement v12.1.8.3995",
         "MRicerca": "pdf",
-        "Hash": "5b856faeef3a1951",
-        "HashX32": null,
+        "Hash": "09a69aaba3b28318",
+        "HashX32": "",
         "UUID": "162"
     },
     {
@@ -2353,16 +2367,16 @@
     },
     {
         "Nome": "Glary Utilities Pro",
-        "Link": "https://devuploads.com/53ypgh31uuwb",
-        "Linkx32": null,
+        "Link": "https://devuploads.com/rck7cp6fk1os",
+        "Linkx32": "",
         "LinkR": "",
         "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Utility%20di%20Sistema%20e%20Manutenzione/Glary_Utilities_Pro.png",
         "Sezione": "Utility di Sistema e Manutenzione",
         "Descrizione": "Glary Utilities Pro è un software di utilità completo progettato per ottimizzare, pulire e proteggere il tuo PC. Offre oltre 20 strumenti per migliorare le prestazioni del sistema, mantenere la privacy e risolvere problemi comuni.",
-        "Tooltip": "Glary Utilities Pro v6.32.0.36",
+        "Tooltip": "Glary Utilities Pro v6.37.0.41",
         "MRicerca": "glary",
-        "Hash": "1764399dae0cec35",
-        "HashX32": null,
+        "Hash": "24d0d8a5d42289ce",
+        "HashX32": "",
         "UUID": "69"
     },
     {
@@ -2647,16 +2661,16 @@
     },
     {
         "Nome": "CyberLink PowerDirector",
-        "Link": "https://devuploads.com/gc9f0djf7if8",
-        "Linkx32": null,
+        "Link": "https://devuploads.com/motr6i9hdikl",
+        "Linkx32": "",
         "LinkR": "",
         "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Video%20e%20Animazione/CyberLink_PowerDirector.png",
         "Sezione": "Video e Animazione",
         "Descrizione": "CyberLink PowerDirector è un software di montaggio video avanzato e intuitivo, disponibile per Windows e Mac. È noto per la sua capacità di creare video professionali con una vasta gamma di strumenti e funzionalità.",
-        "Tooltip": "CyberLink PowerDirector Ultimate 2025 v23.1.1322.0",
+        "Tooltip": "CyberLink PowerDirector Ultimate 2026 v24.1.1326.0",
         "MRicerca": "cyberlink",
-        "Hash": "",
-        "HashX32": null,
+        "Hash": "bc616eed308bc5a9",
+        "HashX32": "",
         "UUID": "60"
     },
     {
