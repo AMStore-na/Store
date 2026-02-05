@@ -351,16 +351,16 @@
   },
   {
     "Nome": "4K Video Downloader Plus",
-    "Link": "https://devuploads.com/rn9qvmmx32c5",
-    "Linkx32": null,
+    "Link": "https://devuploads.com/99qa8uutzf80",
+    "Linkx32": "",
     "LinkR": "",
     "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Downloader/4K_Video_Downloader_Plus.png",
     "Sezione": "Downloader",
     "Descrizione": "4K Video Downloader è un'applicazione multipiattaforma che consente di salvare video di alta qualità da YouTube e altri siti web in pochi secondi.",
-    "Tooltip": "4K Video Downloader Plus v25.4.2",
+    "Tooltip": "4K Video Downloader Plus v26.0.2.028",
     "MRicerca": "4k",
-    "Hash": "c5ca0d4ec42d1668",
-    "HashX32": null,
+    "Hash": "df6b2561a2039f3b",
+    "HashX32": "",
     "UUID": "42"
   },
   {
@@ -2605,16 +2605,16 @@
   },
   {
     "Nome": "Freemake Video Converter",
-    "Link": "https://devuploads.com/zkdbbb14gur2",
-    "Linkx32": null,
+    "Link": "https://devuploads.com/pxmhw6nj6bms",
+    "Linkx32": "",
     "LinkR": "",
     "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Video%20e%20Animazione/Freemake_Video_Converter.png",
     "Sezione": "Video e Animazione",
     "Descrizione": "Freemake Video Converter è un software freemium sviluppato da Ellora Assets Corporation. È progettato per convertire i file video in vari formati, masterizzare video su DVD e creare presentazioni fotografiche.",
-    "Tooltip": "Freemake Video Converter v5.0.0.18",
+    "Tooltip": "Freemake Video Converter v5.0.0.34",
     "MRicerca": "frremake",
-    "Hash": "5e4fec675a72f266",
-    "HashX32": null,
+    "Hash": "315ee7aa2a5e124e",
+    "HashX32": "",
     "UUID": "38"
   },
   {
