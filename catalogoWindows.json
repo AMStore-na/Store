@@ -2882,5 +2882,19 @@
     "Hash": "53124b8a89c572bd",
     "HashX32": null,
     "UUID": "254"
+  },
+  {
+    "Nome": "HD Tune Pro",
+    "Link": "https://devuploads.com/gsbhewqt7i3z",
+    "Linkx32": "",
+    "LinkR": null,
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Ricerca%20e%20Analisi%20Dati/HD_Tune_Pro.png",
+    "Sezione": "Ricerca e Analisi Dati",
+    "Descrizione": "",
+    "Tooltip": "HD Tune Pro v6.00",
+    "MRicerca": "hd",
+    "Hash": "7b364e65f0c3511a",
+    "HashX32": "",
+    "UUID": "292"
   }
 ]
