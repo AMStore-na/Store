@@ -1,16 +1,16 @@
 [
   {
     "Nome": "WinHubX",
-    "Link": "https://devuploads.com/smiyg5e7fu39",
-    "Linkx32": "https://devuploads.com/smiyg5e7fu39",
+    "Link": "https://github.com/MrNico98/WinHubX/releases/download/WinHubX-v.2.5.0.4/WinHubX.exe",
+    "Linkx32": "https://github.com/MrNico98/WinHubX/releases/download/WinHubX-v.2.5.0.4/WinHubX.exe",
     "LinkR": "",
     "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Attivatori/WinHubX.png",
     "Sezione": "Attivatori",
     "Descrizione": "Con questo tool sarete in grado di scaricare file ISO per la maggior parte delle versioni ed edizioni di Windows comprese edizioni All in One e Lite. Inoltre potrete scaricare, installare ed attivare le ultime versioni di Office sia in setup online sia offline. Infine abbiamo inserito la sezione Tools che include scorciatoie ai nostri tool come WinCustomizer, WIMToolKit e altre piccole chicche che lasciamo scoprire a voi!",
-    "Tooltip": "WinHubX v.2.5.0.3",
+    "Tooltip": "WinHubX v.2.5.0.4",
     "MRicerca": "Tools AIMODS, Office",
     "Hash": "",
-    "HashX32": null,
+    "HashX32": "",
     "UUID": "43"
   },
   {
@@ -351,16 +351,16 @@
   },
   {
     "Nome": "4K Video Downloader Plus",
-    "Link": "https://devuploads.com/rn9qvmmx32c5",
-    "Linkx32": null,
+    "Link": "https://devuploads.com/99qa8uutzf80",
+    "Linkx32": "",
     "LinkR": "",
     "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Downloader/4K_Video_Downloader_Plus.png",
     "Sezione": "Downloader",
     "Descrizione": "4K Video Downloader è un'applicazione multipiattaforma che consente di salvare video di alta qualità da YouTube e altri siti web in pochi secondi.",
-    "Tooltip": "4K Video Downloader Plus v25.4.2",
+    "Tooltip": "4K Video Downloader Plus v26.0.2.028",
     "MRicerca": "4k",
-    "Hash": "c5ca0d4ec42d1668",
-    "HashX32": null,
+    "Hash": "df6b2561a2039f3b",
+    "HashX32": "",
     "UUID": "42"
   },
   {
@@ -505,16 +505,16 @@
   },
   {
     "Nome": "4K YouTube to MP3",
-    "Link": "https://devuploads.com/322cmrtxnmp8",
-    "Linkx32": null,
+    "Link": "https://devuploads.com/vytmiyha2e37",
+    "Linkx32": "",
     "LinkR": null,
     "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Downloader/4K_YouTube_to_MP3.png",
     "Sezione": "Downloader",
     "Descrizione": "4K YouTube to MP3 è un'applicazione desktop per Windows, macOS e Linux che consente di scaricare e convertire l'audio da video YouTube e altri siti in formato MP3, M4A o OGG. È ideale per salvare musica, podcast, audiolibri e altri contenuti audio per l'ascolto offline.",
-    "Tooltip": "4K YouTube to MP3 v25.4.2",
+    "Tooltip": "4K YouTube to MP3 v26.0.2082",
     "MRicerca": "4K YouTube to MP3",
-    "Hash": "0487218962dc9112",
-    "HashX32": null,
+    "Hash": "0a627b13a4e2d4c7",
+    "HashX32": "",
     "UUID": "207"
   },
   {
@@ -602,6 +602,20 @@
     "UUID": "290"
   },
   {
+    "Nome": "Leawo Prof. Media",
+    "Link": "https://devuploads.com/bjyutlmuzx2p",
+    "Linkx32": "",
+    "LinkR": null,
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Downloader/Leawo_Prof._Media.png",
+    "Sezione": "Downloader",
+    "Descrizione": "",
+    "Tooltip": "Leawo Prof. Media v13.0.0.7",
+    "MRicerca": "leavo",
+    "Hash": "ee605a47c7a28918",
+    "HashX32": "",
+    "UUID": "291"
+  },
+  {
     "Nome": "Phoenix Play",
     "Link": "",
     "Linkx32": "",
@@ -645,16 +659,16 @@
   },
   {
     "Nome": "Capture One Enterprise",
-    "Link": "https://devuploads.com/4jztfltryye4",
-    "Linkx32": null,
+    "Link": "https://devuploads.com/rjm7ddtoymr0",
+    "Linkx32": "",
     "LinkR": "",
     "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Grafica%20e%20Design/Capture_One_Enterprise.png",
     "Sezione": "Grafica e Design",
     "Descrizione": "Capture One è un software professionale per la gestione, l'editing e il ritocco delle fotografie, sviluppato da Phase One. È particolarmente apprezzato dai fotografi per la sua eccellente gestione dei file RAW, il controllo avanzato del colore e l'editing non distruttivo.",
-    "Tooltip": "Capture One Enterprise v16.5.8.2763",
+    "Tooltip": "Capture One Enterprise v16.7.3.3328",
     "MRicerca": "capture",
-    "Hash": "",
-    "HashX32": null,
+    "Hash": "e171a2d77f62af6a",
+    "HashX32": "",
     "UUID": "63"
   },
   {
@@ -1037,16 +1051,16 @@
   },
   {
     "Nome": "Spotify",
-    "Link": "https://devuploads.com/j12c7fi8xsyg",
-    "Linkx32": "https://devuploads.com/j12c7fi8xsyg",
+    "Link": "https://devuploads.com/mis0bj8y6w48",
+    "Linkx32": "https://devuploads.com/mis0bj8y6w48",
     "LinkR": "",
     "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Musica%20e%20Audio/Spotify.png",
     "Sezione": "Musica e Audio",
     "Descrizione": "Spotify è un servizio musicale digitale che offre accesso a milioni di brani, podcast e playlist",
-    "Tooltip": "Spotify v.1.2.78.418",
+    "Tooltip": "Spotify v.1.2.82.428",
     "MRicerca": "Musica",
-    "Hash": "d5716afc7d39481d",
-    "HashX32": "d5716afc7d39481d",
+    "Hash": "520f675ae53683ea",
+    "HashX32": "520f675ae53683ea",
     "UUID": "129"
   },
   {
@@ -1373,16 +1387,16 @@
   },
   {
     "Nome": "Wondershare PDFelement",
-    "Link": "https://devuploads.com/gk2j4u7paj35",
-    "Linkx32": null,
+    "Link": "https://devuploads.com/ib0hmsv8jajp",
+    "Linkx32": "",
     "LinkR": null,
     "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/PDF%20e%20Office/Wondershare_PDFelement.png",
     "Sezione": "PDF e Office",
     "Descrizione": "Wondershare PDFelement è un software completo per la gestione e la modifica di documenti PDF, progettato per offrire funzionalità professionali con un’interfaccia semplice e intuitiva.",
-    "Tooltip": "Wondershare PDFelement v12.0.2.3719",
+    "Tooltip": "Wondershare PDFelement v12.1.8.3995",
     "MRicerca": "pdf",
-    "Hash": "5b856faeef3a1951",
-    "HashX32": null,
+    "Hash": "09a69aaba3b28318",
+    "HashX32": "",
     "UUID": "162"
   },
   {
@@ -1904,6 +1918,20 @@
     "UUID": "285"
   },
   {
+    "Nome": "HD Tune Pro",
+    "Link": "https://devuploads.com/gsbhewqt7i3z",
+    "Linkx32": "",
+    "LinkR": null,
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Ricerca%20e%20Analisi%20Dati/HD_Tune_Pro.png",
+    "Sezione": "Ricerca e Analisi Dati",
+    "Descrizione": "",
+    "Tooltip": "HD Tune Pro v6.00",
+    "MRicerca": "hd",
+    "Hash": "7b364e65f0c3511a",
+    "HashX32": "",
+    "UUID": "292"
+  },
+  {
     "Nome": "Malwarebytes",
     "Link": "https://devuploads.com/6r8q9eo2jp3d",
     "Linkx32": null,
@@ -2129,16 +2157,16 @@
   },
   {
     "Nome": "IObit Uninstaller",
-    "Link": "https://devuploads.com/i80qt46a84wi",
-    "Linkx32": null,
+    "Link": "https://devuploads.com/qhy0333ab9cb",
+    "Linkx32": "",
     "LinkR": "",
     "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Utility%20di%20Sistema%20e%20Manutenzione/IObit_Uninstaller.png",
     "Sezione": "Utility di Sistema e Manutenzione",
     "Descrizione": "IObit Uninstaller è un software progettato per rimuovere completamente programmi indesiderati, bundleware, app di Windows e plugin del browser.",
-    "Tooltip": "IObit Uninstaller Pro v14.4.0.3",
+    "Tooltip": "IObit Uninstaller Pro v15.3.0.1",
     "MRicerca": "iobit",
-    "Hash": "27faf44e5facd22e",
-    "HashX32": null,
+    "Hash": "770f041868ae4fd8",
+    "HashX32": "",
     "UUID": "123"
   },
   {
@@ -2353,16 +2381,16 @@
   },
   {
     "Nome": "Glary Utilities Pro",
-    "Link": "https://devuploads.com/53ypgh31uuwb",
-    "Linkx32": null,
+    "Link": "https://devuploads.com/rck7cp6fk1os",
+    "Linkx32": "",
     "LinkR": "",
     "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Utility%20di%20Sistema%20e%20Manutenzione/Glary_Utilities_Pro.png",
     "Sezione": "Utility di Sistema e Manutenzione",
     "Descrizione": "Glary Utilities Pro è un software di utilità completo progettato per ottimizzare, pulire e proteggere il tuo PC. Offre oltre 20 strumenti per migliorare le prestazioni del sistema, mantenere la privacy e risolvere problemi comuni.",
-    "Tooltip": "Glary Utilities Pro v6.32.0.36",
+    "Tooltip": "Glary Utilities Pro v6.37.0.41",
     "MRicerca": "glary",
-    "Hash": "1764399dae0cec35",
-    "HashX32": null,
+    "Hash": "24d0d8a5d42289ce",
+    "HashX32": "",
     "UUID": "69"
   },
   {
@@ -2395,8 +2423,8 @@
   },
   {
     "Nome": "IObit Driver Booster",
-    "Link": "https://devuploads.com/c8zyaxe0i04j",
-    "Linkx32": null,
+    "Link": "https://devuploads.com/rw8iazav58fu",
+    "Linkx32": "",
     "LinkR": "",
     "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Utility%20di%20Sistema%20e%20Manutenzione/IObit_Driver_Booster.png",
     "Sezione": "Utility di Sistema e Manutenzione",
@@ -2404,7 +2432,7 @@
     "Tooltip": "IObit Driver Booster v13.2.0.184",
     "MRicerca": "IObit",
     "Hash": "bf93ec7a2e785484",
-    "HashX32": null,
+    "HashX32": "",
     "UUID": "122"
   },
   {
@@ -2507,16 +2535,16 @@
   },
   {
     "Nome": "MiniCleanerTool",
-    "Link": "https://github.com/MrNico98/MiniCleanerTool/releases/download/Release-v.0.0.0.3/MiniCleanerTool.exe",
-    "Linkx32": "https://github.com/MrNico98/MiniCleanerTool/releases/download/Release-v.0.0.0.3/MiniCleanerTool.exe",
+    "Link": "https://devuploads.com/x83quz34is8u",
+    "Linkx32": "https://devuploads.com/x83quz34is8u",
     "LinkR": null,
     "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Utility%20di%20Sistema%20e%20Manutenzione/MiniCleanerTool.png",
     "Sezione": "Utility di Sistema e Manutenzione",
     "Descrizione": "MiniCleanerTool è un’app leggera e veloce pensata per ottimizzare al massimo le prestazioni del tuo PC. Rimuove file inutili, libera spazio prezioso e mantiene il sistema reattivo con un’interfaccia semplice e intuitiva. Se vuoi un computer più pulito e stabile, senza complicazioni, questa è la soluzione ideale da provare subito.",
-    "Tooltip": "MiniCleanerTool v.0.0.0.0",
+    "Tooltip": "MiniCleanerTool v.0.0.0.5",
     "MRicerca": "Tools AIMODS, Pulizia",
-    "Hash": null,
-    "HashX32": null,
+    "Hash": "e10793c00b779257",
+    "HashX32": "e10793c00b779257",
     "UUID": "223"
   },
   {
@@ -2591,16 +2619,16 @@
   },
   {
     "Nome": "Freemake Video Converter",
-    "Link": "https://devuploads.com/zkdbbb14gur2",
-    "Linkx32": null,
+    "Link": "https://devuploads.com/pxmhw6nj6bms",
+    "Linkx32": "",
     "LinkR": "",
     "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Video%20e%20Animazione/Freemake_Video_Converter.png",
     "Sezione": "Video e Animazione",
     "Descrizione": "Freemake Video Converter è un software freemium sviluppato da Ellora Assets Corporation. È progettato per convertire i file video in vari formati, masterizzare video su DVD e creare presentazioni fotografiche.",
-    "Tooltip": "Freemake Video Converter v5.0.0.18",
+    "Tooltip": "Freemake Video Converter v5.0.0.34",
     "MRicerca": "frremake",
-    "Hash": "5e4fec675a72f266",
-    "HashX32": null,
+    "Hash": "315ee7aa2a5e124e",
+    "HashX32": "",
     "UUID": "38"
   },
   {
@@ -2647,16 +2675,16 @@
   },
   {
     "Nome": "CyberLink PowerDirector",
-    "Link": "https://devuploads.com/gc9f0djf7if8",
-    "Linkx32": null,
+    "Link": "https://devuploads.com/motr6i9hdikl",
+    "Linkx32": "",
     "LinkR": "",
     "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Video%20e%20Animazione/CyberLink_PowerDirector.png",
     "Sezione": "Video e Animazione",
     "Descrizione": "CyberLink PowerDirector è un software di montaggio video avanzato e intuitivo, disponibile per Windows e Mac. È noto per la sua capacità di creare video professionali con una vasta gamma di strumenti e funzionalità.",
-    "Tooltip": "CyberLink PowerDirector Ultimate 2025 v23.1.1322.0",
+    "Tooltip": "CyberLink PowerDirector Ultimate 2026 v24.1.1326.0",
     "MRicerca": "cyberlink",
-    "Hash": "",
-    "HashX32": null,
+    "Hash": "bc616eed308bc5a9",
+    "HashX32": "",
     "UUID": "60"
   },
   {
