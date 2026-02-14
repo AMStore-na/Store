@@ -141,16 +141,16 @@
   },
   {
     "Nome": "3DF Zephyr",
-    "Link": "https://devuploads.com/42zt57ogl8pw",
-    "Linkx32": null,
+    "Link": "https://devuploads.com/zwyp4g00fs82",
+    "Linkx32": "",
     "LinkR": null,
     "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/CAD%2C%20Architettura%20e%20Ingegneria/3DF_Zephyr.png",
     "Sezione": "CAD, Architettura e Ingegneria",
-    "Descrizione": null,
-    "Tooltip": "3DF Zephyr v8.003",
+    "Descrizione": "",
+    "Tooltip": "3DF Zephyr v8.038",
     "MRicerca": "3df",
-    "Hash": "c45c105f366f17bd",
-    "HashX32": null,
+    "Hash": "3fbe56a0963cf9a6",
+    "HashX32": "",
     "UUID": "31"
   },
   {
