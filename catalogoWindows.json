@@ -1751,16 +1751,16 @@
   },
   {
     "Nome": "Bandicam",
-    "Link": "https://devuploads.com/0vuvg6scyr8h",
-    "Linkx32": "https://devuploads.com/0vuvg6scyr8h",
+    "Link": "https://devuploads.com/0v4pbe8s7llu",
+    "Linkx32": "",
     "LinkR": "",
     "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Registrazione%20Schermo/Bandicam.png",
     "Sezione": "Registrazione Schermo",
     "Descrizione": "Bandicam è un leggero programma di registrazione video per Windows che può catturaretutto quello che avviene sullo schermo in un file video di alta qualità.",
-    "Tooltip": "Bandicam v8.1.1.2518",
+    "Tooltip": "Bandicam v8.3.0.2533",
     "MRicerca": "bandicam",
-    "Hash": "ab6388d88d643e53",
-    "HashX32": "ab6388d88d643e53",
+    "Hash": "238a82f93b2d7f9b",
+    "HashX32": "",
     "UUID": "138"
   },
   {
