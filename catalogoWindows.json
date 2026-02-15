@@ -2702,20 +2702,6 @@
     "UUID": "62"
   },
   {
-    "Nome": "Face Rig",
-    "Link": "https://telegra.ph/FaceRig-Pro-v1312-06-19",
-    "Linkx32": null,
-    "LinkR": "",
-    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Video%20e%20Animazione/Face_Rig.png",
-    "Sezione": "Video e Animazione",
-    "Descrizione": "FaceRig è un software che simula i movimenti faciali di vari personaggi attraverso un dispositivo di cattura video. È stato successivamente sostituito da Animaze by FaceRig, che offre funzionalità più avanzate e una maggiore personalizzazione.",
-    "Tooltip": "Face Rig",
-    "MRicerca": "face",
-    "Hash": "",
-    "HashX32": null,
-    "UUID": "59"
-  },
-  {
     "Nome": "RecordFab",
     "Link": "https://devuploads.com/97pd17oj648a",
     "Linkx32": null,
