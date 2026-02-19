@@ -1933,16 +1933,16 @@
   },
   {
     "Nome": "Malwarebytes",
-    "Link": "https://devuploads.com/6r8q9eo2jp3d",
-    "Linkx32": null,
+    "Link": "https://devuploads.com/jy4y2p3yyh2x",
+    "Linkx32": "",
     "LinkR": "",
     "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Sicurezza%20e%20Privacy/Malwarebytes.png",
     "Sezione": "Sicurezza e Privacy",
     "Descrizione": "Malwarebytes è un software di sicurezza informatica progettato per rilevare e rimuovere malware, spyware, ransomware, adware e altre minacce pericolose.",
-    "Tooltip": "Malwarebytes",
-    "MRicerca": "Malwarebytes",
-    "Hash": "",
-    "HashX32": null,
+    "Tooltip": "Malwarebytes v5.1.2.109",
+    "MRicerca": "Malwarebytess",
+    "Hash": "0761ac4fc7b2dfc9",
+    "HashX32": "",
     "UUID": "25"
   },
   {
