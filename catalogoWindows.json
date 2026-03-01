@@ -336,6 +336,20 @@
     "UUID": "281"
   },
   {
+    "Nome": "SolidWorks",
+    "Link": "https://devuploads.com/520i4jspudod",
+    "Linkx32": "",
+    "LinkR": null,
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/CAD%2C%20Architettura%20e%20Ingegneria/SolidWorks.png",
+    "Sezione": "CAD, Architettura e Ingegneria",
+    "Descrizione": "",
+    "Tooltip": "SolidWorks 2026 SP1.1.Premium",
+    "MRicerca": "solidworks",
+    "Hash": "7327a5677bee561a",
+    "HashX32": "",
+    "UUID": "293"
+  },
+  {
     "Nome": "Multiecuscan",
     "Link": "https://devuploads.com/6zs4bdr29azy",
     "Linkx32": "https://devuploads.com/v7zmxuafjpma",
@@ -2882,19 +2896,5 @@
     "Hash": "53124b8a89c572bd",
     "HashX32": null,
     "UUID": "254"
-  },
-  {
-    "Nome": "SolidWorks",
-    "Link": "https://devuploads.com/520i4jspudod",
-    "Linkx32": "",
-    "LinkR": null,
-    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/CAD%2C%20Architettura%20e%20Ingegneria/SolidWorks.png",
-    "Sezione": "CAD, Architettura e Ingegneria",
-    "Descrizione": "",
-    "Tooltip": "SolidWorks 2026 SP1.1.Premium",
-    "MRicerca": "solidworks",
-    "Hash": "7327a5677bee561a",
-    "HashX32": "",
-    "UUID": "293"
   }
 ]
