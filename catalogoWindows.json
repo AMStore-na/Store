@@ -2896,5 +2896,19 @@
     "Hash": "53124b8a89c572bd",
     "HashX32": null,
     "UUID": "254"
+  },
+  {
+    "Nome": "Twitch Stream Tool",
+    "Link": "https://devuploads.com/qkw5fkqcmzfg",
+    "Linkx32": "https://devuploads.com/qkw5fkqcmzfg",
+    "LinkR": null,
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Downloader/Twitch_Stream_Tool.png",
+    "Sezione": "Downloader",
+    "Descrizione": "Tool per vedere live Twitch senza ADS, o scaricarle",
+    "Tooltip": "Twitch Stream Tool v1.0",
+    "MRicerca": "Riproduttore, Video",
+    "Hash": "e764dfa4bb15c9ca",
+    "HashX32": "e764dfa4bb15c9ca",
+    "UUID": "294"
   }
 ]
