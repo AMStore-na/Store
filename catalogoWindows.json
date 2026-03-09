@@ -239,16 +239,16 @@
   },
   {
     "Nome": "Autodesk 3DS Max 2026",
-    "Link": "https://devuploads.com/aegmptt56fau",
-    "Linkx32": null,
+    "Link": "https://devuploads.com/4v1d2ixz8fx2",
+    "Linkx32": "",
     "LinkR": null,
     "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/CAD%2C%20Architettura%20e%20Ingegneria/Autodesk_3DS_Max_2026.png",
     "Sezione": "CAD, Architettura e Ingegneria",
-    "Descrizione": null,
+    "Descrizione": "",
     "Tooltip": "Autodesk 3DS Max 2026 v2026.2",
     "MRicerca": "3ds",
     "Hash": "3b32e2d1a73b45c6",
-    "HashX32": null,
+    "HashX32": "",
     "UUID": "246"
   },
   {
@@ -295,8 +295,8 @@
   },
   {
     "Nome": "ZWCAD Architecture",
-    "Link": "https://devuploads.com/0k9nourwdx2x",
-    "Linkx32": null,
+    "Link": "https://devuploads.com/r7k0c48unpg9",
+    "Linkx32": "",
     "LinkR": null,
     "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/CAD%2C%20Architettura%20e%20Ingegneria/ZWCAD_Architecture_2025.png",
     "Sezione": "CAD, Architettura e Ingegneria",
@@ -304,7 +304,7 @@
     "Tooltip": "ZWCAD Architecture v2025",
     "MRicerca": "zvcad",
     "Hash": "9a09eccb3c1b0dd9",
-    "HashX32": null,
+    "HashX32": "",
     "UUID": "262"
   },
   {
@@ -2157,16 +2157,16 @@
   },
   {
     "Nome": "Araxis Merge",
-    "Link": "https://devuploads.com/zxxzgdrgd0bo",
-    "Linkx32": null,
+    "Link": "https://devuploads.com/onf27zzmecn9",
+    "Linkx32": "",
     "LinkR": "",
     "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Sviluppo%20Software,%20Web%20e%20IDE/Araxis_Merge.png",
     "Sezione": "Sviluppo Software, Web e IDE",
     "Descrizione": "Araxis Merge è un'applicazione avanzata per il confronto di file (diff), l'unione (merge) e la sincronizzazione di cartelle.",
     "Tooltip": "Araxis Merge Professional v2024.6002",
     "MRicerca": "araxis",
-    "Hash": "",
-    "HashX32": null,
+    "Hash": "015b988b28979b89",
+    "HashX32": "",
     "UUID": "51"
   },
   {
