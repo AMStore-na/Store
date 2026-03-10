@@ -352,11 +352,11 @@
   {
     "Nome": "Multiecuscan",
     "Link": "https://devuploads.com/6zs4bdr29azy",
-    "Linkx32": "https://devuploads.com/v7zmxuafjpma",
+    "Linkx32": "https://devuploads.com/3mxmj6nd3jte",
     "LinkR": null,
     "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Diagnostica%20Auto/Multiecuscan.png",
     "Sezione": "Diagnostica Auto",
-    "Descrizione": null,
+    "Descrizione": "",
     "Tooltip": "Multiecuscan",
     "MRicerca": "multiecuscan",
     "Hash": "f26fc081d20da6ff",
@@ -1163,8 +1163,8 @@
   },
   {
     "Nome": "MODO BASS 2",
-    "Link": "https://devuploads.com/dbftwrbppg39",
-    "Linkx32": null,
+    "Link": "https://devuploads.com/b2928zm60vyw",
+    "Linkx32": "",
     "LinkR": null,
     "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Musica%20e%20Audio/MODO_BASS_2.png",
     "Sezione": "Musica e Audio",
@@ -1172,7 +1172,7 @@
     "Tooltip": "Modo Bass 2 v2.0.3",
     "MRicerca": "bass",
     "Hash": "9bfee2218095f482",
-    "HashX32": null,
+    "HashX32": "",
     "UUID": "160"
   },
   {
@@ -1276,7 +1276,7 @@
   {
     "Nome": "MAGIX Movie Studio 2025 Platinum",
     "Link": "https://devuploads.com/noo5s5vuvo4r",
-    "Linkx32": null,
+    "Linkx32": "",
     "LinkR": null,
     "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Musica%20e%20Audio/MAGIX_Movie_Studio_2025_Windows.png",
     "Sezione": "Musica e Audio",
@@ -1284,7 +1284,7 @@
     "Tooltip": "MAGIX Movie Studio 2025 Platinum v24.0.1.239",
     "MRicerca": "magix",
     "Hash": "329271edaaeff057",
-    "HashX32": null,
+    "HashX32": "",
     "UUID": "252"
   },
   {
@@ -2913,8 +2913,8 @@
   },
   {
     "Nome": "HeavyM Pro+",
-    "Link": "https://devuploads.com/hnbnf2r8u2dd",
-    "Linkx32": null,
+    "Link": "https://devuploads.com/ojbvbdz3khs8",
+    "Linkx32": "",
     "LinkR": null,
     "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Video%20e%20Animazione/HeavyM_Pro+.png",
     "Sezione": "Video e Animazione",
@@ -2922,7 +2922,7 @@
     "Tooltip": "HeavyM Pro+ v2.14.1",
     "MRicerca": "heavym",
     "Hash": "53124b8a89c572bd",
-    "HashX32": null,
+    "HashX32": "",
     "UUID": "254"
   }
 ]
