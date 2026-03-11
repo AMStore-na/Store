@@ -434,20 +434,6 @@
     "UUID": "47"
   },
   {
-    "Nome": "Spotify Downloader",
-    "Link": "https://devuploads.com/4dp9z8f1s296",
-    "Linkx32": "https://devuploads.com/4dp9z8f1s296",
-    "LinkR": "",
-    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Downloader/Spotify_Downloader.png",
-    "Sezione": "Downloader",
-    "Descrizione": "Spotify downloader è uno strumento progettato per consentire agli utenti di scaricare brani musicali direttamente dal server di Spotify.",
-    "Tooltip": "Spotify Downloader v.0.2",
-    "MRicerca": "spotify",
-    "Hash": "876087fc6716f64c",
-    "HashX32": "876087fc6716f64c",
-    "UUID": "48"
-  },
-  {
     "Nome": "YT Saver",
     "Link": "https://devuploads.com/6cz3mhg62nqe",
     "Linkx32": "",
