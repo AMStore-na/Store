@@ -225,16 +225,16 @@
   },
   {
     "Nome": "SketchUp",
-    "Link": "https://devuploads.com/j04w98cyjrqt",
-    "Linkx32": null,
+    "Link": "https://devuploads.com/yggdfgtoxzda",
+    "Linkx32": "",
     "LinkR": null,
-    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/CAD%2C%20Architettura%20e%20Ingegneria/SketchUp_Pro_2025.png",
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/CAD%2C%20Architettura%20e%20Ingegneria/SketchUp.png",
     "Sezione": "CAD, Architettura e Ingegneria",
     "Descrizione": "SketchUp è un software di modellazione 3D molto popolare, utilizzato in vari settori come l'architettura, il design, l'ingegneria e altro ancora",
-    "Tooltip": "SketchUp Pro 2025 v25.0.660",
+    "Tooltip": "SketchUp Pro 2026 v26.1.252",
     "MRicerca": "sketchup",
-    "Hash": "6602ea59e97a916a",
-    "HashX32": null,
+    "Hash": "40275c8cdb0b07e0",
+    "HashX32": "",
     "UUID": "61"
   },
   {
