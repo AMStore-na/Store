@@ -1583,16 +1583,16 @@
   },
   {
     "Nome": "Calibre",
-    "Link": "https://devuploads.com/xd63w3pdjnl6",
-    "Linkx32": null,
+    "Link": "https://devuploads.com/buisq7f4vh6u",
+    "Linkx32": "",
     "LinkR": "",
     "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Personalizzazione%20e%20Interfaccia/Calibre.png",
     "Sezione": "Personalizzazione e Interfaccia",
-    "Descrizione": "Calibre cos'è\nCalibre è un software open source gratuito per la gestione degli ebook. È estremamente utile per chi possiede una vasta collezione di libri digitali e desidera organizzarli, convertirli in vari formati, e trasferirli su diversi dispositivi di lettura.",
-    "Tooltip": "",
+    "Descrizione": "\nCalibre è un software open source gratuito per la gestione degli ebook. È estremamente utile per chi possiede una vasta collezione di libri digitali e desidera organizzarli, convertirli in vari formati, e trasferirli su diversi dispositivi di lettura.",
+    "Tooltip": "Calibre v9.5.0",
     "MRicerca": "calibre",
-    "Hash": "",
-    "HashX32": null,
+    "Hash": "bf9d03b44669f564",
+    "HashX32": "",
     "UUID": "147"
   },
   {
