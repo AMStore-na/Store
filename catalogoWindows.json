@@ -2910,5 +2910,19 @@
     "Hash": "53124b8a89c572bd",
     "HashX32": "",
     "UUID": "254"
+  },
+  {
+    "Nome": "priPrinter",
+    "Link": "https://devuploads.com/slu3wmxes3er",
+    "Linkx32": "",
+    "LinkR": null,
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/PDF%20e%20Office/priPrinter.png",
+    "Sezione": "PDF e Office",
+    "Descrizione": "",
+    "Tooltip": "priPrinter Professional v7.0.0.2620",
+    "MRicerca": "priPrinter",
+    "Hash": "cbec0006182e3f92",
+    "HashX32": "",
+    "UUID": "296"
   }
 ]
