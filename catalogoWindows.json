@@ -603,16 +603,16 @@
   },
   {
     "Nome": "Pazu Converter",
-    "Link": "https://devuploads.com/869usjz89mnw",
-    "Linkx32": null,
+    "Link": "https://devuploads.com/m1ixsavn71yw",
+    "Linkx32": "",
     "LinkR": null,
     "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Downloader/Pazu_Converter.png",
     "Sezione": "Downloader",
-    "Descrizione": null,
-    "Tooltip": "Pazu Converter 4.9.9",
+    "Descrizione": "Pazu Spotify Music Converter è un software che permette di scaricare, convertire e salvare musica Spotify in formati offline facilmente.",
+    "Tooltip": "Pazu Converter 4.10.0",
     "MRicerca": "pazu",
-    "Hash": "3d2ba7f305686857",
-    "HashX32": null,
+    "Hash": "f58fefb75f95293e",
+    "HashX32": "",
     "UUID": "290"
   },
   {
