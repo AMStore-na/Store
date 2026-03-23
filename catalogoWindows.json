@@ -1988,6 +1988,20 @@
     "UUID": "297"
   },
   {
+    "Nome": "GraphPad Prism",
+    "Link": "https://devuploads.com/5ndvxqx26eh6",
+    "Linkx32": "",
+    "LinkR": null,
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Ricerca%20e%20Analisi%20Dati/GraphPad_Prism.png",
+    "Sezione": "Ricerca e Analisi Dati",
+    "Descrizione": "",
+    "Tooltip": "GraphPad Prism v10.6.1.892",
+    "MRicerca": "graphpad",
+    "Hash": "bbd91070b8bb328e",
+    "HashX32": "",
+    "UUID": "298"
+  },
+  {
     "Nome": "Malwarebytes",
     "Link": "https://devuploads.com/jy4y2p3yyh2x",
     "Linkx32": "",
@@ -2938,19 +2952,5 @@
     "Hash": "53124b8a89c572bd",
     "HashX32": "",
     "UUID": "254"
-  },
-  {
-    "Nome": "GraphPad Prism",
-    "Link": "https://devuploads.com/5ndvxqx26eh6",
-    "Linkx32": "",
-    "LinkR": null,
-    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Ricerca%20e%20Analisi%20Dati/GraphPad_Prism.png",
-    "Sezione": "Ricerca e Analisi Dati",
-    "Descrizione": "",
-    "Tooltip": "GraphPad Prism v10.6.1.892",
-    "MRicerca": "graphpad",
-    "Hash": "bbd91070b8bb328e",
-    "HashX32": "",
-    "UUID": "298"
   }
 ]
