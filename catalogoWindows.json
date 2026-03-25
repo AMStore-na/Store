@@ -1471,16 +1471,16 @@
   },
   {
     "Nome": "Foxit PDF Editor Pro",
-    "Link": "https://devuploads.com/6urs0l0c1xru",
-    "Linkx32": null,
+    "Link": "https://devuploads.com/602j4y83kgzg",
+    "Linkx32": "https://devuploads.com/602j4y83kgzg",
     "LinkR": "",
     "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/PDF%20e%20Office/Foxit_PDF_Editor_Pro.png",
     "Sezione": "PDF e Office",
     "Descrizione": "Foxit PDF Editor Pro è un software avanzato per la modifica di documenti PDF, sviluppato da Foxit Software. È progettato per offrire capacità di modifica PDF professionali, inclusa la possibilità di aggiungere testo, commenti, immagini, e di firmare elettronicamente i documenti.",
-    "Tooltip": "Foxit PDF Editor Pro v14.0.2.33402",
+    "Tooltip": "Foxit PDF Editor Pro v14.0.3.33502",
     "MRicerca": "foxit",
-    "Hash": "905953ea881ecccf",
-    "HashX32": null,
+    "Hash": "a20603df6d15b608",
+    "HashX32": "a20603df6d15b608",
     "UUID": "134"
   },
   {
