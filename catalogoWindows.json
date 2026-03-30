@@ -2212,6 +2212,20 @@
     "UUID": "229"
   },
   {
+    "Nome": "Valentina Studio",
+    "Link": "https://devuploads.com/s8zmz5it1zrh",
+    "Linkx32": "",
+    "LinkR": null,
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Sviluppo%20Software%2C%20Web%20e%20IDE/Valentina_Studio.png",
+    "Sezione": "Sviluppo Software, Web e IDE",
+    "Descrizione": "Valentina Studio è uno strumento professionale che consente di creare, gestire e analizzare database relazionali e NoSQL attraverso un’interfaccia intuitiva. Supporta diversi sistemi come MySQL, PostgreSQL, SQLite e altri, offrendo funzionalità avanzate come query SQL, progettazione di schemi, gestione dei dati e reportistica.",
+    "Tooltip": "Valentina Stusio Pro v17.2.0",
+    "MRicerca": "Vale",
+    "Hash": "Valentina Studio è uno strumento professionale che consente di creare, gestire e analizzare database relazionali e NoSQL attraverso un’interfaccia intuitiva. Supporta diversi sistemi come MySQL, PostgreSQL, SQLite e altri, offrendo funzionalità avanzate come query SQL, progettazione di schemi, gestione dei dati e reportistica.",
+    "HashX32": "",
+    "UUID": "299"
+  },
+  {
     "Nome": "Media Convert",
     "Link": "https://devuploads.com/odjp3s5zemw7",
     "Linkx32": null,
@@ -2952,19 +2966,5 @@
     "Hash": "53124b8a89c572bd",
     "HashX32": "",
     "UUID": "254"
-  },
-  {
-    "Nome": "Valentina Studio",
-    "Link": "https://devuploads.com/s8zmz5it1zrh",
-    "Linkx32": "",
-    "LinkR": null,
-    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Sviluppo%20Software%2C%20Web%20e%20IDE/Valentina_Studio.png",
-    "Sezione": "Sviluppo Software, Web e IDE",
-    "Descrizione": "Valentina Studio è uno strumento professionale che consente di creare, gestire e analizzare database relazionali e NoSQL attraverso un’interfaccia intuitiva. Supporta diversi sistemi come MySQL, PostgreSQL, SQLite e altri, offrendo funzionalità avanzate come query SQL, progettazione di schemi, gestione dei dati e reportistica.",
-    "Tooltip": "Valentina Stusio Pro v17.2.0",
-    "MRicerca": "Vale",
-    "Hash": "Valentina Studio è uno strumento professionale che consente di creare, gestire e analizzare database relazionali e NoSQL attraverso un’interfaccia intuitiva. Supporta diversi sistemi come MySQL, PostgreSQL, SQLite e altri, offrendo funzionalità avanzate come query SQL, progettazione di schemi, gestione dei dati e reportistica.",
-    "HashX32": "",
-    "UUID": "299"
   }
 ]
