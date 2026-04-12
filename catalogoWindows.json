@@ -2966,5 +2966,19 @@
     "Hash": "53124b8a89c572bd",
     "HashX32": "",
     "UUID": "254"
+  },
+  {
+    "Nome": "progeCAD",
+    "Link": "https://devuploads.com/u3hcq7hpjbi3",
+    "Linkx32": "",
+    "LinkR": null,
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/CAD%2C%20Architettura%20e%20Ingegneria/progeCAD.png",
+    "Sezione": "CAD, Architettura e Ingegneria",
+    "Descrizione": "",
+    "Tooltip": "progeCAD Professional v26.0.10.10",
+    "MRicerca": "progecad",
+    "Hash": "98c9ccc31210db19",
+    "HashX32": "",
+    "UUID": "300"
   }
 ]
