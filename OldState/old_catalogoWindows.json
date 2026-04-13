@@ -350,6 +350,20 @@
         "UUID": "293"
     },
     {
+        "Nome": "progeCAD",
+        "Link": "https://devuploads.com/u3hcq7hpjbi3",
+        "Linkx32": "",
+        "LinkR": null,
+        "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/CAD%2C%20Architettura%20e%20Ingegneria/progeCAD.png",
+        "Sezione": "CAD, Architettura e Ingegneria",
+        "Descrizione": "",
+        "Tooltip": "progeCAD Professional v26.0.10.10",
+        "MRicerca": "progecad",
+        "Hash": "98c9ccc31210db19",
+        "HashX32": "",
+        "UUID": "300"
+    },
+    {
         "Nome": "Multiecuscan",
         "Link": "https://devuploads.com/6zs4bdr29azy",
         "Linkx32": "https://devuploads.com/3mxmj6nd3jte",
@@ -1667,16 +1681,16 @@
     },
     {
         "Nome": "Tenorshare 4DDiG Data Recovery",
-        "Link": "https://devuploads.com/lccsjdr3bfy6",
-        "Linkx32": null,
+        "Link": "https://devuploads.com/ag5hf3rfyt38",
+        "Linkx32": "",
         "LinkR": "",
         "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Recupero%20Dati/Tenorshare_4DDiG_Data_Recovery.png",
         "Sezione": "Recupero Dati",
         "Descrizione": "Tenorshare 4DDiG è un software di recupero dati avanzato progettato per recuperare file eliminati, formattati o persi da vari dispositivi e scenari",
         "Tooltip": "Tenorshare 4DDiG Data Recovery v10.5.8.1",
         "MRicerca": "4ddig",
-        "Hash": "000d75dd465a136d",
-        "HashX32": null,
+        "Hash": "cb6caeb0224e0a7f",
+        "HashX32": "",
         "UUID": "77"
     },
     {
@@ -2464,16 +2478,16 @@
         "UUID": "22"
     },
     {
-        "Nome": "Glary Utilities Pro",
-        "Link": "https://devuploads.com/rck7cp6fk1os",
+        "Nome": "Glary Utilities",
+        "Link": "https://devuploads.com/o277qcm6524t",
         "Linkx32": "",
         "LinkR": "",
-        "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Utility%20di%20Sistema%20e%20Manutenzione/Glary_Utilities_Pro.png",
+        "ImmagineUrl": "httpsç--raw.githubusercontent.com-AMStore'na-Store-main-Immagini-Utility%20di%20Sistema%20e%20Manutenzione-Glary?Utilities.png",
         "Sezione": "Utility di Sistema e Manutenzione",
         "Descrizione": "Glary Utilities Pro è un software di utilità completo progettato per ottimizzare, pulire e proteggere il tuo PC. Offre oltre 20 strumenti per migliorare le prestazioni del sistema, mantenere la privacy e risolvere problemi comuni.",
         "Tooltip": "Glary Utilities Pro v6.37.0.41",
         "MRicerca": "glary",
-        "Hash": "24d0d8a5d42289ce",
+        "Hash": "628c2a63a2c8b0df",
         "HashX32": "",
         "UUID": "69"
     },
@@ -2689,16 +2703,16 @@
     },
     {
         "Nome": "Wondershare Filmora",
-        "Link": "https://devuploads.com/ftch9thzsx2e",
-        "Linkx32": null,
+        "Link": "https://devuploads.com/m5ew4rqaojbt",
+        "Linkx32": "",
         "LinkR": "",
         "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Video%20e%20Animazione/Wondershare_Filmora.png",
         "Sezione": "Video e Animazione",
         "Descrizione": "Wondershare Filmora è un software di editing video facile da usare, sviluppato da Wondershare. È progettato per utenti di tutti i livelli, dai principianti agli esperti, e offre una vasta gamma di funzionalità per creare video di alta qualità.",
-        "Tooltip": "Wondershare Filmora v15.0.11.16306",
+        "Tooltip": "Wondershare Filmora v15.2.5.17803",
         "MRicerca": "filmora",
-        "Hash": "89ac18860d13ab13",
-        "HashX32": null,
+        "Hash": "68eb8a769f3d9e27",
+        "HashX32": "",
         "UUID": "55"
     },
     {
