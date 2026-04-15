@@ -3025,16 +3025,16 @@
   },
   {
     "Nome": "CineSearchWebApp",
-    "Link": "https://devuploads.com/h953dcx416am",
-    "Linkx32": "https://devuploads.com/h953dcx416am",
+    "Link": "https://devuploads.com/b5rn0s3l2avt",
+    "Linkx32": "https://devuploads.com/b5rn0s3l2avt",
     "LinkR": null,
     "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Cinema/CineSearch.png",
     "Sezione": "Cinema",
-    "Descrizione": "",
+    "Descrizione": "v1.0.0",
     "Tooltip": "WebApp del sito di CineSearch",
     "MRicerca": "cinema, film",
-    "Hash": "7793dbe016bc78f0",
-    "HashX32": "7793dbe016bc78f0",
+    "Hash": "230b9ffc5313ad47",
+    "HashX32": "230b9ffc5313ad47",
     "UUID": "304"
   }
 ]
