@@ -72,7 +72,7 @@
   {
     "Nome": "Autodesk AutoCAD 2025",
     "Link": "https://devuploads.com/n2zng89rr6hw",
-    "Linkx32": null,
+    "Linkx32": "",
     "LinkR": "",
     "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/CAD%2C%20Architettura%20e%20Ingegneria/Autodesk_AutoCAD_2025.png",
     "Sezione": "CAD, Architettura e Ingegneria",
@@ -80,7 +80,7 @@
     "Tooltip": "Autodesk AutoCAD 2025.0.1 v72.0.0",
     "MRicerca": "autocad",
     "Hash": "",
-    "HashX32": null,
+    "HashX32": "",
     "UUID": "71"
   },
   {
@@ -170,7 +170,7 @@
   {
     "Nome": "Autodesk AutoCAD 2026",
     "Link": "https://devuploads.com/ctldqondrgko",
-    "Linkx32": null,
+    "Linkx32": "",
     "LinkR": null,
     "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/CAD%2C%20Architettura%20e%20Ingegneria/Autodesk_AutoCAD_2026.png",
     "Sezione": "CAD, Architettura e Ingegneria",
@@ -178,13 +178,13 @@
     "Tooltip": "Autodesk AutoCAD v2026.0.1",
     "MRicerca": "autocad",
     "Hash": "fd05ca12209c1431",
-    "HashX32": null,
+    "HashX32": "",
     "UUID": "32"
   },
   {
     "Nome": "Autodesk AutoCAD 2027",
     "Link": "https://devuploads.com/0rlespte8hk0",
-    "Linkx32": null,
+    "Linkx32": "",
     "LinkR": null,
     "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/CAD%2C%20Architettura%20e%20Ingegneria/Autodesk_AutoCAD_2027.png",
     "Sezione": "CAD, Architettura e Ingegneria",
@@ -192,7 +192,7 @@
     "Tooltip": "Autodesk AutoCAD v2027",
     "MRicerca": "autocad",
     "Hash": "def37dbc191f7a6d",
-    "HashX32": null,
+    "HashX32": "",
     "UUID": "301"
   },
   {
