@@ -198,7 +198,7 @@
   {
     "Nome": "Autodesk AutoCAD Architecture 2027",
     "Link": "https://devuploads.com/vewyjcngfi1r",
-    "Linkx32": null,
+    "Linkx32": "",
     "LinkR": null,
     "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/CAD%2C%20Architettura%20e%20Ingegneria/Autodesk_AutoCAD_Architecture_2027.png",
     "Sezione": "CAD, Architettura e Ingegneria",
@@ -206,13 +206,13 @@
     "Tooltip": "Autodesk AutoCAD Architecture v2027",
     "MRicerca": "autocad",
     "Hash": "330a039462102aa6",
-    "HashX32": null,
+    "HashX32": "",
     "UUID": "302"
   },
   {
     "Nome": "Autodesk AutoCAD Mechanical 2027",
     "Link": "https://devuploads.com/q206j9yyx4wx",
-    "Linkx32": null,
+    "Linkx32": "",
     "LinkR": null,
     "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/CAD%2C%20Architettura%20e%20Ingegneria/Autodesk_AutoCAD_Mechanical_2027.png",
     "Sezione": "CAD, Architettura e Ingegneria",
@@ -220,7 +220,7 @@
     "Tooltip": "Autodesk AutoCAD Mechanical v2027",
     "MRicerca": "autocad",
     "Hash": "9eb5fe01d26378fb",
-    "HashX32": null,
+    "HashX32": "",
     "UUID": "303"
   },
   {
