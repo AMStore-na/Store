@@ -420,6 +420,20 @@
     "UUID": "305"
   },
   {
+    "Nome": "Autodesk Inventor 2027",
+    "Link": "https://devuploads.com/chhpi9v49q8s",
+    "Linkx32": "",
+    "LinkR": null,
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/CAD%2C%20Architettura%20e%20Ingegneria/Autodesk_Inventor_2027.png",
+    "Sezione": "CAD, Architettura e Ingegneria",
+    "Descrizione": "Autodesk Inventor è un software di progettazione assistita da computer (CAD) 3D, sviluppato da Autodesk, utilizzato principalmente per la progettazione meccanica e l'ingegneria.",
+    "Tooltip": "Autodesk Inventor 2027",
+    "MRicerca": "inventor",
+    "Hash": "0745d11455e23ab5",
+    "HashX32": "",
+    "UUID": "306"
+  },
+  {
     "Nome": "CineSearchWebApp",
     "Link": "https://devuploads.com/9t7shlyt1a3i",
     "Linkx32": "https://devuploads.com/9t7shlyt1a3i",
@@ -3050,19 +3064,5 @@
     "Hash": "53124b8a89c572bd",
     "HashX32": "",
     "UUID": "254"
-  },
-  {
-    "Nome": "Autodesk Inventor 2027",
-    "Link": "https://devuploads.com/chhpi9v49q8s",
-    "Linkx32": "",
-    "LinkR": null,
-    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/CAD%2C%20Architettura%20e%20Ingegneria/Autodesk_Inventor_2027.png",
-    "Sezione": "CAD, Architettura e Ingegneria",
-    "Descrizione": "Autodesk Inventor è un software di progettazione assistita da computer (CAD) 3D, sviluppato da Autodesk, utilizzato principalmente per la progettazione meccanica e l'ingegneria.",
-    "Tooltip": "Autodesk Inventor 2027",
-    "MRicerca": "inventor",
-    "Hash": "0745d11455e23ab5",
-    "HashX32": "",
-    "UUID": "306"
   }
 ]
