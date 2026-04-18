@@ -58,7 +58,7 @@
   {
     "Nome": "Autodesk Revit 2025",
     "Link": "https://devuploads.com/1sukco621r70",
-    "Linkx32": null,
+    "Linkx32": "",
     "LinkR": "",
     "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/CAD%2C%20Architettura%20e%20Ingegneria/Autodesk_Revit_2025.png",
     "Sezione": "CAD, Architettura e Ingegneria",
@@ -66,7 +66,7 @@
     "Tooltip": "Autodesk Revit 2025",
     "MRicerca": "revit",
     "Hash": "",
-    "HashX32": null,
+    "HashX32": "",
     "UUID": "44"
   },
   {
@@ -296,7 +296,7 @@
   {
     "Nome": "Autodesk Revit 2026",
     "Link": "https://devuploads.com/3ns43aseyvxh",
-    "Linkx32": null,
+    "Linkx32": "",
     "LinkR": null,
     "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/CAD%2C%20Architettura%20e%20Ingegneria/Autodesk_Revit_2026.png",
     "Sezione": "CAD, Architettura e Ingegneria",
@@ -304,7 +304,7 @@
     "Tooltip": "Autodesk Revit 2026 v2026.2",
     "MRicerca": "revit",
     "Hash": "26702a7a5803f7a7",
-    "HashX32": null,
+    "HashX32": "",
     "UUID": "248"
   },
   {
@@ -3036,5 +3036,19 @@
     "Hash": "12cba3d9adef01a1",
     "HashX32": "12cba3d9adef01a1",
     "UUID": "304"
+  },
+  {
+    "Nome": "Autodesk Revit 2027",
+    "Link": "https://devuploads.com/qe96nlfa8pph",
+    "Linkx32": "",
+    "LinkR": null,
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/CAD%2C%20Architettura%20e%20Ingegneria/Autodesk_Revit_2027.png",
+    "Sezione": "CAD, Architettura e Ingegneria",
+    "Descrizione": "Autodesk Revit è un software di progettazione e modellazione per l'architettura, l'ingegneria e le costruzioni, sviluppato da Autodesk. È ampiamente utilizzato nel settore delle costruzioni per il Building Information Modeling (BIM).",
+    "Tooltip": "Autodesk Revit 2027",
+    "MRicerca": "revit",
+    "Hash": "f3c9c4b6bd12f2c5",
+    "HashX32": "",
+    "UUID": "305"
   }
 ]
