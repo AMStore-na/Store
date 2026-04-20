@@ -58,7 +58,7 @@
     {
         "Nome": "Autodesk Revit 2025",
         "Link": "https://devuploads.com/1sukco621r70",
-        "Linkx32": null,
+        "Linkx32": "",
         "LinkR": "",
         "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/CAD%2C%20Architettura%20e%20Ingegneria/Autodesk_Revit_2025.png",
         "Sezione": "CAD, Architettura e Ingegneria",
@@ -66,13 +66,13 @@
         "Tooltip": "Autodesk Revit 2025",
         "MRicerca": "revit",
         "Hash": "",
-        "HashX32": null,
+        "HashX32": "",
         "UUID": "44"
     },
     {
         "Nome": "Autodesk AutoCAD 2025",
         "Link": "https://devuploads.com/n2zng89rr6hw",
-        "Linkx32": null,
+        "Linkx32": "",
         "LinkR": "",
         "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/CAD%2C%20Architettura%20e%20Ingegneria/Autodesk_AutoCAD_2025.png",
         "Sezione": "CAD, Architettura e Ingegneria",
@@ -80,7 +80,7 @@
         "Tooltip": "Autodesk AutoCAD 2025.0.1 v72.0.0",
         "MRicerca": "autocad",
         "Hash": "",
-        "HashX32": null,
+        "HashX32": "",
         "UUID": "71"
     },
     {
@@ -112,17 +112,17 @@
         "UUID": "34"
     },
     {
-        "Nome": "Autodesk Inventor",
-        "Link": "https://devuploads.com/chhpi9v49q8s",
-        "Linkx32": null,
+        "Nome": "Autodesk Inventor 2025",
+        "Link": "https://devuploads.com/x1on33ux4w3g",
+        "Linkx32": "",
         "LinkR": "",
-        "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/CAD,%20Architettura%20e%20Ingegneria/Autodesk_Inventor_2027.png",
+        "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/CAD%2C%20Architettura%20e%20Ingegneria/Autodesk_Inventor_2025.png",
         "Sezione": "CAD, Architettura e Ingegneria",
         "Descrizione": "Autodesk Inventor è un software di progettazione assistita da computer (CAD) 3D, sviluppato da Autodesk, utilizzato principalmente per la progettazione meccanica e l'ingegneria.",
-        "Tooltip": "Autodesk Inventor",
+        "Tooltip": "Autodesk Inventor 2025",
         "MRicerca": "inventor",
-        "Hash": "0745d11455e23ab5",
-        "HashX32": null,
+        "Hash": "",
+        "HashX32": "",
         "UUID": "35"
     },
     {
@@ -170,7 +170,7 @@
     {
         "Nome": "Autodesk AutoCAD 2026",
         "Link": "https://devuploads.com/ctldqondrgko",
-        "Linkx32": null,
+        "Linkx32": "",
         "LinkR": null,
         "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/CAD%2C%20Architettura%20e%20Ingegneria/Autodesk_AutoCAD_2026.png",
         "Sezione": "CAD, Architettura e Ingegneria",
@@ -178,13 +178,13 @@
         "Tooltip": "Autodesk AutoCAD v2026.0.1",
         "MRicerca": "autocad",
         "Hash": "fd05ca12209c1431",
-        "HashX32": null,
+        "HashX32": "",
         "UUID": "32"
     },
     {
         "Nome": "Autodesk AutoCAD 2027",
         "Link": "https://devuploads.com/0rlespte8hk0",
-        "Linkx32": null,
+        "Linkx32": "",
         "LinkR": null,
         "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/CAD%2C%20Architettura%20e%20Ingegneria/Autodesk_AutoCAD_2027.png",
         "Sezione": "CAD, Architettura e Ingegneria",
@@ -192,13 +192,13 @@
         "Tooltip": "Autodesk AutoCAD v2027",
         "MRicerca": "autocad",
         "Hash": "def37dbc191f7a6d",
-        "HashX32": null,
+        "HashX32": "",
         "UUID": "301"
     },
     {
         "Nome": "Autodesk AutoCAD Architecture 2027",
         "Link": "https://devuploads.com/vewyjcngfi1r",
-        "Linkx32": null,
+        "Linkx32": "",
         "LinkR": null,
         "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/CAD%2C%20Architettura%20e%20Ingegneria/Autodesk_AutoCAD_Architecture_2027.png",
         "Sezione": "CAD, Architettura e Ingegneria",
@@ -206,13 +206,13 @@
         "Tooltip": "Autodesk AutoCAD Architecture v2027",
         "MRicerca": "autocad",
         "Hash": "330a039462102aa6",
-        "HashX32": null,
+        "HashX32": "",
         "UUID": "302"
     },
     {
         "Nome": "Autodesk AutoCAD Mechanical 2027",
         "Link": "https://devuploads.com/q206j9yyx4wx",
-        "Linkx32": null,
+        "Linkx32": "",
         "LinkR": null,
         "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/CAD%2C%20Architettura%20e%20Ingegneria/Autodesk_AutoCAD_Mechanical_2027.png",
         "Sezione": "CAD, Architettura e Ingegneria",
@@ -220,7 +220,7 @@
         "Tooltip": "Autodesk AutoCAD Mechanical v2027",
         "MRicerca": "autocad",
         "Hash": "9eb5fe01d26378fb",
-        "HashX32": null,
+        "HashX32": "",
         "UUID": "303"
     },
     {
@@ -296,7 +296,7 @@
     {
         "Nome": "Autodesk Revit 2026",
         "Link": "https://devuploads.com/3ns43aseyvxh",
-        "Linkx32": null,
+        "Linkx32": "",
         "LinkR": null,
         "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/CAD%2C%20Architettura%20e%20Ingegneria/Autodesk_Revit_2026.png",
         "Sezione": "CAD, Architettura e Ingegneria",
@@ -304,7 +304,7 @@
         "Tooltip": "Autodesk Revit 2026 v2026.2",
         "MRicerca": "revit",
         "Hash": "26702a7a5803f7a7",
-        "HashX32": null,
+        "HashX32": "",
         "UUID": "248"
     },
     {
@@ -406,6 +406,48 @@
         "UUID": "300"
     },
     {
+        "Nome": "Autodesk Revit 2027",
+        "Link": "https://devuploads.com/qe96nlfa8pph",
+        "Linkx32": "",
+        "LinkR": null,
+        "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/CAD%2C%20Architettura%20e%20Ingegneria/Autodesk_Revit_2027.png",
+        "Sezione": "CAD, Architettura e Ingegneria",
+        "Descrizione": "Autodesk Revit è un software di progettazione e modellazione per l'architettura, l'ingegneria e le costruzioni, sviluppato da Autodesk. È ampiamente utilizzato nel settore delle costruzioni per il Building Information Modeling (BIM).",
+        "Tooltip": "Autodesk Revit 2027 v2027.0.1",
+        "MRicerca": "revit",
+        "Hash": "f3c9c4b6bd12f2c5",
+        "HashX32": "",
+        "UUID": "305"
+    },
+    {
+        "Nome": "Autodesk Inventor 2027",
+        "Link": "https://devuploads.com/chhpi9v49q8s",
+        "Linkx32": "",
+        "LinkR": null,
+        "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/CAD%2C%20Architettura%20e%20Ingegneria/Autodesk_Inventor_2027.png",
+        "Sezione": "CAD, Architettura e Ingegneria",
+        "Descrizione": "Autodesk Inventor è un software di progettazione assistita da computer (CAD) 3D, sviluppato da Autodesk, utilizzato principalmente per la progettazione meccanica e l'ingegneria.",
+        "Tooltip": "Autodesk Inventor 2027",
+        "MRicerca": "inventor",
+        "Hash": "0745d11455e23ab5",
+        "HashX32": "",
+        "UUID": "306"
+    },
+    {
+        "Nome": "CineSearchWebApp",
+        "Link": "https://devuploads.com/9t7shlyt1a3i",
+        "Linkx32": "https://devuploads.com/9t7shlyt1a3i",
+        "LinkR": null,
+        "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Cinema/CineSearch.png",
+        "Sezione": "Cinema",
+        "Descrizione": "v1.1.1",
+        "Tooltip": "WebApp del sito di CineSearch",
+        "MRicerca": "cinema, film",
+        "Hash": "12cba3d9adef01a1",
+        "HashX32": "12cba3d9adef01a1",
+        "UUID": "304"
+    },
+    {
         "Nome": "Multiecuscan",
         "Link": "https://devuploads.com/6zs4bdr29azy",
         "Linkx32": "https://devuploads.com/3mxmj6nd3jte",
@@ -435,15 +477,15 @@
     },
     {
         "Nome": "4K Video Downloader Plus",
-        "Link": "https://devuploads.com/dfuloso8bire",
+        "Link": "https://devuploads.com/qwtrhxpv7lxc",
         "Linkx32": "",
         "LinkR": "",
         "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Downloader/4K_Video_Downloader_Plus.png",
         "Sezione": "Downloader",
         "Descrizione": "4K Video Downloader è un'applicazione multipiattaforma che consente di salvare video di alta qualità da YouTube e altri siti web in pochi secondi.",
-        "Tooltip": "4K Video Downloader Plus v26.0.3",
+        "Tooltip": "4K Video Downloader Plus v26.1.0",
         "MRicerca": "4k",
-        "Hash": "ed8c56c4ee20b046",
+        "Hash": "16a7768685c46788",
         "HashX32": "",
         "UUID": "42"
     },
@@ -519,15 +561,15 @@
     },
     {
         "Nome": "Pazu StreamGet",
-        "Link": "https://devuploads.com/h0es5574izca",
+        "Link": "https://devuploads.com/1rhaf89l9hve",
         "Linkx32": "",
         "LinkR": null,
         "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Downloader/Pazu_StreamGet.png",
         "Sezione": "Downloader",
         "Descrizione": "Pazu StreamGet è un potente strumento di download video che consente di scaricare film e programmi da varie piattaforme di streaming direttamente sul tuo dispositivo Windows. Permette il download da Amazon Prime  Video, Netflix, Disney Plus, Hulu e molti altri.",
-        "Tooltip": "Pazu StreamGet v2.9.4",
+        "Tooltip": "Pazu StreamGet v2.9.6.0",
         "MRicerca": "Pazu",
-        "Hash": "40d8ae8732b3cb9e",
+        "Hash": "f1dfeb5f53a59dc9",
         "HashX32": "",
         "UUID": "33"
     },
@@ -1527,16 +1569,16 @@
     },
     {
         "Nome": "Foxit PDF Editor Pro",
-        "Link": "https://devuploads.com/602j4y83kgzg",
-        "Linkx32": "https://devuploads.com/602j4y83kgzg",
+        "Link": "https://devuploads.com/dntt15uvaax7",
+        "Linkx32": "https://devuploads.com/dntt15uvaax7",
         "LinkR": "",
         "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/PDF%20e%20Office/Foxit_PDF_Editor_Pro.png",
         "Sezione": "PDF e Office",
         "Descrizione": "Foxit PDF Editor Pro è un software avanzato per la modifica di documenti PDF, sviluppato da Foxit Software. È progettato per offrire capacità di modifica PDF professionali, inclusa la possibilità di aggiungere testo, commenti, immagini, e di firmare elettronicamente i documenti.",
-        "Tooltip": "Foxit PDF Editor Pro v14.0.3.33502",
+        "Tooltip": "Foxit PDF Editor Pro v114.0.4.33508",
         "MRicerca": "foxit",
-        "Hash": "a20603df6d15b608",
-        "HashX32": "a20603df6d15b608",
+        "Hash": "20446fb5b7ae5c8b",
+        "HashX32": "20446fb5b7ae5c8b",
         "UUID": "134"
     },
     {
@@ -1745,7 +1787,7 @@
         "Descrizione": "Tenorshare 4DDiG Duplicate File Deleter è uno strumento progettato per aiutare gli utenti a gestire e rimuovere i file duplicati presenti sui propri dispositivi. Il programma esegue la scansione del sistema alla ricerca di file duplicati, permettendo di risparmiare spazio di archiviazione e migliorare l'efficienza del dispositivo.",
         "Tooltip": "Tenorshare 4DDiG Duplicate File Deleter v3.0.13",
         "MRicerca": "duplicate",
-        "Hash": "2d955b5191345215",
+        "Hash": "e1d5e8827c58741a",
         "HashX32": "",
         "UUID": "78"
     },
@@ -3022,19 +3064,5 @@
         "Hash": "53124b8a89c572bd",
         "HashX32": "",
         "UUID": "254"
-    },
-    {
-        "Nome": "CineSearchWebApp",
-        "Link": "https://devuploads.com/b5rn0s3l2avt",
-        "Linkx32": "https://devuploads.com/b5rn0s3l2avt",
-        "LinkR": null,
-        "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Cinema/CineSearch.png",
-        "Sezione": "Cinema",
-        "Descrizione": "v1.0.0",
-        "Tooltip": "WebApp del sito di CineSearch",
-        "MRicerca": "cinema, film",
-        "Hash": "230b9ffc5313ad47",
-        "HashX32": "230b9ffc5313ad47",
-        "UUID": "304"
     }
 ]
