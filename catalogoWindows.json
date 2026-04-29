@@ -3078,5 +3078,19 @@
     "Hash": "339def0d3c35edc7",
     "HashX32": "",
     "UUID": "307"
+  },
+  {
+    "Nome": "AI Image Background Remover Pro",
+    "Link": "https://devuploads.com/taabjzclc4ez",
+    "Linkx32": "",
+    "LinkR": null,
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Grafica%20e%20Design/AI_Image_Background_Remover.png",
+    "Sezione": "Grafica e Design",
+    "Descrizione": "",
+    "Tooltip": "AI Image Background Remover Pro v1.1.2",
+    "MRicerca": "image",
+    "Hash": "5f669787cbf86a40",
+    "HashX32": "",
+    "UUID": "308"
   }
 ]
