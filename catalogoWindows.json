@@ -3092,5 +3092,19 @@
     "Hash": "339def0d3c35edc7",
     "HashX32": "",
     "UUID": "307"
+  },
+  {
+    "Nome": "Acute Systems TransMac",
+    "Link": "https://devuploads.com/7x0ewo7tbonh",
+    "Linkx32": "",
+    "LinkR": null,
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Utility%20di%20Sistema%20e%20Manutenzione/Acute_Systems_TransMac.png",
+    "Sezione": "Utility di Sistema e Manutenzione",
+    "Descrizione": "",
+    "Tooltip": "Acute Systems TransMac v15.5",
+    "MRicerca": "Acute",
+    "Hash": "7b9545e7831f606f",
+    "HashX32": "",
+    "UUID": "309"
   }
 ]
