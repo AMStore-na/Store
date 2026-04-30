@@ -2538,11 +2538,11 @@
     "Link": "https://devuploads.com/9fwsq8d0e1ec",
     "Linkx32": "https://devuploads.com/9fwsq8d0e1ec",
     "LinkR": "",
-    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Utility%20di%20Sistema%20e%20Manutenzione/Fix_Licenza.png",
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Utility%20di%20Sistema%20e%20Manutenzione/FirewallManager.png",
     "Sezione": "Utility di Sistema e Manutenzione",
     "Descrizione": "Helper per gestire il Firewall",
     "Tooltip": "FirewallManager v0.0",
-    "MRicerca": "licenza, firewall",
+    "MRicerca": "firewall",
     "Hash": "87c4a2ee18c9af5c",
     "HashX32": "87c4a2ee18c9af5c",
     "UUID": "142"
