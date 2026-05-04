@@ -533,15 +533,15 @@
     },
     {
         "Nome": "YT Saver",
-        "Link": "https://devuploads.com/6cz3mhg62nqe",
+        "Link": "https://devuploads.com/bue5oh5qx215",
         "Linkx32": "",
         "LinkR": "",
         "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Downloader/YT_Saver.png",
         "Sezione": "Downloader",
         "Descrizione": "YT Saver è un'applicazione per il download e la conversione di video da oltre 10.000 piattaforme, inclusi YouTube, Instagram e TikTok. Permette di scaricare video fino a risoluzioni 8K e convertirli in oltre 20 formati diversi, come MP4 e MP3. Offre anche funzionalità avanzate come il download di playlist da servizi come Spotify, Tidal, etc e la modalità privata.",
-        "Tooltip": "YT Saver v10.14.0",
+        "Tooltip": "YT Saver v10.15.2",
         "MRicerca": "yt",
-        "Hash": "2e641615abb401bb",
+        "Hash": "c57180d64134855c",
         "HashX32": "",
         "UUID": "49"
     },
@@ -676,7 +676,7 @@
         "Link": "https://devuploads.com/u89azjaigkfv",
         "Linkx32": "",
         "LinkR": null,
-        "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Downloader/GetFLvpng",
+        "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Downloader/GetFLV.png",
         "Sezione": "Downloader",
         "Descrizione": "GetFLV è un programma dedicato al download, conversione e gestione di video online, offrendo strumenti semplici e funzioni multimediali complete.",
         "Tooltip": "GetFLV v32.2603.15",
@@ -813,16 +813,16 @@
     },
     {
         "Nome": "Adobe InDesign",
-        "Link": "https://devuploads.com/y7gishu35v0b",
-        "Linkx32": null,
+        "Link": "https://devuploads.com/wegird0qklhb",
+        "Linkx32": "",
         "LinkR": "",
         "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Grafica%20e%20Design/Adobe_InDesign.png",
         "Sezione": "Grafica e Design",
         "Descrizione": "Adobe InDesign è un software di desktop publishing (DTP) sviluppato da Adobe Systems, ampiamente utilizzato per la creazione di layout e design grafici per una varietà di pubblicazioni.",
-        "Tooltip": "Adobe InDesign 2024 v19.5.0.084",
+        "Tooltip": "Adobe InDesign 2026 v21.2",
         "MRicerca": "indesign",
-        "Hash": "a9755783542d7d78",
-        "HashX32": null,
+        "Hash": "6ee63dbc05d51b18",
+        "HashX32": "",
         "UUID": "6"
     },
     {
@@ -1162,6 +1162,20 @@
         "UUID": "287"
     },
     {
+        "Nome": "AI Image Background Remover Pro",
+        "Link": "https://devuploads.com/taabjzclc4ez",
+        "Linkx32": "",
+        "LinkR": null,
+        "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Grafica%20e%20Design/AI_Image_Background_Remover.png",
+        "Sezione": "Grafica e Design",
+        "Descrizione": "",
+        "Tooltip": "AI Image Background Remover Pro v1.1.2",
+        "MRicerca": "image",
+        "Hash": "5f669787cbf86a40",
+        "HashX32": "",
+        "UUID": "308"
+    },
+    {
         "Nome": "Spotify",
         "Link": "https://devuploads.com/1dw8srw1sjgl",
         "Linkx32": "https://devuploads.com/1dw8srw1sjgl",
@@ -1274,20 +1288,6 @@
         "UUID": "161"
     },
     {
-        "Nome": "Waves Ultimate 15",
-        "Link": "https://devuploads.com/wmyl3jjnbk52",
-        "Linkx32": null,
-        "LinkR": null,
-        "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Musica%20e%20Audio/Waves_Ultimate_15.png",
-        "Sezione": "Musica e Audio",
-        "Descrizione": "Waves Ultimate offre oltre 220 plug-in professionali per produzione, mixaggio e mastering, sempre aggiornati e con nuovi strumenti aggiunti regolarmente. Include StudioVerse, una comunità AI con migliaia di catene di effetti pronte all'uso. È compatibile con tutti i principali DAW e supporta due attivazioni simultanee. Ideale per chi cerca una soluzione completa e affidabile per la produzione audio.",
-        "Tooltip": "Waves Ultimate 15 v25.04.07 ",
-        "MRicerca": "Waves",
-        "Hash": "66224fbcc922fda7",
-        "HashX32": null,
-        "UUID": "177"
-    },
-    {
         "Nome": "Xfer Serum",
         "Link": "https://devuploads.com/pt8kluypi7ve",
         "Linkx32": null,
@@ -1344,17 +1344,17 @@
         "UUID": "249"
     },
     {
-        "Nome": "Cockos Reaper",
-        "Link": "https://devuploads.com/pwvhr5s7fr73",
-        "Linkx32": null,
+        "Nome": "Cockos REAPER",
+        "Link": "https://devuploads.com/63rwtc7pq3la",
+        "Linkx32": "",
         "LinkR": null,
-        "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Musica%20e%20Audio/Cockos_Reaper.png",
+        "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Musica%20e%20Audio/Cockos_REAPER.png",
         "Sezione": "Musica e Audio",
         "Descrizione": "Cockos Reaper è una potente Workstation Audio Digitale (DAW) utilizzata per registrare, editare, mixare e renderizzare audio e MIDI. È estremamente flessibile e personalizzabile, supportando plugin VST per espandere le sue capacità. Grazie alla sua efficienza e alle sue numerose funzionalità, è uno strumento apprezzato da musicisti, produttori e ingegneri del suono, sia professionisti che appassionati, per creare musica di alta qualità.",
-        "Tooltip": "Cockos Reaper v7.45",
+        "Tooltip": "Cockos REAPER v7.71",
         "MRicerca": "reaper",
-        "Hash": "2d7b2eed10251405",
-        "HashX32": null,
+        "Hash": "c7ccb32442c65e90",
+        "HashX32": "",
         "UUID": "250"
     },
     {
@@ -1568,17 +1568,17 @@
         "UUID": "133"
     },
     {
-        "Nome": "Foxit PDF Editor Pro",
-        "Link": "https://devuploads.com/dntt15uvaax7",
-        "Linkx32": "https://devuploads.com/dntt15uvaax7",
+        "Nome": "Foxit PDF Editor+",
+        "Link": "https://devuploads.com/lufdif4cv4yv",
+        "Linkx32": "",
         "LinkR": "",
-        "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/PDF%20e%20Office/Foxit_PDF_Editor_Pro.png",
+        "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/PDF%20e%20Office/Foxit_PDF_Editor+.png",
         "Sezione": "PDF e Office",
         "Descrizione": "Foxit PDF Editor Pro è un software avanzato per la modifica di documenti PDF, sviluppato da Foxit Software. È progettato per offrire capacità di modifica PDF professionali, inclusa la possibilità di aggiungere testo, commenti, immagini, e di firmare elettronicamente i documenti.",
-        "Tooltip": "Foxit PDF Editor Pro v114.0.4.33508",
+        "Tooltip": "Foxit PDF Editor+ v2026.1.0.36452",
         "MRicerca": "foxit",
-        "Hash": "20446fb5b7ae5c8b",
-        "HashX32": "20446fb5b7ae5c8b",
+        "Hash": "e7338bcda387d304",
+        "HashX32": "",
         "UUID": "134"
     },
     {
@@ -1835,15 +1835,15 @@
     },
     {
         "Nome": "Wondershare Recoverit",
-        "Link": "https://devuploads.com/zj88ouf3x6ap",
+        "Link": "https://devuploads.com/d2kvcyf9svsg",
         "Linkx32": "",
         "LinkR": null,
         "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Recupero%20Dati/Wondershare_Recoverit.png",
         "Sezione": "Recupero Dati",
         "Descrizione": "Wondershare Recoverit è un software potente e intuitivo per il recupero dati da vari dispositivi, inclusi hard disk, USB, schede SD e dispositivi mobili. Supporta il recupero di file cancellati, formattati o persi a causa di errori di sistema. Con un’interfaccia user-friendly e un alto tasso di successo, è ideale per utenti e professionisti che necessitano di recuperare dati in modo rapido e sicuro.",
-        "Tooltip": "Wondershare Recoverit v14.0.18.2",
+        "Tooltip": "Wondershare Recoverit v14.0.25.7",
         "MRicerca": "recover",
-        "Hash": "3127facc3afb0416",
+        "Hash": "42d728065bc579ab",
         "HashX32": "",
         "UUID": "251"
     },
@@ -2524,11 +2524,11 @@
         "Link": "https://devuploads.com/9fwsq8d0e1ec",
         "Linkx32": "https://devuploads.com/9fwsq8d0e1ec",
         "LinkR": "",
-        "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Utility%20di%20Sistema%20e%20Manutenzione/Fix_Licenza.png",
+        "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Utility%20di%20Sistema%20e%20Manutenzione/FirewallManager.png",
         "Sezione": "Utility di Sistema e Manutenzione",
         "Descrizione": "Helper per gestire il Firewall",
         "Tooltip": "FirewallManager v0.0",
-        "MRicerca": "licenza, firewall",
+        "MRicerca": "firewall",
         "Hash": "87c4a2ee18c9af5c",
         "HashX32": "87c4a2ee18c9af5c",
         "UUID": "142"
@@ -2786,6 +2786,20 @@
         "UUID": "272"
     },
     {
+        "Nome": "Acute Systems TransMac",
+        "Link": "https://devuploads.com/7x0ewo7tbonh",
+        "Linkx32": "",
+        "LinkR": null,
+        "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Utility%20di%20Sistema%20e%20Manutenzione/Acute_Systems_TransMac.png",
+        "Sezione": "Utility di Sistema e Manutenzione",
+        "Descrizione": "",
+        "Tooltip": "Acute Systems TransMac v15.5",
+        "MRicerca": "Acute",
+        "Hash": "7b9545e7831f606f",
+        "HashX32": "",
+        "UUID": "309"
+    },
+    {
         "Nome": "Wondershare Filmora",
         "Link": "https://devuploads.com/m5ew4rqaojbt",
         "Linkx32": "",
@@ -2941,16 +2955,16 @@
     },
     {
         "Nome": "Adobe Premiere Pro",
-        "Link": "https://devuploads.com/oikvo9fhjahp",
-        "Linkx32": null,
+        "Link": "https://devuploads.com/0qi4czjucdnx",
+        "Linkx32": "",
         "LinkR": "",
         "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Video%20e%20Animazione/Adobe_Premiere_Pro.png",
         "Sezione": "Video e Animazione",
         "Descrizione": "Adobe Premiere Pro è un software di montaggio video professionale sviluppato da Adobe Systems. È ampiamente utilizzato nell'industria cinematografica e televisiva per la sua potenza e versatilità.",
-        "Tooltip": "Adobe Premiere Pro 2024 v25.6.3",
+        "Tooltip": "Adobe Premiere Pro 2026 v26.2",
         "MRicerca": "premiere",
-        "Hash": "8d5624d0c6c53be4",
-        "HashX32": null,
+        "Hash": "5a33a5fff46301a7",
+        "HashX32": "",
         "UUID": "5"
     },
     {
@@ -3064,5 +3078,19 @@
         "Hash": "53124b8a89c572bd",
         "HashX32": "",
         "UUID": "254"
+    },
+    {
+        "Nome": "ManyCam",
+        "Link": "https://devuploads.com/2nncvse133ip",
+        "Linkx32": "",
+        "LinkR": null,
+        "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Video%20e%20Animazione/ManyCam.png",
+        "Sezione": "Video e Animazione",
+        "Descrizione": "",
+        "Tooltip": "ManyCam v9.1.0.5",
+        "MRicerca": "manycam",
+        "Hash": "339def0d3c35edc7",
+        "HashX32": "",
+        "UUID": "307"
     }
 ]
