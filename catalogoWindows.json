@@ -1456,17 +1456,17 @@
     "UUID": "152"
   },
   {
-    "Nome": "Avira Phantom",
-    "Link": "https://devuploads.com/bqy8k7loa8q5",
-    "Linkx32": null,
+    "Nome": "Avira Phantom VPN",
+    "Link": "https://devuploads.com/c40hook8oxht",
+    "Linkx32": "",
     "LinkR": "",
     "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Networking%20e%20Wi-Fi/Avira_Phantom.png",
     "Sezione": "Networking e Wi-Fi",
     "Descrizione": "Avira Phantom è un servizio di VPN (Virtual Private Network) offerto da Avira, una nota azienda di sicurezza informatica.",
-    "Tooltip": "Avira Phantom VPN Pro v2.44.1.19908",
+    "Tooltip": "Avira Phantom VPN Pro 2.46.1.19448",
     "MRicerca": "vpn",
-    "Hash": "cdc7aaa065950896",
-    "HashX32": null,
+    "Hash": "d3a7f9999c7cf643",
+    "HashX32": "",
     "UUID": "20"
   },
   {
