@@ -3092,5 +3092,19 @@
     "Hash": "339def0d3c35edc7",
     "HashX32": "",
     "UUID": "307"
+  },
+  {
+    "Nome": "Mirillis Action!",
+    "Link": "https://devuploads.com/zzmsgs3ngeks",
+    "Linkx32": "",
+    "LinkR": null,
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Registrazione%20Schermo/Mirillis_Action.png",
+    "Sezione": "Registrazione Schermo",
+    "Descrizione": "Mirillis Action! è un potente software di registrazione dello schermo. Offre registrazioni HD fluide fino a 120 FPS con un basso impatto sulla CPU. Include streaming live integrato, supporto webcam, chroma key e la possibilità di registrare e condividere contenuti direttamente su piattaforme come Twitch e YouTube",
+    "Tooltip": "Mirillis Action! v4.48.1",
+    "MRicerca": "mirillis",
+    "Hash": "cd9634d8236c6326",
+    "HashX32": "",
+    "UUID": "311"
   }
 ]
