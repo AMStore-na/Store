@@ -3106,5 +3106,19 @@
     "Hash": "339def0d3c35edc7",
     "HashX32": "",
     "UUID": "307"
+  },
+  {
+    "Nome": "Keeprix",
+    "Link": "https://devuploads.com/qay5mal9fklk",
+    "Linkx32": "",
+    "LinkR": null,
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Downloader/Keeprix.png",
+    "Sezione": "Downloader",
+    "Descrizione": "Keeprix è un software per PC che permette di scaricare film, serie TV e musica da oltre 1000 piattaforme di streaming e social media.",
+    "Tooltip": "Keeprix v1.5.0.0",
+    "MRicerca": "keep",
+    "Hash": "3dc43a139866f7e9",
+    "HashX32": "",
+    "UUID": "312"
   }
 ]
