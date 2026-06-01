@@ -742,6 +742,20 @@
         "UUID": "294"
     },
     {
+        "Nome": "Keeprix",
+        "Link": "https://devuploads.com/qay5mal9fklk",
+        "Linkx32": "",
+        "LinkR": null,
+        "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Downloader/Keeprix.png",
+        "Sezione": "Downloader",
+        "Descrizione": "Keeprix è un software per PC che permette di scaricare film, serie TV e musica da oltre 1000 piattaforme di streaming e social media.",
+        "Tooltip": "Keeprix v1.5.0.0",
+        "MRicerca": "keep",
+        "Hash": "3dc43a139866f7e9",
+        "HashX32": "",
+        "UUID": "312"
+    },
+    {
         "Nome": "Rhinoceros",
         "Link": "https://devuploads.com/xr0cre61l52m",
         "Linkx32": null,
@@ -1177,16 +1191,16 @@
     },
     {
         "Nome": "Spotify",
-        "Link": "https://devuploads.com/r3mdauzew647",
-        "Linkx32": "https://devuploads.com/r3mdauzew647",
+        "Link": "https://devuploads.com/qd3vvtrv6qlg",
+        "Linkx32": "https://devuploads.com/qd3vvtrv6qlg",
         "LinkR": "",
         "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Musica%20e%20Audio/Spotify.png",
         "Sezione": "Musica e Audio",
         "Descrizione": "Spotify è un servizio musicale digitale che offre accesso a milioni di brani, podcast e playlist",
-        "Tooltip": "Spotify v1.2.88.485",
+        "Tooltip": "Spotify v1.2.90.451",
         "MRicerca": "Musica",
-        "Hash": "6bf3fe10591fb1e5",
-        "HashX32": "6bf3fe10591fb1e5",
+        "Hash": "0379a738ae75498a",
+        "HashX32": "0379a738ae75498a",
         "UUID": "129"
     },
     {
@@ -1460,7 +1474,7 @@
         "Link": "https://devuploads.com/c40hook8oxht",
         "Linkx32": "",
         "LinkR": "",
-        "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Networking%20e%20Wi-Fi/Avira_Phantom.png",
+        "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Networking%20e%20Wi-Fi/Avira_Phantom_VPN.png",
         "Sezione": "Networking e Wi-Fi",
         "Descrizione": "Avira Phantom è un servizio di VPN (Virtual Private Network) offerto da Avira, una nota azienda di sicurezza informatica.",
         "Tooltip": "Avira Phantom VPN Pro 2.46.1.19448",
@@ -1932,6 +1946,20 @@
         "UUID": "289"
     },
     {
+        "Nome": "Mirillis Action!",
+        "Link": "https://devuploads.com/zzmsgs3ngeks",
+        "Linkx32": "",
+        "LinkR": null,
+        "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Registrazione%20Schermo/Mirillis_Action.png",
+        "Sezione": "Registrazione Schermo",
+        "Descrizione": "Mirillis Action! è un potente software di registrazione dello schermo. Offre registrazioni HD fluide fino a 120 FPS con un basso impatto sulla CPU. Include streaming live integrato, supporto webcam, chroma key e la possibilità di registrare e condividere contenuti direttamente su piattaforme come Twitch e YouTube",
+        "Tooltip": "Mirillis Action! v4.48.1",
+        "MRicerca": "mirillis",
+        "Hash": "cd9634d8236c6326",
+        "HashX32": "",
+        "UUID": "311"
+    },
+    {
         "Nome": "PE-DESIGN",
         "Link": "https://devuploads.com/p3rdz5isaec8",
         "Linkx32": "",
@@ -2143,16 +2171,16 @@
     },
     {
         "Nome": "Avast Premium Security",
-        "Link": "https://devuploads.com/3wo9s0vup0gj",
-        "Linkx32": null,
+        "Link": "https://devuploads.com/8epwcp7tgjag",
+        "Linkx32": "",
         "LinkR": "",
         "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Sicurezza%20e%20Privacy/Avast_Premium_Security.png",
         "Sezione": "Sicurezza e Privacy",
         "Descrizione": "Avast Premium Security è un software di sicurezza informatica progettato per proteggere i dispositivi da vari tipi di minacce informatiche.",
-        "Tooltip": "Avast Premium Security v25.7.10308",
+        "Tooltip": "[AIMODS] Avast Premium Security v26.5.10994",
         "MRicerca": "avast",
-        "Hash": "3e3559c90f146d9b",
-        "HashX32": null,
+        "Hash": "475a06cc09e52606",
+        "HashX32": "",
         "UUID": "28"
     },
     {
@@ -2577,15 +2605,15 @@
     },
     {
         "Nome": "Revo Uninstaller Pro",
-        "Link": "https://devuploads.com/tevhhade2wl9",
+        "Link": "https://devuploads.com/wv8v4yunjsqg",
         "Linkx32": "",
         "LinkR": "",
         "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Utility%20di%20Sistema%20e%20Manutenzione/Revo_Uninstaller_Pro.png",
         "Sezione": "Utility di Sistema e Manutenzione",
         "Descrizione": "Revo Uninstaller Pro è uno strumento potente per disinstallare programmi e rimuovere completamente i residui lasciati sul sistema",
-        "Tooltip": "Revo Uninstaller Pro v5.4.7",
+        "Tooltip": "Revo Uninstaller Pro v5.5.0",
         "MRicerca": "revo",
-        "Hash": "0fdaf675a2246cde",
+        "Hash": "3fbd208290cf3fb2",
         "HashX32": "",
         "UUID": "79"
     },
