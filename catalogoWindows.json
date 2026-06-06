@@ -1260,13 +1260,13 @@
     "UUID": "131"
   },
   {
-    "Nome": "Serato DJ Pro",
-    "Link": "https://devuploads.com/9o32d3d2yqfr",
+    "Nome": "Serato DJ",
+    "Link": "https://devuploads.com/4gmjawhohmps",
     "Linkx32": "",
     "LinkR": null,
-    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Musica%20e%20Audio/Serato_DJ_Pro.png",
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Musica%20e%20Audio/Serato_DJ.png",
     "Sezione": "Musica e Audio",
-    "Descrizione": "Serato DJ Pro v3.3.0",
+    "Descrizione": "Serato DJ Pro è un software professionale per DJ, progettato per mixare tracce con strumenti avanzati e un'interfaccia intuitiva. Supporta controller, mixer e vinili digitali, offrendo funzioni come beatmatching, sincronizzazione automatica e sampling. Perfetto per DJ di tutti i livelli, garantisce stabilità e prestazioni elevate per esibizioni dal vivo e produzioni musicali",
     "Tooltip": "Serato DJ Pro v4.0.7",
     "MRicerca": "serato",
     "Hash": "51c94fcabe18afbd",
