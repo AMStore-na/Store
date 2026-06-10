@@ -98,17 +98,17 @@
     "UUID": "94"
   },
   {
-    "Nome": "Enscape 3D",
-    "Link": "https://devuploads.com/8sbvdqj9r1bc",
-    "Linkx32": null,
+    "Nome": "Chaos Enscape",
+    "Link": "https://devuploads.com/gt2xyug8kheu",
+    "Linkx32": "",
     "LinkR": "",
     "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/CAD,%20Architettura%20e%20Ingegneria/Enscape_3D.png",
     "Sezione": "CAD, Architettura e Ingegneria",
-    "Descrizione": "Enscape 3D è un plugin di rendering in tempo reale e realtà virtuale progettato per integrarsi perfettamente con strumenti di progettazione come Revit, SketchUp, Rhino, ArchiCAD e Vectorworks. È utilizzato principalmente da architetti, progettisti e paesaggisti per visualizzare e presentare i loro progetti in modo più interattivo e realistico.",
-    "Tooltip": "Enscape 3D v4.0.1.48 for Revit",
+    "Descrizione": "Chaos Enscape è un plugin di rendering in tempo reale e realtà virtuale progettato per integrarsi perfettamente con strumenti di progettazione come Revit, SketchUp, Rhino, ArchiCAD e Vectorworks. È utilizzato principalmente da architetti, progettisti e paesaggisti per visualizzare e presentare i loro progetti in modo più interattivo e realistico.",
+    "Tooltip": "Chaos Enscape v4.18.1.1579",
     "MRicerca": "enscape",
-    "Hash": "",
-    "HashX32": null,
+    "Hash": "96e9c7ef50476708",
+    "HashX32": "",
     "UUID": "34"
   },
   {
