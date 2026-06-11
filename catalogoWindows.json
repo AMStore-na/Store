@@ -2423,16 +2423,16 @@
   },
   {
     "Nome": "Driver Easy",
-    "Link": "https://devuploads.com/bqldwszsx6hi",
-    "Linkx32": null,
+    "Link": "https://devuploads.com/u5vwivosbm4s",
+    "Linkx32": "",
     "LinkR": "",
     "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Utility%20di%20Sistema%20e%20Manutenzione/Driver_Easy.png",
     "Sezione": "Utility di Sistema e Manutenzione",
     "Descrizione": "Driver Easy è un software di aggiornamento driver per Windows. È progettato per aiutarti a mantenere i driver del tuo sistema operativo aggiornati, il che può risolvere molti problemi di compatibilità e prestazioni del computer.",
-    "Tooltip": "Driver Easy Professional v7.1.0.2641",
+    "Tooltip": "Driver Easy Professional v7.1.3.2500",
     "MRicerca": "driver",
-    "Hash": "7563570a88c2920d",
-    "HashX32": null,
+    "Hash": "7b6d90a6d8524be0",
+    "HashX32": "",
     "UUID": "70"
   },
   {
