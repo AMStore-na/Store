@@ -1876,6 +1876,20 @@
     "UUID": "270"
   },
   {
+    "Nome": "R-Studio",
+    "Link": "https://devuploads.com/yw17lzkmh38u",
+    "Linkx32": "",
+    "LinkR": null,
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Recupero%20Dati/R-Studio_Windows.png",
+    "Sezione": "Recupero Dati",
+    "Descrizione": "R-Studio rappresenta una soluzione al recupero dati essendo applicabile al ripristino di file da partizioni di tipo NTFS, NTFS5, ReFS, FAT12/16/32, exFAT, HFS/HFS+/APFS (Macintosh), XFS, varianti Little e Big Endian di UFS1/UFS2,  (FreeBSD/OpenBSD/NetBSD/Solaris) e Ext2/Ext3/Ext4 FS (Linux)",
+    "Tooltip": "R-Studio Technician v9.5.191802",
+    "MRicerca": "r-studio",
+    "Hash": "1d672d24750d121f",
+    "HashX32": "",
+    "UUID": "314"
+  },
+  {
     "Nome": "Movavi Screen Recorder",
     "Link": "https://devuploads.com/cavkvymgv7w1",
     "Linkx32": null,
@@ -3134,19 +3148,5 @@
     "Hash": "339def0d3c35edc7",
     "HashX32": "",
     "UUID": "307"
-  },
-  {
-    "Nome": "R-Studio",
-    "Link": "https://devuploads.com/yw17lzkmh38u",
-    "Linkx32": "",
-    "LinkR": null,
-    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Recupero%20Dati/R-Studio_Windows.png",
-    "Sezione": "Recupero Dati",
-    "Descrizione": "R-Studio rappresenta una soluzione al recupero dati essendo applicabile al ripristino di file da partizioni di tipo NTFS, NTFS5, ReFS, FAT12/16/32, exFAT, HFS/HFS+/APFS (Macintosh), XFS, varianti Little e Big Endian di UFS1/UFS2,  (FreeBSD/OpenBSD/NetBSD/Solaris) e Ext2/Ext3/Ext4 FS (Linux)",
-    "Tooltip": "R-Studio Technician v9.5.191802",
-    "MRicerca": "r-studio",
-    "Hash": "1d672d24750d121f",
-    "HashX32": "",
-    "UUID": "314"
   }
 ]
