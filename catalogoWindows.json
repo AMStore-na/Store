@@ -2310,16 +2310,16 @@
     "UUID": "13"
   },
   {
-    "Nome": "VMware Workstation 25H2",
-    "Link": "https://devuploads.com/ob0det9jb5fk",
+    "Nome": "VMware Workstation 26H1",
+    "Link": "https://devuploads.com/ov06zeq5af6z",
     "Linkx32": "",
     "LinkR": "",
     "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Sviluppo%20Software%2C%20Web%20e%20IDE/VMware_Workstation_25H2.png",
     "Sezione": "Sviluppo Software, Web e IDE",
     "Descrizione": "VMware Workstation Pro è un potente strumento di virtualizzazione che permette agli utenti di eseguire più sistemi operativi su un singolo PC.",
-    "Tooltip": "VMware Workstation v25H2u1-25219725",
+    "Tooltip": "VMware Workstation 26H1 v25388281",
     "MRicerca": "vmware",
-    "Hash": "3170923e6247bc50",
+    "Hash": "29c83ee1534cf5c9",
     "HashX32": "",
     "UUID": "19"
   },
