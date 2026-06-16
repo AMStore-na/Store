@@ -463,16 +463,16 @@
   },
   {
     "Nome": "Multiecuscan",
-    "Link": "https://devuploads.com/6zs4bdr29azy",
-    "Linkx32": "https://devuploads.com/3mxmj6nd3jte",
+    "Link": "https://devuploads.com/ghr14lso74p1",
+    "Linkx32": "",
     "LinkR": null,
     "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Diagnostica%20Auto/Multiecuscan.png",
     "Sezione": "Diagnostica Auto",
     "Descrizione": "",
-    "Tooltip": "Multiecuscan",
+    "Tooltip": "Multiecuscan v5.3R1",
     "MRicerca": "multiecuscan",
-    "Hash": "f26fc081d20da6ff",
-    "HashX32": "15350650a322c22a",
+    "Hash": "db5edcda07c88fdd",
+    "HashX32": "",
     "UUID": "184"
   },
   {
