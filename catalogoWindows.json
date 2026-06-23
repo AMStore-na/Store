@@ -1806,17 +1806,17 @@
     "UUID": "78"
   },
   {
-    "Nome": "Recuva Business Edition",
-    "Link": "https://devuploads.com/79qqfzhga9xy",
-    "Linkx32": null,
+    "Nome": "Recuva",
+    "Link": "https://devuploads.com/j58oqnbe79yt",
+    "Linkx32": "",
     "LinkR": "",
     "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Recupero%20Dati/Recuva_Business_Edition.png",
     "Sezione": "Recupero Dati",
     "Descrizione": "Recuva Business Edition è una versione avanzata del popolare strumento di recupero file Recuva, sviluppato da Piriform. Questa versione è progettata per le esigenze aziendali e offre funzionalità aggiuntive rispetto alla versione gratuita.",
-    "Tooltip": "Recuva Business Edition v1.53.2095",
+    "Tooltip": "Recuva Technician v1.55.133",
     "MRicerca": "recuva",
-    "Hash": "",
-    "HashX32": null,
+    "Hash": "d5db37f5f9b8525a",
+    "HashX32": "",
     "UUID": "68"
   },
   {
@@ -2493,15 +2493,15 @@
   },
   {
     "Nome": "CCleaner",
-    "Link": "https://devuploads.com/hnhhfsv1pe3a",
-    "Linkx32": null,
+    "Link": "https://devuploads.com/n00zezmxui3h",
+    "Linkx32": "",
     "LinkR": "",
     "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Utility%20di%20Sistema%20e%20Manutenzione/CCleaner.png",
     "Sezione": "Utility di Sistema e Manutenzione",
     "Descrizione": "CCleaner è un popolare software di ottimizzazione e pulizia del sistema sviluppato da Piriform (ora parte di Avast). È progettato per migliorare le prestazioni del tuo computer rimuovendo file temporanei, cookie, file di registro inutili, e altri dati che possono accumularsi nel tempo e rallentare il sistema.",
-    "Tooltip": "CCleaner Professional v6.39.11548",
+    "Tooltip": "CCleaner Technician v6.41.11567",
     "MRicerca": "ccleaner",
-    "Hash": "b3cd74331dce41bd",
+    "Hash": "e54bb86d79f3b421",
     "HashX32": "",
     "UUID": "73"
   },
