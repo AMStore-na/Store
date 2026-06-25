@@ -1596,17 +1596,17 @@
     "UUID": "134"
   },
   {
-    "Nome": "Nitro PDF Pro",
-    "Link": "https://devuploads.com/d5wps8i2clcu",
-    "Linkx32": null,
+    "Nome": "Nitro PDF Pro Enterprise",
+    "Link": "https://devuploads.com/01imddbs1jym",
+    "Linkx32": "",
     "LinkR": "",
     "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/PDF%20e%20Office/Nitro_PDF_Pro.png",
     "Sezione": "PDF e Office",
     "Descrizione": "Nitro PDF Pro Enterprise è una soluzione avanzata per la gestione dei documenti PDF, progettata specificamente per soddisfare le esigenze delle grandi organizzazioni. Offre una suite completa di strumenti per creare, modificare, convertire, firmare e proteggere documenti PDF, facilitando flussi di lavoro documentali efficienti e sicuri.​",
-    "Tooltip": "Nitro PDF Pro v14.41.1.3",
+    "Tooltip": "Nitro PDF Pro Enterprise v26.0.10.0",
     "MRicerca": "pdf",
-    "Hash": "a62de0de8645bf63",
-    "HashX32": null,
+    "Hash": "8239fc5fe7e6d3bf",
+    "HashX32": "",
     "UUID": "135"
   },
   {
