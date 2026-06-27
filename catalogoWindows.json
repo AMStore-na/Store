@@ -799,15 +799,15 @@
   },
   {
     "Nome": "Capture One",
-    "Link": "https://devuploads.com/bykhajypzl49",
+    "Link": "https://devuploads.com/1w13nos9sqs0",
     "Linkx32": "",
     "LinkR": "",
     "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Grafica%20e%20Design/Capture_One.png",
     "Sezione": "Grafica e Design",
     "Descrizione": "Capture One è un software professionale per la gestione, l'editing e il ritocco delle fotografie, sviluppato da Phase One. È particolarmente apprezzato dai fotografi per la sua eccellente gestione dei file RAW, il controllo avanzato del colore e l'editing non distruttivo.",
-    "Tooltip": "Capture One Enterprise v16.7.4.3394",
+    "Tooltip": "Capture One Enterprise v16.8.2.3615",
     "MRicerca": "capture",
-    "Hash": "0e3d9d93dfbe73bd",
+    "Hash": "73a24d657e8f2a61",
     "HashX32": "",
     "UUID": "63"
   },
