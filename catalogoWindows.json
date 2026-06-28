@@ -2772,16 +2772,16 @@
     "UUID": "256"
   },
   {
-    "Nome": "AOMEI Partition Assistant All Edition",
-    "Link": "https://devuploads.com/yypx899tnyi1",
+    "Nome": "AOMEI Partition Assistant",
+    "Link": "https://devuploads.com/3p4vle7mvcd3",
     "Linkx32": "",
     "LinkR": null,
     "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Utility%20di%20Sistema%20e%20Manutenzione/AOMEI_Partition_Assistant.png",
     "Sezione": "Utility di Sistema e Manutenzione",
     "Descrizione": "",
-    "Tooltip": "AOMEI Partition Assistant All Edition v10.10.1",
+    "Tooltip": "AOMEI Partition Assistant v10.11",
     "MRicerca": "partition",
-    "Hash": "6eb6853de7250ca3",
+    "Hash": "dd80994a6a37e181",
     "HashX32": "",
     "UUID": "257"
   },
