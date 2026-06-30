@@ -1,8 +1,9 @@
 {
-  "version": "1.0.3.0",
+  "version": "1.0.3.1",
   "releaseNotes": [
-    "Mantenimento codice",
-    "Aggiunto tag versione app"
+    "Nuova grafica",
+    "Nuova logica",
+    "Nuova logcia estrazione"
   ],
   "updateUrl": "https://github.com/AMStore-na/Store/releases/download/Store/AIMODS-Store.exe",
   "lavori": "false"
