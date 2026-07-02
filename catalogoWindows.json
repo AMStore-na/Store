@@ -3106,5 +3106,19 @@
     "Hash": "339def0d3c35edc7",
     "HashX32": "",
     "UUID": "307"
+  },
+  {
+    "Nome": "Adobe XD",
+    "Link": "https://devuploads.com/fd0e3khq29qt",
+    "Linkx32": "",
+    "LinkR": null,
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Grafica%20e%20Design/Adobe_XD.png",
+    "Sezione": "Grafica e Design",
+    "Descrizione": "Adobe XD serve a disegnare l'aspetto grafico e a simulare il funzionamento di applicazioni per smartphone, siti web e programmi desktop prima che vengano effettivamente codificati dai programmatori.",
+    "Tooltip": "Adobe XD v61.0.12",
+    "MRicerca": "xd",
+    "Hash": "c9a52212b039be31",
+    "HashX32": "",
+    "UUID": "315"
   }
 ]
