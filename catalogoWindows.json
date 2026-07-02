@@ -1009,16 +1009,16 @@
   },
   {
     "Nome": "Adobe InCopy",
-    "Link": "https://devuploads.com/dqypjh3ud0ec",
-    "Linkx32": null,
+    "Link": "https://devuploads.com/xu5rrjyvqbr4",
+    "Linkx32": "",
     "LinkR": null,
     "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Grafica%20e%20Design/Adobe_InCopy.png",
     "Sezione": "Grafica e Design",
     "Descrizione": " InCopy consente a editor e copywriter di adattare lo stile del testo, tenere traccia delle modifiche e apportare semplici variazioni al layout di un documento mentre il team di progettazione lavora contemporaneamente allo stesso file in Adobe InDesign, tutto senza sovrascrivere i reciproci contributi.",
-    "Tooltip": "Adobe InCopy v20.3",
+    "Tooltip": "Adobe InCopy 2026 v21.4.0.074",
     "MRicerca": "incopy",
-    "Hash": "0cc0d6a2bd259938",
-    "HashX32": null,
+    "Hash": "e5bbf07c91484355",
+    "HashX32": "",
     "UUID": "171"
   },
   {
