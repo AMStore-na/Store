@@ -869,16 +869,16 @@
   },
   {
     "Nome": "Adobe Dimension",
-    "Link": "https://devuploads.com/6f8cs9r16375",
-    "Linkx32": null,
+    "Link": "https://devuploads.com/b98sqm0du6k8",
+    "Linkx32": "",
     "LinkR": "",
     "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Grafica%20e%20Design/Adobe_Dimension.png",
     "Sezione": "Grafica e Design",
     "Descrizione": "Adobe Dimension è un software di grafica 3D sviluppato da Adobe Systems, progettato per facilitare la creazione di immagini e composizioni 3D in modo semplice e intuitivo.",
-    "Tooltip": "Adobe Dimension v4.1.5",
+    "Tooltip": "Adobe Dimension v4.1.8.4754",
     "MRicerca": "dimension",
-    "Hash": "e3a6641385975055",
-    "HashX32": null,
+    "Hash": "7654f03cec91f538",
+    "HashX32": "",
     "UUID": "9"
   },
   {
