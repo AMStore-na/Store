@@ -1176,6 +1176,34 @@
     "UUID": "308"
   },
   {
+    "Nome": "Adobe XD",
+    "Link": "https://devuploads.com/zxrch83fr0yt",
+    "Linkx32": "",
+    "LinkR": null,
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Grafica%20e%20Design/Adobe_XD.png",
+    "Sezione": "Grafica e Design",
+    "Descrizione": "Adobe XD serve a disegnare l'aspetto grafico e a simulare il funzionamento di applicazioni per smartphone, siti web e programmi desktop prima che vengano effettivamente codificati dai programmatori.",
+    "Tooltip": "Adobe XD v61.0.12",
+    "MRicerca": "xd",
+    "Hash": "c9a52212b039be31",
+    "HashX32": "",
+    "UUID": "315"
+  },
+  {
+    "Nome": "Adobe Substance 3D Painter",
+    "Link": "https://devuploads.com/0fv4ok16a2rz",
+    "Linkx32": "",
+    "LinkR": null,
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Grafica%20e%20Design/Substance_3D_Painter.png",
+    "Sezione": "Grafica e Design",
+    "Descrizione": "Substance 3D Painter ha gli strumenti necessari per applicare texture alle tue risorse 3D, da pennelli avanzati a materiali intelligenti che si adattano automaticamente al modello. Dai vita ai tuoi progetti artistici.",
+    "Tooltip": "Adobe Substance 3D Painter v12.1.0",
+    "MRicerca": "",
+    "Hash": "8381058a34bfd52f",
+    "HashX32": "",
+    "UUID": "316"
+  },
+  {
     "Nome": "Spotify",
     "Link": "https://devuploads.com/qd3vvtrv6qlg",
     "Linkx32": "https://devuploads.com/qd3vvtrv6qlg",
@@ -3106,33 +3134,5 @@
     "Hash": "339def0d3c35edc7",
     "HashX32": "",
     "UUID": "307"
-  },
-  {
-    "Nome": "Adobe XD",
-    "Link": "https://devuploads.com/zxrch83fr0yt",
-    "Linkx32": "",
-    "LinkR": null,
-    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Grafica%20e%20Design/Adobe_XD.png",
-    "Sezione": "Grafica e Design",
-    "Descrizione": "Adobe XD serve a disegnare l'aspetto grafico e a simulare il funzionamento di applicazioni per smartphone, siti web e programmi desktop prima che vengano effettivamente codificati dai programmatori.",
-    "Tooltip": "Adobe XD v61.0.12",
-    "MRicerca": "xd",
-    "Hash": "c9a52212b039be31",
-    "HashX32": "",
-    "UUID": "315"
-  },
-  {
-    "Nome": "Adobe Substance 3D Painter",
-    "Link": "https://devuploads.com/0fv4ok16a2rz",
-    "Linkx32": "",
-    "LinkR": null,
-    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Grafica%20e%20Design/Substance_3D_Painter.png",
-    "Sezione": "Grafica e Design",
-    "Descrizione": "Substance 3D Painter ha gli strumenti necessari per applicare texture alle tue risorse 3D, da pennelli avanzati a materiali intelligenti che si adattano automaticamente al modello. Dai vita ai tuoi progetti artistici.",
-    "Tooltip": "Adobe Substance 3D Painter v12.1.0",
-    "MRicerca": "",
-    "Hash": "8381058a34bfd52f",
-    "HashX32": "",
-    "UUID": "316"
   }
 ]
