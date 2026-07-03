@@ -3120,5 +3120,19 @@
     "Hash": "c9a52212b039be31",
     "HashX32": "",
     "UUID": "315"
+  },
+  {
+    "Nome": "Adobe Substance 3D Painter",
+    "Link": "https://devuploads.com/0fv4ok16a2rz",
+    "Linkx32": "",
+    "LinkR": null,
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Grafica%20e%20Design/Substance_3D_Painter.png",
+    "Sezione": "Grafica e Design",
+    "Descrizione": "Substance 3D Painter ha gli strumenti necessari per applicare texture alle tue risorse 3D, da pennelli avanzati a materiali intelligenti che si adattano automaticamente al modello. Dai vita ai tuoi progetti artistici.",
+    "Tooltip": "Adobe Substance 3D Painter v12.1.0",
+    "MRicerca": "",
+    "Hash": "8381058a34bfd52f",
+    "HashX32": "",
+    "UUID": "316"
   }
 ]
