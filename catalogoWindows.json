@@ -3134,5 +3134,19 @@
     "Hash": "339def0d3c35edc7",
     "HashX32": "",
     "UUID": "307"
+  },
+  {
+    "Nome": "AOMEI Backupper",
+    "Link": "https://devuploads.com/eozvxcj6h0yi",
+    "Linkx32": "",
+    "LinkR": null,
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Utility%20di%20Sistema%20e%20Manutenzione/AOMEI_Backupper.png",
+    "Sezione": "Utility di Sistema e Manutenzione",
+    "Descrizione": "AOMEI Backupper è un software per Windows che consente di eseguire backup, ripristino e clonazione di dischi, partizioni, sistema e file, proteggendo i dati e facilitando il recupero in caso di guasti",
+    "Tooltip": "AOMEI Backupper Technician Plus v8.4.0",
+    "MRicerca": "aomei",
+    "Hash": "87cbf3f10e05deba",
+    "HashX32": "",
+    "UUID": "317"
   }
 ]
