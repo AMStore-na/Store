@@ -2878,7 +2878,7 @@
     "Sezione": "Utility di Sistema e Manutenzione",
     "Descrizione": "Google Photos Takeout Helper è un'utility che organizza e ripristina i metadati delle foto e dei video esportati da Google Photos tramite Google Takeout, facilitandone la migrazione e l'archiviazione.",
     "Tooltip": "Google Photos Takeout Helper",
-    "MRicerca": "google",
+    "MRicerca": "takeout",
     "Hash": "6c2bdb3582b711f6",
     "HashX32": "",
     "UUID": "318"
