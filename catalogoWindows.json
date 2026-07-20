@@ -3162,5 +3162,19 @@
     "Hash": "339def0d3c35edc7",
     "HashX32": "",
     "UUID": "307"
+  },
+  {
+    "Nome": "Guitar Pro",
+    "Link": "https://devuploads.com/k1uh98wfxkly",
+    "Linkx32": "",
+    "LinkR": null,
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Musica%20e%20Audio/Guitar_Pro.png",
+    "Sezione": "Musica e Audio",
+    "Descrizione": "Guitar Pro è un software di notazione musicale sviluppato specificamente per la creazione, la modifica e la riproduzione di spartiti e tablature. È progettato principalmente per chitarristi e bassisti, ma supporta anche numerosi altri strumenti, consentendo di comporre arrangiamenti completi con più tracce.",
+    "Tooltip": "Guitar Pro v8.1.5 Build 31",
+    "MRicerca": "guitar",
+    "Hash": "5ae573026a6c7438",
+    "HashX32": "",
+    "UUID": "319"
   }
 ]
