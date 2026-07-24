@@ -1,9 +1,7 @@
 {
-  "version": "1.0.3.1",
+  "version": "1.0.3.2",
   "releaseNotes": [
-    "Nuova grafica",
-    "Nuova logica",
-    "Nuova logcia estrazione"
+    "Fix minori"
   ],
   "updateUrl": "https://github.com/AMStore-na/Store/releases/download/Store/AIMODS-Store.exe",
   "lavori": "false"
