@@ -2310,6 +2310,20 @@
         "UUID": "166"
     },
     {
+        "Nome": "MultCloud",
+        "Link": "https://devuploads.com/y7ko40bwlamy",
+        "Linkx32": "",
+        "LinkR": null,
+        "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/NONELIMINAREDIOCANE/MultCloud.png",
+        "Sezione": "Social Network",
+        "Descrizione": "Hai mai desiderato più spazio per salvare i tuoi file o voluto spostare foto e documenti da Google Drive a Dropbox (o OneDrive) senza doverli prima scaricare sul computer?",
+        "Tooltip": "MultCloud",
+        "MRicerca": "MultCloud",
+        "Hash": "4245db314ee341d7",
+        "HashX32": "",
+        "UUID": "320"
+    },
+    {
         "Nome": "Adobe Master Collection 2026",
         "Link": "https://devuploads.com/tlflrd2q1uin",
         "Linkx32": "",
@@ -2647,15 +2661,15 @@
     },
     {
         "Nome": "Revo Uninstaller Pro",
-        "Link": "https://devuploads.com/wv8v4yunjsqg",
+        "Link": "https://devuploads.com/zaq9t98puxfs",
         "Linkx32": "",
         "LinkR": "",
         "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Utility%20di%20Sistema%20e%20Manutenzione/Revo_Uninstaller_Pro.png",
         "Sezione": "Utility di Sistema e Manutenzione",
         "Descrizione": "Revo Uninstaller Pro è uno strumento potente per disinstallare programmi e rimuovere completamente i residui lasciati sul sistema",
-        "Tooltip": "Revo Uninstaller Pro v5.5.0",
+        "Tooltip": "Revo Uninstaller Pro v5.5.2",
         "MRicerca": "revo",
-        "Hash": "3fbd208290cf3fb2",
+        "Hash": "e96f7f12de018f2f",
         "HashX32": "",
         "UUID": "79"
     },
@@ -2899,7 +2913,7 @@
     },
     {
         "Nome": "Wondershare Filmora",
-        "Link": "https://devuploads.com/efy0bjw3vhak",
+        "Link": "https://devuploads.com/iexvhctpn61x",
         "Linkx32": "",
         "LinkR": "",
         "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Video%20e%20Animazione/Wondershare_Filmora.png",
@@ -2907,7 +2921,7 @@
         "Descrizione": "Wondershare Filmora è un software di editing video facile da usare, sviluppato da Wondershare. È progettato per utenti di tutti i livelli, dai principianti agli esperti, e offre una vasta gamma di funzionalità per creare video di alta qualità.",
         "Tooltip": "Wondershare Filmora v15.7.3.20745",
         "MRicerca": "filmora",
-        "Hash": "d8ebc192e5943575",
+        "Hash": "eaedc47a7cde8476",
         "HashX32": "",
         "UUID": "55"
     },
