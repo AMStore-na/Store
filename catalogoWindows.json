@@ -3190,5 +3190,19 @@
     "Hash": "339def0d3c35edc7",
     "HashX32": "",
     "UUID": "307"
+  },
+  {
+    "Nome": "Movavi Video Suite",
+    "Link": "https://devuploads.com/prmkbhw6arxz",
+    "Linkx32": "",
+    "LinkR": null,
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Video%20e%20Animazione/Movavi_Video_Suite.png",
+    "Sezione": "Video e Animazione",
+    "Descrizione": "Movavi Video Suite è un software completo per la gestione e la modifica dei contenuti multimediali. Permette di creare e modificare video in modo semplice e intuitivo, offrendo strumenti per tagliare e unire filmati, aggiungere effetti, transizioni, testi e musica, migliorare l’audio e registrare lo schermo.",
+    "Tooltip": "Movavi Video Suite 2026 v2026.1.1",
+    "MRicerca": "movavi",
+    "Hash": "b81dc4b3f3dbe1ed",
+    "HashX32": "",
+    "UUID": "321"
   }
 ]
