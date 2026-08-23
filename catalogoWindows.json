@@ -1736,14 +1736,14 @@
     "UUID": "147"
   },
   {
-    "Nome": "MediaMonkey",
+    "Nome": "MediaMonkey Gold",
     "Link": "https://devuploads.com/wb3biq5djbl6",
     "Linkx32": "",
     "LinkR": "",
-    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Personalizzazione%20e%20Interfaccia/MediaMonkey.png",
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Personalizzazione%20e%20Interfaccia/MediaMonkey_Gold.png",
     "Sezione": "Personalizzazione e Interfaccia",
     "Descrizione": "MediaMonkey è un software di gestione e organizzazione dei media progettato per collezionisti seri di musica e video.",
-    "Tooltip": "Media Monkey Gold v2024.2.2.3222",
+    "Tooltip": "MediaMonkey Gold v2024.2.2.3222",
     "MRicerca": "monkey",
     "Hash": "d50d7c287f7622c5",
     "HashX32": "",
