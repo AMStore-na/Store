@@ -491,15 +491,15 @@
     },
     {
         "Nome": "4K Video Downloader Plus",
-        "Link": "https://devuploads.com/dd0tgmd2ibpc",
+        "Link": "https://devuploads.com/9piihhk5rfrv",
         "Linkx32": "",
         "LinkR": "",
         "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Downloader/4K_Video_Downloader_Plus.png",
         "Sezione": "Downloader",
         "Descrizione": "4K Video Downloader è un'applicazione multipiattaforma che consente di salvare video di alta qualità da YouTube e altri siti web in pochi secondi.",
-        "Tooltip": "4K Video Downloader Plus v26.1.5",
+        "Tooltip": "4K Video Downloader Plus v26.3.1",
         "MRicerca": "4k",
-        "Hash": "efc62170462674d3",
+        "Hash": "7b2f259d9bfc613c",
         "HashX32": "",
         "UUID": "42"
     },
@@ -547,7 +547,7 @@
     },
     {
         "Nome": "YT Saver",
-        "Link": "https://devuploads.com/9xmh29zc3nm5",
+        "Link": "https://devuploads.com/binoj9xp92d7",
         "Linkx32": "",
         "LinkR": "",
         "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Downloader/YT_Saver.png",
@@ -555,7 +555,7 @@
         "Descrizione": "YT Saver è un'applicazione per il download e la conversione di video da oltre 10.000 piattaforme, inclusi YouTube, Instagram e TikTok. Permette di scaricare video fino a risoluzioni 8K e convertirli in oltre 20 formati diversi, come MP4 e MP3. Offre anche funzionalità avanzate come il download di playlist da servizi come Spotify, Tidal, etc e la modalità privata.",
         "Tooltip": "YT Saver v11.1.2",
         "MRicerca": "yt",
-        "Hash": "e43c6fa2ee4316be",
+        "Hash": "cba07d0a149815da",
         "HashX32": "",
         "UUID": "49"
     },
@@ -813,15 +813,15 @@
     },
     {
         "Nome": "Adobe Photoshop",
-        "Link": "https://devuploads.com/i85j5tug232d",
+        "Link": "https://devuploads.com/ifil1oxds45w",
         "Linkx32": "",
         "LinkR": "",
         "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Grafica%20e%20Design/Adobe_Photoshop.png",
         "Sezione": "Grafica e Design",
         "Descrizione": "Adobe Photoshop è un software potente e versatile per l’editing digitale delle immagini e la progettazione grafica.",
-        "Tooltip": "Adobe Photoshop 2026 v27.8.0.13",
+        "Tooltip": "Adobe Photoshop 2026 v27.9.1.1",
         "MRicerca": "photoshop",
-        "Hash": "da34cc414bccf52a",
+        "Hash": "8d061aaf1a065326",
         "HashX32": "",
         "UUID": "2"
     },
@@ -1541,16 +1541,16 @@
     },
     {
         "Nome": "Adobe Acrobat Pro",
-        "Link": "https://devuploads.com/t3wdoc53q30t",
-        "Linkx32": "https://devuploads.com/0kty6qwuu4st",
+        "Link": "https://devuploads.com/fxxfdtra5pqb",
+        "Linkx32": "https://devuploads.com/63tgu9i22pil",
         "LinkR": "",
         "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/PDF%20e%20Office/Adobe_Acrobat_Pro.png",
         "Sezione": "PDF e Office",
         "Descrizione": "Adobe Acrobat Pro è un software potente e versatile sviluppato da Adobe Systems per la creazione, modifica e gestione di file PDF (Portable Document Format). è ampiamente utilizzato in ambito professionale per la sua capacità di manipolare documenti in modo efficiente.",
-        "Tooltip": "Adobe Acrobat 2026 v26.1.21691",
+        "Tooltip": "Adobe Acrobat 2026 v26.1.21789",
         "MRicerca": "acrobat",
-        "Hash": "d218f8e4fbc328b5",
-        "HashX32": "e98ae337f68db759",
+        "Hash": "6a5d46fb6528da71",
+        "HashX32": "8cdbab4f764a9e91",
         "UUID": "1"
     },
     {
@@ -1681,15 +1681,15 @@
     },
     {
         "Nome": "StartAllBack",
-        "Link": "https://devuploads.com/l06fsjogigmc",
+        "Link": "https://devuploads.com/wkbbj0z6358g",
         "Linkx32": "",
         "LinkR": "",
         "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Personalizzazione%20e%20Interfaccia/StartAllBack.png",
         "Sezione": "Personalizzazione e Interfaccia",
         "Descrizione": "StartAllBack è un'applicazione progettata per migliorare e personalizzare l'interfaccia utente di Windows 11, permettendo agli utenti di ripristinare elementi familiari delle versioni precedenti di Windows, come Windows 10 e Windows 7",
-        "Tooltip": "StartAllBack v3.9.23",
+        "Tooltip": "StartAllBack v3.9.24.5380",
         "MRicerca": "start",
-        "Hash": "e4e41f0a65d00ff7",
+        "Hash": "1ce174c17792b0af",
         "HashX32": "",
         "UUID": "74"
     },
@@ -1736,17 +1736,17 @@
         "UUID": "147"
     },
     {
-        "Nome": "MediaMonkey",
-        "Link": "https://devuploads.com/rekhmdck974h",
-        "Linkx32": null,
+        "Nome": "MediaMonkey Gold",
+        "Link": "https://devuploads.com/wb3biq5djbl6",
+        "Linkx32": "",
         "LinkR": "",
-        "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Personalizzazione%20e%20Interfaccia/MediaMonkey.png",
+        "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Personalizzazione%20e%20Interfaccia/MediaMonkey_Gold.png",
         "Sezione": "Personalizzazione e Interfaccia",
         "Descrizione": "MediaMonkey è un software di gestione e organizzazione dei media progettato per collezionisti seri di musica e video.",
-        "Tooltip": "Media Monkey Gold v2024.0.0.3019",
+        "Tooltip": "MediaMonkey Gold v2024.2.2.3222",
         "MRicerca": "monkey",
-        "Hash": "",
-        "HashX32": null,
+        "Hash": "d50d7c287f7622c5",
+        "HashX32": "",
         "UUID": "14"
     },
     {
@@ -3190,5 +3190,19 @@
         "Hash": "339def0d3c35edc7",
         "HashX32": "",
         "UUID": "307"
+    },
+    {
+        "Nome": "Movavi Video Suite",
+        "Link": "https://devuploads.com/prmkbhw6arxz",
+        "Linkx32": "",
+        "LinkR": null,
+        "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Video%20e%20Animazione/Movavi_Video_Suite.png",
+        "Sezione": "Video e Animazione",
+        "Descrizione": "Movavi Video Suite è un software completo per la gestione e la modifica dei contenuti multimediali. Permette di creare e modificare video in modo semplice e intuitivo, offrendo strumenti per tagliare e unire filmati, aggiungere effetti, transizioni, testi e musica, migliorare l’audio e registrare lo schermo.",
+        "Tooltip": "Movavi Video Suite 2026 v2026.1.1",
+        "MRicerca": "movavi",
+        "Hash": "b81dc4b3f3dbe1ed",
+        "HashX32": "",
+        "UUID": "321"
     }
 ]
