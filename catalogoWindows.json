@@ -1204,6 +1204,20 @@
     "UUID": "316"
   },
   {
+    "Nome": "4K Image Compressor",
+    "Link": "https://devuploads.com/8iefwtgb5jka",
+    "Linkx32": "",
+    "LinkR": null,
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Grafica%20e%20Design/4K_Image_Compressor.png",
+    "Sezione": "Grafica e Design",
+    "Descrizione": "4K Image Compressor è un software (disponibile principalmente per Windows e macOS) sviluppato da Liteapps (la stessa software house dietro a 4K Video Downloader) progettato per comprimere e ridimensionare le immagini digitali.",
+    "Tooltip": "4K Image Compressor v26.0.0",
+    "MRicerca": "4K Image",
+    "Hash": "11eff6e6b889162d",
+    "HashX32": "",
+    "UUID": "322"
+  },
+  {
     "Nome": "Spotify",
     "Link": "https://devuploads.com/qd3vvtrv6qlg",
     "Linkx32": "https://devuploads.com/qd3vvtrv6qlg",
@@ -3204,19 +3218,5 @@
     "Hash": "b81dc4b3f3dbe1ed",
     "HashX32": "",
     "UUID": "321"
-  },
-  {
-    "Nome": "4K Image Compressor",
-    "Link": "https://devuploads.com/8iefwtgb5jka",
-    "Linkx32": "",
-    "LinkR": null,
-    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Grafica%20e%20Design/4K_Image_Compressor.png",
-    "Sezione": "Grafica e Design",
-    "Descrizione": "4K Image Compressor è un software (disponibile principalmente per Windows e macOS) sviluppato da Liteapps (la stessa software house dietro a 4K Video Downloader) progettato per comprimere e ridimensionare le immagini digitali.",
-    "Tooltip": "4K Image Compressor v26.0.0",
-    "MRicerca": "4K Image",
-    "Hash": "11eff6e6b889162d",
-    "HashX32": "",
-    "UUID": "322"
   }
 ]
