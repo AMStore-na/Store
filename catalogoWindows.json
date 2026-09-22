@@ -2913,16 +2913,16 @@
   },
   {
     "Nome": "Winzip",
-    "Link": "https://devuploads.com/njiohw5bq25k",
-    "Linkx32": null,
+    "Link": "https://devuploads.com/kep5mok8b7z6",
+    "Linkx32": "",
     "LinkR": null,
     "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Utility%20di%20Sistema%20e%20Manutenzione/WinZip.png",
     "Sezione": "Utility di Sistema e Manutenzione",
-    "Descrizione": null,
-    "Tooltip": "WinZip Pro v29.0.16416",
+    "Descrizione": "",
+    "Tooltip": "WinZip Pro v31.0.17240",
     "MRicerca": "winzip",
-    "Hash": "8e433311be3a5cb8",
-    "HashX32": null,
+    "Hash": "d89039530a1dc676",
+    "HashX32": "",
     "UUID": "271"
   },
   {
