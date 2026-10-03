@@ -575,15 +575,15 @@
   },
   {
     "Nome": "Pazu StreamGet",
-    "Link": "https://devuploads.com/nnuniw8lkuk5",
+    "Link": "https://devuploads.com/x5inyajow3b4",
     "Linkx32": "",
     "LinkR": null,
     "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Downloader/Pazu_StreamGet.png",
     "Sezione": "Downloader",
     "Descrizione": "Pazu StreamGet è un potente strumento di download video che consente di scaricare film e programmi da varie piattaforme di streaming direttamente sul tuo dispositivo Windows. Permette il download da Amazon Prime  Video, Netflix, Disney Plus, Hulu e molti altri.",
-    "Tooltip": "Pazu StreamGet v3.2.5.0",
+    "Tooltip": "Pazu StreamGet v3.2.6.0",
     "MRicerca": "Pazu",
-    "Hash": "425e4a044649c4e0",
+    "Hash": "1fa9634da401f464",
     "HashX32": "",
     "UUID": "33"
   },
