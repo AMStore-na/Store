@@ -1960,20 +1960,6 @@
     "UUID": "251"
   },
   {
-    "Nome": "EaseUS Data Recovery Wizard",
-    "Link": "https://devuploads.com/9tj53lt7qjfg",
-    "Linkx32": null,
-    "LinkR": null,
-    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Recupero%20Dati/EaseUS_Data_Recovery_Wizard.png",
-    "Sezione": "Recupero Dati",
-    "Descrizione": null,
-    "Tooltip": "EaseUS Data Recovery Wizard Pro v19.6.5",
-    "MRicerca": "easeus",
-    "Hash": "af9136c807601b34",
-    "HashX32": null,
-    "UUID": "270"
-  },
-  {
     "Nome": "R-Studio",
     "Link": "https://devuploads.com/yw17lzkmh38u",
     "Linkx32": "",
