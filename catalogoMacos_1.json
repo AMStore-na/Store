@@ -7,6 +7,7 @@
       "summary": "Converte file tra formati",
       "homepage": "https://example.com/prova",
       "icon": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Grafica%20e%20Design/Adobe_Photoshop.png",
+      "guide": "La guida dei fagioli enormi!"
       "variants": [
         {
           "version": "2.1.0",
@@ -17,7 +18,6 @@
           "minimumOS": "10.13",
           "downloadURL": "https://google.com",
           "sha256": "fcdd2eb45b6f01f50200543ab57913a274319e401fb9d93d3cbe3c84d5c244ac",
-          "guide": "La guida dei cazzi!"
         },
         {
           "version": "1.0",
