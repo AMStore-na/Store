@@ -14,18 +14,20 @@ import json
 import os
 import re
 import sys
+import unicodedata
 
 PERCORSO_PREDEFINITO = "catalogoMacos_1.json"
 SCHEMA_SUPPORTATO = 1
 ARCHITETTURE = {"arm64", "x86_64"}
 
 CHIAVI_CATALOGO = {"schemaVersion", "apps"}
-CHIAVI_APP = {"id", "name", "summary", "homepage", "icon", "variants", "guide"}
+CHIAVI_APP = {"id", "name", "summary", "homepage", "icon", "variants", "guide",
+              "category"}
 CHIAVI_VARIANTE = {"version", "icon", "architectures", "minimumOS",
                    "firstUnsupportedOS", "downloadURL", "sha256", "guide"}
 
 # Nomi italiani che qualcuno potrebbe scrivere al posto di quelli giusti.
-TRADUZIONI_CHIAVI = {"guida": "guide"}
+TRADUZIONI_CHIAVI = {"guida": "guide", "categoria": "category"}
 
 errori = []
 avvisi = []
@@ -112,13 +114,47 @@ def controlla_guida(oggetto, dove):
         avviso(f"{dove}.guide", "e' vuota: conta come se mancasse")
 
 
+def chiave_categoria(testo):
+    """Come AppCategories.key(for:) in Swift: senza spazi ai lati,
+    maiuscole e accenti, cosi' "Utilita'" e "utilita" sono lo stesso gruppo."""
+    scomposto = unicodedata.normalize("NFD", testo.strip().casefold())
+    return "".join(c for c in scomposto if not unicodedata.combining(c))
+
+
+def controlla_categoria(app, dove, categorie_viste):
+    """La categoria e' facoltativa; se c'e' deve essere un testo non vuoto."""
+    categoria = testo_facoltativo(app, "category", dove)
+    if categoria is None:
+        return
+    if not categoria.strip():
+        avviso(f"{dove}.category", "e' vuota: l'app finisce in \"Altro\"")
+        return
+    categorie_viste.setdefault(chiave_categoria(categoria), []).append((categoria.strip(), dove))
+
+
+def controlla_categorie_coerenti(categorie_viste):
+    """Avvisa se la stessa categoria e' scritta in modi diversi: l'app le unisce
+    comunque, ma come titolo usa la prima, quindi meglio scriverle uguali."""
+    for usi in categorie_viste.values():
+        scritture = []
+        for testo, _ in usi:
+            if testo not in scritture:
+                scritture.append(testo)
+        if len(scritture) > 1:
+            elenco = ", ".join(f'"{t}"' for t in scritture)
+            avviso("categorie", f'la stessa categoria e\' scritta in modi diversi ({elenco}): '
+                                f'lo Store le unisce e usa "{scritture[0]}" come titolo')
+
+
 # MARK: - Controlli sulla struttura
 
 def controlla_variante(variante, dove):
     if not isinstance(variante, dict):
         errore(dove, "ogni variante deve essere un oggetto { ... }")
         return
-    chiavi_sconosciute(variante, CHIAVI_VARIANTE, dove)
+    if "category" in variante:
+        avviso(f"{dove}.category", "la categoria va nell'app, non nella variante: qui viene ignorata")
+    chiavi_sconosciute(variante, CHIAVI_VARIANTE | {"category"}, dove)
 
     testo_obbligatorio(variante, "version", dove)
 
@@ -169,7 +205,7 @@ def controlla_variante(variante, dove):
     controlla_guida(variante, dove)
 
 
-def controlla_app(app, dove, id_visti):
+def controlla_app(app, dove, id_visti, categorie_viste):
     if not isinstance(app, dict):
         errore(dove, "ogni app deve essere un oggetto { ... }")
         return
@@ -189,6 +225,7 @@ def controlla_app(app, dove, id_visti):
     controlla_link(testo_obbligatorio(app, "homepage", dove), f"{dove}.homepage", obbligatorio_https=False)
     controlla_link(testo_facoltativo(app, "icon", dove), f"{dove}.icon", obbligatorio_https=False)
     controlla_guida(app, dove)
+    controlla_categoria(app, dove, categorie_viste)
 
     varianti = app.get("variants")
     if varianti is None:
@@ -224,8 +261,10 @@ def controlla_catalogo(catalogo):
         errore("catalogo.apps", "deve essere una lista [ ... ]")
     else:
         id_visti = {}
+        categorie_viste = {}
         for i, app in enumerate(apps):
-            controlla_app(app, f"apps[{i}]", id_visti)
+            controlla_app(app, f"apps[{i}]", id_visti, categorie_viste)
+        controlla_categorie_coerenti(categorie_viste)
 
 
 # MARK: - Lettura del file
