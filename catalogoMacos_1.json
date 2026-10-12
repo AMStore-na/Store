@@ -17,7 +17,7 @@
           ],
           "minimumOS": "10.13",
           "downloadURL": "https://google.com",
-          "sha256": "fcdd2eb45b6f01f50200543ab57913a274319e401fb9d93d3cbe3c84d5c244ac",
+          "sha256": "fcdd2eb45b6f01f50200543ab57913a274319e401fb9d93d3cbe3c84d5c244ac"
         },
         {
           "version": "1.0",

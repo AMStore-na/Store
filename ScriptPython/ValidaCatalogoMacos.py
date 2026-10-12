@@ -20,9 +20,12 @@ SCHEMA_SUPPORTATO = 1
 ARCHITETTURE = {"arm64", "x86_64"}
 
 CHIAVI_CATALOGO = {"schemaVersion", "apps"}
-CHIAVI_APP = {"id", "name", "summary", "homepage", "icon", "variants"}
+CHIAVI_APP = {"id", "name", "summary", "homepage", "icon", "variants", "guide"}
 CHIAVI_VARIANTE = {"version", "icon", "architectures", "minimumOS",
-                   "firstUnsupportedOS", "downloadURL", "sha256"}
+                   "firstUnsupportedOS", "downloadURL", "sha256", "guide"}
+
+# Nomi italiani che qualcuno potrebbe scrivere al posto di quelli giusti.
+TRADUZIONI_CHIAVI = {"guida": "guide"}
 
 errori = []
 avvisi = []
@@ -96,8 +99,17 @@ def chiavi_sconosciute(oggetto, ammesse, dove):
     for chiave in oggetto:
         if chiave not in ammesse:
             simili = [a for a in ammesse if a.lower() == chiave.lower()]
+            if not simili and TRADUZIONI_CHIAVI.get(chiave.lower()) in ammesse:
+                simili = [TRADUZIONI_CHIAVI[chiave.lower()]]
             suggerimento = f' (forse volevi "{simili[0]}"?)' if simili else ""
             avviso(dove, f'campo "{chiave}" sconosciuto: l\'app lo ignora{suggerimento}')
+
+
+def controlla_guida(oggetto, dove):
+    """La guida e' facoltativa; se c'e' deve essere un testo non vuoto."""
+    guida = testo_facoltativo(oggetto, "guide", dove)
+    if guida is not None and not guida.strip():
+        avviso(f"{dove}.guide", "e' vuota: conta come se mancasse")
 
 
 # MARK: - Controlli sulla struttura
@@ -144,9 +156,17 @@ def controlla_variante(variante, dove):
 
     controlla_link(testo_facoltativo(variante, "icon", dove), f"{dove}.icon", obbligatorio_https=False)
 
-    sha = testo_facoltativo(variante, "sha256", dove)
-    if sha is not None and not re.fullmatch(r"[0-9a-fA-F]{64}", sha):
-        errore(f"{dove}.sha256", "deve essere di 64 caratteri esadecimali (0-9, a-f)")
+    # L'impronta del file scaricabile: l'app la ricontrolla dopo il download.
+    # Obbligatoria: senza, l'app non puo' verificare il file e apre il browser.
+    if variante.get("sha256") is None:
+        errore(dove, 'manca il campo obbligatorio "sha256" (l\'impronta del file: '
+                     'la stampa compressore, oppure "shasum -a 256 file.aimods")')
+    else:
+        sha = testo_facoltativo(variante, "sha256", dove)
+        if sha is not None and not re.fullmatch(r"[0-9a-fA-F]{64}", sha.strip()):
+            errore(f"{dove}.sha256", "deve essere di 64 caratteri esadecimali (0-9, a-f)")
+
+    controlla_guida(variante, dove)
 
 
 def controlla_app(app, dove, id_visti):
@@ -168,6 +188,7 @@ def controlla_app(app, dove, id_visti):
     testo_facoltativo(app, "summary", dove)
     controlla_link(testo_obbligatorio(app, "homepage", dove), f"{dove}.homepage", obbligatorio_https=False)
     controlla_link(testo_facoltativo(app, "icon", dove), f"{dove}.icon", obbligatorio_https=False)
+    controlla_guida(app, dove)
 
     varianti = app.get("variants")
     if varianti is None:
