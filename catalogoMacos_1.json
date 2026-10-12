@@ -28,7 +28,7 @@
         {
           "version": "1.0",
           "architectures": ["arm64", "x86_64"],
-          "minimumOS": "10.13",
+          "minimumOS": "27",
           "downloadURL": "https://example.com/pennello.aimods",
           "sha256": "1111111111111111111111111111111111111111111111111111111111111111"
         }
