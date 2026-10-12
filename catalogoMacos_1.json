@@ -15,7 +15,8 @@
             "x86_64"
           ],
           "minimumOS": "10.13",
-          "downloadURL": "https://google.com"
+          "downloadURL": "https://google.com",
+          "sha256": "fcdd2eb45b6f01f50200543ab57913a274319e401fb9d93d3cbe3c84d5c244ac"
         },
         {
           "version": "1.0",
@@ -25,7 +26,8 @@
           ],
           "minimumOS": "10.9",
           "firstUnsupportedOS": "10.15",
-          "downloadURL": "https://example.com/vecchio.zip"
+          "downloadURL": "https://example.com/vecchio.zip",
+          "sha256": "fcdd2eb45b6f01f50200543ab57913a274319e401fb9d93d3cbe3c84d5c244ac"
         }
       ]
     },
@@ -43,7 +45,8 @@
             "x86_64"
           ],
           "minimumOS": "27.0",
-          "downloadURL": "https://example.com/futura.zip"
+          "downloadURL": "https://example.com/futura.zip",
+          "sha256": "fcdd2eb45b6f01f50200543ab57913a274319e401fb9d93d3cbe3c84d5c244ac"
         }
       ]
     },
@@ -60,7 +63,8 @@
           ],
           "minimumOS": "10.9",
           "firstUnsupportedOS": "11.0",
-          "downloadURL": "https://example.com/vecchio-editor.zip"
+          "downloadURL": "https://example.com/vecchio-editor.zip",
+          "sha256": "fcdd2eb45b6f01f50200543ab57913a274319e401fb9d93d3cbe3c84d5c244ac"
         }
       ]
     }
