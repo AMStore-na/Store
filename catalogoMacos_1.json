@@ -15,7 +15,8 @@
           "minimumOS": "10.13",
           "downloadURL": "https://example.com/convertitore.aimods",
           "sha256": "0000000000000000000000000000000000000000000000000000000000000000",
-          "icon": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Giochi/Phoenix_Play.png"
+          "icon": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Giochi/Phoenix_Play.png",
+          "guide": "La guida migliore del mondo!"
         }
       ]
     },
