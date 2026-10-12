@@ -12,6 +12,7 @@ Usa solo la libreria standard di Python: nessuna dipendenza da installare.
 
 import json
 import os
+import difflib
 import re
 import sys
 import unicodedata
@@ -22,15 +23,21 @@ ARCHITETTURE = {"arm64", "x86_64"}
 
 CHIAVI_CATALOGO = {"schemaVersion", "apps"}
 CHIAVI_APP = {"id", "name", "summary", "homepage", "icon", "variants", "guide",
-              "category"}
+              "category", "popular"}
 CHIAVI_VARIANTE = {"version", "icon", "architectures", "minimumOS",
                    "firstUnsupportedOS", "downloadURL", "sha256", "guide"}
 
 # Nomi italiani che qualcuno potrebbe scrivere al posto di quelli giusti.
-TRADUZIONI_CHIAVI = {"guida": "guide", "categoria": "category"}
+TRADUZIONI_CHIAVI = {"guida": "guide", "categoria": "category",
+                     "popolare": "popular", "popolari": "popular"}
 
 errori = []
 avvisi = []
+# Le categorie usate nel catalogo: chiave (senza maiuscole e accenti) ->
+# lista di (come e' scritta, dove). Alla fine lo script le elenca.
+categorie_viste = {}
+# I nomi delle app con "popular": true, nell'ordine del catalogo.
+popolari_viste = []
 
 
 def errore(dove, messaggio):
@@ -129,6 +136,9 @@ def controlla_categoria(app, dove, categorie_viste):
     if not categoria.strip():
         avviso(f"{dove}.category", "e' vuota: l'app finisce in \"Altro\"")
         return
+    if chiave_categoria(categoria) in (chiave_categoria("Popolari"), chiave_categoria("Tutte le app")):
+        avviso(f"{dove}.category", f'"{categoria.strip()}" e\' gia\' un titolo dello Store: '
+                                   'per le app popolari si usa "popular": true')
     categorie_viste.setdefault(chiave_categoria(categoria), []).append((categoria.strip(), dove))
 
 
@@ -145,6 +155,40 @@ def controlla_categorie_coerenti(categorie_viste):
             avviso("categorie", f'la stessa categoria e\' scritta in modi diversi ({elenco}): '
                                 f'lo Store le unisce e usa "{scritture[0]}" come titolo')
 
+    # Una categoria usata da una sola app e molto simile a un'altra e' quasi
+    # sempre un errore di battitura ("Utilty" invece di "Utility"): lo Store
+    # creerebbe un gruppo in piu' con un'app sola.
+    for chiave, usi in categorie_viste.items():
+        if len(usi) != 1:
+            continue
+        altre = [k for k in categorie_viste if k != chiave]
+        simili = difflib.get_close_matches(chiave, altre, n=1, cutoff=0.8)
+        if simili:
+            testo, dove = usi[0]
+            giusta = categorie_viste[simili[0]][0][0]
+            avviso(f"{dove}.category", f'"{testo}" e\' usata solo qui: forse volevi "{giusta}"?')
+
+
+def elenco_categorie():
+    """Le categorie usate, in ordine alfabetico, con quante app ha ognuna,
+    es. 'Grafica e Design (1), Utility (2)'. Serve a non doverle ricordare."""
+    voci = sorted((usi[0][0], len(usi)) for usi in categorie_viste.values())
+    voci.sort(key=lambda v: v[0].casefold())
+    return ", ".join(f"{nome} ({n})" for nome, n in voci)
+
+
+def controlla_popolare(app, dove):
+    """"popular" e' facoltativo; se c'e' deve essere true o false SENZA
+    virgolette. Con le virgolette ("true") e' un testo: lo Store non riesce
+    a leggere il catalogo, quindi e' un errore e non un avviso."""
+    valore = app.get("popular")
+    if valore is None:
+        return False
+    if type(valore) is not bool:
+        errore(f"{dove}.popular", 'deve essere true oppure false, senza virgolette')
+        return False
+    return valore
+
 
 # MARK: - Controlli sulla struttura
 
@@ -154,7 +198,9 @@ def controlla_variante(variante, dove):
         return
     if "category" in variante:
         avviso(f"{dove}.category", "la categoria va nell'app, non nella variante: qui viene ignorata")
-    chiavi_sconosciute(variante, CHIAVI_VARIANTE | {"category"}, dove)
+    if "popular" in variante:
+        avviso(f"{dove}.popular", "\"popular\" va nell'app, non nella variante: qui viene ignorato")
+    chiavi_sconosciute(variante, CHIAVI_VARIANTE | {"category", "popular"}, dove)
 
     testo_obbligatorio(variante, "version", dove)
 
@@ -226,6 +272,8 @@ def controlla_app(app, dove, id_visti, categorie_viste):
     controlla_link(testo_facoltativo(app, "icon", dove), f"{dove}.icon", obbligatorio_https=False)
     controlla_guida(app, dove)
     controlla_categoria(app, dove, categorie_viste)
+    if controlla_popolare(app, dove):
+        popolari_viste.append(nome or dove)
 
     varianti = app.get("variants")
     if varianti is None:
@@ -261,7 +309,6 @@ def controlla_catalogo(catalogo):
         errore("catalogo.apps", "deve essere una lista [ ... ]")
     else:
         id_visti = {}
-        categorie_viste = {}
         for i, app in enumerate(apps):
             controlla_app(app, f"apps[{i}]", id_visti, categorie_viste)
         controlla_categorie_coerenti(categorie_viste)
@@ -348,6 +395,14 @@ def main():
         return 1
     n = len(catalogo.get("apps", []))
     print(f"\n{percorso}: OK, {n} app, {len(avvisi)} avviso/i.")
+    if categorie_viste:
+        elenco = elenco_categorie()
+        print(f"::notice file={percorso}::Categorie usate: {elenco}" if in_github
+              else f"Categorie usate: {elenco}")
+    if popolari_viste:
+        elenco = ", ".join(popolari_viste)
+        print(f"::notice file={percorso}::Popolari: {elenco}" if in_github
+              else f"Popolari: {elenco}")
     return 0
 
 

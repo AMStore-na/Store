@@ -7,6 +7,7 @@
       "summary": "Converte file tra formati",
       "homepage": "https://example.com/convertitore",
       "category": "Utility",
+      "popular": true,
       "variants": [
         {
           "version": "2.1.0",
@@ -28,7 +29,7 @@
         {
           "version": "1.0",
           "architectures": ["arm64", "x86_64"],
-          "minimumOS": "27",
+          "minimumOS": "10.13",
           "downloadURL": "https://example.com/pennello.aimods",
           "sha256": "1111111111111111111111111111111111111111111111111111111111111111"
         }
@@ -53,8 +54,9 @@
     {
       "id": "org.community.senza-categoria",
       "name": "Senza categoria",
-      "summary": "Deve comparire in fondo, sotto Altro",
+      "summary": "Popolare e senza categoria: compare in Popolari e in fondo sotto Altro",
       "homepage": "https://example.com/senza-categoria",
+      "popular": true,
       "variants": [
         {
           "version": "1.0",
@@ -62,6 +64,23 @@
           "minimumOS": "10.13",
           "downloadURL": "https://example.com/senza-categoria.aimods",
           "sha256": "3333333333333333333333333333333333333333333333333333333333333333"
+        }
+      ]
+    },
+    {
+      "id": "org.community.app-del-futuro",
+      "name": "App del futuro",
+      "summary": "Popolare ma non disponibile: NON deve comparire in Popolari",
+      "homepage": "https://example.com/futuro",
+      "category": "Utility",
+      "popular": true,
+      "variants": [
+        {
+          "version": "1.0",
+          "architectures": ["arm64", "x86_64"],
+          "minimumOS": "99.0",
+          "downloadURL": "https://example.com/futuro.aimods",
+          "sha256": "4444444444444444444444444444444444444444444444444444444444444444"
         }
       ]
     }
