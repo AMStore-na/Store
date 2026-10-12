@@ -7,7 +7,7 @@
       "summary": "Converte file tra formati",
       "homepage": "https://example.com/prova",
       "icon": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Grafica%20e%20Design/Adobe_Photoshop.png",
-      "guide": "La guida dei fagioli enormi!"
+      "guide": "La guida dei fagioli enormi!",
       "variants": [
         {
           "version": "2.1.0",
