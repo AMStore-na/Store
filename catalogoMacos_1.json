@@ -15,7 +15,7 @@
           "minimumOS": "10.13",
           "downloadURL": "https://example.com/convertitore.aimods",
           "sha256": "0000000000000000000000000000000000000000000000000000000000000000",
-          "icon": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/CAD%2C%20Architettura%20e%20Ingegneria/Autodesk_AutoCAD_Mechanical_2027.png"
+          "icon": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Giochi/Phoenix_Play.png"
         }
       ]
     },
@@ -32,8 +32,7 @@
           "architectures": ["arm64", "x86_64"],
           "minimumOS": "10.13",
           "downloadURL": "https://example.com/pennello.aimods",
-          "sha256": "1111111111111111111111111111111111111111111111111111111111111111",
-          "icon": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/CAD%2C%20Architettura%20e%20Ingegneria/SketchUp.png"
+          "sha256": "1111111111111111111111111111111111111111111111111111111111111111"
         }
       ]
     },
@@ -50,7 +49,7 @@
           "minimumOS": "10.13",
           "downloadURL": "https://example.com/rinomina.aimods",
           "sha256": "2222222222222222222222222222222222222222222222222222222222222222",
-          "icon": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/CAD%2C%20Architettura%20e%20Ingegneria/Autodesk_Revit_2026.png"
+          "icon": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Downloader/SpotiFlac.png"
         }
       ]
     },
@@ -85,7 +84,7 @@
           "minimumOS": "99.0",
           "downloadURL": "https://example.com/futuro.aimods",
           "sha256": "4444444444444444444444444444444444444444444444444444444444444444",
-          "icon": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/CAD%2C%20Architettura%20e%20Ingegneria/Autodesk_Revit_2027.png"
+          "icon": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Grafica%20e%20Design/Adobe_Illustrator.png"
         }
       ]
     }
