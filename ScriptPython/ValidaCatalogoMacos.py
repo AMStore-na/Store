@@ -2,7 +2,7 @@
 """Controlla che il catalogo macOS sia valido prima che arrivi agli utenti.
 
 Uso:  python3 ScriptPython/ValidaCatalogoMacos.py [percorso del catalogo]
-      (senza argomenti controlla catalogoMacos_1.json)
+      (senza argomenti controlla catalogoMacos.json)
 
 Le regole sono le stesse che applica l'app (Catalog.swift e OSVersion.swift):
 se questo script dice "OK", l'app riesce a leggere il file.
@@ -17,7 +17,7 @@ import re
 import sys
 import unicodedata
 
-PERCORSO_PREDEFINITO = "catalogoMacos_1.json"
+PERCORSO_PREDEFINITO = "catalogoMacos.json"
 SCHEMA_SUPPORTATO = 1
 ARCHITETTURE = {"arm64", "x86_64"}
 

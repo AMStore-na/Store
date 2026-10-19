@@ -1,15 +1,16 @@
 name: Validazione catalogo macOS
 
-# Parte da sola ogni volta che cambia il catalogo (o manualmente)
+# Parte da sola ogni volta che cambia il catalogo (o questo controllo),
+# sia con un commit diretto su GitHub sia con una pull request.
 on:
   push:
     paths:
-      - 'catalogoMacos_1.json'
+      - 'catalogoMacos.json'
       - 'ScriptPython/ValidaCatalogoMacos.py'
       - '.github/workflows/validazione-catalogo-macos.yml'
   pull_request:
     paths:
-      - 'catalogoMacos_1.json'
+      - 'catalogoMacos.json'
       - 'ScriptPython/ValidaCatalogoMacos.py'
       - '.github/workflows/validazione-catalogo-macos.yml'
   workflow_dispatch: # Permette di avviarlo a mano dalla scheda Actions
@@ -21,5 +22,6 @@ jobs:
       - name: Scarica il repository
         uses: actions/checkout@v4
 
-      - name: Controlla catalogoMacos_1.json
-        run: python3 ScriptPython/ValidaCatalogoMacos.py catalogoMacos_1.json
+      # Python 3 e' gia' installato sulla macchina di GitHub: niente dipendenze.
+      - name: Controlla catalogoMacos.json
+        run: python3 ScriptPython/ValidaCatalogoMacos.py catalogoMacos.json
