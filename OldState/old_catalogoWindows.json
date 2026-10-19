@@ -827,15 +827,15 @@
     },
     {
         "Nome": "Adobe Photoshop",
-        "Link": "https://devuploads.com/ifil1oxds45w",
+        "Link": "https://devuploads.com/cyevz0e9c4rq",
         "Linkx32": "",
         "LinkR": "",
         "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Grafica%20e%20Design/Adobe_Photoshop.png",
         "Sezione": "Grafica e Design",
         "Descrizione": "Adobe Photoshop è un software potente e versatile per l’editing digitale delle immagini e la progettazione grafica.",
-        "Tooltip": "Adobe Photoshop 2026 v27.9.1.1",
+        "Tooltip": "Adobe Photoshop 2026 v27.11.0.26",
         "MRicerca": "photoshop",
-        "Hash": "8d061aaf1a065326",
+        "Hash": "fcdd5568aafb3309",
         "HashX32": "",
         "UUID": "2"
     },
@@ -1582,20 +1582,6 @@
         "UUID": "324"
     },
     {
-        "Nome": "OkayFreedom VPN",
-        "Link": "https://devuploads.com/pa46zhjkkkhf",
-        "Linkx32": "",
-        "LinkR": null,
-        "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Networking%20e%20Wi-Fi/OkayFreedom_VPN.png",
-        "Sezione": "Networking e Wi-Fi",
-        "Descrizione": "OkayFreedom VPN è un servizio VPN che protegge la connessione Internet, nasconde l’indirizzo IP e cifra i dati durante la navigazione. È pensato soprattutto per aumentare la privacy e la sicurezza online, anche sulle reti Wi-Fi pubbliche.",
-        "Tooltip": "OkayFreedom VPN Premium v1.9.7 (build 14865)",
-        "MRicerca": "OkayFreedom",
-        "Hash": "f672b45079b93f7f",
-        "HashX32": "",
-        "UUID": "329"
-    },
-    {
         "Nome": "Nuance Dragon Professional",
         "Link": "https://devuploads.com/85nqzy7019ud",
         "Linkx32": null,
@@ -1625,15 +1611,15 @@
     },
     {
         "Nome": "Adobe Acrobat Pro",
-        "Link": "https://devuploads.com/1k1hhwbstqg8",
+        "Link": "https://devuploads.com/1c5rhiwiamlz",
         "Linkx32": "https://devuploads.com/63tgu9i22pil",
         "LinkR": "",
         "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/PDF%20e%20Office/Adobe_Acrobat_Pro.png",
         "Sezione": "PDF e Office",
         "Descrizione": "Adobe Acrobat Pro è un software potente e versatile sviluppato da Adobe Systems per la creazione, modifica e gestione di file PDF (Portable Document Format). è ampiamente utilizzato in ambito professionale per la sua capacità di manipolare documenti in modo efficiente.",
-        "Tooltip": "Adobe Acrobat 2026 v26.2.21869",
+        "Tooltip": "Adobe Acrobat 2026 v26.2.21996",
         "MRicerca": "acrobat",
-        "Hash": "44da2742219fc654",
+        "Hash": "9c1449e659ad5a46",
         "HashX32": "8cdbab4f764a9e91",
         "UUID": "1"
     },
