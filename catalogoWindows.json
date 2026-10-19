@@ -1121,15 +1121,15 @@
   },
   {
     "Nome": "Adobe Media Encoder",
-    "Link": "https://devuploads.com/9lf1uy3w0am5",
+    "Link": "https://devuploads.com/is3pj1ikief7",
     "Linkx32": "",
     "LinkR": null,
     "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Grafica%20e%20Design/Adobe_Media_Encoder.png",
     "Sezione": "Grafica e Design",
     "Descrizione": "Adobe Media Encoder semplifica la gestione dei tuoi file multimediali, permettendoti di convertire, comprimere e ottimizzare video e audio per qualsiasi formato. Grazie alla sua integrazione con le app Adobe, velocizza il flusso di lavoro e garantisce risultati di alta qualità, risparmiando tempo senza rinunciare alla precisione professionale.",
-    "Tooltip": "Adobe Media Encoder 2026 v26.3.1.1",
+    "Tooltip": "Adobe Media Encoder 2026 v26.5.2.2",
     "MRicerca": "media",
-    "Hash": "3562aa99754e744a",
+    "Hash": "4275f0d76bf1dc32",
     "HashX32": "",
     "UUID": "268"
   },
