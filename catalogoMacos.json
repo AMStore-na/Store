@@ -74,6 +74,14 @@
           "minimumOS": "14.0",
           "downloadURL": "https://devuploads.com/vkgf012fh2g6",
           "sha256": "49966e0cd4bfcdbd4a4601cf2eacc67e934863e2eacb168f6a57b3e2134c2ddd"
+        },
+        {
+          "version": "26.5.0",
+          "architectures": ["x86_64"],
+          "rosetta": false,
+          "minimumOS": "14.0",
+          "downloadURL": "https://devuploads.com/3lhx71sodvcz",
+          "sha256": "f5ceedd619b6a565978dd78419f098edd54b1998f8dd949ec9f647c7af8f40ab"
         }
       ]
     }
