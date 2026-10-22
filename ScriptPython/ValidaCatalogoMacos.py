@@ -25,7 +25,7 @@ CHIAVI_CATALOGO = {"schemaVersion", "apps"}
 CHIAVI_APP = {"id", "name", "summary", "homepage", "icon", "variants", "guide",
               "category", "popular"}
 CHIAVI_VARIANTE = {"version", "icon", "architectures", "minimumOS",
-                   "firstUnsupportedOS", "downloadURL", "sha256", "guide"}
+                   "firstUnsupportedOS", "downloadURL", "sha256", "guide", "rosetta"}
 
 # Nomi italiani che qualcuno potrebbe scrivere al posto di quelli giusti.
 TRADUZIONI_CHIAVI = {"guida": "guide", "categoria": "category",
@@ -114,11 +114,55 @@ def chiavi_sconosciute(oggetto, ammesse, dove):
             avviso(dove, f'campo "{chiave}" sconosciuto: l\'app lo ignora{suggerimento}')
 
 
+# I tag HTML ammessi nella guida: gli stessi di GuideMarkup (AppListText.swift).
+TAG_GUIDA = ("b", "strong", "i", "em", "u", "code", "br", "a")
+TAG_AMMESSO = re.compile(r"</?(" + "|".join(TAG_GUIDA) + r")(\s[^<>]*)?/?>", re.I)
+QUALSIASI_TAG = re.compile(r"<(/?)([A-Za-z][A-Za-z0-9]*)\b([^<>]*)>")
+
+
 def controlla_guida(oggetto, dove):
     """La guida e' facoltativa; se c'e' deve essere un testo non vuoto."""
     guida = testo_facoltativo(oggetto, "guide", dove)
     if guida is not None and not guida.strip():
         avviso(f"{dove}.guide", "e' vuota: conta come se mancasse")
+    elif guida is not None and TAG_AMMESSO.search(guida):
+        controlla_formattazione(guida, f"{dove}.guide")
+
+
+def controlla_formattazione(guida, dove):
+    """Con almeno un tag ammesso lo Store legge la guida come HTML:
+    i tag devono essere chiusi, e quelli non ammessi si vedono come testo."""
+    aperti = []
+    segnalati = set()
+    for tag in QUALSIASI_TAG.finditer(guida):
+        chiude, nome, resto = tag.group(1) == "/", tag.group(2).lower(), tag.group(3)
+        if nome not in TAG_GUIDA:
+            if nome in segnalati:
+                continue
+            segnalati.add(nome)
+            avviso(dove, f"<{nome}> non e' tra i tag ammessi: lo Store lo mostra "
+                         f"come testo (ammessi: b, i, u, code, br, a)")
+            continue
+        if nome == "br" or resto.rstrip().endswith("/"):
+            continue
+        if not chiude:
+            if nome == "a":
+                href = re.search(r'href\s*=\s*"([^"]*)"', resto, re.I)
+                if href is None:
+                    errore(dove, '<a> senza indirizzo: scrivi <a href="https://...">')
+                else:
+                    controlla_link(href.group(1), dove, obbligatorio_https=False)
+            aperti.append(nome)
+        elif aperti and aperti[-1] == nome:
+            aperti.pop()
+        elif nome in aperti:
+            errore(dove, f"</{nome}> chiude prima di </{aperti[-1]}>: "
+                         "chiudi i tag in ordine inverso")
+            del aperti[len(aperti) - 1 - aperti[::-1].index(nome)]
+        else:
+            errore(dove, f"</{nome}> senza il suo <{nome}>")
+    for nome in aperti:
+        errore(dove, f"<{nome}> aperto e mai chiuso")
 
 
 def chiave_categoria(testo):
@@ -249,6 +293,27 @@ def controlla_variante(variante, dove):
             errore(f"{dove}.sha256", "deve essere di 64 caratteri esadecimali (0-9, a-f)")
 
     controlla_guida(variante, dove)
+    controlla_rosetta(variante, archs, dove)
+
+
+def controlla_rosetta(variante, archs, dove):
+    """"rosetta" e' facoltativo; se c'e' deve essere true o false SENZA
+    virgolette (con le virgolette lo Store non legge il catalogo).
+    "rosetta": false dice che la build Intel non gira con Rosetta sui Mac
+    Apple Silicon: ha senso solo in una variante solo Intel."""
+    if "rosetta" not in variante:
+        return
+    valore = variante.get("rosetta")
+    if type(valore) is not bool:
+        errore(f"{dove}.rosetta", 'deve essere true oppure false, senza virgolette')
+        return
+    if not isinstance(archs, list):
+        return
+    if "arm64" in archs:
+        avviso(f"{dove}.rosetta", 'la variante ha gia\' "arm64": sui Mac Apple Silicon '
+                                  'gira nativa, quindi "rosetta" non conta')
+    elif "x86_64" not in archs:
+        avviso(f"{dove}.rosetta", '"rosetta" vale solo per le build Intel ("x86_64")')
 
 
 def controlla_app(app, dove, id_visti, categorie_viste):
