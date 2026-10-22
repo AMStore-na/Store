@@ -38,6 +38,25 @@
           "guide": "0. Per facilitare il processo, ti suggeriamo di disabilitare temporaneamente il Gatekeeper. \n    0.1 Premi ⌘+Spazio, poi digita Terminale e premi Invio, quindi scrivi\n            sudo spctl --master-disable\n          Ti verrà richiesta la password del Mac (l'inserimento è invisibile).\n\n1. Apri il file .dmg scaricato (doppio click).\n\n2. Se non lo possiedi, installa Adobe Creative Cloud (lo trovi nell'AiMods Store).\n\n3. Dalla cartella \"Install\", esegui \"Install\" (aprilo col tasto destro). Segui le istruzioni per terminare l'installazione. Inserisci la password del Mac e consenti quando richiesto.\n    NOTA – Se Mac dice che il file è danneggiato...\n        a. Clicca su \"Install\" col tasto destro; scegli \"Mostra Contenuto Pacchetto\".\n        b. Apri \"Contents\", poi \"MacOS\".\n        c. Apri \"Install\" col tasto destro.\n\n4. Terminata l'installazione, accedi alla cartella Applicazioni del Mac.\n\n5. Apri la cartella di Adobe Illustrator 2026.\n\n6. Sostituisci \"Adobe Illustrator 2026\" con quello presente nel file .dmg (aperto al passo 1). Inserisci la password quando richiesto.\n\nERRORI COMUNI\n    - Durante l'installazione.\n        1. 501: reinstalla Adobe Creative Cloud.\n        2. File Danneggiato: leggi la nota del passo 3.\n\nPer altri problemi o segnalazioni, scrivici pure sul gruppo.\n\nTeam AiMods™"
         }
       ]
+    },
+    {
+      "id": "org.community.adobe-premiere",
+      "name": "Adobe Premiere",
+      "summary": "Adobe Premiere è un potente software per il montaggio video.",
+      "homepage": "https://www.adobe.com/it/products/premiere.html",
+      "icon": "https://raw.githubusercontent.com/AMStore-na/Store/main/ImmaginiMacOS/Adobe_Premiere_Pro.png",
+      "category": "Video e Animazione",
+      "popular": true,
+      "variants": [
+        {
+          "version": "26.5.2",
+          "architectures": ["arm64"],
+          "minimumOS": "14.0",
+          "downloadURL": "https://devuploads.com/vkgf012fh2g6",
+          "sha256": "49966e0cd4bfcdbd4a4601cf2eacc67e934863e2eacb168f6a57b3e2134c2ddd",
+          "guide": "0. Per facilitare il processo, ti suggeriamo di disabilitare temporaneamente il Gatekeeper. \n    0.1 Premi ⌘+Spazio, poi digita Terminale e premi Invio, quindi scrivi\n            sudo spctl --master-disable\n           Ti verrà richiesta la password del Mac (l'inserimento è invisibile).\n\n1. Apri il file .dmg scaricato (doppio click).\n\n2. Se non lo possiedi, installa Adobe Creative Cloud (lo trovi nell'AiMods Store).\n\n3. Dalla cartella \"Install\", esegui \"Install\" (aprilo col tasto destro). Segui le istruzioni per terminare l'installazione. Inserisci la password del Mac e consenti quando richiesto.\n    NOTA – Se Mac dice che il file è danneggiato...\n        a. Clicca su \"Install\" col tasto destro; scegli \"Mostra Contenuto Pacchetto\".\n        b. Apri \"Contents\", poi \"MacOS\".\n        c. Apri \"Install\" col tasto destro.\n\n4. Terminata l'installazione, accedi alla cartella Applicazioni del Mac.\n\n5. Apri la cartella di Adobe Premiere Pro 2026.\n\n6. Sostituisci \"Adobe Premiere Pro 2026\" con quello presente nel file .dmg (aperto al passo 1). Inserisci la password quando richiesto.\n\nNOTA - Al primo avvio, se Adobe Premiere Pro si blocca:\n1. se compare un avviso, premi OK, quindi chiudi forzatamente Adobe Premiere (tasto destro nel Dock) e chiudi i Crash Report;\n2. riapri Adobe Premiere Pro; potrebbe crashare una seconda volta; riaprendolo, sarà stabile.\n\nERRORI COMUNI\n    - Durante l'installazione.\n        1. 501: reinstalla Adobe Creative Cloud.\n        2. File Danneggiato: leggi la nota del passo 3.\n\nPer altri problemi o segnalazioni, scrivici pure sul gruppo.\n\nTeam AiMods™Premiere Pro"
+        }
+      ]
     }
   ]
 }
