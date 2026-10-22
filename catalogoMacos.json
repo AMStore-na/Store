@@ -14,7 +14,7 @@
         {
           "version": "27.11",
           "architectures": ["arm64", "x86_64"],
-          "minimumOS": "14.0",
+          "minimumOS": "12.0",
           "downloadURL": "https://devuploads.com/en26uspq260l",
           "sha256": "6655cc18886bef605317ea05f0cf1efa5aae12eea4339925b51aa917edc15b80"
         }
