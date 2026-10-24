@@ -78,6 +78,25 @@
       ]
     },
     {
+      "id": "org.community.microsoft-office",
+      "name": "Microsoft Office",
+      "summary": "Microsoft Office è la suite di produttività essenziale per lavorare.",
+      "homepage": "https://www.microsoft.com/it-it/microsoft-365/microsoft-office",
+      "icon": "https://raw.githubusercontent.com/AMStore-na/Store/main/ImmaginiMacOS/Office_Auto_Installer.png",
+      "category": "Produttività",
+      "popular": true,
+      "guide": "0. Per facilitare il processo, ti suggeriamo di disabilitare temporaneamente il Gatekeeper.\n    0.1 Premi ⌘+Spazio, poi digita Terminale e premi Invio.\n    0.2 Scrivi <code>sudo spctl --master-disable</code>\n          NOTA - Ti verrà richiesta la password del Mac (l'inserimento è invisibile).\n\n1. Estrai il file <code>.aimods</code> (tasto in alto nell'<i>AiMods Store</i>).\n\n2. Apri <i>Office Auto Installer</i> col tasto destro; conferma quando richiesto.\n    <b>NOTA</b> - Se il Mac dice che non può verificare la presenza di malware:\n                  a. apri le Impostazioni del Mac;\n                  b. accedi alla sezione <i>Privacy e Sicurezza</i>;\n                  c. scorri fino alla sezione <i>Sicurezza</i> e premi <i>Apri comunque</i>.\n\n3. Seleziona tutte le componenti che desideri installare.\n\n4. Premi <i>Scarica e Installa</i>, quindi attendi il termine del processo. <b>Verrà installata e patchata automaticamente l'ultima versione</b> dei prodotti selezionati <b>per il tuo Mac</b>.\n\n<b>NOTA</b> - Se la patch non risulta applicata al termine del processo, in alto a sinistra nello schermo seleziona <i>Opzioni</i>, poi spunta <i>Forza Disinstallazione Pacchetti</i>, quindi riesegui la procedura di installazione.\n\nPuoi anche disinstallare i prodotti col tasto <i>Disinstalla</i>.\n\n<i>Team AiMods™</i>",
+      "variants": [
+        {
+          "version": "1.0",
+          "architectures": ["arm64", "x86_64"],
+          "minimumOS": "10.11",
+          "downloadURL": "https://devuploads.com/x34w8vxx5n2b",
+          "sha256": "2f5d47d3e4d1cf3896cc049febe7b6ec2d3cd12c5bc18e137b3fb493b33a8f13"
+        }
+      ]
+    },
+    {
       "id": "org.community.adobe-premiere",
       "name": "Adobe Premiere",
       "summary": "Adobe Premiere è un potente software per il montaggio video.",
