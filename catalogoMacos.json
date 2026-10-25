@@ -17,6 +17,14 @@
           "minimumOS": "14.0",
           "downloadURL": "https://devuploads.com/en26uspq260l",
           "sha256": "6655cc18886bef605317ea05f0cf1efa5aae12eea4339925b51aa917edc15b80"
+        },
+        {
+          "version": "26.11.0",
+          "architectures": ["arm64"],
+          "minimumOS": "13.0",
+          "firstUnsupportedOS": "27.0",
+          "downloadURL": "https://devuploads.com/d3t4vb4b0fb4",
+          "sha256": "87034348e672e95593aaaac8203fb4614b93abcbb0d61a47913fd9b68ef3cbb0"
         }
       ]
     },
