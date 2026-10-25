@@ -39,6 +39,25 @@
       ]
     },
     {
+      "id": "org.community.adobe-acrobat-pro",
+      "name": "Adobe Acrobat Pro",
+      "summary": "Adobe Acrobat Pro è il software migliore per gestire PDF.",
+      "homepage": "https://www.adobe.com/it/acrobat/acrobat-pro.html",
+      "icon": "https://raw.githubusercontent.com/AMStore-na/Store/main/ImmaginiMacOS/Adobe_Acrobat_Pro.png",
+      "category": "Produttività",
+      "popular": true,
+      "guide": "0. Per facilitare il processo, ti suggeriamo di disabilitare temporaneamente il Gatekeeper.\n    0.1 Premi ⌘+Spazio, poi digita Terminale e premi Invio.\n    0.2 Scrivi <code>sudo spctl --master-disable</code>\n          NOTA - Ti verrà richiesta la password del Mac (l'inserimento è invisibile).\n\n1. Dopo aver aperto il file <code>.aimods</code> con l'<i>AiMods Store</i> (tasto in alto), apri il file <code>.dmg</code> (doppio click).\n\n2. Se non lo possiedi, installa <i>Adobe Creative Cloud</i> (lo trovi nell'<i>AiMods Store</i>).\n\n3. Dalla cartella <i>Install</i>, esegui <i>Install</i> (aprilo col tasto destro). <b>Quando richiesto di installare <i>Adobe Genuine Service</i> (AGS), assicurati che la spunta NON sia selezionata</b>. Segui le istruzioni per terminare l'installazione. Inserisci la password del Mac e consenti quando richiesto.\n    <b>NOTA</b> – Se Mac dice che il file è danneggiato...\n        a. Clicca sul file <i>Install</i> col tasto destro; scegli \"Mostra Contenuto Pacchetto\".\n        b. Apri <i>Contents</i>, poi <i>MacOS</i>.\n        c. Apri <i>Install</i> col tasto destro.\n\n4. Terminata l'installazione, accedi alla cartella <i>Applicazioni</i> del Mac.\n\n5. Apri la cartella di <i>Adobe Acrobat Pro</i>.\n\n6. Sostituisci <i>Adobe Acrobat Pro</i> con quello presente nel file <code>.dmg</code> (aperto al passo 1). Inserisci la password quando richiesto.\n\n7. Sostituisci <i>Acrobat Distiller</i> con quello presente nel file <code>.dmg</code> (aperto al passo 1). Inserisci la password quando richiesto.\n\nNOTA - Al primo avvio potrebbe comparire un avviso con caratteri stranieri. Sono crediti. Premi OK. Il programma potrebbe chiudersi al primo avvio.\n\n<b>ERRORI COMUNI</b>\n    - Durante l'installazione.\n        1. <code>501</code>: reinstalla Adobe Creative Cloud.\n        2. File Danneggiato: leggi la nota del passo 3.\n\nPer altri problemi o segnalazioni, scrivici pure sul gruppo.\n\n<i>Grazie per averci scelto,\nTeam AiMods™</i>",
+      "variants": [
+        {
+          "version": "26.002.21901",
+          "architectures": ["arm64", "x86_64"],
+          "minimumOS": "13.0",
+          "downloadURL": "https://devuploads.com/ecoimlmlku96",
+          "sha256": "21132be85c72d557783b96d19eb4970294a7e9aae4c7964741f2961d27c2c20b"
+        }
+      ]
+    },
+    {
       "id": "org.community.adobe-illustrator",
       "name": "Adobe Illustrator",
       "summary": "Software professionale per creare grafica vettoriale, loghi e illustrazioni precise.",
