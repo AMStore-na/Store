@@ -109,7 +109,7 @@
           "architectures": ["arm64", "x86_64"],
           "minimumOS": "10.11",
           "downloadURL": "https://devuploads.com/gtuvksrh9skg",
-          "sha256": "2f5d47d3e4d1cf3896cc049febe7b6ec2d3cd12c5bc18e137b3fb493b33a8f13"
+          "sha256": "338d87d28b76a2af3d3f344a4d5ea3a77ec5df175f1031b4c267380cc9e77afc"
         }
       ]
     },
