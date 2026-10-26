@@ -29,6 +29,24 @@
       ]
     },
     {
+      "id": "org.community.adobe-creative-cloud",
+      "name": "Adobe Creative Cloud",
+      "summary": "Adobe Creative Cloud è una suite completa che offre applicazioni e servizi professionali per creativi.",
+      "homepage": "https://www.adobe.com/it/creativecloud.html",
+      "icon": "https://raw.githubusercontent.com/AMStore-na/Store/main/ImmaginiMacOS/ACC.png",
+      "category": "Grafica e Design",
+      "guide": "<b>NOTA</b> - Questo software è solo di supporti all'installazione degli altri software Adobe presenti nel catalogo.\n\n0. Per facilitare il processo, ti suggeriamo di disabilitare temporaneamente il Gatekeeper.\n    0.1 Premi ⌘+Spazio, poi digita Terminale e premi Invio.\n    0.2 Scrivi <code>sudo spctl --master-disable</code>\n          NOTA - Ti verrà richiesta la password del Mac (l'inserimento è invisibile).\n\n1. Dopo aver aperto il file <code>.aimods</code> con l'<i>AiMods Store</i> (tasto in alto), apri il file <code>.pkg</code> (doppio click).\n\n2. Segui le istruzioni e inserisci la password del Mac per terminare l'installazione.\n\n3. Al termine, accedi ad Adobe Creative Cloud.\n\n<b>NOTA</b> - È possibile che ACC si aggiorni al primo avvio. Lascia che si aggiorni.\n\nPer problemi o segnalazioni, scrivici pure sul gruppo.\n\n<i>Grazie per averci scelto,\nTeam AiMods™</i>",
+      "variants": [
+        {
+          "version": "6.7.0",
+          "architectures": ["arm64", "x86_64"],
+          "minimumOS": "10.12",
+          "downloadURL": "https://devuploads.com/14smzx2or977",
+          "sha256": "a1084eeb2175d59ccb2fc26644a36dc15b2c26a7d9750b8709374338b3648b1d"
+        }
+      ]
+    },
+    {
       "id": "org.community.adobe-indesign",
       "name": "Adobe InDesign",
       "summary": "Adobe InDesign è lo strumento professionale per creare layout editoriali.",
