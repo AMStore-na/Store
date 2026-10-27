@@ -181,6 +181,13 @@
           "minimumOS": "14.0",
           "downloadURL": "https://devuploads.com/3lhx71sodvcz",
           "sha256": "f5ceedd619b6a565978dd78419f098edd54b1998f8dd949ec9f647c7af8f40ab"
+        },
+        {
+          "version": "25.6.4",
+          "architectures": ["arm64", "x86_64"],
+          "minimumOS": "13.0",
+          "downloadURL": "https://devuploads.com/gxzljy55ftg4",
+          "sha256": "36230985e6d10057c6b3ee48018523ec51990680670a17c757574b54c4c566a2"
         }
       ]
     }
