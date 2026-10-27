@@ -25,6 +25,15 @@
           "firstUnsupportedOS": "27.0",
           "downloadURL": "https://devuploads.com/d3t4vb4b0fb4",
           "sha256": "87034348e672e95593aaaac8203fb4614b93abcbb0d61a47913fd9b68ef3cbb0"
+        },
+        {
+          "version": "26.11.0",
+          "architectures": ["x86_64"],
+          "rosetta": false,
+          "minimumOS": "13.0",
+          "firstUnsupportedOS": "27.0",
+          "downloadURL": "https://devuploads.com/v1rog3vysuzf",
+          "sha256": "2a1398caf29ec83380f7c0eabe95378f7d0b3fa004ba59d3f26601dae2358798"
         }
       ]
     },
