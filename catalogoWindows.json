@@ -3288,5 +3288,19 @@
     "Hash": "b81dc4b3f3dbe1ed",
     "HashX32": "",
     "UUID": "321"
+  },
+  {
+    "Nome": "test",
+    "Link": "link.test",
+    "Linkx32": "link.test",
+    "LinkR": null,
+    "ImmagineUrl": "immagine.test",
+    "Sezione": "test",
+    "Descrizione": "test",
+    "Tooltip": "test",
+    "MRicerca": "test",
+    "Hash": "test",
+    "HashX32": "test",
+    "UUID": "331"
   }
 ]
