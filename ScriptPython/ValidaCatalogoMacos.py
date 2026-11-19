@@ -1,0 +1,475 @@
+#!/usr/bin/env python3
+"""Controlla che il catalogo macOS sia valido prima che arrivi agli utenti.
+
+Uso:  python3 ScriptPython/ValidaCatalogoMacos.py [percorso del catalogo]
+      (senza argomenti controlla catalogoMacos.json)
+
+Le regole sono le stesse che applica l'app (Catalog.swift e OSVersion.swift):
+se questo script dice "OK", l'app riesce a leggere il file.
+Esce con codice 1 se trova errori, cosi' la GitHub Action diventa rossa.
+Usa solo la libreria standard di Python: nessuna dipendenza da installare.
+"""
+
+import json
+import os
+import difflib
+import re
+import sys
+import unicodedata
+
+PERCORSO_PREDEFINITO = "catalogoMacos.json"
+SCHEMA_SUPPORTATO = 1
+ARCHITETTURE = {"arm64", "x86_64"}
+
+CHIAVI_CATALOGO = {"schemaVersion", "apps"}
+CHIAVI_APP = {"id", "name", "summary", "homepage", "icon", "variants", "guide",
+              "category", "popular"}
+CHIAVI_VARIANTE = {"version", "icon", "architectures", "minimumOS",
+                   "firstUnsupportedOS", "downloadURL", "sha256", "guide", "rosetta"}
+
+# Nomi italiani che qualcuno potrebbe scrivere al posto di quelli giusti.
+TRADUZIONI_CHIAVI = {"guida": "guide", "categoria": "category",
+                     "popolare": "popular", "popolari": "popular"}
+
+errori = []
+avvisi = []
+# Le categorie usate nel catalogo: chiave (senza maiuscole e accenti) ->
+# lista di (come e' scritta, dove). Alla fine lo script le elenca.
+categorie_viste = {}
+# I nomi delle app con "popular": true, nell'ordine del catalogo.
+popolari_viste = []
+
+
+def errore(dove, messaggio):
+    errori.append(f"{dove}: {messaggio}" if dove else messaggio)
+
+
+def avviso(dove, messaggio):
+    avvisi.append(f"{dove}: {messaggio}")
+
+
+# MARK: - Controlli sui singoli valori
+
+def versione(testo):
+    """Come OSVersion(_:) in Swift: da 1 a 3 numeri separati da punti."""
+    parti = testo.split(".")
+    if not 1 <= len(parti) <= 3:
+        return None
+    if not all(p.isdigit() and p.isascii() for p in parti):
+        return None
+    numeri = [int(p) for p in parti]
+    return tuple(numeri + [0] * (3 - len(numeri)))
+
+
+def testo_obbligatorio(oggetto, chiave, dove):
+    if chiave not in oggetto or oggetto[chiave] is None:
+        errore(dove, f'manca il campo obbligatorio "{chiave}"')
+        return None
+    valore = oggetto[chiave]
+    if not isinstance(valore, str):
+        errore(f"{dove}.{chiave}", "deve essere un testo tra virgolette")
+        return None
+    if not valore.strip():
+        errore(f"{dove}.{chiave}", "e' vuoto")
+        return None
+    return valore
+
+
+def testo_facoltativo(oggetto, chiave, dove):
+    valore = oggetto.get(chiave)
+    if valore is None:
+        return None
+    if not isinstance(valore, str):
+        errore(f"{dove}.{chiave}", "deve essere un testo tra virgolette oppure null")
+        return None
+    return valore
+
+
+def controlla_link(link, dove, obbligatorio_https):
+    if link is None:
+        return
+    if re.search(r"\s", link):
+        errore(dove, f'il link contiene spazi (usa %20): "{link}"')
+    elif link.startswith("https://"):
+        if len(link) <= len("https://"):
+            errore(dove, "il link e' incompleto")
+    elif link.startswith("http://"):
+        messaggio = ('il link e\' "http": macOS blocca i download non sicuri, '
+                     'serve "https"')
+        if obbligatorio_https:
+            errore(dove, messaggio)
+        else:
+            avviso(dove, messaggio)
+    else:
+        errore(dove, f'non sembra un link (deve iniziare con https://): "{link}"')
+
+
+def chiavi_sconosciute(oggetto, ammesse, dove):
+    for chiave in oggetto:
+        if chiave not in ammesse:
+            simili = [a for a in ammesse if a.lower() == chiave.lower()]
+            if not simili and TRADUZIONI_CHIAVI.get(chiave.lower()) in ammesse:
+                simili = [TRADUZIONI_CHIAVI[chiave.lower()]]
+            suggerimento = f' (forse volevi "{simili[0]}"?)' if simili else ""
+            avviso(dove, f'campo "{chiave}" sconosciuto: l\'app lo ignora{suggerimento}')
+
+
+# I tag HTML ammessi nella guida: gli stessi di GuideMarkup (AppListText.swift).
+TAG_GUIDA = ("b", "strong", "i", "em", "u", "code", "br", "a")
+TAG_AMMESSO = re.compile(r"</?(" + "|".join(TAG_GUIDA) + r")(\s[^<>]*)?/?>", re.I)
+QUALSIASI_TAG = re.compile(r"<(/?)([A-Za-z][A-Za-z0-9]*)\b([^<>]*)>")
+
+
+def controlla_guida(oggetto, dove):
+    """La guida e' facoltativa; se c'e' deve essere un testo non vuoto."""
+    guida = testo_facoltativo(oggetto, "guide", dove)
+    if guida is not None and not guida.strip():
+        avviso(f"{dove}.guide", "e' vuota: conta come se mancasse")
+    elif guida is not None and TAG_AMMESSO.search(guida):
+        controlla_formattazione(guida, f"{dove}.guide")
+
+
+def controlla_formattazione(guida, dove):
+    """Con almeno un tag ammesso lo Store legge la guida come HTML:
+    i tag devono essere chiusi, e quelli non ammessi si vedono come testo."""
+    aperti = []
+    segnalati = set()
+    for tag in QUALSIASI_TAG.finditer(guida):
+        chiude, nome, resto = tag.group(1) == "/", tag.group(2).lower(), tag.group(3)
+        if nome not in TAG_GUIDA:
+            if nome in segnalati:
+                continue
+            segnalati.add(nome)
+            avviso(dove, f"<{nome}> non e' tra i tag ammessi: lo Store lo mostra "
+                         f"come testo (ammessi: b, i, u, code, br, a)")
+            continue
+        if nome == "br" or resto.rstrip().endswith("/"):
+            continue
+        if not chiude:
+            if nome == "a":
+                href = re.search(r'href\s*=\s*"([^"]*)"', resto, re.I)
+                if href is None:
+                    errore(dove, '<a> senza indirizzo: scrivi <a href="https://...">')
+                else:
+                    controlla_link(href.group(1), dove, obbligatorio_https=False)
+            aperti.append(nome)
+        elif aperti and aperti[-1] == nome:
+            aperti.pop()
+        elif nome in aperti:
+            errore(dove, f"</{nome}> chiude prima di </{aperti[-1]}>: "
+                         "chiudi i tag in ordine inverso")
+            del aperti[len(aperti) - 1 - aperti[::-1].index(nome)]
+        else:
+            errore(dove, f"</{nome}> senza il suo <{nome}>")
+    for nome in aperti:
+        errore(dove, f"<{nome}> aperto e mai chiuso")
+
+
+def chiave_categoria(testo):
+    """Come AppCategories.key(for:) in Swift: senza spazi ai lati,
+    maiuscole e accenti, cosi' "Utilita'" e "utilita" sono lo stesso gruppo."""
+    scomposto = unicodedata.normalize("NFD", testo.strip().casefold())
+    return "".join(c for c in scomposto if not unicodedata.combining(c))
+
+
+def controlla_categoria(app, dove, categorie_viste):
+    """La categoria e' facoltativa; se c'e' deve essere un testo non vuoto."""
+    categoria = testo_facoltativo(app, "category", dove)
+    if categoria is None:
+        return
+    if not categoria.strip():
+        avviso(f"{dove}.category", "e' vuota: l'app finisce in \"Altro\"")
+        return
+    if chiave_categoria(categoria) in (chiave_categoria("Popolari"), chiave_categoria("Tutte le app")):
+        avviso(f"{dove}.category", f'"{categoria.strip()}" e\' gia\' un titolo dello Store: '
+                                   'per le app popolari si usa "popular": true')
+    categorie_viste.setdefault(chiave_categoria(categoria), []).append((categoria.strip(), dove))
+
+
+def controlla_categorie_coerenti(categorie_viste):
+    """Avvisa se la stessa categoria e' scritta in modi diversi: l'app le unisce
+    comunque, ma come titolo usa la prima, quindi meglio scriverle uguali."""
+    for usi in categorie_viste.values():
+        scritture = []
+        for testo, _ in usi:
+            if testo not in scritture:
+                scritture.append(testo)
+        if len(scritture) > 1:
+            elenco = ", ".join(f'"{t}"' for t in scritture)
+            avviso("categorie", f'la stessa categoria e\' scritta in modi diversi ({elenco}): '
+                                f'lo Store le unisce e usa "{scritture[0]}" come titolo')
+
+    # Una categoria usata da una sola app e molto simile a un'altra e' quasi
+    # sempre un errore di battitura ("Utilty" invece di "Utility"): lo Store
+    # creerebbe un gruppo in piu' con un'app sola.
+    for chiave, usi in categorie_viste.items():
+        if len(usi) != 1:
+            continue
+        altre = [k for k in categorie_viste if k != chiave]
+        simili = difflib.get_close_matches(chiave, altre, n=1, cutoff=0.8)
+        if simili:
+            testo, dove = usi[0]
+            giusta = categorie_viste[simili[0]][0][0]
+            avviso(f"{dove}.category", f'"{testo}" e\' usata solo qui: forse volevi "{giusta}"?')
+
+
+def elenco_categorie():
+    """Le categorie usate, in ordine alfabetico, con quante app ha ognuna,
+    es. 'Grafica e Design (1), Utility (2)'. Serve a non doverle ricordare."""
+    voci = sorted((usi[0][0], len(usi)) for usi in categorie_viste.values())
+    voci.sort(key=lambda v: v[0].casefold())
+    return ", ".join(f"{nome} ({n})" for nome, n in voci)
+
+
+def controlla_popolare(app, dove):
+    """"popular" e' facoltativo; se c'e' deve essere true o false SENZA
+    virgolette. Con le virgolette ("true") e' un testo: lo Store non riesce
+    a leggere il catalogo, quindi e' un errore e non un avviso."""
+    valore = app.get("popular")
+    if valore is None:
+        return False
+    if type(valore) is not bool:
+        errore(f"{dove}.popular", 'deve essere true oppure false, senza virgolette')
+        return False
+    return valore
+
+
+# MARK: - Controlli sulla struttura
+
+def controlla_variante(variante, dove):
+    if not isinstance(variante, dict):
+        errore(dove, "ogni variante deve essere un oggetto { ... }")
+        return
+    if "category" in variante:
+        avviso(f"{dove}.category", "la categoria va nell'app, non nella variante: qui viene ignorata")
+    if "popular" in variante:
+        avviso(f"{dove}.popular", "\"popular\" va nell'app, non nella variante: qui viene ignorato")
+    chiavi_sconosciute(variante, CHIAVI_VARIANTE | {"category", "popular"}, dove)
+
+    testo_obbligatorio(variante, "version", dove)
+
+    archs = variante.get("architectures")
+    if archs is None:
+        errore(dove, 'manca il campo obbligatorio "architectures"')
+    elif not isinstance(archs, list) or not archs:
+        errore(f"{dove}.architectures", 'deve essere una lista non vuota, es. ["arm64", "x86_64"]')
+    else:
+        for i, a in enumerate(archs):
+            if a not in ARCHITETTURE:
+                errore(f"{dove}.architectures[{i}]",
+                       f'"{a}" non e\' valido: si accettano solo "arm64" e "x86_64"')
+        if len(set(map(str, archs))) != len(archs):
+            avviso(f"{dove}.architectures", "contiene un'architettura ripetuta")
+
+    minimo = None
+    testo = testo_obbligatorio(variante, "minimumOS", dove)
+    if testo is not None:
+        minimo = versione(testo)
+        if minimo is None:
+            errore(f"{dove}.minimumOS", f'"{testo}" non e\' una versione valida (es. "10.13")')
+
+    testo = testo_facoltativo(variante, "firstUnsupportedOS", dove)
+    if testo is not None:
+        limite = versione(testo)
+        if limite is None:
+            errore(f"{dove}.firstUnsupportedOS", f'"{testo}" non e\' una versione valida (es. "11.0")')
+        elif minimo is not None and limite <= minimo:
+            errore(f"{dove}.firstUnsupportedOS",
+                   "deve essere maggiore di minimumOS, altrimenti la variante non va su nessun Mac")
+
+    link = testo_obbligatorio(variante, "downloadURL", dove)
+    controlla_link(link, f"{dove}.downloadURL", obbligatorio_https=True)
+
+    controlla_link(testo_facoltativo(variante, "icon", dove), f"{dove}.icon", obbligatorio_https=False)
+
+    # L'impronta del file scaricabile: l'app la ricontrolla dopo il download.
+    # Obbligatoria: senza, l'app non puo' verificare il file e apre il browser.
+    if variante.get("sha256") is None:
+        errore(dove, 'manca il campo obbligatorio "sha256" (l\'impronta del file: '
+                     'la stampa compressore, oppure "shasum -a 256 file.aimods")')
+    else:
+        sha = testo_facoltativo(variante, "sha256", dove)
+        if sha is not None and not re.fullmatch(r"[0-9a-fA-F]{64}", sha.strip()):
+            errore(f"{dove}.sha256", "deve essere di 64 caratteri esadecimali (0-9, a-f)")
+
+    controlla_guida(variante, dove)
+    controlla_rosetta(variante, archs, dove)
+
+
+def controlla_rosetta(variante, archs, dove):
+    """"rosetta" e' facoltativo; se c'e' deve essere true o false SENZA
+    virgolette (con le virgolette lo Store non legge il catalogo).
+    "rosetta": false dice che la build Intel non gira con Rosetta sui Mac
+    Apple Silicon: ha senso solo in una variante solo Intel."""
+    if "rosetta" not in variante:
+        return
+    valore = variante.get("rosetta")
+    if type(valore) is not bool:
+        errore(f"{dove}.rosetta", 'deve essere true oppure false, senza virgolette')
+        return
+    if not isinstance(archs, list):
+        return
+    if "arm64" in archs:
+        avviso(f"{dove}.rosetta", 'la variante ha gia\' "arm64": sui Mac Apple Silicon '
+                                  'gira nativa, quindi "rosetta" non conta')
+    elif "x86_64" not in archs:
+        avviso(f"{dove}.rosetta", '"rosetta" vale solo per le build Intel ("x86_64")')
+
+
+def controlla_app(app, dove, id_visti, categorie_viste):
+    if not isinstance(app, dict):
+        errore(dove, "ogni app deve essere un oggetto { ... }")
+        return
+    chiavi_sconosciute(app, CHIAVI_APP, dove)
+
+    identificativo = testo_obbligatorio(app, "id", dove)
+    if identificativo is not None:
+        if identificativo in id_visti:
+            errore(f"{dove}.id", f'"{identificativo}" e\' gia\' usato da {id_visti[identificativo]}')
+        else:
+            id_visti[identificativo] = dove
+
+    nome = testo_obbligatorio(app, "name", dove)
+    if nome:
+        dove = f'{dove} ("{nome}")'
+    testo_facoltativo(app, "summary", dove)
+    controlla_link(testo_obbligatorio(app, "homepage", dove), f"{dove}.homepage", obbligatorio_https=False)
+    controlla_link(testo_facoltativo(app, "icon", dove), f"{dove}.icon", obbligatorio_https=False)
+    controlla_guida(app, dove)
+    controlla_categoria(app, dove, categorie_viste)
+    if controlla_popolare(app, dove):
+        popolari_viste.append(nome or dove)
+
+    varianti = app.get("variants")
+    if varianti is None:
+        errore(dove, 'manca il campo obbligatorio "variants"')
+    elif not isinstance(varianti, list):
+        errore(f"{dove}.variants", "deve essere una lista [ ... ]")
+    elif not varianti:
+        errore(f"{dove}.variants", "e' vuota: l'app non comparirebbe su nessun Mac")
+    else:
+        for i, variante in enumerate(varianti):
+            controlla_variante(variante, f"{dove}.variants[{i}]")
+
+
+def controlla_catalogo(catalogo):
+    if not isinstance(catalogo, dict):
+        errore("", 'il file deve iniziare con { "schemaVersion": 1, "apps": [ ... ] }')
+        return
+    chiavi_sconosciute(catalogo, CHIAVI_CATALOGO, "catalogo")
+
+    schema = catalogo.get("schemaVersion")
+    if schema is None:
+        errore("catalogo", 'manca "schemaVersion" (deve valere 1)')
+    elif type(schema) is not int:
+        errore("catalogo.schemaVersion", "deve essere il numero 1, senza virgolette")
+    elif schema != SCHEMA_SUPPORTATO:
+        errore("catalogo.schemaVersion",
+               f"vale {schema}, ma l'app capisce solo la versione {SCHEMA_SUPPORTATO}")
+
+    apps = catalogo.get("apps")
+    if apps is None:
+        errore("catalogo", 'manca la lista "apps"')
+    elif not isinstance(apps, list):
+        errore("catalogo.apps", "deve essere una lista [ ... ]")
+    else:
+        id_visti = {}
+        for i, app in enumerate(apps):
+            controlla_app(app, f"apps[{i}]", id_visti, categorie_viste)
+        controlla_categorie_coerenti(categorie_viste)
+
+
+# MARK: - Lettura del file
+
+def senza_chiavi_doppie(coppie):
+    """Segnala le chiavi scritte due volte nello stesso oggetto."""
+    oggetto = {}
+    for chiave, valore in coppie:
+        if chiave in oggetto:
+            errore("", f'il campo "{chiave}" compare due volte nello stesso blocco')
+        oggetto[chiave] = valore
+    return oggetto
+
+
+def leggi(percorso):
+    try:
+        with open(percorso, "rb") as f:
+            grezzo = f.read()
+    except OSError as e:
+        errore("", f"non riesco ad aprire {percorso}: {e.strerror}")
+        return None
+
+    if grezzo.startswith(b"{\\rtf"):
+        errore("", "il file e' in formato RTF (salvato da TextEdit come testo formattato), "
+                   "non e' JSON. In TextEdit: Formato > Converti in testo normale, poi salva.")
+        return None
+    if grezzo.startswith(b"\xef\xbb\xbf"):
+        avviso("file", "inizia con un BOM UTF-8 invisibile; meglio salvarlo senza")
+        grezzo = grezzo[3:]
+    try:
+        testo = grezzo.decode("utf-8")
+    except UnicodeDecodeError:
+        errore("", "il file non e' in codifica UTF-8")
+        return None
+    for virgoletta in "“”‘’":
+        if virgoletta in testo:
+            riga = testo[:testo.index(virgoletta)].count("\n") + 1
+            errore("", f"riga {riga}: virgoletta tipografica {virgoletta} al posto di \" "
+                       "(in TextEdit: Modifica > Sostituzioni > togli 'Virgolette intelligenti')")
+            return None
+    try:
+        return json.loads(testo, object_pairs_hook=senza_chiavi_doppie)
+    except json.JSONDecodeError as e:
+        errore("", f"JSON non valido alla riga {e.lineno}, colonna {e.colno}: {traduci(e.msg)}")
+        return None
+
+
+def traduci(msg):
+    traduzioni = {
+        "Illegal trailing comma": "virgola di troppo prima di } o ]",
+        "Expecting ',' delimiter": "manca una virgola",
+        "Expecting property name enclosed in double quotes":
+            "atteso un nome tra virgolette (spesso: virgola di troppo prima di } o ])",
+        "Expecting value": "manca un valore (spesso: virgola di troppo o file vuoto)",
+        "Expecting ':' delimiter": "mancano i due punti dopo il nome del campo",
+        "Extra data": "c'e' testo in piu' dopo la fine del catalogo",
+        "Unterminated string starting at": "una virgoletta aperta non viene chiusa",
+        "Invalid control character at": "c'e' un a capo o un carattere invisibile dentro un testo",
+    }
+    for inglese, italiano in traduzioni.items():
+        if msg.startswith(inglese):
+            return italiano
+    return msg
+
+
+def main():
+    percorso = sys.argv[1] if len(sys.argv) > 1 else PERCORSO_PREDEFINITO
+    in_github = os.environ.get("GITHUB_ACTIONS") == "true"
+
+    catalogo = leggi(percorso)
+    if catalogo is not None:
+        controlla_catalogo(catalogo)
+
+    for a in avvisi:
+        print(f"::warning file={percorso}::{a}" if in_github else f"AVVISO  {a}")
+    for e in errori:
+        print(f"::error file={percorso}::{e}" if in_github else f"ERRORE  {e}")
+
+    if errori:
+        print(f"\n{percorso}: {len(errori)} errore/i. L'app non riuscirebbe a leggere il catalogo.")
+        return 1
+    n = len(catalogo.get("apps", []))
+    print(f"\n{percorso}: OK, {n} app, {len(avvisi)} avviso/i.")
+    if categorie_viste:
+        elenco = elenco_categorie()
+        print(f"::notice file={percorso}::Categorie usate: {elenco}" if in_github
+              else f"Categorie usate: {elenco}")
+    if popolari_viste:
+        elenco = ", ".join(popolari_viste)
+        print(f"::notice file={percorso}::Popolari: {elenco}" if in_github
+              else f"Popolari: {elenco}")
+    return 0
+
+
+if __name__ == "__main__":
+    sys.exit(main())

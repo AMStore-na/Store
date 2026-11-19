@@ -1,0 +1,204 @@
+{
+  "schemaVersion": 1,
+  "apps": [
+    {
+      "id": "org.community.adobe-photoshop",
+      "name": "Adobe Photoshop",
+      "summary": "Il miglior software professionale per modificare immagini e grafica digitale.",
+      "homepage": "https://www.adobe.com/it/products/photoshop.html",
+      "icon": "https://aimodsitalia.store/store-data/ImmaginiMacOS/Adobe_Photoshop.png",
+      "category": "Grafica e Design",
+      "popular": true,
+      "guide": "<u>Scaricherai un .txt contenente il link per il download.</u>\n\tNOTA - Se il link è bloccato, <a href=\"https://justpaste.it/change_dns\">cambia DNS</a>.\n\n0. Per facilitare il processo, ti suggeriamo di disabilitare temporaneamente il Gatekeeper.\n    0.1 Premi ⌘+Spazio, poi digita Terminale e premi Invio.\n    0.2 Scrivi <code>sudo spctl --master-disable</code>\n          NOTA - Ti verrà richiesta la password del Mac (l'inserimento è invisibile).\n\n1. Dopo aver aperto il file <code>.aimods</code> con l'<i>AiMods Store</i> (tasto in alto), apri il file <code>.dmg</code> (doppio click).\n\n2. Se non lo possiedi, installa <i>Adobe Creative Cloud</i> (lo trovi nell'<i>AiMods Store</i>).\n\n3. Dalla cartella <i>Install</i>, esegui <i>Install</i> (aprilo col tasto destro). Segui le istruzioni per terminare l'installazione. Inserisci la password del Mac e consenti quando richiesto.\n    <b>NOTA</b> – Se Mac dice che il file è danneggiato...\n        a. Clicca sul file <i>Install</i> col tasto destro; scegli \"Mostra Contenuto Pacchetto\".\n        b. Apri <i>Contents</i>, poi <i>MacOS</i>.\n        c. Apri <i>Install</i> col tasto destro.\n\n4. Terminata l'installazione, accedi alla cartella <i>Applicazioni</i> del Mac.\n\n5. Apri la cartella di <i>Adobe Photoshop 2026</i>.\n\n6. Sostituisci <i>Adobe Photoshop 2026</i> con quello presente nel file <code>.dmg</code> (aperto al passo 1). Inserisci la password quando richiesto.\n\nNOTA - Al primo avvio potrebbe comparire un avviso con caratteri stranieri. Sono crediti. Premi OK. Il programma potrebbe chiudersi al primo avvio.\n\n<b>ERRORI COMUNI</b>\n    - Durante l'installazione.\n        1. <code>501</code>: reinstalla Adobe Creative Cloud.\n        2. File Danneggiato: nello Store, in alto a sinistra scelti <i>Strumenti</i> e apri <i>Rimuovi file dalla quarantena...</i>; trascina o scegli il file problematico e premi <i>Rimuovi dalla quarantena</i>.\n\nPer altri problemi o segnalazioni, scrivici pure sul gruppo.\n\n<i>Grazie per averci scelto,\nTeam AiMods™</i>",
+      "variants": [
+        {
+          "version": "27.11",
+          "architectures": ["arm64", "x86_64"],
+          "minimumOS": "14.0",
+          "downloadURL": "https://devuploads.com/en26uspq260l",
+          "sha256": "6655cc18886bef605317ea05f0cf1efa5aae12eea4339925b51aa917edc15b80"
+        },
+        {
+          "version": "26.11.0",
+          "architectures": ["arm64"],
+          "minimumOS": "13.0",
+          "firstUnsupportedOS": "27.0",
+          "downloadURL": "https://devuploads.com/d3t4vb4b0fb4",
+          "sha256": "87034348e672e95593aaaac8203fb4614b93abcbb0d61a47913fd9b68ef3cbb0"
+        },
+        {
+          "version": "26.11.0",
+          "architectures": ["x86_64"],
+          "rosetta": false,
+          "minimumOS": "13.0",
+          "firstUnsupportedOS": "27.0",
+          "downloadURL": "https://devuploads.com/v1rog3vysuzf",
+          "sha256": "2a1398caf29ec83380f7c0eabe95378f7d0b3fa004ba59d3f26601dae2358798"
+        }
+      ]
+    },
+    {
+      "id": "org.community.adobe-creative-cloud",
+      "name": "Adobe Creative Cloud",
+      "summary": "Adobe Creative Cloud è una suite completa che offre applicazioni e servizi professionali per creativi.",
+      "homepage": "https://www.adobe.com/it/creativecloud.html",
+      "icon": "https://aimodsitalia.store/store-data/ImmaginiMacOS/ACC.png",
+      "category": "Grafica e Design",
+      "guide": "<b>NOTA</b> - Questo software è solo di supporto all'installazione degli altri software Adobe presenti nel catalogo.\n\n0. Per facilitare il processo, ti suggeriamo di disabilitare temporaneamente il Gatekeeper.\n    0.1 Premi ⌘+Spazio, poi digita Terminale e premi Invio.\n    0.2 Scrivi <code>sudo spctl --master-disable</code>\n          NOTA - Ti verrà richiesta la password del Mac (l'inserimento è invisibile).\n\n1. Dopo aver aperto il file <code>.aimods</code> con l'<i>AiMods Store</i> (tasto in alto), apri il file <code>.pkg</code> (doppio click).\n\n2. Segui le istruzioni e inserisci la password del Mac per terminare l'installazione.\n\n3. Al termine, accedi ad <i>Adobe Creative Cloud</i>.\n\n<b>NOTA</b> - È possibile che ACC si aggiorni al primo avvio. Lascia che si aggiorni.\n\nPer problemi o segnalazioni, scrivici pure sul gruppo.\n\n<i>Grazie per averci scelto,\nTeam AiMods™</i>",
+      "variants": [
+        {
+          "version": "6.7.0",
+          "architectures": ["arm64", "x86_64"],
+          "minimumOS": "10.12",
+          "downloadURL": "https://devuploads.com/14smzx2or977",
+          "sha256": "a1084eeb2175d59ccb2fc26644a36dc15b2c26a7d9750b8709374338b3648b1d"
+        }
+      ]
+    },
+    {
+      "id": "org.community.adobe-indesign",
+      "name": "Adobe InDesign",
+      "summary": "Adobe InDesign è lo strumento professionale per creare layout editoriali.",
+      "homepage": "https://www.adobe.com/it/products/indesign.html",
+      "icon": "https://aimodsitalia.store/store-data/ImmaginiMacOS/Adobe_InDesign.png",
+      "category": "Grafica e Design",
+      "guide": "<u>Scaricherai un .txt contenente il link per il download.</u>\n\tNOTA - Se il link è bloccato, <a href=\"https://justpaste.it/change_dns\">cambia DNS</a>.\n\n0. Per facilitare il processo, ti suggeriamo di disabilitare temporaneamente il Gatekeeper.\n    0.1 Premi ⌘+Spazio, poi digita Terminale e premi Invio.\n    0.2 Scrivi <code>sudo spctl --master-disable</code>\n          NOTA - Ti verrà richiesta la password del Mac (l'inserimento è invisibile).\n\n1. Dopo aver aperto il file <code>.aimods</code> con l'<i>AiMods Store</i> (tasto in alto), apri il file <code>.dmg</code> (doppio click).\n\n2. Se non lo possiedi, installa <i>Adobe Creative Cloud</i> (lo trovi nell'<i>AiMods Store</i>).\n\n3. Dalla cartella <i>Install</i>, esegui <i>Install</i> (aprilo col tasto destro). Segui le istruzioni per terminare l'installazione. Inserisci la password del Mac e consenti quando richiesto.\n    <b>NOTA</b> – Se Mac dice che il file è danneggiato...\n        a. Clicca sul file <i>Install</i> col tasto destro; scegli \"Mostra Contenuto Pacchetto\".\n        b. Apri <i>Contents</i>, poi <i>MacOS</i>.\n        c. Apri <i>Install</i> col tasto destro.\n\n4. Terminata l'installazione, accedi alla cartella <i>Applicazioni</i> del Mac.\n\n5. Apri la cartella di <i>Adobe InDesign 2026</i>.\n\n6. Sostituisci <i>Adobe InDesign 2026</i> con quello presente nel file <code>.dmg</code> (aperto al passo 1). Inserisci la password quando richiesto.\n\nNOTA - Al primo avvio potrebbe comparire un avviso con caratteri stranieri. Sono crediti. Premi OK. Il programma potrebbe chiudersi al primo avvio.\n\n<b>ERRORI COMUNI</b>\n    - Durante l'installazione.\n        1. <code>501</code>: reinstalla Adobe Creative Cloud.\n        2. File Danneggiato: nello Store, in alto a sinistra scelti <i>Strumenti</i> e apri <i>Rimuovi file dalla quarantena...</i>; trascina o scegli il file problematico e premi <i>Rimuovi dalla quarantena</i>.\n\nPer altri problemi o segnalazioni, scrivici pure sul gruppo.\n\n<i>Grazie per averci scelto,\nTeam AiMods™</i>",
+      "variants": [
+        {
+          "version": "21.6.0",
+          "architectures": ["arm64", "x86_64"],
+          "minimumOS": "13.0",
+          "downloadURL": "https://www.adobe.com/it/products/indesign.html",
+          "sha256": "7d77aafc201549665540610682618e9857f4c787b6f046ea0a83160d0b33c860"
+        }
+      ]
+    },
+    {
+      "id": "org.community.adobe-acrobat-pro",
+      "name": "Adobe Acrobat Pro",
+      "summary": "Adobe Acrobat Pro è il software migliore per gestire PDF.",
+      "homepage": "https://www.adobe.com/it/acrobat/acrobat-pro.html",
+      "icon": "https://aimodsitalia.store/store-data/ImmaginiMacOS/Adobe_Acrobat_Pro.png",
+      "category": "Produttività",
+      "popular": true,
+      "guide": "0. Per facilitare il processo, ti suggeriamo di disabilitare temporaneamente il Gatekeeper.\n    0.1 Premi ⌘+Spazio, poi digita Terminale e premi Invio.\n    0.2 Scrivi <code>sudo spctl --master-disable</code>\n          NOTA - Ti verrà richiesta la password del Mac (l'inserimento è invisibile).\n\n1. Dopo aver aperto il file <code>.aimods</code> con l'<i>AiMods Store</i> (tasto in alto), apri il file <code>.dmg</code> (doppio click).\n\n2. Se non lo possiedi, installa <i>Adobe Creative Cloud</i> (lo trovi nell'<i>AiMods Store</i>).\n\n3. Dalla cartella <i>Install</i>, esegui <i>Install</i> (aprilo col tasto destro). <b>Quando richiesto di installare <i>Adobe Genuine Service</i> (AGS), assicurati che la spunta NON sia selezionata</b>. Segui le istruzioni per terminare l'installazione. Inserisci la password del Mac e consenti quando richiesto.\n    <b>NOTA</b> – Se Mac dice che il file è danneggiato...\n        a. Clicca sul file <i>Install</i> col tasto destro; scegli \"Mostra Contenuto Pacchetto\".\n        b. Apri <i>Contents</i>, poi <i>MacOS</i>.\n        c. Apri <i>Install</i> col tasto destro.\n\n4. Terminata l'installazione, accedi alla cartella <i>Applicazioni</i> del Mac.\n\n5. Apri la cartella di <i>Adobe Acrobat Pro</i>.\n\n6. Sostituisci <i>Adobe Acrobat Pro</i> con quello presente nel file <code>.dmg</code> (aperto al passo 1). Inserisci la password quando richiesto.\n\n7. Sostituisci <i>Acrobat Distiller</i> con quello presente nel file <code>.dmg</code> (aperto al passo 1). Inserisci la password quando richiesto.\n\nNOTA - Al primo avvio potrebbe comparire un avviso con caratteri stranieri. Sono crediti. Premi OK. Il programma potrebbe chiudersi al primo avvio.\n\n<b>ERRORI COMUNI</b>\n    - Durante l'installazione.\n        1. <code>501</code>: reinstalla Adobe Creative Cloud.\n        2. File Danneggiato: nello Store, in alto a sinistra scelti <i>Strumenti</i> e apri <i>Rimuovi file dalla quarantena...</i>; trascina o scegli il file problematico e premi <i>Rimuovi dalla quarantena</i>.\n\nPer altri problemi o segnalazioni, scrivici pure sul gruppo.\n\n<i>Grazie per averci scelto,\nTeam AiMods™</i>",
+      "variants": [
+        {
+          "version": "26.002.21901",
+          "architectures": ["arm64", "x86_64"],
+          "minimumOS": "13.0",
+          "downloadURL": "https://devuploads.com/ecoimlmlku96",
+          "sha256": "21132be85c72d557783b96d19eb4970294a7e9aae4c7964741f2961d27c2c20b"
+        }
+      ]
+    },
+    {
+      "id": "org.community.adobe-illustrator",
+      "name": "Adobe Illustrator",
+      "summary": "Software professionale per creare grafica vettoriale, loghi e illustrazioni precise.",
+      "homepage": "https://www.adobe.com/it/products/illustrator.html",
+      "icon": "https://aimodsitalia.store/store-data/ImmaginiMacOS/Adobe_Illustrator.png",
+      "category": "Grafica e Design",
+      "popular": true,
+      "guide": "<u>Scaricherai un .txt contenente il link per il download.</u>\n\tNOTA - Se il link è bloccato, <a href=\"https://justpaste.it/change_dns\">cambia DNS</a>.\n\n0. Per facilitare il processo, ti suggeriamo di disabilitare temporaneamente il Gatekeeper.\n    0.1 Premi ⌘+Spazio, poi digita Terminale e premi Invio.\n    0.2 Scrivi <code>sudo spctl --master-disable</code>\n          NOTA - Ti verrà richiesta la password del Mac (l'inserimento è invisibile).\n\n1. Dopo aver aperto il file <code>.aimods</code> con l'<i>AiMods Store</i> (tasto in alto), apri il file <code>.dmg</code> (doppio click).\n\n2. Se non lo possiedi, installa <i>Adobe Creative Cloud</i> (lo trovi nell'<i>AiMods Store</i>).\n\n3. Dalla cartella <i>Install</i>, esegui <i>Install</i> (aprilo col tasto destro). Segui le istruzioni per terminare l'installazione. Inserisci la password del Mac e consenti quando richiesto.\n    <b>NOTA</b> – Se Mac dice che il file è danneggiato...\n        a. Clicca sul file  <i>Install</i> col tasto destro; scegli \"Mostra Contenuto Pacchetto\".\n        b. Apri <i>Contents</i>, poi <i>MacOS</i>.\n        c. Apri <i>Install</i> col tasto destro.\n\n4. Terminata l'installazione, accedi alla cartella <i>Applicazioni</i> del Mac.\n\n5. Apri la cartella di <i>Adobe Illustrator 2026</i>.\n\n6. Sostituisci <i>Adobe Illustrator 2026</i> con quello presente nel file <code>.dmg</code> (aperto al passo 1). Inserisci la password quando richiesto.\n\nNOTA - Al primo avvio potrebbe comparire un avviso con caratteri stranieri. Sono crediti. Premi OK. Il programma potrebbe chiudersi al primo avvio.\n\n<b>ERRORI COMUNI</b>\n    - Durante l'installazione.\n        1. <code>501</code>: reinstalla Adobe Creative Cloud.\n        2. File Danneggiato: nello Store, in alto a sinistra scelti <i>Strumenti</i> e apri <i>Rimuovi file dalla quarantena...</i>; trascina o scegli il file problematico e premi <i>Rimuovi dalla quarantena</i>.\n\nPer altri problemi o segnalazioni, scrivici pure sul gruppo.\n\n<i>Grazie per averci scelto,\nTeam AiMods™</i>",
+      "variants": [
+        {
+          "version": "30.8.2",
+          "architectures": ["arm64", "x86_64"],
+          "minimumOS": "13.0",
+          "downloadURL": "https://devuploads.com/wkw2qyjgi5qp",
+          "sha256": "a15cc96488d2c44d2df0afc3f09e6b1631e625c59cdd06dd1b8e75877cf92443"
+        }
+      ]
+    },
+    {
+      "id": "org.community.adobe-lightroom-cc",
+      "name": "Adobe Lightroom CC",
+      "summary": "Adobe Lightroom CC è un'applicazione basata sul cloud, ideale per organizzare, elaborare e condividere le tue foto ovunque.",
+      "homepage": "https://www.adobe.com/it/products/photoshop-lightroom.html",
+      "icon": "https://aimodsitalia.store/store-data/ImmaginiMacOS/Adobe_Lightroom_CC.png",
+      "category": "Grafica e Design",
+      "popular": true,
+      "guide": "<u>Scaricherai un .txt contenente il link per il download.</u>\n\tNOTA - Se il link è bloccato, <a href=\"https://justpaste.it/change_dns\">cambia DNS</a>.\n\n0. Per facilitare il processo, ti suggeriamo di disabilitare temporaneamente il Gatekeeper.\n    0.1 Premi ⌘+Spazio, poi digita Terminale e premi Invio.\n    0.2 Scrivi <code>sudo spctl --master-disable</code>\n          NOTA - Ti verrà richiesta la password del Mac (l'inserimento è invisibile).\n\n1. Dopo aver aperto il file <code>.aimods</code> con l'<i>AiMods Store</i> (tasto in alto), apri il file <code>.dmg</code> (doppio click).\n\n2. Se non lo possiedi, installa <i>Adobe Creative Cloud</i> (lo trovi nell'<i>AiMods Store</i>).\n\n3. Dalla cartella <i>Install</i>, esegui <i>Install</i> (aprilo col tasto destro). Segui le istruzioni per terminare l'installazione. Inserisci la password del Mac e consenti quando richiesto.\n    <b>NOTA</b> – Se Mac dice che il file è danneggiato...\n        a. Clicca sul file <i>Install</i> col tasto destro; scegli \"Mostra Contenuto Pacchetto\".\n        b. Apri <i>Contents</i>, poi <i>MacOS</i>.\n        c. Apri <i>Install</i> col tasto destro.\n\n4. Terminata l'installazione, accedi alla cartella <i>Applicazioni</i> del Mac.\n\n5. Apri la cartella di <i>Adobe Photoshop 2026</i>.\n\n6. Sostituisci <i>Adobe Photoshop 2026</i> con quello presente nel file <code>.dmg</code> (aperto al passo 1). Inserisci la password quando richiesto.\n\nNOTA - Al primo avvio potrebbe comparire un avviso con caratteri stranieri. Sono crediti. Premi OK. Il programma potrebbe chiudersi al primo avvio.\n\n<b>ERRORI COMUNI</b>\n    - Durante l'installazione.\n        1. <code>501</code>: reinstalla Adobe Creative Cloud.\n        2. File Danneggiato: nello Store, in alto a sinistra scelti <i>Strumenti</i> e apri <i>Rimuovi file dalla quarantena...</i>; trascina o scegli il file problematico e premi <i>Rimuovi dalla quarantena</i>.\n\nPer altri problemi o segnalazioni, scrivici pure sul gruppo.\n\n<i>Grazie per averci scelto,\nTeam AiMods™</i>",
+      "variants": [
+        {
+          "version": "9.5",
+          "architectures": ["arm64", "x86_64"],
+          "minimumOS": "14.0",
+          "downloadURL": "https://devuploads.com/zt270plbqo4k",
+          "sha256": "5eb71dc0ae2b83087231c980acb1f9e8c6d4e2ac2ca59d5161a31e2e47be71ad"
+        }
+      ]
+    },
+    {
+      "id": "org.community.adobe-after-effects",
+      "name": "Adobe After Effects",
+      "summary": "Adobe After Effects è il miglior programma per effetti visivi.",
+      "homepage": "https://www.adobe.com/it/products/aftereffects.html",
+      "icon": "https://aimodsitalia.store/store-data/ImmaginiMacOS/Adobe_After_Effects.png",
+      "category": "Video e Animazione",
+      "guide": "<u>Scaricherai un .txt contenente il link per il download.</u>\n\tNOTA - Se il link è bloccato, <a href=\"https://justpaste.it/change_dns\">cambia DNS</a>.\n\n0. Per facilitare il processo, ti suggeriamo di disabilitare temporaneamente il Gatekeeper.\n    0.1 Premi ⌘+Spazio, poi digita Terminale e premi Invio.\n    0.2 Scrivi <code>sudo spctl --master-disable</code>\n          NOTA - Ti verrà richiesta la password del Mac (l'inserimento è invisibile).\n\n1. Dopo aver aperto il file <code>.aimods</code> con l'<i>AiMods Store</i> (tasto in alto), apri il file <code>.dmg</code> (doppio click).\n\n2. Se non lo possiedi, installa <i>Adobe Creative Cloud</i> (lo trovi nell'<i>AiMods Store</i>).\n\n3. Dalla cartella <i>Install</i>, esegui <i>Install</i> (aprilo col tasto destro). Segui le istruzioni per terminare l'installazione. Inserisci la password del Mac e consenti quando richiesto.\n    <b>NOTA</b> – Se Mac dice che il file è danneggiato...\n        a. Clicca sul file  <i>Install</i> col tasto destro; scegli \"Mostra Contenuto Pacchetto\".\n        b. Apri <i>Contents</i>, poi <i>MacOS</i>.\n        c. Apri <i>Install</i> col tasto destro.\n\n4. Terminata l'installazione, accedi alla cartella <i>Applicazioni</i> del Mac.\n\n5. Apri la cartella di <i>Adobe After Effects 2026</i>.\n\n6. Sostituisci <i>Adobe After Effects 2026</i> con quello presente nel file <code>.dmg</code> (aperto al passo 1). Inserisci la password quando richiesto.\n\nNOTA - Al primo avvio potrebbe comparire un avviso con caratteri stranieri. Sono crediti. Premi OK. Il programma potrebbe chiudersi al primo avvio.\n\n<b>ERRORI COMUNI</b>\n    - Durante l'installazione.\n        1. <code>501</code>: reinstalla Adobe Creative Cloud.\n        2. File Danneggiato: nello Store, in alto a sinistra scelti <i>Strumenti</i> e apri <i>Rimuovi file dalla quarantena...</i>; trascina o scegli il file problematico e premi <i>Rimuovi dalla quarantena</i>.\n\nPer altri problemi o segnalazioni, scrivici pure sul gruppo.\n\n<i>Grazie per averci scelto,\nTeam AiMods™</i>",
+      "variants": [
+        {
+          "version": "26.5.0",
+          "architectures": ["arm64", "x86_64"],
+          "minimumOS": "14.0",
+          "downloadURL": "https://devuploads.com/jut14gtpi3bl",
+          "sha256": "9c2e86061024350ebf4f0de1d66c3221a05ec7ab999e758106a369ff3e6c6de7"
+        }
+      ]
+    },
+    {
+      "id": "org.community.microsoft-office",
+      "name": "Microsoft Office",
+      "summary": "Microsoft Office è la suite di produttività essenziale per lavorare.",
+      "homepage": "https://www.microsoft.com/it-it/microsoft-365/microsoft-office",
+      "icon": "https://aimodsitalia.store/store-data/ImmaginiMacOS/Office_Auto_Installer.png",
+      "category": "Produttività",
+      "popular": true,
+      "guide": "0. Per facilitare il processo, ti suggeriamo di disabilitare temporaneamente il Gatekeeper.\n    0.1 Premi ⌘+Spazio, poi digita Terminale e premi Invio.\n    0.2 Scrivi <code>sudo spctl --master-disable</code>\n          NOTA - Ti verrà richiesta la password del Mac (l'inserimento è invisibile).\n\n1. Estrai il file <code>.aimods</code> (tasto in alto nell'<i>AiMods Store</i>), poi estrai il file <code>.zip</code>.\n\n2. Apri <i>Office Auto Installer</i> col tasto destro; conferma quando richiesto.\n    <b>NOTA</b> - Se il Mac dice che non può verificare la presenza di malware:\n                  a. apri le Impostazioni del Mac;\n                  b. accedi alla sezione <i>Privacy e Sicurezza</i>;\n                  c. scorri fino alla sezione <i>Sicurezza</i> e premi <i>Apri comunque</i>.\n\n3. Seleziona tutte le componenti che desideri installare.\n\n4. Premi <i>Scarica e Installa</i>, quindi attendi il termine del processo. Inserisci la password del Mac quando richiesto. <b>Verrà installata e patchata automaticamente l'ultima versione</b> dei prodotti selezionati <b>per il tuo Mac</b>.\n\n<b>NOTA</b> - Se la patch non risulta applicata al termine del processo, in alto a sinistra nello schermo seleziona <i>Opzioni</i>, poi spunta <i>Forza Disinstallazione Pacchetti</i>, quindi riesegui la procedura di installazione.\n\nPuoi anche disinstallare i prodotti col tasto <i>Disinstalla</i>.\n\nPer segnalazioni scrivici sul gruppo.\n\n<i>Grazie per averci scelto,\nTeam AiMods™</i>",
+      "variants": [
+        {
+          "version": "1.0",
+          "architectures": ["arm64", "x86_64"],
+          "minimumOS": "10.11",
+          "downloadURL": "https://devuploads.com/lvxth3jtb1ed",
+          "sha256": "bd3e67700a143f977375ad92f9a66da67e1bd54cd6e0850f23bf5ba64d822410"
+        }
+      ]
+    },
+    {
+      "id": "org.community.adobe-premiere",
+      "name": "Adobe Premiere",
+      "summary": "Adobe Premiere è un potente software per il montaggio video.",
+      "homepage": "https://www.adobe.com/it/products/premiere.html",
+      "icon": "https://aimodsitalia.store/store-data/ImmaginiMacOS/Adobe_Premiere_Pro.png",
+      "category": "Video e Animazione",
+      "guide": "<u>Scaricherai un .txt contenente il link per il download.</u>\n\tNOTA - Se il link è bloccato, <a href=\"https://justpaste.it/change_dns\">cambia DNS</a>.\n\n0. Per facilitare il processo, ti suggeriamo di disabilitare temporaneamente il Gatekeeper.\n    0.1 Premi ⌘+Spazio, poi digita Terminale e premi Invio.\n    0.2 Scrivi <code>sudo spctl --master-disable</code>\n          NOTA - Ti verrà richiesta la password del Mac (l'inserimento è invisibile).\n\n1. Dopo aver aperto il file <code>.aimods</code> con l'<i>AiMods Store</i> (tasto in alto), apri il file <code>.dmg</code> (doppio click).\n\n2. Se non lo possiedi, installa <i>Adobe Creative Cloud</i> (lo trovi nell'<i>AiMods Store</i>).\n\n3. Dalla cartella <i>Install</i>, esegui <i>Install</i> (aprilo col tasto destro). Segui le istruzioni per terminare l'installazione. Inserisci la password del Mac e consenti quando richiesto.\n    <b>NOTA</b> – Se Mac dice che il file è danneggiato...\n        a. Clicca sul file  <i>Install</i> col tasto destro; scegli \"Mostra Contenuto Pacchetto\".\n        b. Apri <i>Contents</i>, poi <i>MacOS</i>.\n        c. Apri <i>Install</i> col tasto destro.\n\n4. Terminata l'installazione, accedi alla cartella <i>Applicazioni</i> del Mac.\n\n5. Apri la cartella di <i>Adobe Photoshop 2026</i>.\n\n6. Sostituisci <i>Adobe Photoshop 2026</i> con quello presente nel file <code>.dmg</code> (aperto al passo 1). Inserisci la password quando richiesto.\n\nNOTA - Al primo avvio potrebbe comparire un avviso con caratteri stranieri. Sono crediti. Premi OK. <b>Il programma potrebbe chiudersi ai primi due avvii</b>.\n\n<b>ERRORI COMUNI</b>\n    - Durante l'installazione.\n        1. <code>501</code>: reinstalla Adobe Creative Cloud.\n        2. File Danneggiato: nello Store, in alto a sinistra scelti <i>Strumenti</i> e apri <i>Rimuovi file dalla quarantena...</i>; trascina o scegli il file problematico e premi <i>Rimuovi dalla quarantena</i>.\n\nPer altri problemi o segnalazioni, scrivici pure sul gruppo.\n\n<i>Grazie per averci scelto,\nTeam AiMods™</i>",
+      "variants": [
+        {
+          "version": "26.5.2",
+          "architectures": ["arm64"],
+          "minimumOS": "14.0",
+          "downloadURL": "https://devuploads.com/vkgf012fh2g6",
+          "sha256": "49966e0cd4bfcdbd4a4601cf2eacc67e934863e2eacb168f6a57b3e2134c2ddd"
+        },
+        {
+          "version": "26.5.0",
+          "architectures": ["x86_64"],
+          "rosetta": false,
+          "minimumOS": "14.0",
+          "downloadURL": "https://devuploads.com/3lhx71sodvcz",
+          "sha256": "f5ceedd619b6a565978dd78419f098edd54b1998f8dd949ec9f647c7af8f40ab"
+        },
+        {
+          "version": "25.6.4",
+          "architectures": ["arm64", "x86_64"],
+          "minimumOS": "13.0",
+          "downloadURL": "https://devuploads.com/gxzljy55ftg4",
+          "sha256": "36230985e6d10057c6b3ee48018523ec51990680670a17c757574b54c4c566a2"
+        }
+      ]
+    }
+  ]
+}
